@@ -8,7 +8,7 @@
 **Live dashboard:** [https://reset.onlyax.com/](https://reset.onlyax.com/)  
 **RSS feed:** [https://reset.onlyax.com/feed.xml](https://reset.onlyax.com/feed.xml)
 
-Monitor public X posts from [Tibo (@thsottiaux)](https://x.com/thsottiaux), detect reset / reset-bank signals, extract event times, and publish a timezone-aware dashboard plus optional notifications.
+Monitor public X posts from selected OpenAI/Codex accounts, detect usage-limit reset or capacity-increase signals, and publish optional Telegram alerts, a timezone-aware dashboard, and an RSS feed.
 
 Derived from [UynajGI/reset-signal](https://github.com/UynajGI/reset-signal), with the upstream copyright notice and MIT license preserved. Not an official OpenAI, X, or Cloudflare service.
 
@@ -30,6 +30,8 @@ or Cloudflare Cron → workflow_dispatch
 ```
 
 - FxEmbed is the default source and needs no X API token or cookie.
+- The default handles are `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex`; each account has an independent cursor so one failure does not discard progress from the others.
+- FxEmbed is an unofficial public bridge and can fail or change without notice. Keep X's native notifications enabled as a fallback for important announcements.
 - Detection and notification delivery are separate; delivery failure does not hide a detected signal.
 - Event timestamps are stored in UTC and converted only for display.
 - Runtime state lives on the dedicated `monitor-state` branch, not `main`.
@@ -41,9 +43,12 @@ or Cloudflare Cron → workflow_dispatch
 ### GitHub Actions monitor
 
 1. Fork or clone the repository and enable Actions.
-2. Run **Monitor X for reset** once with `workflow_dispatch`.
-3. The built-in ~5 minute GitHub schedule is enabled unless repository variable `MONITOR_ENABLED=false`.
-4. Add notification secrets only for channels you actually use.
+2. Optionally set repository variable `X_USERNAMES` to a comma-separated handle list and `MATCH_PHRASES` to extra literal phrases.
+3. Run **Monitor X for reset** once with `workflow_dispatch`. The first run records current posts but does not send historical alerts.
+4. The built-in ~5 minute GitHub schedule is enabled unless repository variable `MONITOR_ENABLED=false`.
+5. Add notification secrets only for channels you actually use.
+
+For Telegram, create a bot with BotFather, send the bot one message, and obtain the destination chat ID using Telegram's `getUpdates` endpoint or a trusted chat-ID helper. Save both values under **Settings → Secrets and variables → Actions → New repository secret** as `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_IDS`. Never commit them to `.env`, source files, issues, or chat messages.
 
 The monitor writes:
 
@@ -154,7 +159,8 @@ Useful defaults:
 | Variable | Default |
 | --- | --- |
 | `SOURCE_PROVIDER` | `fxembed` |
-| `X_USERNAME` | `thsottiaux` |
+| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex` |
+| `MATCH_PHRASES` | empty |
 | `MATCH_WORD` | `reset` |
 | `TARGET_TIMEZONE` | `Asia/Shanghai` |
 | `POLL_INTERVAL_SECONDS` | `300` |

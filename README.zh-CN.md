@@ -8,7 +8,7 @@
 **在线 Dashboard：** [https://reset.onlyax.com/](https://reset.onlyax.com/)  
 **RSS Feed：** [https://reset.onlyax.com/feed.xml](https://reset.onlyax.com/feed.xml)
 
-监控 [Tibo（@thsottiaux）](https://x.com/thsottiaux) 的公开 X 帖子，识别 reset / reset bank 信号、解析事件时间，并提供可切换时区的 Dashboard 和可选通知。
+监控指定 OpenAI/Codex 相关账号的公开 X 帖子，识别额度重置或容量增加信号，并提供 Telegram 通知、可切换时区的 Dashboard 和 RSS Feed。
 
 项目基于 [UynajGI/reset-signal](https://github.com/UynajGI/reset-signal) 二次开发，保留上游版权声明和 MIT 协议。项目不是 OpenAI、X 或 Cloudflare 的官方服务。
 
@@ -30,6 +30,8 @@ GitHub schedule
 ```
 
 - 默认使用 FxEmbed，不需要 X API Token 或 Cookie。
+- 默认监控 `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex`；每个账号使用独立游标，单个账号失败不会丢失其他账号的进度。
+- FxEmbed 是非官方公共桥接服务，可能临时不可用或改变接口；重要信息建议同时开启 X 原生通知作为兜底。
 - Detection 与 Delivery 解耦；通知失败不会隐藏已经检测到的 signal。
 - 事件时间统一保存为 UTC，展示时再转换时区。
 - 运行时状态保存在独立 `monitor-state` 分支，不污染 `main`。
@@ -41,9 +43,12 @@ GitHub schedule
 ### GitHub Actions 监控
 
 1. Fork/Clone 仓库并启用 Actions。
-2. 手动运行一次 **Monitor X for reset** 验证。
-3. GitHub 内置约 5 分钟 schedule 默认启用；设置仓库变量 `MONITOR_ENABLED=false` 后关闭。
-4. 仅为实际使用的通知渠道配置 Secret。
+2. 可选：设置仓库变量 `X_USERNAMES`（逗号分隔账号）和 `MATCH_PHRASES`（额外的字面匹配短语）。
+3. 手动运行一次 **Monitor X for reset** 验证。首次运行只记录当前帖子，不发送历史提醒。
+4. GitHub 内置约 5 分钟 schedule 默认启用；设置仓库变量 `MONITOR_ENABLED=false` 后关闭。
+5. 仅为实际使用的通知渠道配置 Secret。
+
+Telegram 设置：在 BotFather 创建机器人，先给机器人发送一条消息，再通过 Telegram 的 `getUpdates` 接口或可信的 chat-ID 工具取得目标 chat ID。进入 **Settings → Secrets and variables → Actions → New repository secret**，分别保存为 `TELEGRAM_BOT_TOKEN` 和 `TELEGRAM_CHAT_IDS`。不要把这些值提交到 `.env`、源码、Issue 或聊天消息中。
 
 监控状态写入：
 
@@ -156,7 +161,8 @@ docker compose logs -f monitor
 | 变量 | 默认值 |
 | --- | --- |
 | `SOURCE_PROVIDER` | `fxembed` |
-| `X_USERNAME` | `thsottiaux` |
+| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex` |
+| `MATCH_PHRASES` | 留空 |
 | `MATCH_WORD` | `reset` |
 | `TARGET_TIMEZONE` | `Asia/Shanghai` |
 | `POLL_INTERVAL_SECONDS` | `300` |
