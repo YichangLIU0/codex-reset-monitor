@@ -7,7 +7,7 @@
     "gdb",
     "OpenAI",
     "OpenAIDevs",
-    "Codex"
+    "dkundel"
   ],
   "keyword": "reset",
   "accounts": {
@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2109152716954222849",
-      "lastCheckedAt": "2026-10-11T15:24:32.308Z",
-      "lastSuccessAt": "2026-10-11T15:24:32.308Z",
-      "lastRunStatus": "bootstrapped",
+      "lastCheckedAt": "2026-10-11T15:27:43.655Z",
+      "lastSuccessAt": "2026-10-11T15:27:43.655Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 20,
       "latestObservedPost": {
         "id": "2109152716954222849",
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-11T15:24:32.884Z",
-      "lastSuccessAt": "2026-10-11T15:24:32.884Z",
-      "lastRunStatus": "bootstrapped",
+      "lastCheckedAt": "2026-10-11T15:27:44.028Z",
+      "lastSuccessAt": "2026-10-11T15:27:44.028Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
         "id": "2107924677801001381",
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2107640886482104524",
-      "lastCheckedAt": "2026-10-11T15:24:33.595Z",
-      "lastSuccessAt": "2026-10-11T15:24:33.595Z",
-      "lastRunStatus": "bootstrapped",
+      "lastCheckedAt": "2026-10-11T15:27:44.569Z",
+      "lastSuccessAt": "2026-10-11T15:27:44.569Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 15,
       "latestObservedPost": {
         "id": "2107640886482104524",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-11T15:24:34.968Z",
-      "lastSuccessAt": "2026-10-11T15:24:34.968Z",
-      "lastRunStatus": "bootstrapped",
+      "lastCheckedAt": "2026-10-11T15:27:45.296Z",
+      "lastSuccessAt": "2026-10-11T15:27:45.296Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 16,
       "latestObservedPost": {
         "id": "2107909792945832070",
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2108624150344646752",
-      "lastCheckedAt": "2026-10-11T15:24:35.576Z",
-      "lastSuccessAt": "2026-10-11T15:24:35.576Z",
-      "lastRunStatus": "bootstrapped",
+      "lastCheckedAt": "2026-10-11T15:27:46.367Z",
+      "lastSuccessAt": "2026-10-11T15:27:46.367Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 12,
       "latestObservedPost": {
         "id": "2108624150344646752",
@@ -113,14 +113,30 @@
       "lastRunStatus": "collection-failed",
       "postsScanned": 0,
       "latestObservedPost": null
+    },
+    "dkundel": {
+      "username": "dkundel",
+      "userId": "53388766",
+      "sinceId": "2109003655819276553",
+      "lastCheckedAt": "2026-10-11T15:27:46.915Z",
+      "lastSuccessAt": "2026-10-11T15:27:46.915Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 18,
+      "latestObservedPost": {
+        "id": "2109003655819276553",
+        "canonicalId": "2109003655819276553",
+        "text": "@jxnlco Davinci ftw",
+        "createdAt": "2026-10-10T19:30:29.000Z",
+        "url": "https://x.com/dkundel/status/2109003655819276553",
+        "media": []
+      }
     }
   },
-  "lastRunStatus": "degraded-5-of-6-accounts",
+  "lastRunStatus": "checked-6-accounts",
   "matches": [
     {
       "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
       "id": "2109132167112782291",
-      "canonicalId": "2109132167112782291",
       "text": "Put the reset in the bag. All propagated.",
       "createdAt": "2026-10-11T04:01:09.000Z",
       "url": "https://x.com/thsottiaux/status/2109132167112782291",
@@ -145,7 +161,6 @@
     {
       "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
       "id": "2109090080497508356",
-      "canonicalId": "2109090080497508356",
       "text": "The day we reach perfection it will be resets from there onwards",
       "createdAt": "2026-10-11T01:13:54.000Z",
       "url": "https://x.com/thsottiaux/status/2109090080497508356",
@@ -170,7 +185,6 @@
     {
       "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
       "id": "2109045392684032299",
-      "canonicalId": "2109045392684032299",
       "text": "Global reset by EOD. May the tokens do good things for you.",
       "createdAt": "2026-10-10T22:16:20.000Z",
       "url": "https://x.com/thsottiaux/status/2109045392684032299",
@@ -195,7 +209,6 @@
     {
       "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
       "id": "2109045220411351517",
-      "canonicalId": "2109045220411351517",
       "text": "Day 6/ Reset",
       "createdAt": "2026-10-10T22:15:39.000Z",
       "url": "https://x.com/thsottiaux/status/2109045220411351517",
@@ -301,7 +314,25 @@
     "2108573188703781190": "d209dd58d3b1f3738d0772e3d224b94488d404166edcce90d008ebfa44de8991",
     "2108573201018278284": "7b18227bc71a7b715a9553a447d7efca7423ddb72612df0f98130d50b1f9da85",
     "2108624138369929725": "051a4f599987a574bed379b7c5fe803e797fee555f0d19de3b4ccaf1871eb606",
-    "2108624150344646752": "e13794372fc8540ab7b88e54b22b9621ea7207014f80aae26f4d2d4cf8733dad"
+    "2108624150344646752": "e13794372fc8540ab7b88e54b22b9621ea7207014f80aae26f4d2d4cf8733dad",
+    "2108263737228656814": "5f420436e822f05181adb2ec5f35b74a91f6b2cc97af819012f85133a1f879f0",
+    "2108345670390440225": "30f0918f1250da39635544c19780a5847b6f0782d41da49ad79de960326c2138",
+    "2108369486059594215": "82ade074c4fa630bbf7b2e6f26c247e45a845533a3e87a1abcc10322b0298551",
+    "2108376120848711968": "f1019fccb21284701eb36443c66eae138f2267c5d1888fa0004c75a7cda3c45f",
+    "2108409489380847682": "835580ca2f707c4a590d7c441d0de87465ae7c048616d376332e16aa4e237e6b",
+    "2108612782757429744": "dd2532abb7a2713acfb4cf295755af25c599aba6cb118fe0773b4c80f8a32be4",
+    "2108613673606578558": "d52c0fefbc811dfeb06abe1617aa267b42a07fc27b55c47abce8811962113309",
+    "2108616525758493171": "d608f7a5884bd36ed70ff5274b2ac14171e3fa3102664a1edbd2d8f0f92c7e39",
+    "2108636193185468746": "82aee77dba33bf3a19a83ea674df007a5ace5edcaf3346224fb29b08ef5a327e",
+    "2108638806585061774": "d88bbe69a2f269d5e792e6bdb7a89bdd06b71ccd9ed2ed99a5de0d5e2b2b663e",
+    "2108639205211750846": "0076a4a690e60f569af23ff3b3b69a596a2e190919d4d450f589c6f0bd0f3eca",
+    "2108645976118607989": "ee8cd0523886988a5f178fb0b1966801a9c043b42525d944a1cf33ec02a5b087",
+    "2108652629597507696": "fb9b663dcd6a5d15aadbde42f9f57c6acc936dba5b5ea3ce581910f328b3b0a8",
+    "2108652716675522635": "4da08e481515e56120dd973d0be70484a486808cfe16d65e33f515fe576e0588",
+    "2108652845759430929": "f480f28ccb83911449e85be8c5be3f2838900775b14f6f217beafcbf64bc0d07",
+    "2108663425660506567": "68a056f852e3cc30fabd2e30d03f4d2a4cab5f69e3a409b65fda27e7fd0b7c77",
+    "2108663599044714645": "5f4116ee64445d3d5d02a10cee931da574ef962466236612d039ef22391ede9c",
+    "2109003655819276553": "2dfd859257c8a225aa449fb72098680375d0e3683c4518b971684af58d7dac45"
   },
   "eventParserVersion": 5
 }
