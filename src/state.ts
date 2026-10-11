@@ -1,22 +1,38 @@
 import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
-import type { MatchRecord, MonitorState, XPost } from "./types";
+import type { AccountState, MatchRecord, MonitorState, XPost } from "./types";
 
-export function emptyState(username: string, keyword: string): MonitorState {
+function accountKey(username: string): string {
+  return username.toLowerCase();
+}
+
+export function emptyAccountState(username: string): AccountState {
   return {
-    version: 2,
     username,
-    keyword,
     userId: null,
     sinceId: null,
     lastCheckedAt: null,
     lastSuccessAt: null,
     lastRunStatus: "waiting-for-first-run",
     postsScanned: 0,
+    latestObservedPost: null,
+  };
+}
+
+export function emptyState(usernames: string[] | string, keyword: string): MonitorState {
+  const configured = typeof usernames === "string" ? [usernames] : usernames;
+  return {
+    version: 3,
+    username: configured[0],
+    usernames: [...configured],
+    keyword,
+    accounts: Object.fromEntries(
+      configured.map((username) => [accountKey(username), emptyAccountState(username)]),
+    ),
+    lastRunStatus: "waiting-for-first-run",
     matches: [],
     outbox: [],
     seen: {},
-    latestObservedPost: null,
   };
 }
 
@@ -72,28 +88,31 @@ function migrateObservedPost(value: unknown): XPost | null {
 
 export async function readState(
   path: string,
-  username: string,
+  usernames: string[] | string,
   keyword: string,
 ): Promise<MonitorState> {
+  const configured = typeof usernames === "string" ? [usernames] : usernames;
   try {
     const raw = JSON.parse(await readFile(path, "utf8")) as Record<string, unknown>;
-    if (raw.username !== username || raw.keyword !== keyword)
-      throw new Error(
-        "State belongs to a different account or keyword; use a new STATE_PATH",
-      );
-    if (
-      !Array.isArray(raw.matches) ||
-      !Number.isFinite(raw.postsScanned) ||
-      (raw.sinceId !== null &&
-        raw.sinceId !== undefined &&
-        !/^\d+$/.test(String(raw.sinceId)))
-    )
+    if (raw.keyword !== keyword)
+      throw new Error("State belongs to a different keyword; use a new STATE_PATH");
+    if (!Array.isArray(raw.matches))
       throw new Error("Invalid monitor state; restore a known-good backup");
-    if (raw.version !== undefined && raw.version !== 2)
+    if (raw.version !== undefined && raw.version !== 2 && raw.version !== 3)
       throw new Error("Unsupported state version");
 
-    const state = raw as unknown as MonitorState;
-    state.version = 2;
+    const state = raw.version === 3
+      ? (raw as unknown as MonitorState)
+      : migrateV2State(raw, configured, keyword);
+    state.version = 3;
+    state.username = configured[0];
+    state.usernames = [...configured];
+    state.accounts ??= {};
+    for (const username of configured) {
+      const key = accountKey(username);
+      state.accounts[key] ??= emptyAccountState(username);
+    }
+    for (const account of Object.values(state.accounts)) validateAccount(account);
     state.matches = raw.matches.map((match) =>
       migrateMatch(match as Record<string, unknown>),
     );
@@ -104,20 +123,61 @@ export async function readState(
       raw.seen && typeof raw.seen === "object"
         ? (raw.seen as Record<string, string>)
         : {};
-    state.latestObservedPost = migrateObservedPost(raw.latestObservedPost);
-    state.lastSuccessAt =
-      typeof raw.lastSuccessAt === "string"
-        ? raw.lastSuccessAt
-        : typeof raw.lastCheckedAt === "string"
-          ? raw.lastCheckedAt
-          : null;
     return state;
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code === "ENOENT") {
-      return emptyState(username, keyword);
+      return emptyState(configured, keyword);
     }
     throw error;
   }
+}
+
+function validateAccount(account: AccountState): void {
+  if (
+    !account ||
+    typeof account.username !== "string" ||
+    !Number.isFinite(account.postsScanned) ||
+    (account.sinceId !== null && !/^\d+$/.test(String(account.sinceId)))
+  )
+    throw new Error("Invalid monitor state; restore a known-good backup");
+  account.latestObservedPost = migrateObservedPost(account.latestObservedPost);
+  account.lastSuccessAt =
+    typeof account.lastSuccessAt === "string"
+      ? account.lastSuccessAt
+      : typeof account.lastCheckedAt === "string"
+        ? account.lastCheckedAt
+        : null;
+}
+
+function migrateV2State(
+  raw: Record<string, unknown>,
+  configured: string[],
+  keyword: string,
+): MonitorState {
+  const legacyUsername = String(raw.username ?? configured[0]);
+  const state = emptyState(
+    configured.some((username) => accountKey(username) === accountKey(legacyUsername))
+      ? configured
+      : [legacyUsername, ...configured],
+    keyword,
+  );
+  const legacyAccount = state.accounts[accountKey(legacyUsername)];
+  legacyAccount.userId = typeof raw.userId === "string" ? raw.userId : null;
+  legacyAccount.sinceId = raw.sinceId == null ? null : String(raw.sinceId);
+  legacyAccount.lastCheckedAt =
+    typeof raw.lastCheckedAt === "string" ? raw.lastCheckedAt : null;
+  legacyAccount.lastSuccessAt =
+    typeof raw.lastSuccessAt === "string"
+      ? raw.lastSuccessAt
+      : legacyAccount.lastCheckedAt;
+  legacyAccount.lastRunStatus =
+    typeof raw.lastRunStatus === "string"
+      ? raw.lastRunStatus
+      : "waiting-for-first-run";
+  legacyAccount.postsScanned = Number(raw.postsScanned ?? 0);
+  legacyAccount.latestObservedPost = migrateObservedPost(raw.latestObservedPost);
+  state.lastRunStatus = legacyAccount.lastRunStatus;
+  return state;
 }
 
 export async function writeState(

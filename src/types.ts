@@ -38,20 +38,27 @@ export type PendingNotification = {
   delivered: string[];
 };
 
-export type MonitorState = {
-  version?: 2;
-  eventParserVersion?: number;
-  outbox?: PendingNotification[];
-  seen?: Record<string, string>;
-  latestObservedPost?: XPost | null;
+export type AccountState = {
   username: string;
-  keyword: string;
   userId: string | null;
   sinceId: string | null;
   lastCheckedAt: string | null;
-  lastSuccessAt?: string | null;
+  lastSuccessAt: string | null;
   lastRunStatus: string;
   postsScanned: number;
+  latestObservedPost: XPost | null;
+};
+
+export type MonitorState = {
+  version?: 3;
+  eventParserVersion?: number;
+  outbox?: PendingNotification[];
+  seen?: Record<string, string>;
+  username: string;
+  usernames: string[];
+  keyword: string;
+  accounts: Record<string, AccountState>;
+  lastRunStatus: string;
   matches: MatchRecord[];
 };
 
