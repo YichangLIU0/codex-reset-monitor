@@ -20,7 +20,7 @@ jobs:
     env:
       SOURCE_PROVIDER: ${{ vars.SOURCE_PROVIDER || 'fxembed' }}
       X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-      X_USERNAMES: ${{ vars.X_USERNAMES || 'thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex' }}
+      X_USERNAMES: ${{ vars.X_USERNAMES || 'thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel' }}
       MATCH_WORD: ${{ vars.MATCH_WORD || 'reset' }}
       MATCH_PHRASES: ${{ vars.MATCH_PHRASES }}
       X_EXCLUDE_REPLIES: ${{ vars.X_EXCLUDE_REPLIES || 'false' }}

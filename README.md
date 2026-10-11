@@ -30,7 +30,7 @@ or Cloudflare Cron → workflow_dispatch
 ```
 
 - FxEmbed is the default source and needs no X API token or cookie.
-- The default handles are `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex`; each account has an independent cursor so one failure does not discard progress from the others.
+- The default handles are `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel`; each account has an independent cursor so one failure does not discard progress from the others.
 - FxEmbed is an unofficial public bridge and can fail or change without notice. Keep X's native notifications enabled as a fallback for important announcements.
 - Detection and notification delivery are separate; delivery failure does not hide a detected signal.
 - Event timestamps are stored in UTC and converted only for display.
@@ -159,7 +159,7 @@ Useful defaults:
 | Variable | Default |
 | --- | --- |
 | `SOURCE_PROVIDER` | `fxembed` |
-| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex` |
+| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel` |
 | `MATCH_PHRASES` | empty |
 | `MATCH_WORD` | `reset` |
 | `TARGET_TIMEZONE` | `Asia/Shanghai` |

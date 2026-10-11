@@ -21,7 +21,7 @@ describe("monitored account configuration", () => {
       "gdb",
       "OpenAI",
       "OpenAIDevs",
-      "Codex",
+      "dkundel",
     ]);
   });
 

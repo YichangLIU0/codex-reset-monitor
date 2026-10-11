@@ -14,7 +14,7 @@ const DEFAULT_USERNAMES = [
   "gdb",
   "OpenAI",
   "OpenAIDevs",
-  "Codex",
+  "dkundel",
 ];
 
 function normalizeUsernames(values: string[]): string[] {

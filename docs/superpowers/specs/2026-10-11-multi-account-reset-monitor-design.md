@@ -13,7 +13,7 @@ The first deployment monitors these handles by default:
 - `gdb`
 - `OpenAI`
 - `OpenAIDevs`
-- `Codex`
+- `dkundel`
 
 The account list remains configurable through `X_USERNAMES`. Existing single-account `X_USERNAME` configuration remains supported for compatibility.
 

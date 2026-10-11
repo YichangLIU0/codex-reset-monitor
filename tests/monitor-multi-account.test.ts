@@ -72,14 +72,13 @@ describe("multi-account monitoring", () => {
     };
     const send = vi.fn().mockResolvedValue(undefined);
 
-    await expect(
-      runMonitor(config, {
-        source,
-        targets: [{ id: "telegram:test", channel: "telegram", send }],
-      }),
-    ).rejects.toThrow("@gdb collection failed");
+    const state = await runMonitor(config, {
+      source,
+      targets: [{ id: "telegram:test", channel: "telegram", send }],
+    });
 
     const saved = JSON.parse(await readFile(config.statePath, "utf8"));
+    expect(state.lastRunStatus).toBe("degraded-1-of-2-accounts");
     expect(saved.accounts.sama.sinceId).toBe("20");
     expect(saved.accounts.gdb.sinceId).toBe("1");
     expect(JSON.stringify(saved)).not.toContain("must-not-leak");

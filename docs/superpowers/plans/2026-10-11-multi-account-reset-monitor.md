@@ -12,7 +12,7 @@
 
 ## Global Constraints
 
-- Default accounts are `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex`.
+- Default accounts are `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel`.
 - FxEmbed remains the default source; there is no automatic paid fallback and no X cookie support.
 - Telegram secrets must only come from `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_IDS`.
 - Existing `X_USERNAME` and `MATCH_WORD=reset` behavior remains compatible.

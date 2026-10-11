@@ -159,7 +159,8 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
   const parserChanged = state.eventParserVersion !== EVENT_PARSER_VERSION;
   reprojectSavedMatches(state, config);
   if (parserChanged && state.matches.length) await persist(config, state, now);
-  const errors: string[] = [];
+  const collectionErrors: string[] = [];
+  const deliveryErrors: string[] = [];
   let successfulAccounts = 0;
 
   for (const username of config.usernames) {
@@ -177,7 +178,7 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
       });
     } catch {
       account.lastRunStatus = "collection-failed";
-      errors.push(`@${username} collection failed; cursor not advanced`);
+      collectionErrors.push(`@${username} collection failed; cursor not advanced`);
       continue;
     }
 
@@ -236,7 +237,7 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
       if (item.delivered.includes(targetId)) continue;
       const target = targets.find((candidate) => candidate.id === targetId);
       if (!target) {
-        errors.push(
+        deliveryErrors.push(
           "Pending target is no longer configured; restore its configuration or explicitly remove its pending delivery",
         );
         continue;
@@ -244,7 +245,7 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
       try {
         await target.send(item);
       } catch {
-        errors.push(`${target.channel} delivery failed; will retry on next run`);
+        deliveryErrors.push(`${target.channel} delivery failed; will retry on next run`);
         continue;
       }
       item.delivered.push(targetId);
@@ -264,10 +265,15 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
   }
 
   state.seen = Object.fromEntries(Object.entries(state.seen).slice(-2000));
-  state.lastRunStatus = errors.length
+  const errorCount = collectionErrors.length + deliveryErrors.length;
+  state.lastRunStatus = errorCount
     ? `degraded-${successfulAccounts}-of-${config.usernames.length}-accounts`
     : `checked-${successfulAccounts}-accounts`;
   await persist(config, state, now);
-  if (errors.length) throw new Error([...new Set(errors)].join("; "));
+  const fatalErrors = [
+    ...deliveryErrors,
+    ...(successfulAccounts === 0 ? collectionErrors : []),
+  ];
+  if (fatalErrors.length) throw new Error([...new Set(fatalErrors)].join("; "));
   return state;
 }

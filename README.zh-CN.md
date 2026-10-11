@@ -30,7 +30,7 @@ GitHub schedule
 ```
 
 - 默认使用 FxEmbed，不需要 X API Token 或 Cookie。
-- 默认监控 `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex`；每个账号使用独立游标，单个账号失败不会丢失其他账号的进度。
+- 默认监控 `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel`；每个账号使用独立游标，单个账号失败不会丢失其他账号的进度。
 - FxEmbed 是非官方公共桥接服务，可能临时不可用或改变接口；重要信息建议同时开启 X 原生通知作为兜底。
 - Detection 与 Delivery 解耦；通知失败不会隐藏已经检测到的 signal。
 - 事件时间统一保存为 UTC，展示时再转换时区。
@@ -161,7 +161,7 @@ docker compose logs -f monitor
 | 变量 | 默认值 |
 | --- | --- |
 | `SOURCE_PROVIDER` | `fxembed` |
-| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,Codex` |
+| `X_USERNAMES` | `thsottiaux,sama,gdb,OpenAI,OpenAIDevs,dkundel` |
 | `MATCH_PHRASES` | 留空 |
 | `MATCH_WORD` | `reset` |
 | `TARGET_TIMEZONE` | `Asia/Shanghai` |

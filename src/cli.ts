@@ -43,6 +43,8 @@ if (errors.length) {
       console.log(
         `Checked ${state.usernames.map((username) => `@${username}`).join(", ")} via ${config.sourceProvider}; ${state.lastRunStatus}; ${state.outbox?.length ?? 0} pending.`,
       );
+      if (state.lastRunStatus.startsWith("degraded-"))
+        console.warn("One or more accounts could not be checked; successful account progress was preserved.");
     } catch (error) {
       // Adapters redact provider responses and URL/token-bearing transport errors.
       console.error(error instanceof Error ? error.message : "Monitor failed");
