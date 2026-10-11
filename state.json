@@ -1,0 +1,307 @@
+{
+  "version": 3,
+  "username": "thsottiaux",
+  "usernames": [
+    "thsottiaux",
+    "sama",
+    "gdb",
+    "OpenAI",
+    "OpenAIDevs",
+    "Codex"
+  ],
+  "keyword": "reset",
+  "accounts": {
+    "thsottiaux": {
+      "username": "thsottiaux",
+      "userId": "1953337039510003712",
+      "sinceId": "2109152716954222849",
+      "lastCheckedAt": "2026-10-11T15:24:32.308Z",
+      "lastSuccessAt": "2026-10-11T15:24:32.308Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 20,
+      "latestObservedPost": {
+        "id": "2109152716954222849",
+        "canonicalId": "2109152716954222849",
+        "text": "Pro users, would you rather have",
+        "createdAt": "2026-10-11T05:22:48.000Z",
+        "url": "https://x.com/thsottiaux/status/2109152716954222849",
+        "media": []
+      }
+    },
+    "sama": {
+      "username": "sama",
+      "userId": "1605",
+      "sinceId": "2107924677801001381",
+      "lastCheckedAt": "2026-10-11T15:24:32.884Z",
+      "lastSuccessAt": "2026-10-11T15:24:32.884Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 19,
+      "latestObservedPost": {
+        "id": "2107924677801001381",
+        "canonicalId": "2107924677801001381",
+        "text": "Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+        "createdAt": "2026-10-07T20:03:01.000Z",
+        "url": "https://x.com/sama/status/2107924677801001381",
+        "media": []
+      }
+    },
+    "gdb": {
+      "username": "gdb",
+      "userId": "162124540",
+      "sinceId": "2107640886482104524",
+      "lastCheckedAt": "2026-10-11T15:24:33.595Z",
+      "lastSuccessAt": "2026-10-11T15:24:33.595Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 15,
+      "latestObservedPost": {
+        "id": "2107640886482104524",
+        "canonicalId": "2107640886482104524",
+        "text": "towards acceleration of scientific discovery and improving quality of life for everyone",
+        "createdAt": "2026-10-07T01:15:20.000Z",
+        "url": "https://x.com/gdb/status/2107640886482104524",
+        "media": []
+      }
+    },
+    "openai": {
+      "username": "OpenAI",
+      "userId": "4398626122",
+      "sinceId": "2107909792945832070",
+      "lastCheckedAt": "2026-10-11T15:24:34.968Z",
+      "lastSuccessAt": "2026-10-11T15:24:34.968Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 16,
+      "latestObservedPost": {
+        "id": "2107909792945832070",
+        "canonicalId": "2107909792945832070",
+        "text": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices.\n\nChatGPT for Teens applies automatically to accounts identified as belonging to someone under 18, with protections on by default.\n\nComing soon: College Planner brings application requirements, deadlines, tasks and financial-aid steps together for high school students in the U.S. planning to attend a four-year college.\n\nWe'll keep building these tools, evaluating how they and their protections work in practice, and sharing what we learn.\n\nhttps://t.co/wtiMeor5yh",
+        "createdAt": "2026-10-07T19:03:52.000Z",
+        "url": "https://x.com/OpenAI/status/2107909792945832070",
+        "media": [
+          {
+            "mediaKey": "2107909698884337664",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUDMs_SaAAApuGm.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
+      }
+    },
+    "openaidevs": {
+      "username": "OpenAIDevs",
+      "userId": "1633874951508721686",
+      "sinceId": "2108624150344646752",
+      "lastCheckedAt": "2026-10-11T15:24:35.576Z",
+      "lastSuccessAt": "2026-10-11T15:24:35.576Z",
+      "lastRunStatus": "bootstrapped",
+      "postsScanned": 12,
+      "latestObservedPost": {
+        "id": "2108624150344646752",
+        "canonicalId": "2108624150344646752",
+        "text": "Available in beta for Pro users in the Codex desktop app, for local tasks.\n\nHit “Tab” to accept a suggestion, edit it if needed, then send.\n\nYou can turn composer predictions off in Settings.\n\nhttps://t.co/Go9GsTLCI3",
+        "createdAt": "2026-10-09T18:22:28.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2108624150344646752",
+        "media": []
+      }
+    },
+    "codex": {
+      "username": "Codex",
+      "userId": null,
+      "sinceId": null,
+      "lastCheckedAt": null,
+      "lastSuccessAt": null,
+      "lastRunStatus": "collection-failed",
+      "postsScanned": 0,
+      "latestObservedPost": null
+    }
+  },
+  "lastRunStatus": "degraded-5-of-6-accounts",
+  "matches": [
+    {
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "canonicalId": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "createdAt": "2026-10-11T04:01:09.000Z",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "media": [],
+      "detectedAt": "2026-10-11T15:24:32.308Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": []
+    },
+    {
+      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+      "id": "2109090080497508356",
+      "canonicalId": "2109090080497508356",
+      "text": "The day we reach perfection it will be resets from there onwards",
+      "createdAt": "2026-10-11T01:13:54.000Z",
+      "url": "https://x.com/thsottiaux/status/2109090080497508356",
+      "media": [],
+      "detectedAt": "2026-10-11T15:24:32.305Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "scheduled",
+          "evidence": "The day we reach perfection it will be resets from there onwards",
+          "time": {
+            "kind": "date",
+            "start": "2026-10-11T07:13:54.000Z",
+            "end": "2026-10-12T07:13:54.000Z",
+            "evidence": "The day",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "channels": []
+    },
+    {
+      "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
+      "id": "2109045392684032299",
+      "canonicalId": "2109045392684032299",
+      "text": "Global reset by EOD. May the tokens do good things for you.",
+      "createdAt": "2026-10-10T22:16:20.000Z",
+      "url": "https://x.com/thsottiaux/status/2109045392684032299",
+      "media": [],
+      "detectedAt": "2026-10-11T15:24:32.141Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Global reset by EOD",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Global reset by EOD",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": []
+    },
+    {
+      "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
+      "id": "2109045220411351517",
+      "canonicalId": "2109045220411351517",
+      "text": "Day 6/ Reset",
+      "createdAt": "2026-10-10T22:15:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2109045220411351517",
+      "media": [],
+      "detectedAt": "2026-10-11T15:24:32.114Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 6/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 6/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": []
+    }
+  ],
+  "outbox": [],
+  "seen": {
+    "2108773703064657936": "2e470e9346f00429e9762876400e97682cf09d2f78afb705c991be174fab4eaa",
+    "2108773866281795814": "5a930d34bcb9334de0a6cbd390696c5c891c1008ce1487b2af92da5f2ecce03b",
+    "2108777962053292398": "45c1b6641c012f5ab3239848307cf63054c3e7d4522ee523505be550bff74fd4",
+    "2108778939057664357": "34dfaa945d977b79f85e644d03ead935c0aa4978b010f343e4b68522918425f1",
+    "2108780620583403652": "1101e00ab631025e861aeb94632ba45eeee7646e8eb5df14da55316d5a7218a8",
+    "2108840070648397933": "cff8b6c32e3ba78930fa3b3ffbe4799cb558425af81558c3c3cc035d8e1a132b",
+    "2108852361536098422": "389e519b66b5085c6b65e6c613cdb139c2458d58dedd72b7fde2e46e555e55c1",
+    "2109021594576470290": "b0381c45a76ebc20ba59345a81216578cdd6c78be1cbebd43a6fecd20a573abe",
+    "2109045220411351517": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
+    "2109045392684032299": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
+    "2109072811113488768": "1dec58670a99465acf4ea097f084bdd6a7bb92a7286880ed02479d204288effa",
+    "2109084804625158541": "239a2b915fc5e863ccdb867745917df0408c0ddebfaa4c58b15a8cf6c2345d00",
+    "2109089556675137886": "7e361f8097104f2aacb13bd10ea4866888e75449251ade54b1dc52fd81f1a259",
+    "2109090080497508356": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+    "2109091159784198475": "56a5ca07c41b4daf9c3fd972825e759c8406d06c303f0e2902f15a2d8606c807",
+    "2109092087501332816": "171ab31828d5d640f9dc577fe4a2dbb900ee9e4b063def590388760fb3bf6142",
+    "2109132167112782291": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+    "2109135750054957556": "c8e19a51bcc59384a8be4cd3c6b0df5d73dcff1e8e958858c7af72c5ec18a82f",
+    "2109142061014466866": "abebd6a6cb3724884777977d674b7d81bd1ac4f0c8904765b0aaf3223e3eaca2",
+    "2109152716954222849": "f3bf29034a4eef82246ab778d2783c196c697f83c5e8c10f6c44561a99c0e232",
+    "2104661956879913457": "27fb86c87578c3b8f42b9f9d6976a997d0307bfc67bf63bd178501bd7813e763",
+    "2104950376466362578": "06596fdd0a9fd6d786e7acc44193df2be189bd09303fa5339543277bb0fd9a80",
+    "2104994395980533804": "7c299e4a0486be0fc2f13bc4541368703a712f8241ff3bf543e68c39b0784844",
+    "2104994601140711896": "1f403f0d6b8a494a0c470fd631391a528448fe7ac3ec6f25e1a8d721af56a5e1",
+    "2104995014208258235": "37b29332af3e445d7ba13af22078d12a1c53a5529287e3935c7f5c6d93c70714",
+    "2105687689991483654": "11c51d240bce9eb6b0a2c77de23ea683aca4a7faac86571409a486e78e8087d2",
+    "2105687922234237364": "e7b8e3fc957aaf8e77ee2dc34b8f5da61fcc266c2989b8de1d262e42bb61719d",
+    "2105688354834756036": "c39a584494fbe212362e837d9d6a690c14bd4de7ce96b25f5cfdefbacb453859",
+    "2105739098640298253": "42ca1d3b391a4d96771f8ce7717583d6d7b4d08f611f3a390d691d089fb3843f",
+    "2106085986606403684": "a19d400b0c2828ce534ddf096142df40b89f14b316559c590c6bfd6da024cdc3",
+    "2106147184693620924": "46e978ba4f36a4b56e2fec0f4d4331516d53d364f096946e542748d10f041727",
+    "2106189841813934140": "8b08bb15e0cde43e42621c000cbd489201190f5678f89b4f87e714490c8b7d05",
+    "2106388373221118198": "9a2f4b89f74614fcab985f52744367afbeb27ad0d77487d5de4562e270c42cc5",
+    "2107623610483720463": "28457f985754b0ce04eb87d20a5cea1676973b09db39d53e98c499c72bc515a3",
+    "2107691261776052633": "aef0175748985dae5033a5915eb7eb96dcfa0dd1c508042199926a0ccf19f6f6",
+    "2107691262795239805": "ad57a4cf3c02f5dd6f8d2da77d744c1253b88befc62be8f3afef2700e2930c69",
+    "2107691577015755196": "c2f77d683252d08c0b9a1cec5d36024c3659d36170ff72b2867638478e8967d5",
+    "2107924408597950702": "17410bf7011b633062df6e57f15b0347934b0f5367459c73eed98ef694f6d12f",
+    "2107924677801001381": "8d134193264abca792a1f8a9c97935a64ee73507879bede147ae8309850bc7cc",
+    "2098167375342239957": "d4925cffbc14974d7cc48d46b13d253386364c23639a55d321a37317968d4039",
+    "2098236010760970299": "010ab0b03d4552854098c2d1404abf183f0901270e804af9442eaf0b05241969",
+    "2098577683516940707": "78081ec1fdf9b22d772b1600b90e1caaa3bb81fbdcf07405d34c1693a74df763",
+    "2099602912645452021": "f2c3be408ec681d764cb568c4d7c7959f84f762c51a2387da71fd92932e5bc95",
+    "2099919674544898298": "5216a92dd885b3aff6399b6e27d580d9f9c77a07074bf92005fda0c77fe911ca",
+    "2099928683226218570": "4dec1a5f114980023a5257d43c51df21c96d704e23d8096e7bd339aeb5379be3",
+    "2100272869704097819": "c19f661f06d0f1590a6c1246096e7849a15c986ea98c06f17b5f531acbfe8215",
+    "2100358372268921279": "89760c3fe140ca7fdef31f92ff9413cd20796e3496b93413f0a3d7e6d0ecddd9",
+    "2100369354319884703": "ad6a8c828cc578423ddc98ad3e5f5afec6c7b40c539b0843b3550c3935c69242",
+    "2100699190448042165": "58d039c286a8c8995a8f5211d08341d2088d431a46a6a507d1f49a471c496979",
+    "2101036303597044101": "5ab65f0262c97a986094e06ad6107116e1a9c30b63b0a94801419c8a5d9158a0",
+    "2102470107826159755": "c1e0a02cd02c8220263404dd22850ae705f68348d57058dd40a55c02f01e9c6b",
+    "2102821706041819401": "6251d7e002452ba4a9eeb2b0c9f08874657cedd331878085f698845d8e2e9a00",
+    "2104821232441160070": "7f18e650599f8c9155ff72ad7b1ba715c13622c7f75a9525242efcda0012c0cb",
+    "2107640886482104524": "1841d30beedbb8bfbd7abf460eac0642533615007f038e0090f41eabad503ada",
+    "2104993966043320759": "73c62b13aca6869ec5995c1564b17c17690108029aefc89e974a866767f13362",
+    "2104993967985381673": "f3d4a00e5ef71c2a7753bc70603af02b2651ace75af16357755dd7539c69f3a9",
+    "2104993969486930015": "1be62f0fbd0dd399b42dec39518d067f66e7c748402e94c3b0ea4ac3f011b80c",
+    "2105373267171438779": "f2aaac2fa0a723862057451324252845e378642e4da49abc599e6825f63cf735",
+    "2107164650249101695": "55121a800c3dc3fe2f90c505385d04a9f3cbb61d6e9926785d145a8e2398b977",
+    "2107164651478012412": "3f21da7c830f309038803d4dfe78b18158f26f678060bdffc3ce0698d4009a46",
+    "2107164653147340988": "261c372029fe15a79234f5769f0e14c1205760803ede84ed4f2e0586526a7fcd",
+    "2107596713791767021": "513f45eda882229ad8068048e8393efcf48a0e4fc61b40b078c8d4aa94e12fb8",
+    "2107596716367388924": "6a83902676f7dbf88a233fb03c4d36831fc713f7e7f4b0b6df689a3799115c54",
+    "2107894999119774148": "219e39b70e26554ad49dc887e2dc87dbbf4dfe7b851285e7c8856fe2ef1075e6",
+    "2107895000642294250": "932d5d56cee8b5c0a7bb7bb60278d2032af245e9cd0c6c12ddb8ca649d7b13bd",
+    "2107895002022187411": "e1de2995ce1dbb1ba80c18dc3c10efdf8f94a8dd058a0c8751d5b820b181eaf2",
+    "2107895003490169213": "de837345842d93a19f5d6cccae17eb0ca17bfa7862addce7cdbe94c664a42d12",
+    "2107895004819775938": "04444f74ea3ec6a435a7ce4aa84cae38649a27d5714a250f978aeb2b3fc02fb2",
+    "2107895006350791071": "b2dd46950b3e52197d4323047db5a329458919a4924d1c39ef4b98145c0e0b41",
+    "2107909792945832070": "a792b826b1c1eb9d9ea7dad7633528aa5c11c9303ae141a6b4db0e743a2b291f",
+    "2108236128348487689": "010f4f4265214fd17f3a88f20e32498adeb3b4d9a2f6a7b153a9d10c21b2a9a6",
+    "2108250195326558407": "8546d6894cd63bfd0cc5527149b987c73e169f97eb3966858c006a717ade8032",
+    "2108262812489531498": "32642dfa8874e12c02695dcd6dcc010e0d9508ef3497ec80826b6481e791d10b",
+    "2108262830348886150": "464e886fb3f4cbf13cb156e2be0340e3536d5856fc4c857f0a12a4e16414ec70",
+    "2108262843544211494": "5d29fd2fecd33f4fd9716d2dedcd33d3c6d5d91a1fede1dc256ac92f3d41774a",
+    "2108388035767521718": "38b069547be4a55383a5ebe75faf0732fbc94b0be0d6a62ac9f43866ef92bac0",
+    "2108453777661653435": "2fd504bd9c7ca1dd05f7c8ce02ee21e0b6fac665ada22264f2116260481e6de2",
+    "2108454469004562890": "ba1455d3d19312bf938b61218b66ec6e53e3788507742a6b87113ded4ad0ba75",
+    "2108573188703781190": "d209dd58d3b1f3738d0772e3d224b94488d404166edcce90d008ebfa44de8991",
+    "2108573201018278284": "7b18227bc71a7b715a9553a447d7efca7423ddb72612df0f98130d50b1f9da85",
+    "2108624138369929725": "051a4f599987a574bed379b7c5fe803e797fee555f0d19de3b4ccaf1871eb606",
+    "2108624150344646752": "e13794372fc8540ab7b88e54b22b9621ea7207014f80aae26f4d2d4cf8733dad"
+  },
+  "eventParserVersion": 5
+}

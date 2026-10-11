@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-11T15:24:35.664Z",
+  "username": "thsottiaux",
+  "keyword": "reset",
+  "monitor": {
+    "provider": "fxembed",
+    "lastCheckedAt": "2026-10-11T15:24:35.576Z",
+    "lastSuccessAt": "2026-10-11T15:24:35.576Z",
+    "lastRunStatus": "degraded-5-of-6-accounts"
+  },
+  "latestObservedPost": {
+    "id": "2109152716954222849",
+    "text": "Pro users, would you rather have",
+    "url": "https://x.com/thsottiaux/status/2109152716954222849",
+    "postCreatedAt": "2026-10-11T05:22:48.000Z"
+  },
+  "latest": {
+    "reset": {
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "postCreatedAt": "2026-10-11T04:01:09.000Z",
+      "detectedAt": "2026-10-11T15:24:32.308Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    "bankCredit": {
+      "version": "history:2096035437299237298",
+      "id": "2096035437299237298",
+      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "postCreatedAt": "2026-09-05T00:39:25.364Z",
+      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Lands end of day",
+            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "historical_seed"
+    },
+    "bankExpiry": null
+  },
+  "recent": [
+    {
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "postCreatedAt": "2026-10-11T04:01:09.000Z",
+      "detectedAt": "2026-10-11T15:24:32.308Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+      "id": "2109090080497508356",
+      "text": "The day we reach perfection it will be resets from there onwards",
+      "url": "https://x.com/thsottiaux/status/2109090080497508356",
+      "postCreatedAt": "2026-10-11T01:13:54.000Z",
+      "detectedAt": "2026-10-11T15:24:32.305Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "scheduled",
+          "evidence": "The day we reach perfection it will be resets from there onwards",
+          "time": {
+            "kind": "date",
+            "start": "2026-10-11T07:13:54.000Z",
+            "end": "2026-10-12T07:13:54.000Z",
+            "evidence": "The day",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
+      "id": "2109045392684032299",
+      "text": "Global reset by EOD. May the tokens do good things for you.",
+      "url": "https://x.com/thsottiaux/status/2109045392684032299",
+      "postCreatedAt": "2026-10-10T22:16:20.000Z",
+      "detectedAt": "2026-10-11T15:24:32.141Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Global reset by EOD",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Global reset by EOD",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
+      "id": "2109045220411351517",
+      "text": "Day 6/ Reset",
+      "url": "https://x.com/thsottiaux/status/2109045220411351517",
+      "postCreatedAt": "2026-10-10T22:15:39.000Z",
+      "detectedAt": "2026-10-11T15:24:32.114Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 6/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 6/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "history:2096035437299237298",
+      "id": "2096035437299237298",
+      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "postCreatedAt": "2026-09-05T00:39:25.364Z",
+      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Lands end of day",
+            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "historical_seed"
+    }
+  ]
+}
