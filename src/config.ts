@@ -8,6 +8,27 @@ function splitList(value: string | undefined): string[] {
     .filter(Boolean);
 }
 
+const DEFAULT_USERNAMES = [
+  "thsottiaux",
+  "sama",
+  "gdb",
+  "OpenAI",
+  "OpenAIDevs",
+  "Codex",
+];
+
+function normalizeUsernames(values: string[]): string[] {
+  const seen = new Set<string>();
+  return values
+    .map((value) => value.replace(/^@/, ""))
+    .filter((value) => {
+      const key = value.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+}
+
 function toBoolean(value: string | undefined, fallback = false): boolean {
   if (value === undefined) return fallback;
   return ["1", "true", "yes", "on"].includes(value.toLowerCase());
@@ -17,7 +38,14 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
   const sourceProvider = env.SOURCE_PROVIDER?.trim().toLowerCase() || "fxembed";
   if (sourceProvider !== "fxembed" && sourceProvider !== "x")
     throw new Error("SOURCE_PROVIDER must be fxembed or x.");
-  const username = env.X_USERNAME?.trim().replace(/^@/, "") || "thsottiaux";
+  const usernames = env.X_USERNAMES !== undefined
+    ? normalizeUsernames(splitList(env.X_USERNAMES))
+    : env.X_USERNAME?.trim()
+      ? normalizeUsernames([env.X_USERNAME.trim()])
+      : DEFAULT_USERNAMES;
+  if (!usernames.length)
+    throw new Error("X_USERNAMES must contain at least one X handle.");
+  const username = usernames[0];
   const sourceTimezone =
     env.SOURCE_TIMEZONE?.trim() ||
     (username.toLowerCase() === "thsottiaux" ? "America/Los_Angeles" : undefined);
@@ -35,7 +63,9 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
     includeMentions: toBoolean(env.INCLUDE_MENTIONS, true),
     xBearerToken: env.X_BEARER_TOKEN?.trim() ?? "",
     username,
+    usernames,
     keyword: env.MATCH_WORD?.trim() || "reset",
+    matchPhrases: splitList(env.MATCH_PHRASES),
     excludeReplies: toBoolean(env.X_EXCLUDE_REPLIES),
     bootstrapNotify: toBoolean(env.BOOTSTRAP_NOTIFY),
     statePath: env.STATE_PATH?.trim() || "data/state.json",
@@ -58,8 +88,10 @@ export function validateConfig(
 
   if (!options.offline && config.sourceProvider === "x" && !config.xBearerToken)
     errors.push("X_BEARER_TOKEN is required when SOURCE_PROVIDER=x.");
-  if (!/^[A-Za-z0-9_]{1,15}$/.test(config.username)) {
-    errors.push("X_USERNAME must be a valid X handle.");
+  for (const username of config.usernames) {
+    if (!/^[A-Za-z0-9_]{1,15}$/.test(username)) {
+      errors.push(`X_USERNAMES contains an invalid X handle: ${username}.`);
+    }
   }
 
   const emailPartiallyConfigured =

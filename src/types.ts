@@ -108,7 +108,9 @@ export type AppConfig = {
   includeMentions: boolean;
   xBearerToken: string;
   username: string;
+  usernames: string[];
   keyword: string;
+  matchPhrases: string[];
   excludeReplies: boolean;
   bootstrapNotify: boolean;
   statePath: string;
