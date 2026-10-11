@@ -17,12 +17,15 @@ const post = {
 async function setup(seed = true) {
   const dir = await mkdtemp(join(tmpdir(), "reset-signal-"));
   directories.push(dir);
-  const config = loadConfig({ STATE_PATH: join(dir, "state.json") });
-  if (seed)
-    await writeState(config.statePath, {
-      ...emptyState("thsottiaux", "reset"),
-      sinceId: "1",
-    });
+  const config = loadConfig({
+    X_USERNAMES: "thsottiaux",
+    STATE_PATH: join(dir, "state.json"),
+  });
+  if (seed) {
+    const state = emptyState("thsottiaux", "reset");
+    state.accounts.thsottiaux.sinceId = "1";
+    await writeState(config.statePath, state);
+  }
   const client = {
     resolveUserId: vi.fn().mockResolvedValue("42"),
     getPosts: vi.fn().mockResolvedValue({ posts: [post], newestId: "2" }),
@@ -43,8 +46,8 @@ describe("durable monitor delivery", () => {
       targets: [{ id: "a", channel: "fake", send }],
     });
     expect(send).not.toHaveBeenCalled();
-    expect(state.sinceId).toBe("2");
-    expect(state.version).toBe(2);
+    expect(state.accounts.thsottiaux.sinceId).toBe("2");
+    expect(state.version).toBe(3);
   });
   it("checkpoints success per recipient and retries only failures after restart", async () => {
     const { config, client } = await setup();
@@ -61,7 +64,7 @@ describe("durable monitor delivery", () => {
       runMonitor(config, { xClient: client, targets }),
     ).rejects.toThrow("will retry");
     const saved = JSON.parse(await readFile(config.statePath, "utf8"));
-    expect(saved.sinceId).toBe("2");
+    expect(saved.accounts.thsottiaux.sinceId).toBe("2");
     expect(saved.outbox[0].delivered).toEqual(["a"]);
     client.getPosts.mockResolvedValue({ posts: [], newestId: null });
     const state = await runMonitor(config, { xClient: client, targets });
@@ -82,7 +85,7 @@ describe("durable monitor delivery", () => {
     await expect(runMonitor(config, deps)).rejects.toThrow();
     client.getPosts.mockRejectedValue(new Error());
     await expect(runMonitor(config, deps)).rejects.toThrow(
-      "fxembed collection failed",
+      "@thsottiaux collection failed",
     );
     expect(send).toHaveBeenCalledTimes(2);
     expect(JSON.parse(await readFile(config.statePath, "utf8")).outbox).toEqual(
@@ -115,11 +118,11 @@ describe("durable monitor delivery", () => {
         targets: [{ id: "a", channel: "fake", send: vi.fn() }],
       }),
     ).rejects.toThrow();
-    expect(JSON.parse(await readFile(config.statePath, "utf8")).sinceId).toBe(
-      "1",
-    );
+    expect(
+      JSON.parse(await readFile(config.statePath, "utf8")).accounts.thsottiaux.sinceId,
+    ).toBe("1");
   });
-  it("refuses simultaneous writers and mismatched accounts", async () => {
+  it("refuses simultaneous writers", async () => {
     const { config, client } = await setup();
     const deps = {
       xClient: client,
@@ -128,9 +131,6 @@ describe("durable monitor delivery", () => {
     await writeFile(`${config.statePath}.lock`, "");
     await expect(runMonitor(config, deps)).rejects.toThrow("locked");
     await rm(`${config.statePath}.lock`);
-    await expect(
-      runMonitor({ ...config, username: "someone_else" }, deps),
-    ).rejects.toThrow("different account");
   });
 });
 
@@ -151,12 +151,12 @@ describe("FxEmbed monitor integration", () => {
       .mockResolvedValueOnce(response("2", "next"));
     const send = vi.fn();
     const deps = { source: new FxEmbedClient(fetcher), targets: [{ id: "a", channel: "fake", send }] };
-    await expect(runMonitor(config, deps)).rejects.toThrow("fxembed collection failed");
+    await expect(runMonitor(config, deps)).rejects.toThrow("@thsottiaux collection failed");
     const failed = JSON.parse(await readFile(config.statePath, "utf8"));
-    expect(failed.sinceId).toBe("1");
-    expect(failed.lastCheckedAt).toBeNull();
+    expect(failed.accounts.thsottiaux.sinceId).toBe("1");
+    expect(failed.accounts.thsottiaux.lastCheckedAt).toBeNull();
     expect(send).not.toHaveBeenCalled();
-    expect((await runMonitor(config, deps)).sinceId).toBe("2");
+    expect((await runMonitor(config, deps)).accounts.thsottiaux.sinceId).toBe("2");
     await runMonitor(config, deps);
     expect(send).toHaveBeenCalledTimes(1);
     expect(fetcher.mock.calls.every(([url]) => (url as URL).hostname === "api.fxtwitter.com")).toBe(true);

@@ -5,10 +5,10 @@ import { emptyState } from "../src/state";
 describe("public status projection", () => {
   it("publishes detected reset events independently of delivery", () => {
     const state = emptyState("thsottiaux", "reset");
-    state.lastCheckedAt = "2026-09-09T03:00:00Z";
-    state.lastSuccessAt = "2026-09-09T03:00:00Z";
+    state.accounts.thsottiaux.lastCheckedAt = "2026-09-09T03:00:00Z";
+    state.accounts.thsottiaux.lastSuccessAt = "2026-09-09T03:00:00Z";
     state.lastRunStatus = "failed-1";
-    state.latestObservedPost = {
+    state.accounts.thsottiaux.latestObservedPost = {
       id: "2098000000000000000",
       text: "Astra demand is unprecedented.",
       createdAt: "2026-09-09T02:30:00Z",
@@ -65,7 +65,7 @@ describe("public status projection", () => {
     const status = buildPublicStatus(state, "fxembed");
 
     expect(state.matches).toEqual([]);
-    expect(state.sinceId).toBeNull();
+    expect(state.accounts.thsottiaux.sinceId).toBeNull();
     expect(state.outbox).toEqual([]);
     expect(status.latest.bankCredit).toMatchObject({
       id: "2096035437299237298",

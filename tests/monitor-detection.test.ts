@@ -19,14 +19,14 @@ async function fixture(bootstrapped: boolean) {
   const dir = await mkdtemp(join(tmpdir(), "reset-dashboard-"));
   dirs.push(dir);
   const config = loadConfig({
+    X_USERNAMES: "thsottiaux",
     STATE_PATH: join(dir, "state.json"),
     PUBLIC_STATUS_PATH: join(dir, "status.json"),
   });
   if (bootstrapped) {
-    await writeState(config.statePath, {
-      ...emptyState("thsottiaux", "reset"),
-      sinceId: "1",
-    });
+    const state = emptyState("thsottiaux", "reset");
+    state.accounts.thsottiaux.sinceId = "1";
+    await writeState(config.statePath, state);
   }
   const source = {
     resolveUserId: vi.fn().mockResolvedValue("42"),
@@ -76,7 +76,7 @@ describe("detected signal persistence", () => {
     });
 
     expect(state.matches).toEqual([]);
-    expect(state.latestObservedPost?.id).toBe("3");
+    expect(state.accounts.thsottiaux.latestObservedPost?.id).toBe("3");
     const publicStatus = JSON.parse(await readFile(config.publicStatusPath!, "utf8"));
     expect(publicStatus.latestObservedPost.id).toBe("3");
     expect(publicStatus.latest.reset).toBeNull();
@@ -104,6 +104,6 @@ describe("detected signal persistence", () => {
     const publicStatus = JSON.parse(await readFile(config.publicStatusPath!, "utf8"));
     expect(publicStatus.latest.reset.id).toBe("2");
     expect(publicStatus.latest.reset.deliveryChannels).toEqual([]);
-    expect(publicStatus.monitor.lastRunStatus).toBe("failed-1");
+    expect(publicStatus.monitor.lastRunStatus).toBe("degraded-1-of-1-accounts");
   });
 });

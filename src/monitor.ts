@@ -1,9 +1,10 @@
 import { createHash } from "node:crypto";
 import { mkdir, open, unlink } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import type { AppConfig, MatchRecord, MonitorState, XPost } from "./types";
+import type { AccountState, AppConfig, MatchRecord, MonitorState, XPost } from "./types";
 import { extractEvents } from "./events";
 import { containsKeyword } from "./matcher";
+import { matchesResetSignal } from "./signal-matcher";
 import { createTargets, type NotificationTarget } from "./notifications";
 import { readState, writeState } from "./state";
 import { createPostSource, type PostSource } from "./post-source";
@@ -51,25 +52,42 @@ function detectedRecord(
 }
 
 function eventsForPost(post: XPost, config: AppConfig): MatchRecord["events"] {
-  return config.keyword.toLowerCase() === "reset"
-    ? extractEvents(post, config.sourceTimezone).filter(
+  if (config.keyword.toLowerCase() === "reset") {
+    const username = new URL(post.url).pathname.split("/")[1]?.toLowerCase();
+    if (username === "thsottiaux") {
+      const canonicalEvents = extractEvents(post, config.sourceTimezone).filter(
         (event) => config.includeMentions || event.type !== "mention",
-      )
-    : containsKeyword(post.text, config.keyword)
-      ? [
-          {
-            type: "mention" as const,
-            status: "uncertain" as const,
+      );
+      if (canonicalEvents.length) return canonicalEvents;
+    }
+    if (!matchesResetSignal(post.text, config.matchPhrases)) return [];
+    return [{
+      type: "reset",
+      status: "announced",
+      evidence: post.text,
+      time: {
+        kind: "unknown",
+        start: null,
+        end: null,
+        evidence: post.text,
+      },
+    }];
+  }
+  return containsKeyword(post.text, config.keyword)
+    ? [
+        {
+          type: "mention" as const,
+          status: "uncertain" as const,
+          evidence: post.text,
+          time: {
+            kind: "unknown" as const,
+            start: null,
+            end: null,
             evidence: post.text,
-            time: {
-              kind: "unknown" as const,
-              start: null,
-              end: null,
-              evidence: post.text,
-            },
           },
-        ]
-      : [];
+        },
+      ]
+    : [];
 }
 
 function newestPost(posts: XPost[]): XPost | null {
@@ -79,7 +97,7 @@ function newestPost(posts: XPost[]): XPost | null {
   );
 }
 
-function updateLatestObservedPost(state: MonitorState, post: XPost | null): void {
+function updateLatestObservedPost(state: AccountState, post: XPost | null): void {
   if (!post) return;
   if (
     !state.latestObservedPost ||
@@ -128,40 +146,44 @@ export async function runMonitor(config: AppConfig, deps: Dependencies = {}): Pr
 }
 
 async function runLocked(config: AppConfig, deps: Dependencies): Promise<MonitorState> {
-  const state = await readState(config.statePath, config.username, config.keyword);
+  const state = await readState(config.statePath, config.usernames, config.keyword);
   const client = deps.source ?? deps.xClient ?? createPostSource(config);
   const targets = deps.targets ?? createTargets(config);
   if (!targets.length) throw new Error("No notification targets configured");
   const now = deps.now ?? (() => new Date());
-  state.version = 2;
+  state.version = 3;
+  state.username = config.username;
+  state.usernames = [...config.usernames];
   state.outbox ??= [];
   state.seen ??= {};
-  state.latestObservedPost ??= null;
-  state.lastSuccessAt ??= state.lastCheckedAt;
   const parserChanged = state.eventParserVersion !== EVENT_PARSER_VERSION;
   reprojectSavedMatches(state, config);
   if (parserChanged && state.matches.length) await persist(config, state, now);
   const errors: string[] = [];
-  let fetched: Awaited<ReturnType<PostSource["getPosts"]>> | undefined;
-  const bootstrap = state.sinceId === null;
+  let successfulAccounts = 0;
 
-  try {
-    state.userId ??= await client.resolveUserId(config.username);
-    fetched = await client.getPosts({
-      userId: state.userId,
-      username: config.username,
-      sinceId: state.sinceId,
-      excludeReplies: config.excludeReplies,
-      bootstrap,
-    });
-  } catch {
-    errors.push(`${config.sourceProvider} collection failed; cursor not advanced`);
-  }
+  for (const username of config.usernames) {
+    const account = state.accounts[username.toLowerCase()];
+    const bootstrap = account.sinceId === null;
+    let fetched: Awaited<ReturnType<PostSource["getPosts"]>>;
+    try {
+      account.userId ??= await client.resolveUserId(username);
+      fetched = await client.getPosts({
+        userId: account.userId,
+        username,
+        sinceId: account.sinceId,
+        excludeReplies: config.excludeReplies,
+        bootstrap,
+      });
+    } catch {
+      account.lastRunStatus = "collection-failed";
+      errors.push(`@${username} collection failed; cursor not advanced`);
+      continue;
+    }
 
-  if (fetched) {
     const { posts, newestId } = fetched;
     updateLatestObservedPost(
-      state,
+      account,
       fetched.latestObservedPost ?? newestPost(posts),
     );
 
@@ -196,15 +218,16 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
       }
     }
 
-    state.sinceId =
-      newestId && (!state.sinceId || BigInt(newestId) > BigInt(state.sinceId))
+    account.sinceId =
+      newestId && (!account.sinceId || BigInt(newestId) > BigInt(account.sinceId))
         ? newestId
-        : state.sinceId;
-    state.postsScanned += posts.length;
+        : account.sinceId;
+    account.postsScanned += posts.length;
     const checkedAt = now().toISOString();
-    state.lastCheckedAt = checkedAt;
-    state.lastSuccessAt = checkedAt;
-    state.lastRunStatus = bootstrap ? "bootstrapped" : `checked-${posts.length}-posts`;
+    account.lastCheckedAt = checkedAt;
+    account.lastSuccessAt = checkedAt;
+    account.lastRunStatus = bootstrap ? "bootstrapped" : `checked-${posts.length}-posts`;
+    successfulAccounts += 1;
     await persist(config, state, now);
   }
 
@@ -241,7 +264,9 @@ async function runLocked(config: AppConfig, deps: Dependencies): Promise<Monitor
   }
 
   state.seen = Object.fromEntries(Object.entries(state.seen).slice(-2000));
-  if (errors.length) state.lastRunStatus = `failed-${errors.length}`;
+  state.lastRunStatus = errors.length
+    ? `degraded-${successfulAccounts}-of-${config.usernames.length}-accounts`
+    : `checked-${successfulAccounts}-accounts`;
   await persist(config, state, now);
   if (errors.length) throw new Error([...new Set(errors)].join("; "));
   return state;

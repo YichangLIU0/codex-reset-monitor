@@ -16,13 +16,15 @@ it("reprojects saved matches after a parser upgrade without creating historical 
   const dir = await mkdtemp(join(tmpdir(), "reset-parser-migration-"));
   dirs.push(dir);
   const config = loadConfig({
+    X_USERNAMES: "thsottiaux",
     STATE_PATH: join(dir, "state.json"),
     PUBLIC_STATUS_PATH: join(dir, "status.json"),
   });
   const text = "Reset all propagated. Sweet dreams.";
+  const persisted = emptyState("thsottiaux", "reset");
+  persisted.accounts.thsottiaux.sinceId = "2";
   await writeState(config.statePath, {
-    ...emptyState("thsottiaux", "reset"),
-    sinceId: "2",
+    ...persisted,
     eventParserVersion: 4,
     matches: [
       {

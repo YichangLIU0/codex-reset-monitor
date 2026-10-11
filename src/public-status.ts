@@ -25,7 +25,15 @@ function toPublicSignal(match: MatchRecord): PublicSignal {
 }
 
 function toPublicObservedPost(state: MonitorState): PublicObservedPost | null {
-  const post = state.latestObservedPost;
+  const post = state.usernames
+    .map((username) => state.accounts[username.toLowerCase()]?.latestObservedPost ?? null)
+    .reduce<(typeof state.accounts)[string]["latestObservedPost"]>(
+      (latest, candidate) =>
+        candidate && (!latest || BigInt(candidate.id) > BigInt(latest.id))
+          ? candidate
+          : latest,
+      null,
+    );
   if (!post) return null;
   return {
     id: post.id,
@@ -36,8 +44,16 @@ function toPublicObservedPost(state: MonitorState): PublicObservedPost | null {
 }
 
 function canonicalHistoryApplies(state: MonitorState): boolean {
-  return state.username.toLowerCase() === "thsottiaux" &&
+  return state.usernames.some((username) => username.toLowerCase() === "thsottiaux") &&
     state.keyword.toLowerCase() === "reset";
+}
+
+function latestTimestamp(state: MonitorState, field: "lastCheckedAt" | "lastSuccessAt"): string | null {
+  return state.usernames
+    .map((username) => state.accounts[username.toLowerCase()]?.[field] ?? null)
+    .filter((value): value is string => value !== null)
+    .sort()
+    .at(-1) ?? null;
 }
 
 function mergeSignals(matches: MatchRecord[], history: PublicSignal[]): PublicSignal[] {
@@ -82,8 +98,8 @@ export function buildPublicStatus(
     keyword: state.keyword,
     monitor: {
       provider,
-      lastCheckedAt: state.lastCheckedAt,
-      lastSuccessAt: state.lastSuccessAt ?? null,
+      lastCheckedAt: latestTimestamp(state, "lastCheckedAt"),
+      lastSuccessAt: latestTimestamp(state, "lastSuccessAt"),
       lastRunStatus: state.lastRunStatus,
     },
     latestObservedPost: toPublicObservedPost(state),
