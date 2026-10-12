@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T02:20:02.176Z",
+  "updatedAt": "2026-10-12T09:25:15.047Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-12T02:20:02.082Z",
-    "lastSuccessAt": "2026-10-12T02:20:02.082Z",
+    "lastCheckedAt": "2026-10-12T09:25:15.043Z",
+    "lastSuccessAt": "2026-10-12T09:25:15.043Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2109439813900493102",
-    "text": "@AnkanXplorer Neither. It's all about coding by hand these days",
-    "url": "https://x.com/thsottiaux/status/2109439813900493102",
-    "postCreatedAt": "2026-10-12T00:23:37.000Z"
+    "id": "2109491524358795714",
+    "text": "@bobjones We tune these carefully",
+    "url": "https://x.com/thsottiaux/status/2109491524358795714",
+    "postCreatedAt": "2026-10-12T03:49:06.000Z"
   },
   "latest": {
     "reset": {
