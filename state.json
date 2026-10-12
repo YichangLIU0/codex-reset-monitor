@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2109491524358795714",
-      "lastCheckedAt": "2026-10-12T09:25:10.713Z",
-      "lastSuccessAt": "2026-10-12T09:25:10.713Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-12T19:11:24.754Z",
+      "lastSuccessAt": "2026-10-12T19:11:24.754Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 27,
       "latestObservedPost": {
         "id": "2109491524358795714",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-12T09:25:11.157Z",
-      "lastSuccessAt": "2026-10-12T09:25:11.157Z",
+      "lastCheckedAt": "2026-10-12T19:11:25.201Z",
+      "lastSuccessAt": "2026-10-12T19:11:25.201Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2107640886482104524",
-      "lastCheckedAt": "2026-10-12T09:25:12.327Z",
-      "lastSuccessAt": "2026-10-12T09:25:12.327Z",
+      "lastCheckedAt": "2026-10-12T19:11:25.791Z",
+      "lastSuccessAt": "2026-10-12T19:11:25.791Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 15,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-12T09:25:13.035Z",
-      "lastSuccessAt": "2026-10-12T09:25:13.035Z",
+      "lastCheckedAt": "2026-10-12T19:11:26.956Z",
+      "lastSuccessAt": "2026-10-12T19:11:26.956Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 16,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2108624150344646752",
-      "lastCheckedAt": "2026-10-12T09:25:13.942Z",
-      "lastSuccessAt": "2026-10-12T09:25:13.942Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 12,
+      "sinceId": "2109723215450996793",
+      "lastCheckedAt": "2026-10-12T19:11:27.900Z",
+      "lastSuccessAt": "2026-10-12T19:11:27.900Z",
+      "lastRunStatus": "checked-8-posts",
+      "postsScanned": 20,
       "latestObservedPost": {
-        "id": "2108624150344646752",
-        "canonicalId": "2108624150344646752",
-        "text": "Available in beta for Pro users in the Codex desktop app, for local tasks.\n\nHit “Tab” to accept a suggestion, edit it if needed, then send.\n\nYou can turn composer predictions off in Settings.\n\nhttps://t.co/Go9GsTLCI3",
-        "createdAt": "2026-10-09T18:22:28.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2108624150344646752",
+        "id": "2109723215450996793",
+        "canonicalId": "2109723215450996793",
+        "text": "@_junhoyeo impressive 🚢",
+        "createdAt": "2026-10-12T19:09:45.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2109723215450996793",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2109003655819276553",
-      "lastCheckedAt": "2026-10-12T09:25:15.043Z",
-      "lastSuccessAt": "2026-10-12T09:25:15.043Z",
+      "lastCheckedAt": "2026-10-12T19:11:28.846Z",
+      "lastSuccessAt": "2026-10-12T19:11:28.846Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 18,
       "latestObservedPost": {
@@ -339,7 +339,15 @@
     "2109439315570999598": "67c8832ae94d333c3964c273ef99a7b18aacbe46ba7472ad10935a1ae02b0866",
     "2109439813900493102": "b2e2a2946515a6f25bdff224f96ff4ef0bcb33e688f78febe5280d34fab1aacc",
     "2109491121441402912": "35e0a87b175146fd46c567f5d2e47acdab7afb53fe0e90cbc3322c552c4e1928",
-    "2109491524358795714": "dd68bbeb7d9d4d7c1d93b8859211924ab96529ebbb4344e25ea2be442d1ee0c0"
+    "2109491524358795714": "dd68bbeb7d9d4d7c1d93b8859211924ab96529ebbb4344e25ea2be442d1ee0c0",
+    "2109691403332731263": "56e523ee1cd5486f73a916170cf22475fe3b96fbea80285003074b0d452aa23b",
+    "2109705153591029854": "bc3d90f6a25964801745db090910dd4e1e8649fe605e993c35d41fd9e82faaee",
+    "2109705159362085174": "4b6828efdf51b865c377afe9b4c4b918d4ada8725303a714e0412c873f3532ae",
+    "2109716341490106869": "b7ec45fca943ca0d3eeaa50eb8f09607fba38a877e5cc2d75f0d44b951230d94",
+    "2109716353376760266": "75684e4f9e67eda7e41595e2f81ded13fb2ac96d01e8bebdb668da6df4dfdaeb",
+    "2109722491962704380": "eeb19e86954b97bb3dc7372faa643c94815b98a27677736c222d3becb3b19ed0",
+    "2109722898046833120": "bdc52e2c1195fd6823da11315aeeb5a6b68f278bb89f3f8fa81fadf4bdb9e109",
+    "2109723215450996793": "8e412bc02bc7f1899047cbfe15ed81d58f05e7870ed770814012b97c6ea22fcd"
   },
   "eventParserVersion": 5
 }
