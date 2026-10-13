@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T15:19:10.591Z",
+  "updatedAt": "2026-10-13T20:44:32.179Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-13T15:19:10.588Z",
-    "lastSuccessAt": "2026-10-13T15:19:10.588Z",
+    "lastCheckedAt": "2026-10-13T20:44:32.159Z",
+    "lastSuccessAt": "2026-10-13T20:44:32.159Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110013567877660993",
-    "text": "@metrox_eth @OpenAI love the \"trying to break things\" mentality",
-    "url": "https://x.com/OpenAIDevs/status/2110013567877660993",
-    "postCreatedAt": "2026-10-13T14:23:31.000Z"
+    "id": "2110063893016096831",
+    "text": "6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.\n\nHighlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:",
+    "url": "https://x.com/gdb/status/2110063893016096831",
+    "postCreatedAt": "2026-10-13T17:43:29.000Z"
   },
   "latest": {
     "reset": {

@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2109892247580000595",
-      "lastCheckedAt": "2026-10-13T15:19:06.013Z",
-      "lastSuccessAt": "2026-10-13T15:19:06.013Z",
+      "lastCheckedAt": "2026-10-13T20:44:24.319Z",
+      "lastSuccessAt": "2026-10-13T20:44:24.319Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 41,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-13T15:19:06.800Z",
-      "lastSuccessAt": "2026-10-13T15:19:06.800Z",
+      "lastCheckedAt": "2026-10-13T20:44:24.976Z",
+      "lastSuccessAt": "2026-10-13T20:44:24.976Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2107640886482104524",
-      "lastCheckedAt": "2026-10-13T15:19:07.562Z",
-      "lastSuccessAt": "2026-10-13T15:19:07.562Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 15,
+      "sinceId": "2110063893016096831",
+      "lastCheckedAt": "2026-10-13T20:44:26.374Z",
+      "lastSuccessAt": "2026-10-13T20:44:26.374Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 17,
       "latestObservedPost": {
-        "id": "2107640886482104524",
-        "canonicalId": "2107640886482104524",
-        "text": "towards acceleration of scientific discovery and improving quality of life for everyone",
-        "createdAt": "2026-10-07T01:15:20.000Z",
-        "url": "https://x.com/gdb/status/2107640886482104524",
+        "id": "2110063893016096831",
+        "canonicalId": "2110063893016096831",
+        "text": "6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.\n\nHighlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:",
+        "createdAt": "2026-10-13T17:43:29.000Z",
+        "url": "https://x.com/gdb/status/2110063893016096831",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-13T15:19:08.682Z",
-      "lastSuccessAt": "2026-10-13T15:19:08.682Z",
+      "lastCheckedAt": "2026-10-13T20:44:27.966Z",
+      "lastSuccessAt": "2026-10-13T20:44:27.966Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 16,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2110013567877660993",
-      "lastCheckedAt": "2026-10-13T15:19:09.644Z",
-      "lastSuccessAt": "2026-10-13T15:19:09.644Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-13T20:44:29.308Z",
+      "lastSuccessAt": "2026-10-13T20:44:29.308Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
         "id": "2110013567877660993",
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2109003655819276553",
-      "lastCheckedAt": "2026-10-13T15:19:10.588Z",
-      "lastSuccessAt": "2026-10-13T15:19:10.588Z",
+      "lastCheckedAt": "2026-10-13T20:44:32.159Z",
+      "lastSuccessAt": "2026-10-13T20:44:32.159Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 18,
       "latestObservedPost": {
@@ -444,7 +444,9 @@
     "2109873287853707513": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
     "2109873307722121591": "fe1678fa963750e9b262732c0a3e599c9ef5cf16697a4dc12848d387a1258389",
     "2109892247580000595": "9ec684f1bc771ec2ed569308307348e25b287a006afaa8270650930947328856",
-    "2110013567877660993": "0538fd7ce91aef80babccea815a1c5cc11c118d8b1cbe22852392b3215a2f2ec"
+    "2110013567877660993": "0538fd7ce91aef80babccea815a1c5cc11c118d8b1cbe22852392b3215a2f2ec",
+    "2107899150247616531": "8a3f50f2b2258191959b8752722fca28454b52680e0606968725593ed834e993",
+    "2110063893016096831": "ee3cfd65247aea1eec7b6fdead6fc76394376f3cb8e63782e7ef86cc126a098e"
   },
   "eventParserVersion": 5
 }
