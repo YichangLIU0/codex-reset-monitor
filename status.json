@@ -1,38 +1,38 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T19:11:28.849Z",
+  "updatedAt": "2026-10-13T01:20:32.520Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-12T19:11:28.846Z",
-    "lastSuccessAt": "2026-10-12T19:11:28.846Z",
+    "lastCheckedAt": "2026-10-13T01:20:32.510Z",
+    "lastSuccessAt": "2026-10-13T01:20:32.510Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2109723215450996793",
-    "text": "@_junhoyeo impressive 🚢",
-    "url": "https://x.com/OpenAIDevs/status/2109723215450996793",
-    "postCreatedAt": "2026-10-12T19:09:45.000Z"
+    "id": "2109812360596865224",
+    "text": "Global reset landing by EOD PST time. Enjoy",
+    "url": "https://x.com/thsottiaux/status/2109812360596865224",
+    "postCreatedAt": "2026-10-13T01:03:59.000Z"
   },
   "latest": {
     "reset": {
-      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
-      "id": "2109132167112782291",
-      "text": "Put the reset in the bag. All propagated.",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291",
-      "postCreatedAt": "2026-10-11T04:01:09.000Z",
-      "detectedAt": "2026-10-11T15:24:32.308Z",
+      "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
+      "id": "2109812360596865224",
+      "text": "Global reset landing by EOD PST time. Enjoy",
+      "url": "https://x.com/thsottiaux/status/2109812360596865224",
+      "postCreatedAt": "2026-10-13T01:03:59.000Z",
+      "detectedAt": "2026-10-13T01:20:27.375Z",
       "events": [
         {
           "type": "reset",
           "status": "announced",
-          "evidence": "Put the reset in the bag",
+          "evidence": "Global reset landing by EOD PST time",
           "time": {
             "kind": "unknown",
             "start": null,
             "end": null,
-            "evidence": "Put the reset in the bag",
+            "evidence": "Global reset landing by EOD PST time",
             "note": "原文没有可确定的时间"
           }
         }
@@ -67,6 +67,54 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
+      "id": "2109812360596865224",
+      "text": "Global reset landing by EOD PST time. Enjoy",
+      "url": "https://x.com/thsottiaux/status/2109812360596865224",
+      "postCreatedAt": "2026-10-13T01:03:59.000Z",
+      "detectedAt": "2026-10-13T01:20:27.375Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Global reset landing by EOD PST time",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Global reset landing by EOD PST time",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "ca823a56be82e9b5268af58b19074f5b9beef0c85b5ef480343d9f8c60ef16c8",
+      "id": "2109812216212099456",
+      "text": "Day 8/ Reset",
+      "url": "https://x.com/thsottiaux/status/2109812216212099456",
+      "postCreatedAt": "2026-10-13T01:03:25.000Z",
+      "detectedAt": "2026-10-13T01:20:27.348Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 8/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 8/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
       "id": "2109132167112782291",
