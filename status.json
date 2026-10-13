@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T01:20:32.520Z",
+  "updatedAt": "2026-10-13T07:49:36.596Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-13T01:20:32.510Z",
-    "lastSuccessAt": "2026-10-13T01:20:32.510Z",
+    "lastCheckedAt": "2026-10-13T07:49:36.582Z",
+    "lastSuccessAt": "2026-10-13T07:49:36.582Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2109812360596865224",
-    "text": "Global reset landing by EOD PST time. Enjoy",
-    "url": "https://x.com/thsottiaux/status/2109812360596865224",
-    "postCreatedAt": "2026-10-13T01:03:59.000Z"
+    "id": "2109892247580000595",
+    "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+    "url": "https://x.com/thsottiaux/status/2109892247580000595",
+    "postCreatedAt": "2026-10-13T06:21:26.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
+      "id": "2109873287853707513",
+      "text": "What would you like with your side of reset? It's done.",
+      "url": "https://x.com/thsottiaux/status/2109873287853707513",
+      "postCreatedAt": "2026-10-13T05:06:06.000Z",
+      "detectedAt": "2026-10-13T07:49:31.438Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "What would you like with your side of reset? It's done",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "What would you like with your side of reset? It's done",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
       "id": "2109812360596865224",
