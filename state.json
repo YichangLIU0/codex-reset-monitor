@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2109892247580000595",
-      "lastCheckedAt": "2026-10-13T07:49:31.438Z",
-      "lastSuccessAt": "2026-10-13T07:49:31.438Z",
-      "lastRunStatus": "checked-10-posts",
+      "lastCheckedAt": "2026-10-13T15:19:06.013Z",
+      "lastSuccessAt": "2026-10-13T15:19:06.013Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 41,
       "latestObservedPost": {
         "id": "2109892247580000595",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-13T07:49:31.833Z",
-      "lastSuccessAt": "2026-10-13T07:49:31.833Z",
+      "lastCheckedAt": "2026-10-13T15:19:06.800Z",
+      "lastSuccessAt": "2026-10-13T15:19:06.800Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2107640886482104524",
-      "lastCheckedAt": "2026-10-13T07:49:33.096Z",
-      "lastSuccessAt": "2026-10-13T07:49:33.096Z",
+      "lastCheckedAt": "2026-10-13T15:19:07.562Z",
+      "lastSuccessAt": "2026-10-13T15:19:07.562Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 15,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-13T07:49:34.359Z",
-      "lastSuccessAt": "2026-10-13T07:49:34.359Z",
+      "lastCheckedAt": "2026-10-13T15:19:08.682Z",
+      "lastSuccessAt": "2026-10-13T15:19:08.682Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 16,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2109728026393022948",
-      "lastCheckedAt": "2026-10-13T07:49:35.734Z",
-      "lastSuccessAt": "2026-10-13T07:49:35.734Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 21,
+      "sinceId": "2110013567877660993",
+      "lastCheckedAt": "2026-10-13T15:19:09.644Z",
+      "lastSuccessAt": "2026-10-13T15:19:09.644Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 22,
       "latestObservedPost": {
-        "id": "2109728026393022948",
-        "canonicalId": "2109728026393022948",
-        "text": "@bonitadreama excited to see what you build!",
-        "createdAt": "2026-10-12T19:28:53.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2109728026393022948",
+        "id": "2110013567877660993",
+        "canonicalId": "2110013567877660993",
+        "text": "@metrox_eth @OpenAI love the \"trying to break things\" mentality",
+        "createdAt": "2026-10-13T14:23:31.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110013567877660993",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2109003655819276553",
-      "lastCheckedAt": "2026-10-13T07:49:36.582Z",
-      "lastSuccessAt": "2026-10-13T07:49:36.582Z",
+      "lastCheckedAt": "2026-10-13T15:19:10.588Z",
+      "lastSuccessAt": "2026-10-13T15:19:10.588Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 18,
       "latestObservedPost": {
@@ -137,7 +137,6 @@
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
       "id": "2109873287853707513",
-      "canonicalId": "2109873287853707513",
       "text": "What would you like with your side of reset? It's done.",
       "createdAt": "2026-10-13T05:06:06.000Z",
       "url": "https://x.com/thsottiaux/status/2109873287853707513",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-13T07:49:36.584Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-13T07:49:36.584Z"
+      ]
     },
     {
       "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
@@ -444,7 +443,8 @@
     "2109865627628507222": "d25691d13be3699516346c3a179d68173a55352978239cdfd9433e97f7f51832",
     "2109873287853707513": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
     "2109873307722121591": "fe1678fa963750e9b262732c0a3e599c9ef5cf16697a4dc12848d387a1258389",
-    "2109892247580000595": "9ec684f1bc771ec2ed569308307348e25b287a006afaa8270650930947328856"
+    "2109892247580000595": "9ec684f1bc771ec2ed569308307348e25b287a006afaa8270650930947328856",
+    "2110013567877660993": "0538fd7ce91aef80babccea815a1c5cc11c118d8b1cbe22852392b3215a2f2ec"
   },
   "eventParserVersion": 5
 }

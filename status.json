@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T07:49:36.596Z",
+  "updatedAt": "2026-10-13T15:19:10.591Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-13T07:49:36.582Z",
-    "lastSuccessAt": "2026-10-13T07:49:36.582Z",
+    "lastCheckedAt": "2026-10-13T15:19:10.588Z",
+    "lastSuccessAt": "2026-10-13T15:19:10.588Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2109892247580000595",
-    "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
-    "url": "https://x.com/thsottiaux/status/2109892247580000595",
-    "postCreatedAt": "2026-10-13T06:21:26.000Z"
+    "id": "2110013567877660993",
+    "text": "@metrox_eth @OpenAI love the \"trying to break things\" mentality",
+    "url": "https://x.com/OpenAIDevs/status/2110013567877660993",
+    "postCreatedAt": "2026-10-13T14:23:31.000Z"
   },
   "latest": {
     "reset": {
