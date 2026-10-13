@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T20:44:32.179Z",
+  "updatedAt": "2026-10-13T23:57:06.704Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-13T20:44:32.159Z",
-    "lastSuccessAt": "2026-10-13T20:44:32.159Z",
+    "lastCheckedAt": "2026-10-13T23:57:06.701Z",
+    "lastSuccessAt": "2026-10-13T23:57:06.701Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110063893016096831",
-    "text": "6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.\n\nHighlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:",
-    "url": "https://x.com/gdb/status/2110063893016096831",
-    "postCreatedAt": "2026-10-13T17:43:29.000Z"
+    "id": "2110152344029778279",
+    "text": "@StefanoGPT Legit how I look like. Must have trained on my face data",
+    "url": "https://x.com/thsottiaux/status/2110152344029778279",
+    "postCreatedAt": "2026-10-13T23:34:58.000Z"
   },
   "latest": {
     "reset": {

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2109892247580000595",
-      "lastCheckedAt": "2026-10-13T20:44:24.319Z",
-      "lastSuccessAt": "2026-10-13T20:44:24.319Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 41,
+      "sinceId": "2110152344029778279",
+      "lastCheckedAt": "2026-10-13T23:57:01.794Z",
+      "lastSuccessAt": "2026-10-13T23:57:01.794Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 43,
       "latestObservedPost": {
-        "id": "2109892247580000595",
-        "canonicalId": "2109892247580000595",
-        "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
-        "createdAt": "2026-10-13T06:21:26.000Z",
-        "url": "https://x.com/thsottiaux/status/2109892247580000595",
+        "id": "2110152344029778279",
+        "canonicalId": "2110152344029778279",
+        "text": "@StefanoGPT Legit how I look like. Must have trained on my face data",
+        "createdAt": "2026-10-13T23:34:58.000Z",
+        "url": "https://x.com/thsottiaux/status/2110152344029778279",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-13T20:44:24.976Z",
-      "lastSuccessAt": "2026-10-13T20:44:24.976Z",
+      "lastCheckedAt": "2026-10-13T23:57:02.254Z",
+      "lastSuccessAt": "2026-10-13T23:57:02.254Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-13T20:44:26.374Z",
-      "lastSuccessAt": "2026-10-13T20:44:26.374Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-13T23:57:03.403Z",
+      "lastSuccessAt": "2026-10-13T23:57:03.403Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
         "id": "2110063893016096831",
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-13T20:44:27.966Z",
-      "lastSuccessAt": "2026-10-13T20:44:27.966Z",
+      "lastCheckedAt": "2026-10-13T23:57:04.589Z",
+      "lastSuccessAt": "2026-10-13T23:57:04.589Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 16,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2110013567877660993",
-      "lastCheckedAt": "2026-10-13T20:44:29.308Z",
-      "lastSuccessAt": "2026-10-13T20:44:29.308Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 22,
+      "sinceId": "2110139141925314850",
+      "lastCheckedAt": "2026-10-13T23:57:05.645Z",
+      "lastSuccessAt": "2026-10-13T23:57:05.645Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 24,
       "latestObservedPost": {
-        "id": "2110013567877660993",
-        "canonicalId": "2110013567877660993",
-        "text": "@metrox_eth @OpenAI love the \"trying to break things\" mentality",
-        "createdAt": "2026-10-13T14:23:31.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2110013567877660993",
+        "id": "2110139141925314850",
+        "canonicalId": "2110139141925314850",
+        "text": "@msg great minds think alike",
+        "createdAt": "2026-10-13T22:42:30.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110139141925314850",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2109003655819276553",
-      "lastCheckedAt": "2026-10-13T20:44:32.159Z",
-      "lastSuccessAt": "2026-10-13T20:44:32.159Z",
+      "lastCheckedAt": "2026-10-13T23:57:06.701Z",
+      "lastSuccessAt": "2026-10-13T23:57:06.701Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 18,
       "latestObservedPost": {
@@ -446,7 +446,11 @@
     "2109892247580000595": "9ec684f1bc771ec2ed569308307348e25b287a006afaa8270650930947328856",
     "2110013567877660993": "0538fd7ce91aef80babccea815a1c5cc11c118d8b1cbe22852392b3215a2f2ec",
     "2107899150247616531": "8a3f50f2b2258191959b8752722fca28454b52680e0606968725593ed834e993",
-    "2110063893016096831": "ee3cfd65247aea1eec7b6fdead6fc76394376f3cb8e63782e7ef86cc126a098e"
+    "2110063893016096831": "ee3cfd65247aea1eec7b6fdead6fc76394376f3cb8e63782e7ef86cc126a098e",
+    "2110151780478927344": "6fb0a19e1cc24589d3a2e26192f7b9693d1ac458ab3d2509ca13c6dab062c6d4",
+    "2110152344029778279": "bdb0a1b76f67a430b626f2175bbb4f1186a5060816e216830f8d55bd2e3dbc91",
+    "2110138777293271307": "a0f712be3c4743718f3e864dbe33826938ab738f8d747ebbcad1a373da5c8084",
+    "2110139141925314850": "13cd5311fcce3d02a0d459f99e3d2fc907492398a51a79f8f56748ef737b7caf"
   },
   "eventParserVersion": 5
 }
