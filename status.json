@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T14:25:20.564Z",
+  "updatedAt": "2026-10-14T18:46:56.939Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-14T14:25:20.561Z",
-    "lastSuccessAt": "2026-10-14T14:25:20.561Z",
+    "lastCheckedAt": "2026-10-14T18:46:56.935Z",
+    "lastSuccessAt": "2026-10-14T18:46:56.935Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110188326422819047",
-    "text": "@charliermarsh 😅",
-    "url": "https://x.com/thsottiaux/status/2110188326422819047",
-    "postCreatedAt": "2026-10-14T01:57:57.000Z"
+    "id": "2110442001749659890",
+    "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5sW0B",
+    "url": "https://x.com/OpenAI/status/2110442001749659890",
+    "postCreatedAt": "2026-10-14T18:45:57.000Z"
   },
   "latest": {
     "reset": {

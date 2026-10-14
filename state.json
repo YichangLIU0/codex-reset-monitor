@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2110188326422819047",
-      "lastCheckedAt": "2026-10-14T14:25:15.380Z",
-      "lastSuccessAt": "2026-10-14T14:25:15.380Z",
+      "lastCheckedAt": "2026-10-14T18:46:47.968Z",
+      "lastSuccessAt": "2026-10-14T18:46:47.968Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 45,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-14T14:25:15.881Z",
-      "lastSuccessAt": "2026-10-14T14:25:15.881Z",
+      "lastCheckedAt": "2026-10-14T18:46:48.836Z",
+      "lastSuccessAt": "2026-10-14T18:46:48.836Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-14T14:25:16.475Z",
-      "lastSuccessAt": "2026-10-14T14:25:16.475Z",
+      "lastCheckedAt": "2026-10-14T18:46:49.618Z",
+      "lastSuccessAt": "2026-10-14T18:46:49.618Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -65,22 +65,22 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2107909792945832070",
-      "lastCheckedAt": "2026-10-14T14:25:17.424Z",
-      "lastSuccessAt": "2026-10-14T14:25:17.424Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 16,
+      "sinceId": "2110442001749659890",
+      "lastCheckedAt": "2026-10-14T18:46:51.197Z",
+      "lastSuccessAt": "2026-10-14T18:46:51.197Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 17,
       "latestObservedPost": {
-        "id": "2107909792945832070",
-        "canonicalId": "2107909792945832070",
-        "text": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices.\n\nChatGPT for Teens applies automatically to accounts identified as belonging to someone under 18, with protections on by default.\n\nComing soon: College Planner brings application requirements, deadlines, tasks and financial-aid steps together for high school students in the U.S. planning to attend a four-year college.\n\nWe'll keep building these tools, evaluating how they and their protections work in practice, and sharing what we learn.\n\nhttps://t.co/wtiMeor5yh",
-        "createdAt": "2026-10-07T19:03:52.000Z",
-        "url": "https://x.com/OpenAI/status/2107909792945832070",
+        "id": "2110442001749659890",
+        "canonicalId": "2110442001749659890",
+        "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5sW0B",
+        "createdAt": "2026-10-14T18:45:57.000Z",
+        "url": "https://x.com/OpenAI/status/2110442001749659890",
         "media": [
           {
-            "mediaKey": "2107909698884337664",
+            "mediaKey": "2110438471085293568",
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUDMs_SaAAApuGm.jpg?name=orig",
+            "url": "https://pbs.twimg.com/media/HUnIm51bgAA9cT4.jpg?name=orig",
             "previewImageUrl": null,
             "altText": null
           }
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2110139141925314850",
-      "lastCheckedAt": "2026-10-14T14:25:18.675Z",
-      "lastSuccessAt": "2026-10-14T14:25:18.675Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 24,
+      "sinceId": "2110440994554384769",
+      "lastCheckedAt": "2026-10-14T18:46:54.008Z",
+      "lastSuccessAt": "2026-10-14T18:46:54.008Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 25,
       "latestObservedPost": {
-        "id": "2110139141925314850",
-        "canonicalId": "2110139141925314850",
-        "text": "@msg great minds think alike",
-        "createdAt": "2026-10-13T22:42:30.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2110139141925314850",
+        "id": "2110440994554384769",
+        "canonicalId": "2110440994554384769",
+        "text": "@Natzke you may need a few more GoPros",
+        "createdAt": "2026-10-14T18:41:57.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110440994554384769",
         "media": []
       }
     },
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2109003655819276553",
-      "lastCheckedAt": "2026-10-14T14:25:20.561Z",
-      "lastSuccessAt": "2026-10-14T14:25:20.561Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 18,
+      "sinceId": "2110432654638333987",
+      "lastCheckedAt": "2026-10-14T18:46:56.935Z",
+      "lastSuccessAt": "2026-10-14T18:46:56.935Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 19,
       "latestObservedPost": {
-        "id": "2109003655819276553",
-        "canonicalId": "2109003655819276553",
-        "text": "@jxnlco Davinci ftw",
-        "createdAt": "2026-10-10T19:30:29.000Z",
-        "url": "https://x.com/dkundel/status/2109003655819276553",
+        "id": "2110432654638333987",
+        "canonicalId": "2110432654638333987",
+        "text": "Booked some train tickets but the UI was confusing so I accidentally bought one not two tickets. My dot spotted it and let me know that I was missing a ticket for my wife 🎉 crisis averted 😄",
+        "createdAt": "2026-10-14T18:08:49.000Z",
+        "url": "https://x.com/dkundel/status/2110432654638333987",
         "media": []
       }
     }
@@ -452,7 +452,10 @@
     "2110138777293271307": "a0f712be3c4743718f3e864dbe33826938ab738f8d747ebbcad1a373da5c8084",
     "2110139141925314850": "13cd5311fcce3d02a0d459f99e3d2fc907492398a51a79f8f56748ef737b7caf",
     "2110167061632819447": "a6ec12048bc02abc334fd4d64642b1e9dad380c7c73ffb892925055fadc4efe1",
-    "2110188326422819047": "794c9eaa2f5ff6fd9278737bb80f1411624688c057d1a4a172241b558a6b09a0"
+    "2110188326422819047": "794c9eaa2f5ff6fd9278737bb80f1411624688c057d1a4a172241b558a6b09a0",
+    "2110442001749659890": "1c3c7a9250d469f977d43a65824d39110785ce3ec3ce968e565b6fb52e3f2d92",
+    "2110440994554384769": "335da94c3efbe87c8a1bfb0e341055bb9b03fbf6145bbeaca096a24a2b8b8212",
+    "2110432654638333987": "eab481d2a2d3de1a2f23b680aa374e55d7f82aa3006f630a24df04c34a5b1712"
   },
   "eventParserVersion": 5
 }
