@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T21:34:04.567Z",
+  "updatedAt": "2026-10-15T23:48:17.938Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T21:34:04.564Z",
-    "lastSuccessAt": "2026-10-15T21:34:04.564Z",
+    "lastCheckedAt": "2026-10-15T23:48:17.787Z",
+    "lastSuccessAt": "2026-10-15T23:48:17.787Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110841901121511705",
-    "text": "Learn about the Rosalind Academic Plan, check your lab's eligibility, and find out how to apply: https://t.co/xw86gMoj5C",
-    "url": "https://x.com/OpenAI/status/2110841901121511705",
-    "postCreatedAt": "2026-10-15T21:15:01.000Z"
+    "id": "2110868151688912976",
+    "text": "@_simonsmith Spot on",
+    "url": "https://x.com/thsottiaux/status/2110868151688912976",
+    "postCreatedAt": "2026-10-15T22:59:20.000Z"
   },
   "latest": {
     "reset": {

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110750421367287996",
-      "lastCheckedAt": "2026-10-15T21:34:00.892Z",
-      "lastSuccessAt": "2026-10-15T21:34:00.892Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 54,
+      "sinceId": "2110868151688912976",
+      "lastCheckedAt": "2026-10-15T23:48:12.294Z",
+      "lastSuccessAt": "2026-10-15T23:48:12.294Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 57,
       "latestObservedPost": {
-        "id": "2110750421367287996",
-        "canonicalId": "2110750421367287996",
-        "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
-        "createdAt": "2026-10-15T15:11:30.000Z",
-        "url": "https://x.com/thsottiaux/status/2110750421367287996",
+        "id": "2110868151688912976",
+        "canonicalId": "2110868151688912976",
+        "text": "@_simonsmith Spot on",
+        "createdAt": "2026-10-15T22:59:20.000Z",
+        "url": "https://x.com/thsottiaux/status/2110868151688912976",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T21:34:01.589Z",
-      "lastSuccessAt": "2026-10-15T21:34:01.589Z",
+      "lastCheckedAt": "2026-10-15T23:48:13.331Z",
+      "lastSuccessAt": "2026-10-15T23:48:13.331Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T21:34:02.065Z",
-      "lastSuccessAt": "2026-10-15T21:34:02.065Z",
+      "lastCheckedAt": "2026-10-15T23:48:14.066Z",
+      "lastSuccessAt": "2026-10-15T23:48:14.066Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110841901121511705",
-      "lastCheckedAt": "2026-10-15T21:34:02.844Z",
-      "lastSuccessAt": "2026-10-15T21:34:02.844Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-15T23:48:14.580Z",
+      "lastSuccessAt": "2026-10-15T23:48:14.580Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
         "id": "2110841901121511705",
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2110832986501603786",
-      "lastCheckedAt": "2026-10-15T21:34:03.758Z",
-      "lastSuccessAt": "2026-10-15T21:34:03.758Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 33,
+      "sinceId": "2110855386140229777",
+      "lastCheckedAt": "2026-10-15T23:48:16.111Z",
+      "lastSuccessAt": "2026-10-15T23:48:16.111Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 37,
       "latestObservedPost": {
-        "id": "2110832986501603786",
-        "canonicalId": "2110832986501603786",
-        "text": "Leaving https://t.co/bQYNe1Ukl1 here so you can learn to create, publish, and share your first Site.",
-        "createdAt": "2026-10-15T20:39:36.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2110832986501603786",
+        "id": "2110855386140229777",
+        "canonicalId": "2110855386140229777",
+        "text": "Learn how to build all of these projects or share yours so others can replicate it:\n\nhttps://t.co/J7mgdmh0Za",
+        "createdAt": "2026-10-15T22:08:36.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110855386140229777",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-15T21:34:04.564Z",
-      "lastSuccessAt": "2026-10-15T21:34:04.564Z",
+      "lastCheckedAt": "2026-10-15T23:48:17.787Z",
+      "lastSuccessAt": "2026-10-15T23:48:17.787Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -510,7 +510,14 @@
     "2110841901121511705": "bf05f54a9364a13016c9018cd13bd5ba152d881270c7db5d3b44873606ce5987",
     "2110832979656524283": "ef2b5ddc7eead7219ac2f9b0363fbe8f058dfa6964175589acaf873b52b6c42c",
     "2110832983582371913": "cc1f793ed006a932006b792e0453626c3622ddd3e38ef87552f47cc92b669bb1",
-    "2110832986501603786": "16ff981b73c6bdd0a37bff21717f332285e77b978c23b1560a9b0cf31d7c39ef"
+    "2110832986501603786": "16ff981b73c6bdd0a37bff21717f332285e77b978c23b1560a9b0cf31d7c39ef",
+    "2110864606088593672": "aa29d9505c89a120101741f8542598b27678e81f2764b469378d7bb205839856",
+    "2110864861119045840": "7c01c36f84f2df7ff886a01ac470952631c66d4f5ef7b0c118f194a029f243b4",
+    "2110868151688912976": "d0f703759921ebb86fb9b42b879f0e424d9cafa69f4e9f3902432ab3c021a5be",
+    "2110855366787703209": "676ee7d5127c70065a81d77580f8b22170822ed3f8a090c0adeee39ed0b38b62",
+    "2110855370529034323": "f318aff4180e2df1859d4cf189f82b291c2bd815a2ee60d04aa53fae30daded2",
+    "2110855382444704190": "2f4022a5456dfe25329299951380a1c323da34cbf29f27550128260d03a6374d",
+    "2110855386140229777": "c71baa68221481b9c23f702f94eb773ce0f8782d955c7ec34bd5360a518b6f05"
   },
   "eventParserVersion": 5
 }
