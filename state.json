@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2110624335463584028",
-      "lastCheckedAt": "2026-10-15T09:28:48.000Z",
-      "lastSuccessAt": "2026-10-15T09:28:48.000Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-10-15T14:19:09.962Z",
+      "lastSuccessAt": "2026-10-15T14:19:09.962Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 53,
       "latestObservedPost": {
         "id": "2110624335463584028",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T09:28:48.396Z",
-      "lastSuccessAt": "2026-10-15T09:28:48.396Z",
+      "lastCheckedAt": "2026-10-15T14:19:10.427Z",
+      "lastSuccessAt": "2026-10-15T14:19:10.427Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T09:28:49.176Z",
-      "lastSuccessAt": "2026-10-15T09:28:49.176Z",
+      "lastCheckedAt": "2026-10-15T14:19:10.968Z",
+      "lastSuccessAt": "2026-10-15T14:19:10.968Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110442001749659890",
-      "lastCheckedAt": "2026-10-15T09:28:49.533Z",
-      "lastSuccessAt": "2026-10-15T09:28:49.533Z",
+      "lastCheckedAt": "2026-10-15T14:19:11.786Z",
+      "lastSuccessAt": "2026-10-15T14:19:11.786Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2110470655829549316",
-      "lastCheckedAt": "2026-10-15T09:28:50.402Z",
-      "lastSuccessAt": "2026-10-15T09:28:50.402Z",
+      "lastCheckedAt": "2026-10-15T14:19:12.821Z",
+      "lastSuccessAt": "2026-10-15T14:19:12.821Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 28,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-15T09:28:51.187Z",
-      "lastSuccessAt": "2026-10-15T09:28:51.187Z",
+      "lastCheckedAt": "2026-10-15T14:19:13.756Z",
+      "lastSuccessAt": "2026-10-15T14:19:13.756Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -137,7 +137,6 @@
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",
-      "canonicalId": "2110595484180214059",
       "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
       "createdAt": "2026-10-15T04:55:51.000Z",
       "url": "https://x.com/thsottiaux/status/2110595484180214059",
@@ -169,10 +168,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-15T09:28:51.189Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-15T09:28:51.189Z"
+      ]
     },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
