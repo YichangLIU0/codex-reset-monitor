@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T00:19:03.990Z",
+  "updatedAt": "2026-10-15T04:52:11.261Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T00:19:03.987Z",
-    "lastSuccessAt": "2026-10-15T00:19:03.987Z",
+    "lastCheckedAt": "2026-10-15T04:52:11.258Z",
+    "lastSuccessAt": "2026-10-15T04:52:11.258Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110470655829549316",
-    "text": "@steveDOTplus 🧠",
-    "url": "https://x.com/OpenAIDevs/status/2110470655829549316",
-    "postCreatedAt": "2026-10-14T20:39:49.000Z"
+    "id": "2110591392691159317",
+    "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
+    "url": "https://x.com/thsottiaux/status/2110591392691159317",
+    "postCreatedAt": "2026-10-15T04:39:35.000Z"
   },
   "latest": {
     "reset": {

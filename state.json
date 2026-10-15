@@ -14,26 +14,34 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110188326422819047",
-      "lastCheckedAt": "2026-10-15T00:19:01.502Z",
-      "lastSuccessAt": "2026-10-15T00:19:01.502Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 45,
+      "sinceId": "2110591392691159317",
+      "lastCheckedAt": "2026-10-15T04:52:08.395Z",
+      "lastSuccessAt": "2026-10-15T04:52:08.395Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 47,
       "latestObservedPost": {
-        "id": "2110188326422819047",
-        "canonicalId": "2110188326422819047",
-        "text": "@charliermarsh 😅",
-        "createdAt": "2026-10-14T01:57:57.000Z",
-        "url": "https://x.com/thsottiaux/status/2110188326422819047",
-        "media": []
+        "id": "2110591392691159317",
+        "canonicalId": "2110591392691159317",
+        "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
+        "createdAt": "2026-10-15T04:39:35.000Z",
+        "url": "https://x.com/thsottiaux/status/2110591392691159317",
+        "media": [
+          {
+            "mediaKey": "2110591377675612160",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUpTrPRbcAAVR5R.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T00:19:01.680Z",
-      "lastSuccessAt": "2026-10-15T00:19:01.680Z",
+      "lastCheckedAt": "2026-10-15T04:52:08.595Z",
+      "lastSuccessAt": "2026-10-15T04:52:08.595Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T00:19:02.147Z",
-      "lastSuccessAt": "2026-10-15T00:19:02.147Z",
+      "lastCheckedAt": "2026-10-15T04:52:09.102Z",
+      "lastSuccessAt": "2026-10-15T04:52:09.102Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -66,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110442001749659890",
-      "lastCheckedAt": "2026-10-15T00:19:02.937Z",
-      "lastSuccessAt": "2026-10-15T00:19:02.937Z",
+      "lastCheckedAt": "2026-10-15T04:52:09.580Z",
+      "lastSuccessAt": "2026-10-15T04:52:09.580Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -91,8 +99,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2110470655829549316",
-      "lastCheckedAt": "2026-10-15T00:19:03.395Z",
-      "lastSuccessAt": "2026-10-15T00:19:03.395Z",
+      "lastCheckedAt": "2026-10-15T04:52:10.393Z",
+      "lastSuccessAt": "2026-10-15T04:52:10.393Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 28,
       "latestObservedPost": {
@@ -117,17 +125,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2110432654638333987",
-      "lastCheckedAt": "2026-10-15T00:19:03.987Z",
-      "lastSuccessAt": "2026-10-15T00:19:03.987Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 19,
+      "sinceId": "2110549281275003259",
+      "lastCheckedAt": "2026-10-15T04:52:11.258Z",
+      "lastSuccessAt": "2026-10-15T04:52:11.258Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 21,
       "latestObservedPost": {
-        "id": "2110432654638333987",
-        "canonicalId": "2110432654638333987",
-        "text": "Booked some train tickets but the UI was confusing so I accidentally bought one not two tickets. My dot spotted it and let me know that I was missing a ticket for my wife 🎉 crisis averted 😄",
-        "createdAt": "2026-10-14T18:08:49.000Z",
-        "url": "https://x.com/dkundel/status/2110432654638333987",
+        "id": "2110549281275003259",
+        "canonicalId": "2110549281275003259",
+        "text": "@Dimillian Screen is too good though",
+        "createdAt": "2026-10-15T01:52:15.000Z",
+        "url": "https://x.com/dkundel/status/2110549281275003259",
         "media": []
       }
     }
@@ -458,7 +466,11 @@
     "2110432654638333987": "eab481d2a2d3de1a2f23b680aa374e55d7f82aa3006f630a24df04c34a5b1712",
     "2110442938555908410": "493e9c66ff8581edab3a0a755f7f0a4cdc03f63c5b1feb6e711639c794fd85c9",
     "2110469229707243775": "b5710c67017d48c3f35697bccc5c03cd4ed867aed035cc651675032e1041e124",
-    "2110470655829549316": "e79f73d15c72f814977be26f6e55addc26893e90ced51d1ddb3207b7e0d451ff"
+    "2110470655829549316": "e79f73d15c72f814977be26f6e55addc26893e90ced51d1ddb3207b7e0d451ff",
+    "2110589470911418414": "912d303446b8e66a7e657841ed31015a3d0af3dc4e6649f61f0e9b4335c9841e",
+    "2110591392691159317": "e027ff75ceba8f60c5aa786d1f0b4d6cb7e4cdf48a215bcabdaff6aada25ba35",
+    "2110533325362524405": "6eaf17af565bba4fb64c0254ec12b96355d729b5c06ef614fec74543bf619648",
+    "2110549281275003259": "b95eaf3e95c6f9529b1f20eca8ae7e1a17a92ae68539a4827253c409f6bab9c9"
   },
   "eventParserVersion": 5
 }
