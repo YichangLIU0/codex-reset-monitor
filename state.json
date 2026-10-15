@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2110750421367287996",
-      "lastCheckedAt": "2026-10-15T18:23:31.512Z",
-      "lastSuccessAt": "2026-10-15T18:23:31.512Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-15T21:34:00.892Z",
+      "lastSuccessAt": "2026-10-15T21:34:00.892Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 54,
       "latestObservedPost": {
         "id": "2110750421367287996",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T18:23:32.153Z",
-      "lastSuccessAt": "2026-10-15T18:23:32.153Z",
+      "lastCheckedAt": "2026-10-15T21:34:01.589Z",
+      "lastSuccessAt": "2026-10-15T21:34:01.589Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T18:23:33.283Z",
-      "lastSuccessAt": "2026-10-15T18:23:33.283Z",
+      "lastCheckedAt": "2026-10-15T21:34:02.065Z",
+      "lastSuccessAt": "2026-10-15T21:34:02.065Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -65,42 +65,34 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2110797830361436604",
-      "lastCheckedAt": "2026-10-15T18:23:34.378Z",
-      "lastSuccessAt": "2026-10-15T18:23:34.378Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 19,
+      "sinceId": "2110841901121511705",
+      "lastCheckedAt": "2026-10-15T21:34:02.844Z",
+      "lastSuccessAt": "2026-10-15T21:34:02.844Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 22,
       "latestObservedPost": {
-        "id": "2110797830361436604",
-        "canonicalId": "2110797830361436604",
-        "text": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm",
-        "createdAt": "2026-10-15T18:19:54.000Z",
-        "url": "https://x.com/OpenAI/status/2110797830361436604",
-        "media": [
-          {
-            "mediaKey": "2110784796872024064",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2110784796872024064/vid/avc1/1920x1080/8Vu0_v7N3caBHxH7.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2110841901121511705",
+        "canonicalId": "2110841901121511705",
+        "text": "Learn about the Rosalind Academic Plan, check your lab's eligibility, and find out how to apply: https://t.co/xw86gMoj5C",
+        "createdAt": "2026-10-15T21:15:01.000Z",
+        "url": "https://x.com/OpenAI/status/2110841901121511705",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2110779479828176965",
-      "lastCheckedAt": "2026-10-15T18:23:35.582Z",
-      "lastSuccessAt": "2026-10-15T18:23:35.582Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 30,
+      "sinceId": "2110832986501603786",
+      "lastCheckedAt": "2026-10-15T21:34:03.758Z",
+      "lastSuccessAt": "2026-10-15T21:34:03.758Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 33,
       "latestObservedPost": {
-        "id": "2110779479828176965",
-        "canonicalId": "2110779479828176965",
-        "text": "@juandadotdev @aileenvl @paw_lean @rhiannon_io @fedesarquis do it!",
-        "createdAt": "2026-10-15T17:06:59.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2110779479828176965",
+        "id": "2110832986501603786",
+        "canonicalId": "2110832986501603786",
+        "text": "Leaving https://t.co/bQYNe1Ukl1 here so you can learn to create, publish, and share your first Site.",
+        "createdAt": "2026-10-15T20:39:36.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110832986501603786",
         "media": []
       }
     },
@@ -118,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-15T18:23:37.721Z",
-      "lastSuccessAt": "2026-10-15T18:23:37.721Z",
+      "lastCheckedAt": "2026-10-15T21:34:04.564Z",
+      "lastSuccessAt": "2026-10-15T21:34:04.564Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -512,7 +504,13 @@
     "2110741355739963884": "79401bb7a81da6b7f7580db08ffb2a1a50e767f927f616b40216414d8d9afa66",
     "2110797830361436604": "452df5f85840022c356c52e5d355f2f58f31ee0112c3adf1a63d11c6ffe2bf0d",
     "2110755247681388786": "493ad5c46461706da5dbb2a20a5b6c83d66086113a13a78b8528a7b6fca3f1c4",
-    "2110779479828176965": "926defbb6b029a388efd8ddcfdfea7aa9e3374c6a0e0a4a977655cbfa0c93067"
+    "2110779479828176965": "926defbb6b029a388efd8ddcfdfea7aa9e3374c6a0e0a4a977655cbfa0c93067",
+    "2110841898076418336": "c12f53ba1c01fe104cb1a6a5e7a8cdd1ab71008aa8438e387de46d6bfba6f05a",
+    "2110841899838046525": "e0e3f792506f82fec2f69ccbd4973a73d946c2181fa49a7b1c40eeaae6844351",
+    "2110841901121511705": "bf05f54a9364a13016c9018cd13bd5ba152d881270c7db5d3b44873606ce5987",
+    "2110832979656524283": "ef2b5ddc7eead7219ac2f9b0363fbe8f058dfa6964175589acaf873b52b6c42c",
+    "2110832983582371913": "cc1f793ed006a932006b792e0453626c3622ddd3e38ef87552f47cc92b669bb1",
+    "2110832986501603786": "16ff981b73c6bdd0a37bff21717f332285e77b978c23b1560a9b0cf31d7c39ef"
   },
   "eventParserVersion": 5
 }
