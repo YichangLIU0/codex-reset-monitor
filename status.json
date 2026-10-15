@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T04:52:11.261Z",
+  "updatedAt": "2026-10-15T09:28:51.196Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T04:52:11.258Z",
-    "lastSuccessAt": "2026-10-15T04:52:11.258Z",
+    "lastCheckedAt": "2026-10-15T09:28:51.187Z",
+    "lastSuccessAt": "2026-10-15T09:28:51.187Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110591392691159317",
-    "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
-    "url": "https://x.com/thsottiaux/status/2110591392691159317",
-    "postCreatedAt": "2026-10-15T04:39:35.000Z"
+    "id": "2110624335463584028",
+    "text": "@theo Nice. Will fix",
+    "url": "https://x.com/thsottiaux/status/2110624335463584028",
+    "postCreatedAt": "2026-10-15T06:50:29.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,42 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
+      "id": "2110595484180214059",
+      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+      "url": "https://x.com/thsottiaux/status/2110595484180214059",
+      "postCreatedAt": "2026-10-15T04:55:51.000Z",
+      "detectedAt": "2026-10-15T09:28:47.998Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "The reports of my reset button being lost are greatly exaggerated",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "The reports of my reset button being lost are greatly exaggerated",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        },
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 10/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 10/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
       "id": "2109873287853707513",

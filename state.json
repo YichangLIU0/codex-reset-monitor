@@ -14,34 +14,26 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110591392691159317",
-      "lastCheckedAt": "2026-10-15T04:52:08.395Z",
-      "lastSuccessAt": "2026-10-15T04:52:08.395Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 47,
+      "sinceId": "2110624335463584028",
+      "lastCheckedAt": "2026-10-15T09:28:48.000Z",
+      "lastSuccessAt": "2026-10-15T09:28:48.000Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 53,
       "latestObservedPost": {
-        "id": "2110591392691159317",
-        "canonicalId": "2110591392691159317",
-        "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
-        "createdAt": "2026-10-15T04:39:35.000Z",
-        "url": "https://x.com/thsottiaux/status/2110591392691159317",
-        "media": [
-          {
-            "mediaKey": "2110591377675612160",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUpTrPRbcAAVR5R.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2110624335463584028",
+        "canonicalId": "2110624335463584028",
+        "text": "@theo Nice. Will fix",
+        "createdAt": "2026-10-15T06:50:29.000Z",
+        "url": "https://x.com/thsottiaux/status/2110624335463584028",
+        "media": []
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T04:52:08.595Z",
-      "lastSuccessAt": "2026-10-15T04:52:08.595Z",
+      "lastCheckedAt": "2026-10-15T09:28:48.396Z",
+      "lastSuccessAt": "2026-10-15T09:28:48.396Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -57,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T04:52:09.102Z",
-      "lastSuccessAt": "2026-10-15T04:52:09.102Z",
+      "lastCheckedAt": "2026-10-15T09:28:49.176Z",
+      "lastSuccessAt": "2026-10-15T09:28:49.176Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110442001749659890",
-      "lastCheckedAt": "2026-10-15T04:52:09.580Z",
-      "lastSuccessAt": "2026-10-15T04:52:09.580Z",
+      "lastCheckedAt": "2026-10-15T09:28:49.533Z",
+      "lastSuccessAt": "2026-10-15T09:28:49.533Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -99,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2110470655829549316",
-      "lastCheckedAt": "2026-10-15T04:52:10.393Z",
-      "lastSuccessAt": "2026-10-15T04:52:10.393Z",
+      "lastCheckedAt": "2026-10-15T09:28:50.402Z",
+      "lastSuccessAt": "2026-10-15T09:28:50.402Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 28,
       "latestObservedPost": {
@@ -126,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-15T04:52:11.258Z",
-      "lastSuccessAt": "2026-10-15T04:52:11.258Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-15T09:28:51.187Z",
+      "lastSuccessAt": "2026-10-15T09:28:51.187Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
         "id": "2110549281275003259",
@@ -142,6 +134,46 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
+      "id": "2110595484180214059",
+      "canonicalId": "2110595484180214059",
+      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+      "createdAt": "2026-10-15T04:55:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2110595484180214059",
+      "media": [],
+      "detectedAt": "2026-10-15T09:28:47.998Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "The reports of my reset button being lost are greatly exaggerated",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "The reports of my reset button being lost are greatly exaggerated",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        },
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 10/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 10/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-15T09:28:51.189Z"
+    },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
       "id": "2109873287853707513",
@@ -470,7 +502,13 @@
     "2110589470911418414": "912d303446b8e66a7e657841ed31015a3d0af3dc4e6649f61f0e9b4335c9841e",
     "2110591392691159317": "e027ff75ceba8f60c5aa786d1f0b4d6cb7e4cdf48a215bcabdaff6aada25ba35",
     "2110533325362524405": "6eaf17af565bba4fb64c0254ec12b96355d729b5c06ef614fec74543bf619648",
-    "2110549281275003259": "b95eaf3e95c6f9529b1f20eca8ae7e1a17a92ae68539a4827253c409f6bab9c9"
+    "2110549281275003259": "b95eaf3e95c6f9529b1f20eca8ae7e1a17a92ae68539a4827253c409f6bab9c9",
+    "2110595484180214059": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
+    "2110595554036400151": "73915993aa7b4ccdbe8f83fbbe3b1ad3aba37875b1ddd8301cf9e0a1eebdf2b0",
+    "2110595987542868381": "bd69f639e6d4d9b1fb5a17b02b396c8c828ee0809385f585a29f7fb8cf7a5954",
+    "2110612268962779352": "4f39d52a7c7deee6cfa9c721b959c52f615e08675a640524b8baaf8b1a6ad1ab",
+    "2110618732666257557": "996d7cf9247938296f825c7bd9eac307760773d5fd36fb40dc9f0e8c4c806639",
+    "2110624335463584028": "dbb755b91b9555b5b948fe74ed1665aad1fb20e53918a88be35338e80709d37e"
   },
   "eventParserVersion": 5
 }
