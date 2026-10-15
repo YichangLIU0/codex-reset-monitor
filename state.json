@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110624335463584028",
-      "lastCheckedAt": "2026-10-15T14:19:09.962Z",
-      "lastSuccessAt": "2026-10-15T14:19:09.962Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 53,
+      "sinceId": "2110750421367287996",
+      "lastCheckedAt": "2026-10-15T18:23:31.512Z",
+      "lastSuccessAt": "2026-10-15T18:23:31.512Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 54,
       "latestObservedPost": {
-        "id": "2110624335463584028",
-        "canonicalId": "2110624335463584028",
-        "text": "@theo Nice. Will fix",
-        "createdAt": "2026-10-15T06:50:29.000Z",
-        "url": "https://x.com/thsottiaux/status/2110624335463584028",
+        "id": "2110750421367287996",
+        "canonicalId": "2110750421367287996",
+        "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
+        "createdAt": "2026-10-15T15:11:30.000Z",
+        "url": "https://x.com/thsottiaux/status/2110750421367287996",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-15T14:19:10.427Z",
-      "lastSuccessAt": "2026-10-15T14:19:10.427Z",
+      "lastCheckedAt": "2026-10-15T18:23:32.153Z",
+      "lastSuccessAt": "2026-10-15T18:23:32.153Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-15T14:19:10.968Z",
-      "lastSuccessAt": "2026-10-15T14:19:10.968Z",
+      "lastCheckedAt": "2026-10-15T18:23:33.283Z",
+      "lastSuccessAt": "2026-10-15T18:23:33.283Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -65,23 +65,23 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2110442001749659890",
-      "lastCheckedAt": "2026-10-15T14:19:11.786Z",
-      "lastSuccessAt": "2026-10-15T14:19:11.786Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 17,
+      "sinceId": "2110797830361436604",
+      "lastCheckedAt": "2026-10-15T18:23:34.378Z",
+      "lastSuccessAt": "2026-10-15T18:23:34.378Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 19,
       "latestObservedPost": {
-        "id": "2110442001749659890",
-        "canonicalId": "2110442001749659890",
-        "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5sW0B",
-        "createdAt": "2026-10-14T18:45:57.000Z",
-        "url": "https://x.com/OpenAI/status/2110442001749659890",
+        "id": "2110797830361436604",
+        "canonicalId": "2110797830361436604",
+        "text": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm",
+        "createdAt": "2026-10-15T18:19:54.000Z",
+        "url": "https://x.com/OpenAI/status/2110797830361436604",
         "media": [
           {
-            "mediaKey": "2110438471085293568",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUnIm51bgAA9cT4.jpg?name=orig",
-            "previewImageUrl": null,
+            "mediaKey": "2110784796872024064",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2110784796872024064/vid/avc1/1920x1080/8Vu0_v7N3caBHxH7.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg",
             "altText": null
           }
         ]
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2110470655829549316",
-      "lastCheckedAt": "2026-10-15T14:19:12.821Z",
-      "lastSuccessAt": "2026-10-15T14:19:12.821Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 28,
+      "sinceId": "2110779479828176965",
+      "lastCheckedAt": "2026-10-15T18:23:35.582Z",
+      "lastSuccessAt": "2026-10-15T18:23:35.582Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 30,
       "latestObservedPost": {
-        "id": "2110470655829549316",
-        "canonicalId": "2110470655829549316",
-        "text": "@steveDOTplus 🧠",
-        "createdAt": "2026-10-14T20:39:49.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2110470655829549316",
+        "id": "2110779479828176965",
+        "canonicalId": "2110779479828176965",
+        "text": "@juandadotdev @aileenvl @paw_lean @rhiannon_io @fedesarquis do it!",
+        "createdAt": "2026-10-15T17:06:59.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2110779479828176965",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-15T14:19:13.756Z",
-      "lastSuccessAt": "2026-10-15T14:19:13.756Z",
+      "lastCheckedAt": "2026-10-15T18:23:37.721Z",
+      "lastSuccessAt": "2026-10-15T18:23:37.721Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -507,7 +507,12 @@
     "2110595987542868381": "bd69f639e6d4d9b1fb5a17b02b396c8c828ee0809385f585a29f7fb8cf7a5954",
     "2110612268962779352": "4f39d52a7c7deee6cfa9c721b959c52f615e08675a640524b8baaf8b1a6ad1ab",
     "2110618732666257557": "996d7cf9247938296f825c7bd9eac307760773d5fd36fb40dc9f0e8c4c806639",
-    "2110624335463584028": "dbb755b91b9555b5b948fe74ed1665aad1fb20e53918a88be35338e80709d37e"
+    "2110624335463584028": "dbb755b91b9555b5b948fe74ed1665aad1fb20e53918a88be35338e80709d37e",
+    "2110750421367287996": "9ab399408adb8eb52756a9a678e0deee64aeb1a7a41f97881af9a56eb96cd563",
+    "2110741355739963884": "79401bb7a81da6b7f7580db08ffb2a1a50e767f927f616b40216414d8d9afa66",
+    "2110797830361436604": "452df5f85840022c356c52e5d355f2f58f31ee0112c3adf1a63d11c6ffe2bf0d",
+    "2110755247681388786": "493ad5c46461706da5dbb2a20a5b6c83d66086113a13a78b8528a7b6fca3f1c4",
+    "2110779479828176965": "926defbb6b029a388efd8ddcfdfea7aa9e3374c6a0e0a4a977655cbfa0c93067"
   },
   "eventParserVersion": 5
 }

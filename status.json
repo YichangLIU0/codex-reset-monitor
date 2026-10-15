@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T14:19:13.926Z",
+  "updatedAt": "2026-10-15T18:23:37.726Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T14:19:13.756Z",
-    "lastSuccessAt": "2026-10-15T14:19:13.756Z",
+    "lastCheckedAt": "2026-10-15T18:23:37.721Z",
+    "lastSuccessAt": "2026-10-15T18:23:37.721Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110624335463584028",
-    "text": "@theo Nice. Will fix",
-    "url": "https://x.com/thsottiaux/status/2110624335463584028",
-    "postCreatedAt": "2026-10-15T06:50:29.000Z"
+    "id": "2110797830361436604",
+    "text": "New voices. Better accents. And less \"checking...\"\n\nGPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nRolling out today to all users. Coming soon to the API. https://t.co/L6K8ZUC1xm",
+    "url": "https://x.com/OpenAI/status/2110797830361436604",
+    "postCreatedAt": "2026-10-15T18:19:54.000Z"
   },
   "latest": {
     "reset": {
