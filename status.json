@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T11:43:15.552Z",
+  "updatedAt": "2026-10-16T15:34:15.566Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T11:43:15.525Z",
-    "lastSuccessAt": "2026-10-16T11:43:15.525Z",
+    "lastCheckedAt": "2026-10-16T15:34:15.561Z",
+    "lastSuccessAt": "2026-10-16T15:34:15.561Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2110971985417441512",
-    "text": "Either we are out of ideas or we are cooking. Time will tell",
-    "url": "https://x.com/thsottiaux/status/2110971985417441512",
-    "postCreatedAt": "2026-10-16T05:51:55.000Z"
+    "id": "2111113265598066783",
+    "text": "@DimssGPT yes!",
+    "url": "https://x.com/OpenAIDevs/status/2111113265598066783",
+    "postCreatedAt": "2026-10-16T15:13:19.000Z"
   },
   "latest": {
     "reset": {
