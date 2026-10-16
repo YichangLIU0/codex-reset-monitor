@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T15:34:15.566Z",
+  "updatedAt": "2026-10-16T18:59:15.959Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T15:34:15.561Z",
-    "lastSuccessAt": "2026-10-16T15:34:15.561Z",
+    "lastCheckedAt": "2026-10-16T18:59:15.956Z",
+    "lastSuccessAt": "2026-10-16T18:59:15.956Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111113265598066783",
-    "text": "@DimssGPT yes!",
-    "url": "https://x.com/OpenAIDevs/status/2111113265598066783",
-    "postCreatedAt": "2026-10-16T15:13:19.000Z"
+    "id": "2111146223927431512",
+    "text": "@Harsshavardan3 @mvkaran @idevsr thank you for coming!",
+    "url": "https://x.com/OpenAIDevs/status/2111146223927431512",
+    "postCreatedAt": "2026-10-16T17:24:17.000Z"
   },
   "latest": {
     "reset": {

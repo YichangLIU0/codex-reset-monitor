@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2110971985417441512",
-      "lastCheckedAt": "2026-10-16T15:34:12.650Z",
-      "lastSuccessAt": "2026-10-16T15:34:12.650Z",
+      "lastCheckedAt": "2026-10-16T18:59:10.863Z",
+      "lastSuccessAt": "2026-10-16T18:59:10.863Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 60,
       "latestObservedPost": {
@@ -31,26 +31,34 @@
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-16T15:34:13.128Z",
-      "lastSuccessAt": "2026-10-16T15:34:13.128Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 19,
+      "sinceId": "2111139227761266699",
+      "lastCheckedAt": "2026-10-16T18:59:11.808Z",
+      "lastSuccessAt": "2026-10-16T18:59:11.808Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 22,
       "latestObservedPost": {
-        "id": "2107924677801001381",
-        "canonicalId": "2107924677801001381",
-        "text": "Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
-        "createdAt": "2026-10-07T20:03:01.000Z",
-        "url": "https://x.com/sama/status/2107924677801001381",
-        "media": []
+        "id": "2111139227761266699",
+        "canonicalId": "2111139227761266699",
+        "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
+        "createdAt": "2026-10-16T16:56:29.000Z",
+        "url": "https://x.com/sama/status/2111139227761266699",
+        "media": [
+          {
+            "mediaKey": "2111138966007373826",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-16T15:34:13.712Z",
-      "lastSuccessAt": "2026-10-16T15:34:13.712Z",
+      "lastCheckedAt": "2026-10-16T18:59:12.974Z",
+      "lastSuccessAt": "2026-10-16T18:59:12.974Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -66,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110841901121511705",
-      "lastCheckedAt": "2026-10-16T15:34:14.095Z",
-      "lastSuccessAt": "2026-10-16T15:34:14.095Z",
+      "lastCheckedAt": "2026-10-16T18:59:13.329Z",
+      "lastSuccessAt": "2026-10-16T18:59:13.329Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -82,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2111113265598066783",
-      "lastCheckedAt": "2026-10-16T15:34:15.017Z",
-      "lastSuccessAt": "2026-10-16T15:34:15.017Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 38,
+      "sinceId": "2111146223927431512",
+      "lastCheckedAt": "2026-10-16T18:59:14.596Z",
+      "lastSuccessAt": "2026-10-16T18:59:14.596Z",
+      "lastRunStatus": "checked-10-posts",
+      "postsScanned": 48,
       "latestObservedPost": {
-        "id": "2111113265598066783",
-        "canonicalId": "2111113265598066783",
-        "text": "@DimssGPT yes!",
-        "createdAt": "2026-10-16T15:13:19.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2111113265598066783",
+        "id": "2111146223927431512",
+        "canonicalId": "2111146223927431512",
+        "text": "@Harsshavardan3 @mvkaran @idevsr thank you for coming!",
+        "createdAt": "2026-10-16T17:24:17.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2111146223927431512",
         "media": []
       }
     },
@@ -110,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2110964663148298488",
-      "lastCheckedAt": "2026-10-16T15:34:15.561Z",
-      "lastSuccessAt": "2026-10-16T15:34:15.561Z",
+      "lastCheckedAt": "2026-10-16T18:59:15.956Z",
+      "lastSuccessAt": "2026-10-16T18:59:15.956Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -524,7 +532,20 @@
     "2110936807622000753": "f09f0bd34723c814ee02d623f856ac0a46751a537403fe3a8e09de4dd7a5f402",
     "2110945423288652161": "645bd4704af95dc009fe662cb5536df71281851f7d0d561fa2d47a5d1ebb6ba0",
     "2110964663148298488": "70e1021de1963b7c7c9d463624098ceadc077187a2b7314876501f0360f4f61c",
-    "2111113265598066783": "e9186b79135a4e1b51be7c7fd154c78f17d11c0e7b2e703365989da573879783"
+    "2111113265598066783": "e9186b79135a4e1b51be7c7fd154c78f17d11c0e7b2e703365989da573879783",
+    "2111130577789493706": "b055cddc7ac6379540e96247bb6179b93fda041b262d4138f02d3d94f4c3ab8e",
+    "2111131677351432197": "d2345a92cdb88b136e9072699eb243e880793362c18db4d3da29c396eaa360b8",
+    "2111139227761266699": "a8aaf5756cdc7f8bf2dc7fcfef4211a2621205bac0b9b0326468de40a7690bd3",
+    "2111138825535897754": "c8c54d5b20139bc4cf175c06638d2613a14f0f87fd60f6ce03f4755748f811b9",
+    "2111139434515005545": "5d6c5094bd50373d9e22cc350020b5e76d571346859bf84b841ffc9529e8d19e",
+    "2111139564353900799": "114e567773035885c06707c14ac867fe55c7020ef6550b160d819818efc1f7d5",
+    "2111141920659710378": "300d06bc00f5179cd34f5ac49be7cd7a9f9e4c9bd71c3e075210afa7987123eb",
+    "2111141968273396213": "9c47f4c5efdbb2e4303e6bd141d3561e148edeaa83cc01bbef821a398a7384d8",
+    "2111142258867335430": "933ffe25cfe8d7d767791cc6d120a5a2f7ad4a0aea83e0fab4242d0eeb956033",
+    "2111142271177621603": "c21b5a4fa9f7d1e6f3a806eb402052bbeafcdac1dee8628d8562ae2e1ab59a54",
+    "2111146081576989035": "c91cec007967efff8135d139e252351644c465b80737da50c949817dc95ded2d",
+    "2111146128527732790": "63eccfc547fc10f7a912f2a6be40b9cc1a6401be0ea8509b08c3431d29a7588f",
+    "2111146223927431512": "096a86f8c6ace73b9d2c0d93be2d19a24ecba778f7611287fc8c8b2df3e5acaf"
   },
   "eventParserVersion": 5
 }
