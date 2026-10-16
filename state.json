@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110868151688912976",
-      "lastCheckedAt": "2026-10-16T01:43:31.458Z",
-      "lastSuccessAt": "2026-10-16T01:43:31.458Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 57,
+      "sinceId": "2110971985417441512",
+      "lastCheckedAt": "2026-10-16T06:25:16.797Z",
+      "lastSuccessAt": "2026-10-16T06:25:16.797Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 60,
       "latestObservedPost": {
-        "id": "2110868151688912976",
-        "canonicalId": "2110868151688912976",
-        "text": "@_simonsmith Spot on",
-        "createdAt": "2026-10-15T22:59:20.000Z",
-        "url": "https://x.com/thsottiaux/status/2110868151688912976",
+        "id": "2110971985417441512",
+        "canonicalId": "2110971985417441512",
+        "text": "Either we are out of ideas or we are cooking. Time will tell",
+        "createdAt": "2026-10-16T05:51:55.000Z",
+        "url": "https://x.com/thsottiaux/status/2110971985417441512",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2107924677801001381",
-      "lastCheckedAt": "2026-10-16T01:43:32.123Z",
-      "lastSuccessAt": "2026-10-16T01:43:32.123Z",
+      "lastCheckedAt": "2026-10-16T06:25:17.202Z",
+      "lastSuccessAt": "2026-10-16T06:25:17.202Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 19,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-16T01:43:32.690Z",
-      "lastSuccessAt": "2026-10-16T01:43:32.690Z",
+      "lastCheckedAt": "2026-10-16T06:25:17.724Z",
+      "lastSuccessAt": "2026-10-16T06:25:17.724Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2110841901121511705",
-      "lastCheckedAt": "2026-10-16T01:43:33.074Z",
-      "lastSuccessAt": "2026-10-16T01:43:33.074Z",
+      "lastCheckedAt": "2026-10-16T06:25:18.070Z",
+      "lastSuccessAt": "2026-10-16T06:25:18.070Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2110855386140229777",
-      "lastCheckedAt": "2026-10-16T01:43:34.398Z",
-      "lastSuccessAt": "2026-10-16T01:43:34.398Z",
+      "lastCheckedAt": "2026-10-16T06:25:18.920Z",
+      "lastSuccessAt": "2026-10-16T06:25:18.920Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 37,
       "latestObservedPost": {
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2110549281275003259",
-      "lastCheckedAt": "2026-10-16T01:43:35.447Z",
-      "lastSuccessAt": "2026-10-16T01:43:35.447Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 21,
+      "sinceId": "2110964663148298488",
+      "lastCheckedAt": "2026-10-16T06:25:19.786Z",
+      "lastSuccessAt": "2026-10-16T06:25:19.786Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 24,
       "latestObservedPost": {
-        "id": "2110549281275003259",
-        "canonicalId": "2110549281275003259",
-        "text": "@Dimillian Screen is too good though",
-        "createdAt": "2026-10-15T01:52:15.000Z",
-        "url": "https://x.com/dkundel/status/2110549281275003259",
+        "id": "2110964663148298488",
+        "canonicalId": "2110964663148298488",
+        "text": "@pritopian I love this! I haven't tried it yet but I wonder if you could upload straight to a site and use MCP events kinda like how @gabrielchua did to skip the email part \nhttps://t.co/8tVFIGC12l",
+        "createdAt": "2026-10-16T05:22:50.000Z",
+        "url": "https://x.com/dkundel/status/2110964663148298488",
         "media": []
       }
     }
@@ -517,7 +517,13 @@
     "2110855366787703209": "676ee7d5127c70065a81d77580f8b22170822ed3f8a090c0adeee39ed0b38b62",
     "2110855370529034323": "f318aff4180e2df1859d4cf189f82b291c2bd815a2ee60d04aa53fae30daded2",
     "2110855382444704190": "2f4022a5456dfe25329299951380a1c323da34cbf29f27550128260d03a6374d",
-    "2110855386140229777": "c71baa68221481b9c23f702f94eb773ce0f8782d955c7ec34bd5360a518b6f05"
+    "2110855386140229777": "c71baa68221481b9c23f702f94eb773ce0f8782d955c7ec34bd5360a518b6f05",
+    "2110951220508819773": "426982ae1809c8441a67444bd1e377d7d360f7bef01ced722981265758966b2a",
+    "2110951585983631505": "7548d7bae97822dd136be48ff9233498b82a757b3eafd8e0784bb3540589d8d2",
+    "2110971985417441512": "18f651de9935a3e009b2ed6a61e364b0691de4a400d87513ee3be7be30b8500c",
+    "2110936807622000753": "f09f0bd34723c814ee02d623f856ac0a46751a537403fe3a8e09de4dd7a5f402",
+    "2110945423288652161": "645bd4704af95dc009fe662cb5536df71281851f7d0d561fa2d47a5d1ebb6ba0",
+    "2110964663148298488": "70e1021de1963b7c7c9d463624098ceadc077187a2b7314876501f0360f4f61c"
   },
   "eventParserVersion": 5
 }
