@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T20:15:58.360Z",
+  "updatedAt": "2026-10-17T22:23:59.158Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T20:15:58.313Z",
-    "lastSuccessAt": "2026-10-17T20:15:58.313Z",
+    "lastCheckedAt": "2026-10-17T22:23:59.154Z",
+    "lastSuccessAt": "2026-10-17T22:23:59.154Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111523665817047359",
-    "text": "@ajambrosino @petergyang @amorriscode 🍺👌",
-    "url": "https://x.com/thsottiaux/status/2111523665817047359",
-    "postCreatedAt": "2026-10-17T18:24:06.000Z"
+    "id": "2111583927156760690",
+    "text": "@ananyairl Pot committed",
+    "url": "https://x.com/thsottiaux/status/2111583927156760690",
+    "postCreatedAt": "2026-10-17T22:23:34.000Z"
   },
   "latest": {
     "reset": {
