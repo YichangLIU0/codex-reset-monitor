@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T15:46:53.364Z",
+  "updatedAt": "2026-10-17T17:58:28.129Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T15:46:53.361Z",
-    "lastSuccessAt": "2026-10-17T15:46:53.361Z",
+    "lastCheckedAt": "2026-10-17T17:58:28.124Z",
+    "lastSuccessAt": "2026-10-17T17:58:28.124Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111341888322314672",
-    "text": "@steipete 💀",
-    "url": "https://x.com/thsottiaux/status/2111341888322314672",
-    "postCreatedAt": "2026-10-17T06:21:47.000Z"
+    "id": "2111495569806065883",
+    "text": "@ajambrosino @ah20im start a ghost in the machine tactical squad, we've got a degradation",
+    "url": "https://x.com/thsottiaux/status/2111495569806065883",
+    "postCreatedAt": "2026-10-17T16:32:28.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+      "id": "2111492673890824348",
+      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+      "url": "https://x.com/thsottiaux/status/2111492673890824348",
+      "postCreatedAt": "2026-10-17T16:20:57.000Z",
+      "detectedAt": "2026-10-17T17:58:23.795Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111341888322314672",
-      "lastCheckedAt": "2026-10-17T15:46:49.986Z",
-      "lastSuccessAt": "2026-10-17T15:46:49.986Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 74,
+      "sinceId": "2111495569806065883",
+      "lastCheckedAt": "2026-10-17T17:58:23.795Z",
+      "lastSuccessAt": "2026-10-17T17:58:23.795Z",
+      "lastRunStatus": "checked-7-posts",
+      "postsScanned": 81,
       "latestObservedPost": {
-        "id": "2111341888322314672",
-        "canonicalId": "2111341888322314672",
-        "text": "@steipete 💀",
-        "createdAt": "2026-10-17T06:21:47.000Z",
-        "url": "https://x.com/thsottiaux/status/2111341888322314672",
+        "id": "2111495569806065883",
+        "canonicalId": "2111495569806065883",
+        "text": "@ajambrosino @ah20im start a ghost in the machine tactical squad, we've got a degradation",
+        "createdAt": "2026-10-17T16:32:28.000Z",
+        "url": "https://x.com/thsottiaux/status/2111495569806065883",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-17T15:46:50.368Z",
-      "lastSuccessAt": "2026-10-17T15:46:50.368Z",
+      "lastCheckedAt": "2026-10-17T17:58:24.481Z",
+      "lastSuccessAt": "2026-10-17T17:58:24.481Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-17T15:46:51.075Z",
-      "lastSuccessAt": "2026-10-17T15:46:51.075Z",
+      "lastCheckedAt": "2026-10-17T17:58:25.576Z",
+      "lastSuccessAt": "2026-10-17T17:58:25.576Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-17T15:46:52.033Z",
-      "lastSuccessAt": "2026-10-17T15:46:52.033Z",
+      "lastCheckedAt": "2026-10-17T17:58:26.737Z",
+      "lastSuccessAt": "2026-10-17T17:58:26.737Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111231765910351966",
-      "lastCheckedAt": "2026-10-17T15:46:52.892Z",
-      "lastSuccessAt": "2026-10-17T15:46:52.892Z",
+      "lastCheckedAt": "2026-10-17T17:58:27.653Z",
+      "lastSuccessAt": "2026-10-17T17:58:27.653Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 55,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2111327574542716952",
-      "lastCheckedAt": "2026-10-17T15:46:53.361Z",
-      "lastSuccessAt": "2026-10-17T15:46:53.361Z",
+      "lastCheckedAt": "2026-10-17T17:58:28.124Z",
+      "lastSuccessAt": "2026-10-17T17:58:28.124Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -134,6 +134,42 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+      "id": "2111492673890824348",
+      "canonicalId": "2111492673890824348",
+      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+      "createdAt": "2026-10-17T16:20:57.000Z",
+      "url": "https://x.com/thsottiaux/status/2111492673890824348",
+      "media": [
+        {
+          "mediaKey": "2111492634128920576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU2HXRMbsAAqviR.jpg?name=orig",
+          "previewImageUrl": null,
+          "altText": null
+        }
+      ],
+      "detectedAt": "2026-10-17T17:58:23.795Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-17T17:58:28.126Z"
+    },
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",
@@ -572,7 +608,14 @@
     "2111339932614861298": "82b1dae819e850b94dcea0128e148c52677f1aa0191579b83462bc0c38d889fb",
     "2111341888322314672": "d2681eabf4574cce53ac494363055b5dc1f5c0877985cace0da168e8526acd73",
     "2111321421268091277": "57202536c00460f533fb2bcdb75eea981602c5fe2957aa9aa83068a5b20403d0",
-    "2111327574542716952": "3b354c989584cf1aa5cd59e93d338dd3f3779390fca17ef8d221845e0573787e"
+    "2111327574542716952": "3b354c989584cf1aa5cd59e93d338dd3f3779390fca17ef8d221845e0573787e",
+    "2111491105120547265": "26773c25c2b35ed67f86af4c0f2e363c32ba29c7edb689aee2c28627ad30fc88",
+    "2111492028177723532": "ee4691b223bce3bdd0e4ca6fd45d1f925b368acff7694542b8a3427fad12d64a",
+    "2111492673890824348": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+    "2111492738025959922": "5fe871f49ebf8b3dcc5f177868206d637165a25dd6b3a380669da68f0b84c554",
+    "2111493076850229733": "be56a8690a86a95c9eb5f83ddd8a246c079828d4320ede5942fcc152779f9e9c",
+    "2111495392559067199": "9ecb634bd92e9578282dbbc5b78614c3d46e757fc4e81b6e5a78f3821a0c3489",
+    "2111495569806065883": "e3af21cf8ad4f03c93abf616c2b18b90c37e2775b604dc61d5c50ea9e5ce5ebe"
   },
   "eventParserVersion": 5
 }
