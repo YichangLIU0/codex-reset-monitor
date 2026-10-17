@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T21:57:59.042Z",
+  "updatedAt": "2026-10-17T00:10:34.265Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T21:57:59.039Z",
-    "lastSuccessAt": "2026-10-16T21:57:59.039Z",
+    "lastCheckedAt": "2026-10-17T00:10:34.260Z",
+    "lastSuccessAt": "2026-10-17T00:10:34.260Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111213105732784408",
-    "text": "https://t.co/M0xXGlyiMM",
-    "url": "https://x.com/OpenAIDevs/status/2111213105732784408",
-    "postCreatedAt": "2026-10-16T21:50:03.000Z"
+    "id": "2111246098207813946",
+    "text": "@codex_resets Mehga ghud",
+    "url": "https://x.com/thsottiaux/status/2111246098207813946",
+    "postCreatedAt": "2026-10-17T00:01:09.000Z"
   },
   "latest": {
     "reset": {

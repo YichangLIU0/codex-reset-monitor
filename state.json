@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2110971985417441512",
-      "lastCheckedAt": "2026-10-16T21:57:50.533Z",
-      "lastSuccessAt": "2026-10-16T21:57:50.533Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 60,
+      "sinceId": "2111246098207813946",
+      "lastCheckedAt": "2026-10-17T00:10:29.103Z",
+      "lastSuccessAt": "2026-10-17T00:10:29.103Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 66,
       "latestObservedPost": {
-        "id": "2110971985417441512",
-        "canonicalId": "2110971985417441512",
-        "text": "Either we are out of ideas or we are cooking. Time will tell",
-        "createdAt": "2026-10-16T05:51:55.000Z",
-        "url": "https://x.com/thsottiaux/status/2110971985417441512",
+        "id": "2111246098207813946",
+        "canonicalId": "2111246098207813946",
+        "text": "@codex_resets Mehga ghud",
+        "createdAt": "2026-10-17T00:01:09.000Z",
+        "url": "https://x.com/thsottiaux/status/2111246098207813946",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-16T21:57:51.169Z",
-      "lastSuccessAt": "2026-10-16T21:57:51.169Z",
+      "lastCheckedAt": "2026-10-17T00:10:29.931Z",
+      "lastSuccessAt": "2026-10-17T00:10:29.931Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-16T21:57:52.075Z",
-      "lastSuccessAt": "2026-10-16T21:57:52.075Z",
+      "lastCheckedAt": "2026-10-17T00:10:30.430Z",
+      "lastSuccessAt": "2026-10-17T00:10:30.430Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,9 +74,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-16T21:57:52.823Z",
-      "lastSuccessAt": "2026-10-16T21:57:52.823Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-17T00:10:31.689Z",
+      "lastSuccessAt": "2026-10-17T00:10:31.689Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
         "id": "2111192259073094035",
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2111213105732784408",
-      "lastCheckedAt": "2026-10-16T21:57:57.396Z",
-      "lastSuccessAt": "2026-10-16T21:57:57.396Z",
-      "lastRunStatus": "checked-5-posts",
-      "postsScanned": 53,
+      "sinceId": "2111231765910351966",
+      "lastCheckedAt": "2026-10-17T00:10:33.212Z",
+      "lastSuccessAt": "2026-10-17T00:10:33.212Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 55,
       "latestObservedPost": {
-        "id": "2111213105732784408",
-        "canonicalId": "2111213105732784408",
-        "text": "https://t.co/M0xXGlyiMM",
-        "createdAt": "2026-10-16T21:50:03.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2111213105732784408",
+        "id": "2111231765910351966",
+        "canonicalId": "2111231765910351966",
+        "text": "@RAC what a fun ship",
+        "createdAt": "2026-10-16T23:04:12.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2111231765910351966",
         "media": []
       }
     },
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2110964663148298488",
-      "lastCheckedAt": "2026-10-16T21:57:59.039Z",
-      "lastSuccessAt": "2026-10-16T21:57:59.039Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 24,
+      "sinceId": "2111245281752997895",
+      "lastCheckedAt": "2026-10-17T00:10:34.260Z",
+      "lastSuccessAt": "2026-10-17T00:10:34.260Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 27,
       "latestObservedPost": {
-        "id": "2110964663148298488",
-        "canonicalId": "2110964663148298488",
-        "text": "@pritopian I love this! I haven't tried it yet but I wonder if you could upload straight to a site and use MCP events kinda like how @gabrielchua did to skip the email part \nhttps://t.co/8tVFIGC12l",
-        "createdAt": "2026-10-16T05:22:50.000Z",
-        "url": "https://x.com/dkundel/status/2110964663148298488",
+        "id": "2111245281752997895",
+        "canonicalId": "2111245281752997895",
+        "text": "@gpj @romainhuet But he didn't build something from scratch while he's in the air using ultrafast",
+        "createdAt": "2026-10-16T23:57:54.000Z",
+        "url": "https://x.com/dkundel/status/2111245281752997895",
         "media": []
       }
     }
@@ -551,7 +551,18 @@
     "2111177111436435763": "9c8487a1c62376fb409f9865be23f04b55815675384001702c3da63a142bfd55",
     "2111211411766399288": "31819fcc54d90cca4b65d8bbd849729530805f99aea95a9ee518dc94b801569e",
     "2111213093577691337": "a2b44592c8a40715c26c3a179a8413b922509d2e5ce088bc713ee5bb77b08b6b",
-    "2111213105732784408": "759dd02c6c1afe3361a356745a206bba24f5361b204ca9d22ec504a12b6dc113"
+    "2111213105732784408": "759dd02c6c1afe3361a356745a206bba24f5361b204ca9d22ec504a12b6dc113",
+    "2111244596131111253": "8ba50e859e93cdb74d3fe1ffa1efe553781dd7060ab036fe90d25230a9957eef",
+    "2111244957851984181": "eb4b5db2957782b7c384d8740c27df36e26728aaedcd69247a4f2a7e245bc91c",
+    "2111245052513259606": "b40dafe7e3f22faeeab5cbe758dbec14a035fb2df08be0a45a6a93d0ef2c086d",
+    "2111245443917385980": "fd5d531faa999a0404f669d71e2118bea98db1645575f464d0f9ae7ac19e71f5",
+    "2111245772645896573": "582f5f59af613a51a4823d9e8a3426a1fb936c34191ef10bcdb5ffbcaf5d1abe",
+    "2111246098207813946": "97e39979c6f80ae33e79c33a2dee82e978e348a788c192779a35ef0181b3bcb4",
+    "2111215851089322190": "883b950458cf2a061448d58414d42c9682dd63de6bcf40a30f71455d53a74e32",
+    "2111231765910351966": "cc220b44b468ae882f3f0eacbcbbd502533accd027324a0dd96663cee6953d1a",
+    "2111223904782234044": "9b41ea0f444659c48715e6fe6d401d82a626e147ba8257619b9a396e5e879dac",
+    "2111233445968142823": "da3e8937eec72650cd5568e7c34b41835aa3644280f19bb2f5d76c568471f94a",
+    "2111245281752997895": "2105e4225c3b455c7613b71be6faddc8830a835253754f0355aca2f39d437aaa"
   },
   "eventParserVersion": 5
 }
