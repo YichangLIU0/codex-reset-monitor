@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111246098207813946",
-      "lastCheckedAt": "2026-10-17T00:10:29.103Z",
-      "lastSuccessAt": "2026-10-17T00:10:29.103Z",
-      "lastRunStatus": "checked-6-posts",
-      "postsScanned": 66,
+      "sinceId": "2111249810502353152",
+      "lastCheckedAt": "2026-10-17T04:21:25.665Z",
+      "lastSuccessAt": "2026-10-17T04:21:25.665Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 68,
       "latestObservedPost": {
-        "id": "2111246098207813946",
-        "canonicalId": "2111246098207813946",
-        "text": "@codex_resets Mehga ghud",
-        "createdAt": "2026-10-17T00:01:09.000Z",
-        "url": "https://x.com/thsottiaux/status/2111246098207813946",
+        "id": "2111249810502353152",
+        "canonicalId": "2111249810502353152",
+        "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
+        "createdAt": "2026-10-17T00:15:54.000Z",
+        "url": "https://x.com/thsottiaux/status/2111249810502353152",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-17T00:10:29.931Z",
-      "lastSuccessAt": "2026-10-17T00:10:29.931Z",
+      "lastCheckedAt": "2026-10-17T04:21:26.010Z",
+      "lastSuccessAt": "2026-10-17T04:21:26.010Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-17T00:10:30.430Z",
-      "lastSuccessAt": "2026-10-17T00:10:30.430Z",
+      "lastCheckedAt": "2026-10-17T04:21:26.468Z",
+      "lastSuccessAt": "2026-10-17T04:21:26.468Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-17T00:10:31.689Z",
-      "lastSuccessAt": "2026-10-17T00:10:31.689Z",
+      "lastCheckedAt": "2026-10-17T04:21:27.118Z",
+      "lastSuccessAt": "2026-10-17T04:21:27.118Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111231765910351966",
-      "lastCheckedAt": "2026-10-17T00:10:33.212Z",
-      "lastSuccessAt": "2026-10-17T00:10:33.212Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-17T04:21:27.951Z",
+      "lastSuccessAt": "2026-10-17T04:21:27.951Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 55,
       "latestObservedPost": {
         "id": "2111231765910351966",
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2111245281752997895",
-      "lastCheckedAt": "2026-10-17T00:10:34.260Z",
-      "lastSuccessAt": "2026-10-17T00:10:34.260Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-17T04:21:28.616Z",
+      "lastSuccessAt": "2026-10-17T04:21:28.616Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 27,
       "latestObservedPost": {
         "id": "2111245281752997895",
@@ -562,7 +562,9 @@
     "2111231765910351966": "cc220b44b468ae882f3f0eacbcbbd502533accd027324a0dd96663cee6953d1a",
     "2111223904782234044": "9b41ea0f444659c48715e6fe6d401d82a626e147ba8257619b9a396e5e879dac",
     "2111233445968142823": "da3e8937eec72650cd5568e7c34b41835aa3644280f19bb2f5d76c568471f94a",
-    "2111245281752997895": "2105e4225c3b455c7613b71be6faddc8830a835253754f0355aca2f39d437aaa"
+    "2111245281752997895": "2105e4225c3b455c7613b71be6faddc8830a835253754f0355aca2f39d437aaa",
+    "2111249534072529256": "9e9e2e739dde85b7186c93e33f5cc5bb14e297e69817fa0df2521ecad6769a32",
+    "2111249810502353152": "2423d4995cb71188ff2b06f1f0e3a097ec92cba7bd620b3284162ed31df3a7fb"
   },
   "eventParserVersion": 5
 }
