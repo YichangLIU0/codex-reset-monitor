@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111495569806065883",
-      "lastCheckedAt": "2026-10-17T17:58:23.795Z",
-      "lastSuccessAt": "2026-10-17T17:58:23.795Z",
-      "lastRunStatus": "checked-7-posts",
-      "postsScanned": 81,
+      "sinceId": "2111523665817047359",
+      "lastCheckedAt": "2026-10-17T20:15:54.280Z",
+      "lastSuccessAt": "2026-10-17T20:15:54.280Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 85,
       "latestObservedPost": {
-        "id": "2111495569806065883",
-        "canonicalId": "2111495569806065883",
-        "text": "@ajambrosino @ah20im start a ghost in the machine tactical squad, we've got a degradation",
-        "createdAt": "2026-10-17T16:32:28.000Z",
-        "url": "https://x.com/thsottiaux/status/2111495569806065883",
+        "id": "2111523665817047359",
+        "canonicalId": "2111523665817047359",
+        "text": "@ajambrosino @petergyang @amorriscode 🍺👌",
+        "createdAt": "2026-10-17T18:24:06.000Z",
+        "url": "https://x.com/thsottiaux/status/2111523665817047359",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-17T17:58:24.481Z",
-      "lastSuccessAt": "2026-10-17T17:58:24.481Z",
+      "lastCheckedAt": "2026-10-17T20:15:54.624Z",
+      "lastSuccessAt": "2026-10-17T20:15:54.624Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-17T17:58:25.576Z",
-      "lastSuccessAt": "2026-10-17T17:58:25.576Z",
+      "lastCheckedAt": "2026-10-17T20:15:55.074Z",
+      "lastSuccessAt": "2026-10-17T20:15:55.074Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-17T17:58:26.737Z",
-      "lastSuccessAt": "2026-10-17T17:58:26.737Z",
+      "lastCheckedAt": "2026-10-17T20:15:55.727Z",
+      "lastSuccessAt": "2026-10-17T20:15:55.727Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111231765910351966",
-      "lastCheckedAt": "2026-10-17T17:58:27.653Z",
-      "lastSuccessAt": "2026-10-17T17:58:27.653Z",
+      "lastCheckedAt": "2026-10-17T20:15:56.536Z",
+      "lastSuccessAt": "2026-10-17T20:15:56.536Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 55,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111327574542716952",
-      "lastCheckedAt": "2026-10-17T17:58:28.124Z",
-      "lastSuccessAt": "2026-10-17T17:58:28.124Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 29,
+      "sinceId": "2111518070565199922",
+      "lastCheckedAt": "2026-10-17T20:15:58.313Z",
+      "lastSuccessAt": "2026-10-17T20:15:58.313Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 30,
       "latestObservedPost": {
-        "id": "2111327574542716952",
-        "canonicalId": "2111327574542716952",
-        "text": "@prd_008 I just press the camera on the lock screen. Equally fast for me but less annoying",
-        "createdAt": "2026-10-17T05:24:54.000Z",
-        "url": "https://x.com/dkundel/status/2111327574542716952",
+        "id": "2111518070565199922",
+        "canonicalId": "2111518070565199922",
+        "text": "@elithrar I bought one of the Comet Q during the prime deals and I think I need more 🤣",
+        "createdAt": "2026-10-17T18:01:52.000Z",
+        "url": "https://x.com/dkundel/status/2111518070565199922",
         "media": []
       }
     }
@@ -137,7 +137,6 @@
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
       "id": "2111492673890824348",
-      "canonicalId": "2111492673890824348",
       "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
       "createdAt": "2026-10-17T16:20:57.000Z",
       "url": "https://x.com/thsottiaux/status/2111492673890824348",
@@ -165,10 +164,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-17T17:58:28.126Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-17T17:58:28.126Z"
+      ]
     },
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -615,7 +614,12 @@
     "2111492738025959922": "5fe871f49ebf8b3dcc5f177868206d637165a25dd6b3a380669da68f0b84c554",
     "2111493076850229733": "be56a8690a86a95c9eb5f83ddd8a246c079828d4320ede5942fcc152779f9e9c",
     "2111495392559067199": "9ecb634bd92e9578282dbbc5b78614c3d46e757fc4e81b6e5a78f3821a0c3489",
-    "2111495569806065883": "e3af21cf8ad4f03c93abf616c2b18b90c37e2775b604dc61d5c50ea9e5ce5ebe"
+    "2111495569806065883": "e3af21cf8ad4f03c93abf616c2b18b90c37e2775b604dc61d5c50ea9e5ce5ebe",
+    "2111519953564368960": "7a901ede6bf23f3b34e824c4367989f5d6e9e3091e3aa0044dd91aa5b76d47e1",
+    "2111522308666077527": "8af3a5a77e4ea528b67b31a77a2d2516c81cbbeb74e9017eb5a2d9850729ad08",
+    "2111523462372372942": "73086ce52d13dd10922257a2d876e906765e756e5ded47ecc14726a0fd9252b1",
+    "2111523665817047359": "9031dd49c146b84a7852da204b66db81d7208655b84fe4fcfafdcdaa5063b76b",
+    "2111518070565199922": "9394a5c016abb387e31f536266fd0b1e78dc37403bba8dca73f9f1ad46f8935e"
   },
   "eventParserVersion": 5
 }
