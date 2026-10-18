@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T21:04:01.254Z",
+  "updatedAt": "2026-10-18T23:01:36.125Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T21:04:01.248Z",
-    "lastSuccessAt": "2026-10-18T21:04:01.248Z",
+    "lastCheckedAt": "2026-10-18T23:01:35.905Z",
+    "lastSuccessAt": "2026-10-18T23:01:35.905Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111925417804480663",
-    "text": "@TheCanadienEh @OpenAIDevs Can you make sure in the app store that you are on the latest version?",
-    "url": "https://x.com/dkundel/status/2111925417804480663",
-    "postCreatedAt": "2026-10-18T21:00:31.000Z"
+    "id": "2111945355596353823",
+    "text": "@theo Journalism with additional Theo steps",
+    "url": "https://x.com/thsottiaux/status/2111945355596353823",
+    "postCreatedAt": "2026-10-18T22:19:45.000Z"
   },
   "latest": {
     "reset": {

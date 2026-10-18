@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111918768733753664",
-      "lastCheckedAt": "2026-10-18T21:03:57.757Z",
-      "lastSuccessAt": "2026-10-18T21:03:57.757Z",
+      "sinceId": "2111945355596353823",
+      "lastCheckedAt": "2026-10-18T23:01:32.033Z",
+      "lastSuccessAt": "2026-10-18T23:01:32.033Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 92,
+      "postsScanned": 94,
       "latestObservedPost": {
-        "id": "2111918768733753664",
-        "canonicalId": "2111918768733753664",
-        "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-        "createdAt": "2026-10-18T20:34:06.000Z",
-        "url": "https://x.com/thsottiaux/status/2111918768733753664",
+        "id": "2111945355596353823",
+        "canonicalId": "2111945355596353823",
+        "text": "@theo Journalism with additional Theo steps",
+        "createdAt": "2026-10-18T22:19:45.000Z",
+        "url": "https://x.com/thsottiaux/status/2111945355596353823",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T21:03:58.519Z",
-      "lastSuccessAt": "2026-10-18T21:03:58.519Z",
+      "lastCheckedAt": "2026-10-18T23:01:32.776Z",
+      "lastSuccessAt": "2026-10-18T23:01:32.776Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T21:03:59.012Z",
-      "lastSuccessAt": "2026-10-18T21:03:59.012Z",
+      "lastCheckedAt": "2026-10-18T23:01:33.223Z",
+      "lastSuccessAt": "2026-10-18T23:01:33.223Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T21:03:59.707Z",
-      "lastSuccessAt": "2026-10-18T21:03:59.707Z",
+      "lastCheckedAt": "2026-10-18T23:01:33.993Z",
+      "lastSuccessAt": "2026-10-18T23:01:33.993Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111891387721699702",
-      "lastCheckedAt": "2026-10-18T21:04:00.450Z",
-      "lastSuccessAt": "2026-10-18T21:04:00.450Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-18T23:01:35.083Z",
+      "lastSuccessAt": "2026-10-18T23:01:35.083Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 57,
       "latestObservedPost": {
         "id": "2111891387721699702",
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111925417804480663",
-      "lastCheckedAt": "2026-10-18T21:04:01.248Z",
-      "lastSuccessAt": "2026-10-18T21:04:01.248Z",
+      "sinceId": "2111939373214355728",
+      "lastCheckedAt": "2026-10-18T23:01:35.905Z",
+      "lastSuccessAt": "2026-10-18T23:01:35.905Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 40,
+      "postsScanned": 42,
       "latestObservedPost": {
-        "id": "2111925417804480663",
-        "canonicalId": "2111925417804480663",
-        "text": "@TheCanadienEh @OpenAIDevs Can you make sure in the app store that you are on the latest version?",
-        "createdAt": "2026-10-18T21:00:31.000Z",
-        "url": "https://x.com/dkundel/status/2111925417804480663",
+        "id": "2111939373214355728",
+        "canonicalId": "2111939373214355728",
+        "text": "@buildwithrajath @IndependentEco Hey 👋 do you have any example sessions you can share with /feedback where it drained faster?",
+        "createdAt": "2026-10-18T21:55:59.000Z",
+        "url": "https://x.com/dkundel/status/2111939373214355728",
         "media": []
       }
     }
@@ -137,7 +137,6 @@
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
       "id": "2111918768733753664",
-      "canonicalId": "2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "createdAt": "2026-10-18T20:34:06.000Z",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-18T21:04:01.251Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-18T21:04:01.251Z"
+      ]
     },
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
@@ -666,7 +665,11 @@
     "2111918768733753664": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
     "2111891387721699702": "c13abc5949fd8b53e9e7557617129b8096393bc84de71bc6e1c795cb3b778647",
     "2111924279793332556": "aed182dcd32b966b7933c68c411142dd06d5c578a7d25682d6d021bfdf088cb7",
-    "2111925417804480663": "e48012c946b9d36eb68ed336a523369b4556c41773c14199681339a77cdcbf6a"
+    "2111925417804480663": "e48012c946b9d36eb68ed336a523369b4556c41773c14199681339a77cdcbf6a",
+    "2111941223187710114": "d1bbc0514b67356130f56873fa86a15e6579491fdb15c2e8225345ea0cb241d5",
+    "2111945355596353823": "9b603d79c383a25419d6c14b3bfcb15a90a2f99dc3f12489f042f4055f77fea4",
+    "2111930843354866042": "a42af91b0181cd8ebcf452ef80efc8ae46f05b12e0494979c8f61e204e54c355",
+    "2111939373214355728": "4e954918f6e259f3245ee9f1db1c44120a5c5d77b4f0b5962f64996c6bc14f57"
   },
   "eventParserVersion": 5
 }
