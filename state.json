@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111849858374177222",
-      "lastCheckedAt": "2026-10-18T18:44:08.003Z",
-      "lastSuccessAt": "2026-10-18T18:44:08.003Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 90,
+      "sinceId": "2111918768733753664",
+      "lastCheckedAt": "2026-10-18T21:03:57.757Z",
+      "lastSuccessAt": "2026-10-18T21:03:57.757Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 92,
       "latestObservedPost": {
-        "id": "2111849858374177222",
-        "canonicalId": "2111849858374177222",
-        "text": "What’s cooking today",
-        "createdAt": "2026-10-18T16:00:17.000Z",
-        "url": "https://x.com/thsottiaux/status/2111849858374177222",
+        "id": "2111918768733753664",
+        "canonicalId": "2111918768733753664",
+        "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+        "createdAt": "2026-10-18T20:34:06.000Z",
+        "url": "https://x.com/thsottiaux/status/2111918768733753664",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T18:44:08.573Z",
-      "lastSuccessAt": "2026-10-18T18:44:08.573Z",
+      "lastCheckedAt": "2026-10-18T21:03:58.519Z",
+      "lastSuccessAt": "2026-10-18T21:03:58.519Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T18:44:09.098Z",
-      "lastSuccessAt": "2026-10-18T18:44:09.098Z",
+      "lastCheckedAt": "2026-10-18T21:03:59.012Z",
+      "lastSuccessAt": "2026-10-18T21:03:59.012Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T18:44:09.952Z",
-      "lastSuccessAt": "2026-10-18T18:44:09.952Z",
+      "lastCheckedAt": "2026-10-18T21:03:59.707Z",
+      "lastSuccessAt": "2026-10-18T21:03:59.707Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2111585491237650691",
-      "lastCheckedAt": "2026-10-18T18:44:10.313Z",
-      "lastSuccessAt": "2026-10-18T18:44:10.313Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 56,
+      "sinceId": "2111891387721699702",
+      "lastCheckedAt": "2026-10-18T21:04:00.450Z",
+      "lastSuccessAt": "2026-10-18T21:04:00.450Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 57,
       "latestObservedPost": {
-        "id": "2111585491237650691",
-        "canonicalId": "2111585491237650691",
-        "text": "Looking for a weekend project?\n\nHere’s what the community has been building and how you can replicate it yourself:\n\nhttps://t.co/J7mgdmgt9C",
-        "createdAt": "2026-10-17T22:29:47.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2111585491237650691",
+        "id": "2111891387721699702",
+        "canonicalId": "2111891387721699702",
+        "text": "@dreetje incredible build",
+        "createdAt": "2026-10-18T18:45:18.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2111891387721699702",
         "media": []
       }
     },
@@ -117,23 +117,51 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111890116558123099",
-      "lastCheckedAt": "2026-10-18T18:44:11.201Z",
-      "lastSuccessAt": "2026-10-18T18:44:11.201Z",
+      "sinceId": "2111925417804480663",
+      "lastCheckedAt": "2026-10-18T21:04:01.248Z",
+      "lastSuccessAt": "2026-10-18T21:04:01.248Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 38,
+      "postsScanned": 40,
       "latestObservedPost": {
-        "id": "2111890116558123099",
-        "canonicalId": "2111890116558123099",
-        "text": "@llm_wizard @thsottiaux @rl_env You mean you want to take an existing conversation in ChatGPT and then delegate to your dot?",
-        "createdAt": "2026-10-18T18:40:15.000Z",
-        "url": "https://x.com/dkundel/status/2111890116558123099",
+        "id": "2111925417804480663",
+        "canonicalId": "2111925417804480663",
+        "text": "@TheCanadienEh @OpenAIDevs Can you make sure in the app store that you are on the latest version?",
+        "createdAt": "2026-10-18T21:00:31.000Z",
+        "url": "https://x.com/dkundel/status/2111925417804480663",
         "media": []
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
+      "id": "2111918768733753664",
+      "canonicalId": "2111918768733753664",
+      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+      "createdAt": "2026-10-18T20:34:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2111918768733753664",
+      "media": [],
+      "detectedAt": "2026-10-18T21:03:57.757Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "People have escaped the TL and are asking me for resets on the street now",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "People have escaped the TL and are asking me for resets on the street now",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-18T21:04:01.251Z"
+    },
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
       "id": "2111492673890824348",
@@ -633,7 +661,12 @@
     "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310",
     "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a",
     "2111889850127536412": "f9d476b626550340da06d0f8d78555a7b32940f2ce733cd1dcc2d952fc903464",
-    "2111890116558123099": "e10696d580151e942b1af3c25cac788cc5d0c0710de329d0a4b8e9aea5443304"
+    "2111890116558123099": "e10696d580151e942b1af3c25cac788cc5d0c0710de329d0a4b8e9aea5443304",
+    "2111918635849801739": "5de74bed76286972541eb1f7676ead6096a46e1d22532eb68658d32ba0a38edc",
+    "2111918768733753664": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
+    "2111891387721699702": "c13abc5949fd8b53e9e7557617129b8096393bc84de71bc6e1c795cb3b778647",
+    "2111924279793332556": "aed182dcd32b966b7933c68c411142dd06d5c578a7d25682d6d021bfdf088cb7",
+    "2111925417804480663": "e48012c946b9d36eb68ed336a523369b4556c41773c14199681339a77cdcbf6a"
   },
   "eventParserVersion": 5
 }

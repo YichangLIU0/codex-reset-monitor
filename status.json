@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T18:44:11.204Z",
+  "updatedAt": "2026-10-18T21:04:01.254Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T18:44:11.201Z",
-    "lastSuccessAt": "2026-10-18T18:44:11.201Z",
+    "lastCheckedAt": "2026-10-18T21:04:01.248Z",
+    "lastSuccessAt": "2026-10-18T21:04:01.248Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111890116558123099",
-    "text": "@llm_wizard @thsottiaux @rl_env You mean you want to take an existing conversation in ChatGPT and then delegate to your dot?",
-    "url": "https://x.com/dkundel/status/2111890116558123099",
-    "postCreatedAt": "2026-10-18T18:40:15.000Z"
+    "id": "2111925417804480663",
+    "text": "@TheCanadienEh @OpenAIDevs Can you make sure in the app store that you are on the latest version?",
+    "url": "https://x.com/dkundel/status/2111925417804480663",
+    "postCreatedAt": "2026-10-18T21:00:31.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
+      "id": "2111918768733753664",
+      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+      "url": "https://x.com/thsottiaux/status/2111918768733753664",
+      "postCreatedAt": "2026-10-18T20:34:06.000Z",
+      "detectedAt": "2026-10-18T21:03:57.757Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "People have escaped the TL and are asking me for resets on the street now",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "People have escaped the TL and are asking me for resets on the street now",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
       "id": "2111492673890824348",
