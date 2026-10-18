@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111583927156760690",
-      "lastCheckedAt": "2026-10-18T04:22:59.463Z",
-      "lastSuccessAt": "2026-10-18T04:22:59.463Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 87,
+      "sinceId": "2111687989328011357",
+      "lastCheckedAt": "2026-10-18T08:57:05.630Z",
+      "lastSuccessAt": "2026-10-18T08:57:05.630Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 88,
       "latestObservedPost": {
-        "id": "2111583927156760690",
-        "canonicalId": "2111583927156760690",
-        "text": "@ananyairl Pot committed",
-        "createdAt": "2026-10-17T22:23:34.000Z",
-        "url": "https://x.com/thsottiaux/status/2111583927156760690",
+        "id": "2111687989328011357",
+        "canonicalId": "2111687989328011357",
+        "text": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
+        "createdAt": "2026-10-18T05:17:04.000Z",
+        "url": "https://x.com/thsottiaux/status/2111687989328011357",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T04:22:59.814Z",
-      "lastSuccessAt": "2026-10-18T04:22:59.814Z",
+      "lastCheckedAt": "2026-10-18T08:57:06.022Z",
+      "lastSuccessAt": "2026-10-18T08:57:06.022Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T04:23:00.290Z",
-      "lastSuccessAt": "2026-10-18T04:23:00.290Z",
+      "lastCheckedAt": "2026-10-18T08:57:06.562Z",
+      "lastSuccessAt": "2026-10-18T08:57:06.562Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T04:23:00.941Z",
-      "lastSuccessAt": "2026-10-18T04:23:00.941Z",
+      "lastCheckedAt": "2026-10-18T08:57:07.137Z",
+      "lastSuccessAt": "2026-10-18T08:57:07.137Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111585491237650691",
-      "lastCheckedAt": "2026-10-18T04:23:01.335Z",
-      "lastSuccessAt": "2026-10-18T04:23:01.335Z",
+      "lastCheckedAt": "2026-10-18T08:57:07.526Z",
+      "lastSuccessAt": "2026-10-18T08:57:07.526Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111518070565199922",
-      "lastCheckedAt": "2026-10-18T04:23:01.773Z",
-      "lastSuccessAt": "2026-10-18T04:23:01.773Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 30,
+      "sinceId": "2111699246747660576",
+      "lastCheckedAt": "2026-10-18T08:57:08.447Z",
+      "lastSuccessAt": "2026-10-18T08:57:08.447Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 36,
       "latestObservedPost": {
-        "id": "2111518070565199922",
-        "canonicalId": "2111518070565199922",
-        "text": "@elithrar I bought one of the Comet Q during the prime deals and I think I need more 🤣",
-        "createdAt": "2026-10-17T18:01:52.000Z",
-        "url": "https://x.com/dkundel/status/2111518070565199922",
+        "id": "2111699246747660576",
+        "canonicalId": "2111699246747660576",
+        "text": "@hany99dev 👋 Can you check your DMs?",
+        "createdAt": "2026-10-18T06:01:48.000Z",
+        "url": "https://x.com/dkundel/status/2111699246747660576",
         "media": []
       }
     }
@@ -622,7 +622,14 @@
     "2111518070565199922": "9394a5c016abb387e31f536266fd0b1e78dc37403bba8dca73f9f1ad46f8935e",
     "2111566005684289735": "662492203a07fa50cee8c75513f204eb0198c9cc079c6fa486f3c9443b32aab5",
     "2111583927156760690": "a8bd68d5cb406c9d31c31480d73fdcdbe1fb6c4964c7d1f2c209198ee06db4fb",
-    "2111585491237650691": "e9fa5c981632526a3d0322334205e7f81994f61fed4eb85213cfab2a7d48968e"
+    "2111585491237650691": "e9fa5c981632526a3d0322334205e7f81994f61fed4eb85213cfab2a7d48968e",
+    "2111687989328011357": "882386b897990d20e3ff22181637a13aa8b273552318504bfa4dce5004f2c6de",
+    "2111693101572235514": "824c1bbbb718f7833d9f819e631980d22ba9e9e3d3920cec210413dc368c53fe",
+    "2111693553290342563": "add49d5eeffd90d74cd8513f65d235a69d4012da445d734077040c96ac25a13f",
+    "2111697048500420705": "80f85bae07cb2f90a6abf13942523a0899ef4d6844cd027ba75aee903c58b136",
+    "2111697414755319829": "19ccb80fef649de893ec82ba67ce2f178850d2b6a93834bacb821edb5f285b20",
+    "2111698969533489450": "8f1e6b6e293fef0dddbcb6ae1c860ccc93b8c8b20f7ea0029f002a5f918b68f8",
+    "2111699246747660576": "a649442736740132f77ac096284b980fc38aba0ca312400da9af55f207148037"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T04:23:01.775Z",
+  "updatedAt": "2026-10-18T08:57:08.450Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T04:23:01.773Z",
-    "lastSuccessAt": "2026-10-18T04:23:01.773Z",
+    "lastCheckedAt": "2026-10-18T08:57:08.447Z",
+    "lastSuccessAt": "2026-10-18T08:57:08.447Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111585491237650691",
-    "text": "Looking for a weekend project?\n\nHere’s what the community has been building and how you can replicate it yourself:\n\nhttps://t.co/J7mgdmgt9C",
-    "url": "https://x.com/OpenAIDevs/status/2111585491237650691",
-    "postCreatedAt": "2026-10-17T22:29:47.000Z"
+    "id": "2111699246747660576",
+    "text": "@hany99dev 👋 Can you check your DMs?",
+    "url": "https://x.com/dkundel/status/2111699246747660576",
+    "postCreatedAt": "2026-10-18T06:01:48.000Z"
   },
   "latest": {
     "reset": {
