@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111687989328011357",
-      "lastCheckedAt": "2026-10-18T12:58:10.304Z",
-      "lastSuccessAt": "2026-10-18T12:58:10.304Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 88,
+      "sinceId": "2111849858374177222",
+      "lastCheckedAt": "2026-10-18T16:23:30.517Z",
+      "lastSuccessAt": "2026-10-18T16:23:30.517Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 90,
       "latestObservedPost": {
-        "id": "2111687989328011357",
-        "canonicalId": "2111687989328011357",
-        "text": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-        "createdAt": "2026-10-18T05:17:04.000Z",
-        "url": "https://x.com/thsottiaux/status/2111687989328011357",
+        "id": "2111849858374177222",
+        "canonicalId": "2111849858374177222",
+        "text": "What’s cooking today",
+        "createdAt": "2026-10-18T16:00:17.000Z",
+        "url": "https://x.com/thsottiaux/status/2111849858374177222",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T12:58:10.484Z",
-      "lastSuccessAt": "2026-10-18T12:58:10.484Z",
+      "lastCheckedAt": "2026-10-18T16:23:30.904Z",
+      "lastSuccessAt": "2026-10-18T16:23:30.904Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T12:58:10.938Z",
-      "lastSuccessAt": "2026-10-18T12:58:10.938Z",
+      "lastCheckedAt": "2026-10-18T16:23:31.640Z",
+      "lastSuccessAt": "2026-10-18T16:23:31.640Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T12:58:11.678Z",
-      "lastSuccessAt": "2026-10-18T12:58:11.678Z",
+      "lastCheckedAt": "2026-10-18T16:23:32.693Z",
+      "lastSuccessAt": "2026-10-18T16:23:32.693Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111585491237650691",
-      "lastCheckedAt": "2026-10-18T12:58:12.109Z",
-      "lastSuccessAt": "2026-10-18T12:58:12.109Z",
+      "lastCheckedAt": "2026-10-18T16:23:33.149Z",
+      "lastSuccessAt": "2026-10-18T16:23:33.149Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2111699246747660576",
-      "lastCheckedAt": "2026-10-18T12:58:12.547Z",
-      "lastSuccessAt": "2026-10-18T12:58:12.547Z",
+      "lastCheckedAt": "2026-10-18T16:23:33.594Z",
+      "lastSuccessAt": "2026-10-18T16:23:33.594Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -629,7 +629,9 @@
     "2111697048500420705": "80f85bae07cb2f90a6abf13942523a0899ef4d6844cd027ba75aee903c58b136",
     "2111697414755319829": "19ccb80fef649de893ec82ba67ce2f178850d2b6a93834bacb821edb5f285b20",
     "2111698969533489450": "8f1e6b6e293fef0dddbcb6ae1c860ccc93b8c8b20f7ea0029f002a5f918b68f8",
-    "2111699246747660576": "a649442736740132f77ac096284b980fc38aba0ca312400da9af55f207148037"
+    "2111699246747660576": "a649442736740132f77ac096284b980fc38aba0ca312400da9af55f207148037",
+    "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310",
+    "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a"
   },
   "eventParserVersion": 5
 }
