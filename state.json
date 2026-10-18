@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2111849858374177222",
-      "lastCheckedAt": "2026-10-18T16:23:30.517Z",
-      "lastSuccessAt": "2026-10-18T16:23:30.517Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-18T18:44:08.003Z",
+      "lastSuccessAt": "2026-10-18T18:44:08.003Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 90,
       "latestObservedPost": {
         "id": "2111849858374177222",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T16:23:30.904Z",
-      "lastSuccessAt": "2026-10-18T16:23:30.904Z",
+      "lastCheckedAt": "2026-10-18T18:44:08.573Z",
+      "lastSuccessAt": "2026-10-18T18:44:08.573Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T16:23:31.640Z",
-      "lastSuccessAt": "2026-10-18T16:23:31.640Z",
+      "lastCheckedAt": "2026-10-18T18:44:09.098Z",
+      "lastSuccessAt": "2026-10-18T18:44:09.098Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T16:23:32.693Z",
-      "lastSuccessAt": "2026-10-18T16:23:32.693Z",
+      "lastCheckedAt": "2026-10-18T18:44:09.952Z",
+      "lastSuccessAt": "2026-10-18T18:44:09.952Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111585491237650691",
-      "lastCheckedAt": "2026-10-18T16:23:33.149Z",
-      "lastSuccessAt": "2026-10-18T16:23:33.149Z",
+      "lastCheckedAt": "2026-10-18T18:44:10.313Z",
+      "lastSuccessAt": "2026-10-18T18:44:10.313Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111699246747660576",
-      "lastCheckedAt": "2026-10-18T16:23:33.594Z",
-      "lastSuccessAt": "2026-10-18T16:23:33.594Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 36,
+      "sinceId": "2111890116558123099",
+      "lastCheckedAt": "2026-10-18T18:44:11.201Z",
+      "lastSuccessAt": "2026-10-18T18:44:11.201Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 38,
       "latestObservedPost": {
-        "id": "2111699246747660576",
-        "canonicalId": "2111699246747660576",
-        "text": "@hany99dev 👋 Can you check your DMs?",
-        "createdAt": "2026-10-18T06:01:48.000Z",
-        "url": "https://x.com/dkundel/status/2111699246747660576",
+        "id": "2111890116558123099",
+        "canonicalId": "2111890116558123099",
+        "text": "@llm_wizard @thsottiaux @rl_env You mean you want to take an existing conversation in ChatGPT and then delegate to your dot?",
+        "createdAt": "2026-10-18T18:40:15.000Z",
+        "url": "https://x.com/dkundel/status/2111890116558123099",
         "media": []
       }
     }
@@ -631,7 +631,9 @@
     "2111698969533489450": "8f1e6b6e293fef0dddbcb6ae1c860ccc93b8c8b20f7ea0029f002a5f918b68f8",
     "2111699246747660576": "a649442736740132f77ac096284b980fc38aba0ca312400da9af55f207148037",
     "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310",
-    "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a"
+    "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a",
+    "2111889850127536412": "f9d476b626550340da06d0f8d78555a7b32940f2ce733cd1dcc2d952fc903464",
+    "2111890116558123099": "e10696d580151e942b1af3c25cac788cc5d0c0710de329d0a4b8e9aea5443304"
   },
   "eventParserVersion": 5
 }

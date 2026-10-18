@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T16:23:33.597Z",
+  "updatedAt": "2026-10-18T18:44:11.204Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T16:23:33.594Z",
-    "lastSuccessAt": "2026-10-18T16:23:33.594Z",
+    "lastCheckedAt": "2026-10-18T18:44:11.201Z",
+    "lastSuccessAt": "2026-10-18T18:44:11.201Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111849858374177222",
-    "text": "What’s cooking today",
-    "url": "https://x.com/thsottiaux/status/2111849858374177222",
-    "postCreatedAt": "2026-10-18T16:00:17.000Z"
+    "id": "2111890116558123099",
+    "text": "@llm_wizard @thsottiaux @rl_env You mean you want to take an existing conversation in ChatGPT and then delegate to your dot?",
+    "url": "https://x.com/dkundel/status/2111890116558123099",
+    "postCreatedAt": "2026-10-18T18:40:15.000Z"
   },
   "latest": {
     "reset": {
