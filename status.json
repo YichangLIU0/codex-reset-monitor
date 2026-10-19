@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T01:03:36.112Z",
+  "updatedAt": "2026-10-19T06:02:11.244Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-19T01:03:36.110Z",
-    "lastSuccessAt": "2026-10-19T01:03:36.110Z",
+    "lastCheckedAt": "2026-10-19T06:02:11.240Z",
+    "lastSuccessAt": "2026-10-19T06:02:11.240Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111985251610427751",
-    "text": "@J0nathanGuzman https://t.co/h6l8dcrgGi",
-    "url": "https://x.com/dkundel/status/2111985251610427751",
-    "postCreatedAt": "2026-10-19T00:58:17.000Z"
+    "id": "2112058442265563290",
+    "text": "@reach_vb Wait you are also going to Berlin?!? 🤯",
+    "url": "https://x.com/dkundel/status/2112058442265563290",
+    "postCreatedAt": "2026-10-19T05:49:07.000Z"
   },
   "latest": {
     "reset": {

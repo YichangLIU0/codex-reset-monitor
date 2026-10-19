@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2111945355596353823",
-      "lastCheckedAt": "2026-10-19T01:03:33.355Z",
-      "lastSuccessAt": "2026-10-19T01:03:33.355Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 94,
+      "sinceId": "2112049026636103954",
+      "lastCheckedAt": "2026-10-19T06:02:06.665Z",
+      "lastSuccessAt": "2026-10-19T06:02:06.665Z",
+      "lastRunStatus": "checked-8-posts",
+      "postsScanned": 102,
       "latestObservedPost": {
-        "id": "2111945355596353823",
-        "canonicalId": "2111945355596353823",
-        "text": "@theo Journalism with additional Theo steps",
-        "createdAt": "2026-10-18T22:19:45.000Z",
-        "url": "https://x.com/thsottiaux/status/2111945355596353823",
+        "id": "2112049026636103954",
+        "canonicalId": "2112049026636103954",
+        "text": "@jxnlco Didn’t know Batman worked at OpenAI",
+        "createdAt": "2026-10-19T05:11:42.000Z",
+        "url": "https://x.com/thsottiaux/status/2112049026636103954",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-19T01:03:33.695Z",
-      "lastSuccessAt": "2026-10-19T01:03:33.695Z",
+      "lastCheckedAt": "2026-10-19T06:02:07.029Z",
+      "lastSuccessAt": "2026-10-19T06:02:07.029Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-19T01:03:34.191Z",
-      "lastSuccessAt": "2026-10-19T01:03:34.191Z",
+      "lastCheckedAt": "2026-10-19T06:02:07.514Z",
+      "lastSuccessAt": "2026-10-19T06:02:07.514Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-19T01:03:34.939Z",
-      "lastSuccessAt": "2026-10-19T01:03:34.939Z",
+      "lastCheckedAt": "2026-10-19T06:02:08.407Z",
+      "lastSuccessAt": "2026-10-19T06:02:08.407Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111891387721699702",
-      "lastCheckedAt": "2026-10-19T01:03:35.321Z",
-      "lastSuccessAt": "2026-10-19T01:03:35.321Z",
+      "lastCheckedAt": "2026-10-19T06:02:09.835Z",
+      "lastSuccessAt": "2026-10-19T06:02:09.835Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 57,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111985251610427751",
-      "lastCheckedAt": "2026-10-19T01:03:36.110Z",
-      "lastSuccessAt": "2026-10-19T01:03:36.110Z",
+      "sinceId": "2112058442265563290",
+      "lastCheckedAt": "2026-10-19T06:02:11.240Z",
+      "lastSuccessAt": "2026-10-19T06:02:11.240Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 43,
+      "postsScanned": 44,
       "latestObservedPost": {
-        "id": "2111985251610427751",
-        "canonicalId": "2111985251610427751",
-        "text": "@J0nathanGuzman https://t.co/h6l8dcrgGi",
-        "createdAt": "2026-10-19T00:58:17.000Z",
-        "url": "https://x.com/dkundel/status/2111985251610427751",
+        "id": "2112058442265563290",
+        "canonicalId": "2112058442265563290",
+        "text": "@reach_vb Wait you are also going to Berlin?!? 🤯",
+        "createdAt": "2026-10-19T05:49:07.000Z",
+        "url": "https://x.com/dkundel/status/2112058442265563290",
         "media": []
       }
     }
@@ -670,7 +670,16 @@
     "2111945355596353823": "9b603d79c383a25419d6c14b3bfcb15a90a2f99dc3f12489f042f4055f77fea4",
     "2111930843354866042": "a42af91b0181cd8ebcf452ef80efc8ae46f05b12e0494979c8f61e204e54c355",
     "2111939373214355728": "4e954918f6e259f3245ee9f1db1c44120a5c5d77b4f0b5962f64996c6bc14f57",
-    "2111985251610427751": "592e5e364874895232074b66afa0d4baec0a70a46284215993abfb2590924738"
+    "2111985251610427751": "592e5e364874895232074b66afa0d4baec0a70a46284215993abfb2590924738",
+    "2111990254408434095": "2e052ebf59ee204716c6915da8de50f8f379da529dcfb8e6272f7841619941bb",
+    "2111994295364571327": "c542bbb2d8c07d5c41d49fa9083b2c37ebbe9a489e9216c8256767de7a80a00a",
+    "2112034063934742720": "cbfe757fe1b65c20f1f8e4b2e148d8bdde38af6f94bb19e35cbf46fd74ce4ade",
+    "2112034328549216593": "46bb538804afd4fa1749901965db6f76e2bf08b62b7b6bf61285d831b8e4d750",
+    "2112039275344941371": "1cdd5e32b872f833c1a0b13551d2ea2f6b5cc7a6e31b428e2c9343821021d3e7",
+    "2112039554538770846": "4f30ebd45f5ada44704eec76ff8404ca9d1d0eea210318b8dec2cfae4b8e0b44",
+    "2112039750999986304": "70a8b441c7ef7239d25b6f2291f2e4c8a3b5993553ebb5ac5ec1f6bae251d8d0",
+    "2112049026636103954": "08d82ba4e2a4f7b1c30d992f1ffe675114fc10bc930ab6b43acf34cc0c77dbd6",
+    "2112058442265563290": "5563f83b7ee5598611ae2d75167e31a627a6c8379e253f189ec27c0a28130665"
   },
   "eventParserVersion": 5
 }
