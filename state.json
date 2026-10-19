@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2112049026636103954",
-      "lastCheckedAt": "2026-10-19T18:56:15.880Z",
-      "lastSuccessAt": "2026-10-19T18:56:15.880Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 102,
+      "sinceId": "2112268918681485431",
+      "lastCheckedAt": "2026-10-19T22:46:31.334Z",
+      "lastSuccessAt": "2026-10-19T22:46:31.334Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 103,
       "latestObservedPost": {
-        "id": "2112049026636103954",
-        "canonicalId": "2112049026636103954",
-        "text": "@jxnlco Didn’t know Batman worked at OpenAI",
-        "createdAt": "2026-10-19T05:11:42.000Z",
-        "url": "https://x.com/thsottiaux/status/2112049026636103954",
+        "id": "2112268918681485431",
+        "canonicalId": "2112268918681485431",
+        "text": "Day 15/ We're cooked",
+        "createdAt": "2026-10-19T19:45:28.000Z",
+        "url": "https://x.com/thsottiaux/status/2112268918681485431",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-19T18:56:16.495Z",
-      "lastSuccessAt": "2026-10-19T18:56:16.495Z",
+      "lastCheckedAt": "2026-10-19T22:46:31.755Z",
+      "lastSuccessAt": "2026-10-19T22:46:31.755Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-19T18:56:17.030Z",
-      "lastSuccessAt": "2026-10-19T18:56:17.030Z",
+      "lastCheckedAt": "2026-10-19T22:46:32.311Z",
+      "lastSuccessAt": "2026-10-19T22:46:32.311Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -73,34 +73,42 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-19T18:56:17.783Z",
-      "lastSuccessAt": "2026-10-19T18:56:17.783Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 23,
+      "sinceId": "2112310345863930168",
+      "lastCheckedAt": "2026-10-19T22:46:34.372Z",
+      "lastSuccessAt": "2026-10-19T22:46:34.372Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 24,
       "latestObservedPost": {
-        "id": "2111192259073094035",
-        "canonicalId": "2111192259073094035",
-        "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
-        "createdAt": "2026-10-16T20:27:13.000Z",
-        "url": "https://x.com/OpenAI/status/2111192259073094035",
-        "media": []
+        "id": "2112310345863930168",
+        "canonicalId": "2112310345863930168",
+        "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means understanding decades of business logic and helping developers modernize those systems while preserving what works.\n\nWe’re building these capabilities around the challenges developers and enterprise customers bring us. If your team is working on these systems, tell us which languages and workflows we should tackle next.\n\nhttps://t.co/2TbnkQixJ1",
+        "createdAt": "2026-10-19T22:30:05.000Z",
+        "url": "https://x.com/OpenAI/status/2112310345863930168",
+        "media": [
+          {
+            "mediaKey": "2112309796745682944",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2112309796745682944/vid/avc1/1920x1080/jnLAZhRFuKMsjngz.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112309796745682944/img/uV5UTO10mMmVfiun.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2112242741555941550",
-      "lastCheckedAt": "2026-10-19T18:56:18.751Z",
-      "lastSuccessAt": "2026-10-19T18:56:18.751Z",
-      "lastRunStatus": "checked-4-posts",
-      "postsScanned": 61,
+      "sinceId": "2112313372511256864",
+      "lastCheckedAt": "2026-10-19T22:46:35.477Z",
+      "lastSuccessAt": "2026-10-19T22:46:35.477Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 66,
       "latestObservedPost": {
-        "id": "2112242741555941550",
-        "canonicalId": "2112242741555941550",
-        "text": "Our dot helps @danizeres, @axbehr and @fedesarquis with the recipe and keeps the prep in ChatGPT Space, while GPT-Live-1 talks us through making ramen.\n\nWe also cover Codex cloud environments, where tasks can keep running after you close your laptop, and what’s new in the Codex CLI. You can talk to Codex in your terminal, keep track of your agents, and fork a conversation into a separate worktree.\n\n@MatthewBerman and @ForwardEditor join us to build an 8-bit ramen game with Ultrafast and play it on a @modretro handheld. \n\nWe also check out what you’ve been building, from a retro space shooter to a game where you draw your own racehorse.",
-        "createdAt": "2026-10-19T18:01:27.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2112242741555941550",
+        "id": "2112313372511256864",
+        "canonicalId": "2112313372511256864",
+        "text": "@iamdeepaklenka @derrickcchoi thanks for coming!",
+        "createdAt": "2026-10-19T22:42:07.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2112313372511256864",
         "media": []
       }
     },
@@ -118,8 +126,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112058442265563290",
-      "lastCheckedAt": "2026-10-19T18:56:19.196Z",
-      "lastSuccessAt": "2026-10-19T18:56:19.196Z",
+      "lastCheckedAt": "2026-10-19T22:46:36.354Z",
+      "lastSuccessAt": "2026-10-19T22:46:36.354Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 44,
       "latestObservedPost": {
@@ -683,7 +691,14 @@
     "2112229620758265938": "a8addfd34fb04ca67428e8308c396b8700773bbe983dac36473435e85d1c639a",
     "2112242522475078020": "ccfa11480aeb67c0c3122f429fb343acf33cf1541ab6e730c11b15049f9b8356",
     "2112242739198959913": "9b6bc233aa926f35c0c2f413ec9af41a4580e0f4d1858b7f0fdc59d7b7f5f5a9",
-    "2112242741555941550": "53591a808e3a19b98f7a4fd041d24246a1b8616ee3d8e0061c4c493054d441d4"
+    "2112242741555941550": "53591a808e3a19b98f7a4fd041d24246a1b8616ee3d8e0061c4c493054d441d4",
+    "2112268918681485431": "3390a0a2210d233b64f62423c7e1185d081f5e490745ed9ccbda9a7921be25c8",
+    "2112310345863930168": "3ae2b7ef0ce670ee236492b00156206db61783ad559f807a8fc39e5b93a76f26",
+    "2112266998012952641": "657fb7998ab10c06c30b37366ab960fa502e7a9808280eda8d81dc41b01be660",
+    "2112269679154585624": "f137d3e824895aebb8f4f9c7203e49977d757511d6afd7416fd607f4571a3b6c",
+    "2112269694606446767": "5ee044d0bc08cada37774639e8e0f37878c8f680a8ae5374d08855030289506c",
+    "2112269696854634610": "e3f03759b280796c38c5465e542eca25483049fb43153c7320e6d533148e55e3",
+    "2112313372511256864": "a28817584306347ebcd7a3c89df5d25066e99b87b3d7bd83320296c10e5cb448"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T18:56:19.202Z",
+  "updatedAt": "2026-10-19T22:46:36.396Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-19T18:56:19.196Z",
-    "lastSuccessAt": "2026-10-19T18:56:19.196Z",
+    "lastCheckedAt": "2026-10-19T22:46:36.354Z",
+    "lastSuccessAt": "2026-10-19T22:46:36.354Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112242741555941550",
-    "text": "Our dot helps @danizeres, @axbehr and @fedesarquis with the recipe and keeps the prep in ChatGPT Space, while GPT-Live-1 talks us through making ramen.\n\nWe also cover Codex cloud environments, where tasks can keep running after you close your laptop, and what’s new in the Codex CLI. You can talk to Codex in your terminal, keep track of your agents, and fork a conversation into a separate worktree.\n\n@MatthewBerman and @ForwardEditor join us to build an 8-bit ramen game with Ultrafast and play it on a @modretro handheld. \n\nWe also check out what you’ve been building, from a retro space shooter to a game where you draw your own racehorse.",
-    "url": "https://x.com/OpenAIDevs/status/2112242741555941550",
-    "postCreatedAt": "2026-10-19T18:01:27.000Z"
+    "id": "2112313372511256864",
+    "text": "@iamdeepaklenka @derrickcchoi thanks for coming!",
+    "url": "https://x.com/OpenAIDevs/status/2112313372511256864",
+    "postCreatedAt": "2026-10-19T22:42:07.000Z"
   },
   "latest": {
     "reset": {
