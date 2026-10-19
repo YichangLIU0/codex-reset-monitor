@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T23:01:36.125Z",
+  "updatedAt": "2026-10-19T01:03:36.112Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T23:01:35.905Z",
-    "lastSuccessAt": "2026-10-18T23:01:35.905Z",
+    "lastCheckedAt": "2026-10-19T01:03:36.110Z",
+    "lastSuccessAt": "2026-10-19T01:03:36.110Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2111945355596353823",
-    "text": "@theo Journalism with additional Theo steps",
-    "url": "https://x.com/thsottiaux/status/2111945355596353823",
-    "postCreatedAt": "2026-10-18T22:19:45.000Z"
+    "id": "2111985251610427751",
+    "text": "@J0nathanGuzman https://t.co/h6l8dcrgGi",
+    "url": "https://x.com/dkundel/status/2111985251610427751",
+    "postCreatedAt": "2026-10-19T00:58:17.000Z"
   },
   "latest": {
     "reset": {

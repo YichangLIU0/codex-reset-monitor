@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2111945355596353823",
-      "lastCheckedAt": "2026-10-18T23:01:32.033Z",
-      "lastSuccessAt": "2026-10-18T23:01:32.033Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-19T01:03:33.355Z",
+      "lastSuccessAt": "2026-10-19T01:03:33.355Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 94,
       "latestObservedPost": {
         "id": "2111945355596353823",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-18T23:01:32.776Z",
-      "lastSuccessAt": "2026-10-18T23:01:32.776Z",
+      "lastCheckedAt": "2026-10-19T01:03:33.695Z",
+      "lastSuccessAt": "2026-10-19T01:03:33.695Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-18T23:01:33.223Z",
-      "lastSuccessAt": "2026-10-18T23:01:33.223Z",
+      "lastCheckedAt": "2026-10-19T01:03:34.191Z",
+      "lastSuccessAt": "2026-10-19T01:03:34.191Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-18T23:01:33.993Z",
-      "lastSuccessAt": "2026-10-18T23:01:33.993Z",
+      "lastCheckedAt": "2026-10-19T01:03:34.939Z",
+      "lastSuccessAt": "2026-10-19T01:03:34.939Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2111891387721699702",
-      "lastCheckedAt": "2026-10-18T23:01:35.083Z",
-      "lastSuccessAt": "2026-10-18T23:01:35.083Z",
+      "lastCheckedAt": "2026-10-19T01:03:35.321Z",
+      "lastSuccessAt": "2026-10-19T01:03:35.321Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 57,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2111939373214355728",
-      "lastCheckedAt": "2026-10-18T23:01:35.905Z",
-      "lastSuccessAt": "2026-10-18T23:01:35.905Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 42,
+      "sinceId": "2111985251610427751",
+      "lastCheckedAt": "2026-10-19T01:03:36.110Z",
+      "lastSuccessAt": "2026-10-19T01:03:36.110Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 43,
       "latestObservedPost": {
-        "id": "2111939373214355728",
-        "canonicalId": "2111939373214355728",
-        "text": "@buildwithrajath @IndependentEco Hey 👋 do you have any example sessions you can share with /feedback where it drained faster?",
-        "createdAt": "2026-10-18T21:55:59.000Z",
-        "url": "https://x.com/dkundel/status/2111939373214355728",
+        "id": "2111985251610427751",
+        "canonicalId": "2111985251610427751",
+        "text": "@J0nathanGuzman https://t.co/h6l8dcrgGi",
+        "createdAt": "2026-10-19T00:58:17.000Z",
+        "url": "https://x.com/dkundel/status/2111985251610427751",
         "media": []
       }
     }
@@ -669,7 +669,8 @@
     "2111941223187710114": "d1bbc0514b67356130f56873fa86a15e6579491fdb15c2e8225345ea0cb241d5",
     "2111945355596353823": "9b603d79c383a25419d6c14b3bfcb15a90a2f99dc3f12489f042f4055f77fea4",
     "2111930843354866042": "a42af91b0181cd8ebcf452ef80efc8ae46f05b12e0494979c8f61e204e54c355",
-    "2111939373214355728": "4e954918f6e259f3245ee9f1db1c44120a5c5d77b4f0b5962f64996c6bc14f57"
+    "2111939373214355728": "4e954918f6e259f3245ee9f1db1c44120a5c5d77b4f0b5962f64996c6bc14f57",
+    "2111985251610427751": "592e5e364874895232074b66afa0d4baec0a70a46284215993abfb2590924738"
   },
   "eventParserVersion": 5
 }
