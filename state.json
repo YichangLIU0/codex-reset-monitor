@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2112049026636103954",
-      "lastCheckedAt": "2026-10-19T12:55:22.210Z",
-      "lastSuccessAt": "2026-10-19T12:55:22.210Z",
+      "lastCheckedAt": "2026-10-19T18:56:15.880Z",
+      "lastSuccessAt": "2026-10-19T18:56:15.880Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 102,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-19T12:55:22.638Z",
-      "lastSuccessAt": "2026-10-19T12:55:22.638Z",
+      "lastCheckedAt": "2026-10-19T18:56:16.495Z",
+      "lastSuccessAt": "2026-10-19T18:56:16.495Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-19T12:55:23.091Z",
-      "lastSuccessAt": "2026-10-19T12:55:23.091Z",
+      "lastCheckedAt": "2026-10-19T18:56:17.030Z",
+      "lastSuccessAt": "2026-10-19T18:56:17.030Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2111192259073094035",
-      "lastCheckedAt": "2026-10-19T12:55:23.964Z",
-      "lastSuccessAt": "2026-10-19T12:55:23.964Z",
+      "lastCheckedAt": "2026-10-19T18:56:17.783Z",
+      "lastSuccessAt": "2026-10-19T18:56:17.783Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2111891387721699702",
-      "lastCheckedAt": "2026-10-19T12:55:24.908Z",
-      "lastSuccessAt": "2026-10-19T12:55:24.908Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 57,
+      "sinceId": "2112242741555941550",
+      "lastCheckedAt": "2026-10-19T18:56:18.751Z",
+      "lastSuccessAt": "2026-10-19T18:56:18.751Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 61,
       "latestObservedPost": {
-        "id": "2111891387721699702",
-        "canonicalId": "2111891387721699702",
-        "text": "@dreetje incredible build",
-        "createdAt": "2026-10-18T18:45:18.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2111891387721699702",
+        "id": "2112242741555941550",
+        "canonicalId": "2112242741555941550",
+        "text": "Our dot helps @danizeres, @axbehr and @fedesarquis with the recipe and keeps the prep in ChatGPT Space, while GPT-Live-1 talks us through making ramen.\n\nWe also cover Codex cloud environments, where tasks can keep running after you close your laptop, and what’s new in the Codex CLI. You can talk to Codex in your terminal, keep track of your agents, and fork a conversation into a separate worktree.\n\n@MatthewBerman and @ForwardEditor join us to build an 8-bit ramen game with Ultrafast and play it on a @modretro handheld. \n\nWe also check out what you’ve been building, from a retro space shooter to a game where you draw your own racehorse.",
+        "createdAt": "2026-10-19T18:01:27.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2112242741555941550",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112058442265563290",
-      "lastCheckedAt": "2026-10-19T12:55:25.294Z",
-      "lastSuccessAt": "2026-10-19T12:55:25.294Z",
+      "lastCheckedAt": "2026-10-19T18:56:19.196Z",
+      "lastSuccessAt": "2026-10-19T18:56:19.196Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 44,
       "latestObservedPost": {
@@ -679,7 +679,11 @@
     "2112039554538770846": "4f30ebd45f5ada44704eec76ff8404ca9d1d0eea210318b8dec2cfae4b8e0b44",
     "2112039750999986304": "70a8b441c7ef7239d25b6f2291f2e4c8a3b5993553ebb5ac5ec1f6bae251d8d0",
     "2112049026636103954": "08d82ba4e2a4f7b1c30d992f1ffe675114fc10bc930ab6b43acf34cc0c77dbd6",
-    "2112058442265563290": "5563f83b7ee5598611ae2d75167e31a627a6c8379e253f189ec27c0a28130665"
+    "2112058442265563290": "5563f83b7ee5598611ae2d75167e31a627a6c8379e253f189ec27c0a28130665",
+    "2112229620758265938": "a8addfd34fb04ca67428e8308c396b8700773bbe983dac36473435e85d1c639a",
+    "2112242522475078020": "ccfa11480aeb67c0c3122f429fb343acf33cf1541ab6e730c11b15049f9b8356",
+    "2112242739198959913": "9b6bc233aa926f35c0c2f413ec9af41a4580e0f4d1858b7f0fdc59d7b7f5f5a9",
+    "2112242741555941550": "53591a808e3a19b98f7a4fd041d24246a1b8616ee3d8e0061c4c493054d441d4"
   },
   "eventParserVersion": 5
 }
