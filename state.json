@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2112432076767289678",
-      "lastCheckedAt": "2026-10-20T15:45:09.096Z",
-      "lastSuccessAt": "2026-10-20T15:45:09.096Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 105,
+      "sinceId": "2112592264686149749",
+      "lastCheckedAt": "2026-10-20T19:38:31.204Z",
+      "lastSuccessAt": "2026-10-20T19:38:31.204Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 106,
       "latestObservedPost": {
-        "id": "2112432076767289678",
-        "canonicalId": "2112432076767289678",
-        "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
-        "createdAt": "2026-10-20T06:33:48.000Z",
-        "url": "https://x.com/thsottiaux/status/2112432076767289678",
+        "id": "2112592264686149749",
+        "canonicalId": "2112592264686149749",
+        "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
+        "createdAt": "2026-10-20T17:10:20.000Z",
+        "url": "https://x.com/thsottiaux/status/2112592264686149749",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-20T15:45:09.530Z",
-      "lastSuccessAt": "2026-10-20T15:45:09.530Z",
+      "lastCheckedAt": "2026-10-20T19:38:31.644Z",
+      "lastSuccessAt": "2026-10-20T19:38:31.644Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-20T15:45:10.088Z",
-      "lastSuccessAt": "2026-10-20T15:45:10.088Z",
+      "lastCheckedAt": "2026-10-20T19:38:32.351Z",
+      "lastSuccessAt": "2026-10-20T19:38:32.351Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -73,42 +73,34 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2112310345863930168",
-      "lastCheckedAt": "2026-10-20T15:45:10.536Z",
-      "lastSuccessAt": "2026-10-20T15:45:10.536Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 24,
+      "sinceId": "2112607347688583586",
+      "lastCheckedAt": "2026-10-20T19:38:33.073Z",
+      "lastSuccessAt": "2026-10-20T19:38:33.073Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 25,
       "latestObservedPost": {
-        "id": "2112310345863930168",
-        "canonicalId": "2112310345863930168",
-        "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means understanding decades of business logic and helping developers modernize those systems while preserving what works.\n\nWe’re building these capabilities around the challenges developers and enterprise customers bring us. If your team is working on these systems, tell us which languages and workflows we should tackle next.\n\nhttps://t.co/2TbnkQixJ1",
-        "createdAt": "2026-10-19T22:30:05.000Z",
-        "url": "https://x.com/OpenAI/status/2112310345863930168",
-        "media": [
-          {
-            "mediaKey": "2112309796745682944",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2112309796745682944/vid/avc1/1920x1080/jnLAZhRFuKMsjngz.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112309796745682944/img/uV5UTO10mMmVfiun.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2112607347688583586",
+        "canonicalId": "2112607347688583586",
+        "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!\n\nhttps://t.co/vi51OhznQn",
+        "createdAt": "2026-10-20T18:10:16.000Z",
+        "url": "https://x.com/OpenAI/status/2112607347688583586",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2112565705711239248",
-      "lastCheckedAt": "2026-10-20T15:45:11.859Z",
-      "lastSuccessAt": "2026-10-20T15:45:11.859Z",
+      "sinceId": "2112603918522105890",
+      "lastCheckedAt": "2026-10-20T19:38:34.578Z",
+      "lastSuccessAt": "2026-10-20T19:38:34.578Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 69,
+      "postsScanned": 71,
       "latestObservedPost": {
-        "id": "2112565705711239248",
-        "canonicalId": "2112565705711239248",
-        "text": "In an eligible Enterprise workspace, create a team in Settings &gt; Teams, invite teammates, and choose its connections.\n\nThen open Scheduled &gt; New Task, select your team, and describe the work and when it should run.\n\nhttps://t.co/uLf1oRF18R",
-        "createdAt": "2026-10-20T15:24:48.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2112565705711239248",
+        "id": "2112603918522105890",
+        "canonicalId": "2112603918522105890",
+        "text": "You can choose “12h”, keep the 30-minute default, or mix both in one request: 12h for shared instructions, 30 minutes for newer conversation content.\n\nIf you need to reuse the same context throughout the day, savings from repeated reuse can significantly outweigh the extra cost of 12-hour caching.\n\nhttps://t.co/1nCVCaAWmA",
+        "createdAt": "2026-10-20T17:56:39.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2112603918522105890",
         "media": []
       }
     },
@@ -126,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112370206136021218",
-      "lastCheckedAt": "2026-10-20T15:45:12.387Z",
-      "lastSuccessAt": "2026-10-20T15:45:12.387Z",
+      "lastCheckedAt": "2026-10-20T19:38:35.058Z",
+      "lastSuccessAt": "2026-10-20T19:38:35.058Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 46,
       "latestObservedPost": {
@@ -732,7 +724,11 @@
     "2112426606870585551": "d09f4ebf49f91217eb4373f658179ae2ac17da1fb929edfb2f59aa7dd46bf136",
     "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
     "2112565702552940794": "c562c228979ef2c6b4857480d6649c8b289de43e13100a93adaaacd56c3bcefe",
-    "2112565705711239248": "07da774d5613229597fab77b070398926cc70e43fce7e3fa56ca7c4a52424eb4"
+    "2112565705711239248": "07da774d5613229597fab77b070398926cc70e43fce7e3fa56ca7c4a52424eb4",
+    "2112592264686149749": "4d0758138da1a41962f2763f95f8e233606ca8df66c7214543ce330fd87bb55a",
+    "2112607347688583586": "b5aa34782d674deec334c8e5bf595b0d7284462f07aedc79e4888f404fb5be1c",
+    "2112603916076781778": "aedd57c9c9c4f41eb0f7a716d96ba0f6c4211fc63802dc567bf6790f80f038c7",
+    "2112603918522105890": "14e563a1b36aab48847bde7fbccba9930294cb0283568fbbb9239b0fb10810f1"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T15:45:12.391Z",
+  "updatedAt": "2026-10-20T19:38:35.061Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-20T15:45:12.387Z",
-    "lastSuccessAt": "2026-10-20T15:45:12.387Z",
+    "lastCheckedAt": "2026-10-20T19:38:35.058Z",
+    "lastSuccessAt": "2026-10-20T19:38:35.058Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112565705711239248",
-    "text": "In an eligible Enterprise workspace, create a team in Settings &gt; Teams, invite teammates, and choose its connections.\n\nThen open Scheduled &gt; New Task, select your team, and describe the work and when it should run.\n\nhttps://t.co/uLf1oRF18R",
-    "url": "https://x.com/OpenAIDevs/status/2112565705711239248",
-    "postCreatedAt": "2026-10-20T15:24:48.000Z"
+    "id": "2112607347688583586",
+    "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!\n\nhttps://t.co/vi51OhznQn",
+    "url": "https://x.com/OpenAI/status/2112607347688583586",
+    "postCreatedAt": "2026-10-20T18:10:16.000Z"
   },
   "latest": {
     "reset": {
