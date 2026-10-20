@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T19:38:35.061Z",
+  "updatedAt": "2026-10-20T22:38:48.021Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-20T19:38:35.058Z",
-    "lastSuccessAt": "2026-10-20T19:38:35.058Z",
+    "lastCheckedAt": "2026-10-20T22:38:48.017Z",
+    "lastSuccessAt": "2026-10-20T22:38:48.017Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112607347688583586",
-    "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!\n\nhttps://t.co/vi51OhznQn",
-    "url": "https://x.com/OpenAI/status/2112607347688583586",
-    "postCreatedAt": "2026-10-20T18:10:16.000Z"
+    "id": "2112661440934949312",
+    "text": "@tomiyasu16 @danizeres we're so happy to see you in DevDay Exchange Tokyo! ☺️",
+    "url": "https://x.com/OpenAIDevs/status/2112661440934949312",
+    "postCreatedAt": "2026-10-20T21:45:13.000Z"
   },
   "latest": {
     "reset": {

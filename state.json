@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2112592264686149749",
-      "lastCheckedAt": "2026-10-20T19:38:31.204Z",
-      "lastSuccessAt": "2026-10-20T19:38:31.204Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-20T22:38:43.745Z",
+      "lastSuccessAt": "2026-10-20T22:38:43.745Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 106,
       "latestObservedPost": {
         "id": "2112592264686149749",
@@ -31,34 +31,26 @@
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-20T19:38:31.644Z",
-      "lastSuccessAt": "2026-10-20T19:38:31.644Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 22,
+      "sinceId": "2112652656602923366",
+      "lastCheckedAt": "2026-10-20T22:38:44.439Z",
+      "lastSuccessAt": "2026-10-20T22:38:44.439Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 23,
       "latestObservedPost": {
-        "id": "2111139227761266699",
-        "canonicalId": "2111139227761266699",
-        "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
-        "createdAt": "2026-10-16T16:56:29.000Z",
-        "url": "https://x.com/sama/status/2111139227761266699",
-        "media": [
-          {
-            "mediaKey": "2111138966007373826",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2112652656602923366",
+        "canonicalId": "2112652656602923366",
+        "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+        "createdAt": "2026-10-20T21:10:19.000Z",
+        "url": "https://x.com/sama/status/2112652656602923366",
+        "media": []
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-20T19:38:32.351Z",
-      "lastSuccessAt": "2026-10-20T19:38:32.351Z",
+      "lastCheckedAt": "2026-10-20T22:38:44.945Z",
+      "lastSuccessAt": "2026-10-20T22:38:44.945Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112607347688583586",
-      "lastCheckedAt": "2026-10-20T19:38:33.073Z",
-      "lastSuccessAt": "2026-10-20T19:38:33.073Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-20T22:38:45.614Z",
+      "lastSuccessAt": "2026-10-20T22:38:45.614Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 25,
       "latestObservedPost": {
         "id": "2112607347688583586",
@@ -90,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2112603918522105890",
-      "lastCheckedAt": "2026-10-20T19:38:34.578Z",
-      "lastSuccessAt": "2026-10-20T19:38:34.578Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 71,
+      "sinceId": "2112661440934949312",
+      "lastCheckedAt": "2026-10-20T22:38:47.629Z",
+      "lastSuccessAt": "2026-10-20T22:38:47.629Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 72,
       "latestObservedPost": {
-        "id": "2112603918522105890",
-        "canonicalId": "2112603918522105890",
-        "text": "You can choose “12h”, keep the 30-minute default, or mix both in one request: 12h for shared instructions, 30 minutes for newer conversation content.\n\nIf you need to reuse the same context throughout the day, savings from repeated reuse can significantly outweigh the extra cost of 12-hour caching.\n\nhttps://t.co/1nCVCaAWmA",
-        "createdAt": "2026-10-20T17:56:39.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2112603918522105890",
+        "id": "2112661440934949312",
+        "canonicalId": "2112661440934949312",
+        "text": "@tomiyasu16 @danizeres we're so happy to see you in DevDay Exchange Tokyo! ☺️",
+        "createdAt": "2026-10-20T21:45:13.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2112661440934949312",
         "media": []
       }
     },
@@ -118,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112370206136021218",
-      "lastCheckedAt": "2026-10-20T19:38:35.058Z",
-      "lastSuccessAt": "2026-10-20T19:38:35.058Z",
+      "lastCheckedAt": "2026-10-20T22:38:48.017Z",
+      "lastSuccessAt": "2026-10-20T22:38:48.017Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 46,
       "latestObservedPost": {
@@ -728,7 +720,9 @@
     "2112592264686149749": "4d0758138da1a41962f2763f95f8e233606ca8df66c7214543ce330fd87bb55a",
     "2112607347688583586": "b5aa34782d674deec334c8e5bf595b0d7284462f07aedc79e4888f404fb5be1c",
     "2112603916076781778": "aedd57c9c9c4f41eb0f7a716d96ba0f6c4211fc63802dc567bf6790f80f038c7",
-    "2112603918522105890": "14e563a1b36aab48847bde7fbccba9930294cb0283568fbbb9239b0fb10810f1"
+    "2112603918522105890": "14e563a1b36aab48847bde7fbccba9930294cb0283568fbbb9239b0fb10810f1",
+    "2112652656602923366": "38cafd755789b926b11d015e3a5bf6c63039a8f5a2ac838cf1ee8c4448e72810",
+    "2112661440934949312": "7e991892b27b0203fcebf779fbe268721cebb2f412832548a4fd2b925d2f724e"
   },
   "eventParserVersion": 5
 }
