@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T22:46:36.396Z",
+  "updatedAt": "2026-10-20T01:18:43.300Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-19T22:46:36.354Z",
-    "lastSuccessAt": "2026-10-19T22:46:36.354Z",
+    "lastCheckedAt": "2026-10-20T01:18:43.297Z",
+    "lastSuccessAt": "2026-10-20T01:18:43.297Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112313372511256864",
-    "text": "@iamdeepaklenka @derrickcchoi thanks for coming!",
-    "url": "https://x.com/OpenAIDevs/status/2112313372511256864",
-    "postCreatedAt": "2026-10-19T22:42:07.000Z"
+    "id": "2112336387194372537",
+    "text": "@viticci Doing our best to bring them to the EU asap 🫡",
+    "url": "https://x.com/dkundel/status/2112336387194372537",
+    "postCreatedAt": "2026-10-20T00:13:34.000Z"
   },
   "latest": {
     "reset": {
