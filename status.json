@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T06:07:58.965Z",
+  "updatedAt": "2026-10-20T11:28:06.126Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-20T06:07:58.959Z",
-    "lastSuccessAt": "2026-10-20T06:07:58.959Z",
+    "lastCheckedAt": "2026-10-20T11:28:06.119Z",
+    "lastSuccessAt": "2026-10-20T11:28:06.119Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112370206136021218",
-    "text": "@rishabincloud But what about Twilio Sans Mono :( is it dead? 😫",
-    "url": "https://x.com/dkundel/status/2112370206136021218",
-    "postCreatedAt": "2026-10-20T02:27:57.000Z"
+    "id": "2112432076767289678",
+    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+    "url": "https://x.com/thsottiaux/status/2112432076767289678",
+    "postCreatedAt": "2026-10-20T06:33:48.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+      "id": "2112432076767289678",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "postCreatedAt": "2026-10-20T06:33:48.000Z",
+      "detectedAt": "2026-10-20T11:28:03.721Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
       "id": "2111918768733753664",

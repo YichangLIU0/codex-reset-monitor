@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2112268918681485431",
-      "lastCheckedAt": "2026-10-20T06:07:55.917Z",
-      "lastSuccessAt": "2026-10-20T06:07:55.917Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 103,
+      "sinceId": "2112432076767289678",
+      "lastCheckedAt": "2026-10-20T11:28:03.721Z",
+      "lastSuccessAt": "2026-10-20T11:28:03.721Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 105,
       "latestObservedPost": {
-        "id": "2112268918681485431",
-        "canonicalId": "2112268918681485431",
-        "text": "Day 15/ We're cooked",
-        "createdAt": "2026-10-19T19:45:28.000Z",
-        "url": "https://x.com/thsottiaux/status/2112268918681485431",
+        "id": "2112432076767289678",
+        "canonicalId": "2112432076767289678",
+        "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+        "createdAt": "2026-10-20T06:33:48.000Z",
+        "url": "https://x.com/thsottiaux/status/2112432076767289678",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-20T06:07:56.257Z",
-      "lastSuccessAt": "2026-10-20T06:07:56.257Z",
+      "lastCheckedAt": "2026-10-20T11:28:04.064Z",
+      "lastSuccessAt": "2026-10-20T11:28:04.064Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-20T06:07:57.197Z",
-      "lastSuccessAt": "2026-10-20T06:07:57.197Z",
+      "lastCheckedAt": "2026-10-20T11:28:04.493Z",
+      "lastSuccessAt": "2026-10-20T11:28:04.493Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112310345863930168",
-      "lastCheckedAt": "2026-10-20T06:07:57.541Z",
-      "lastSuccessAt": "2026-10-20T06:07:57.541Z",
+      "lastCheckedAt": "2026-10-20T11:28:04.944Z",
+      "lastSuccessAt": "2026-10-20T11:28:04.944Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -99,8 +99,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2112330881016922499",
-      "lastCheckedAt": "2026-10-20T06:07:58.056Z",
-      "lastSuccessAt": "2026-10-20T06:07:58.056Z",
+      "lastCheckedAt": "2026-10-20T11:28:05.572Z",
+      "lastSuccessAt": "2026-10-20T11:28:05.572Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 67,
       "latestObservedPost": {
@@ -126,9 +126,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112370206136021218",
-      "lastCheckedAt": "2026-10-20T06:07:58.959Z",
-      "lastSuccessAt": "2026-10-20T06:07:58.959Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-20T11:28:06.119Z",
+      "lastSuccessAt": "2026-10-20T11:28:06.119Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 46,
       "latestObservedPost": {
         "id": "2112370206136021218",
@@ -142,6 +142,34 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+      "id": "2112432076767289678",
+      "canonicalId": "2112432076767289678",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+      "createdAt": "2026-10-20T06:33:48.000Z",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "media": [],
+      "detectedAt": "2026-10-20T11:28:03.721Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-20T11:28:06.121Z"
+    },
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
       "id": "2111918768733753664",
@@ -701,7 +729,9 @@
     "2112313372511256864": "a28817584306347ebcd7a3c89df5d25066e99b87b3d7bd83320296c10e5cb448",
     "2112330881016922499": "e8346c77a67a50c03a682a120a8351a1fde3e0828d28d773fd5354ae67e8b73e",
     "2112336387194372537": "d40016d5e938ea7aa37f2182ad06b1f5a9b8b0c879515ea362d9ff9021492e98",
-    "2112370206136021218": "18ec21eb6e2b99e76975c64279e0df22ed264c1b4e98fc613072d7f4ee7f1f71"
+    "2112370206136021218": "18ec21eb6e2b99e76975c64279e0df22ed264c1b4e98fc613072d7f4ee7f1f71",
+    "2112426606870585551": "d09f4ebf49f91217eb4373f658179ae2ac17da1fb929edfb2f59aa7dd46bf136",
+    "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b"
   },
   "eventParserVersion": 5
 }
