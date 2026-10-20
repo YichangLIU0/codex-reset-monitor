@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T01:18:43.300Z",
+  "updatedAt": "2026-10-20T06:07:58.965Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-20T01:18:43.297Z",
-    "lastSuccessAt": "2026-10-20T01:18:43.297Z",
+    "lastCheckedAt": "2026-10-20T06:07:58.959Z",
+    "lastSuccessAt": "2026-10-20T06:07:58.959Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112336387194372537",
-    "text": "@viticci Doing our best to bring them to the EU asap 🫡",
-    "url": "https://x.com/dkundel/status/2112336387194372537",
-    "postCreatedAt": "2026-10-20T00:13:34.000Z"
+    "id": "2112370206136021218",
+    "text": "@rishabincloud But what about Twilio Sans Mono :( is it dead? 😫",
+    "url": "https://x.com/dkundel/status/2112370206136021218",
+    "postCreatedAt": "2026-10-20T02:27:57.000Z"
   },
   "latest": {
     "reset": {

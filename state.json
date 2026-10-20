@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2112268918681485431",
-      "lastCheckedAt": "2026-10-20T01:18:39.324Z",
-      "lastSuccessAt": "2026-10-20T01:18:39.324Z",
+      "lastCheckedAt": "2026-10-20T06:07:55.917Z",
+      "lastSuccessAt": "2026-10-20T06:07:55.917Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 103,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-20T01:18:39.797Z",
-      "lastSuccessAt": "2026-10-20T01:18:39.797Z",
+      "lastCheckedAt": "2026-10-20T06:07:56.257Z",
+      "lastSuccessAt": "2026-10-20T06:07:56.257Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-20T01:18:40.442Z",
-      "lastSuccessAt": "2026-10-20T01:18:40.442Z",
+      "lastCheckedAt": "2026-10-20T06:07:57.197Z",
+      "lastSuccessAt": "2026-10-20T06:07:57.197Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112310345863930168",
-      "lastCheckedAt": "2026-10-20T01:18:40.914Z",
-      "lastSuccessAt": "2026-10-20T01:18:40.914Z",
+      "lastCheckedAt": "2026-10-20T06:07:57.541Z",
+      "lastSuccessAt": "2026-10-20T06:07:57.541Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -99,9 +99,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2112330881016922499",
-      "lastCheckedAt": "2026-10-20T01:18:42.200Z",
-      "lastSuccessAt": "2026-10-20T01:18:42.200Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-20T06:07:58.056Z",
+      "lastSuccessAt": "2026-10-20T06:07:58.056Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 67,
       "latestObservedPost": {
         "id": "2112330881016922499",
@@ -125,17 +125,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2112336387194372537",
-      "lastCheckedAt": "2026-10-20T01:18:43.297Z",
-      "lastSuccessAt": "2026-10-20T01:18:43.297Z",
+      "sinceId": "2112370206136021218",
+      "lastCheckedAt": "2026-10-20T06:07:58.959Z",
+      "lastSuccessAt": "2026-10-20T06:07:58.959Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 45,
+      "postsScanned": 46,
       "latestObservedPost": {
-        "id": "2112336387194372537",
-        "canonicalId": "2112336387194372537",
-        "text": "@viticci Doing our best to bring them to the EU asap 🫡",
-        "createdAt": "2026-10-20T00:13:34.000Z",
-        "url": "https://x.com/dkundel/status/2112336387194372537",
+        "id": "2112370206136021218",
+        "canonicalId": "2112370206136021218",
+        "text": "@rishabincloud But what about Twilio Sans Mono :( is it dead? 😫",
+        "createdAt": "2026-10-20T02:27:57.000Z",
+        "url": "https://x.com/dkundel/status/2112370206136021218",
         "media": []
       }
     }
@@ -700,7 +700,8 @@
     "2112269696854634610": "e3f03759b280796c38c5465e542eca25483049fb43153c7320e6d533148e55e3",
     "2112313372511256864": "a28817584306347ebcd7a3c89df5d25066e99b87b3d7bd83320296c10e5cb448",
     "2112330881016922499": "e8346c77a67a50c03a682a120a8351a1fde3e0828d28d773fd5354ae67e8b73e",
-    "2112336387194372537": "d40016d5e938ea7aa37f2182ad06b1f5a9b8b0c879515ea362d9ff9021492e98"
+    "2112336387194372537": "d40016d5e938ea7aa37f2182ad06b1f5a9b8b0c879515ea362d9ff9021492e98",
+    "2112370206136021218": "18ec21eb6e2b99e76975c64279e0df22ed264c1b4e98fc613072d7f4ee7f1f71"
   },
   "eventParserVersion": 5
 }
