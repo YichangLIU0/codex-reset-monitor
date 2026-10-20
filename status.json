@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T11:28:06.126Z",
+  "updatedAt": "2026-10-20T15:45:12.391Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-20T11:28:06.119Z",
-    "lastSuccessAt": "2026-10-20T11:28:06.119Z",
+    "lastCheckedAt": "2026-10-20T15:45:12.387Z",
+    "lastSuccessAt": "2026-10-20T15:45:12.387Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112432076767289678",
-    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
-    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-    "postCreatedAt": "2026-10-20T06:33:48.000Z"
+    "id": "2112565705711239248",
+    "text": "In an eligible Enterprise workspace, create a team in Settings &gt; Teams, invite teammates, and choose its connections.\n\nThen open Scheduled &gt; New Task, select your team, and describe the work and when it should run.\n\nhttps://t.co/uLf1oRF18R",
+    "url": "https://x.com/OpenAIDevs/status/2112565705711239248",
+    "postCreatedAt": "2026-10-20T15:24:48.000Z"
   },
   "latest": {
     "reset": {

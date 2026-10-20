@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2112432076767289678",
-      "lastCheckedAt": "2026-10-20T11:28:03.721Z",
-      "lastSuccessAt": "2026-10-20T11:28:03.721Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-20T15:45:09.096Z",
+      "lastSuccessAt": "2026-10-20T15:45:09.096Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 105,
       "latestObservedPost": {
         "id": "2112432076767289678",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2111139227761266699",
-      "lastCheckedAt": "2026-10-20T11:28:04.064Z",
-      "lastSuccessAt": "2026-10-20T11:28:04.064Z",
+      "lastCheckedAt": "2026-10-20T15:45:09.530Z",
+      "lastSuccessAt": "2026-10-20T15:45:09.530Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2110063893016096831",
-      "lastCheckedAt": "2026-10-20T11:28:04.493Z",
-      "lastSuccessAt": "2026-10-20T11:28:04.493Z",
+      "lastCheckedAt": "2026-10-20T15:45:10.088Z",
+      "lastSuccessAt": "2026-10-20T15:45:10.088Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 17,
       "latestObservedPost": {
@@ -74,8 +74,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112310345863930168",
-      "lastCheckedAt": "2026-10-20T11:28:04.944Z",
-      "lastSuccessAt": "2026-10-20T11:28:04.944Z",
+      "lastCheckedAt": "2026-10-20T15:45:10.536Z",
+      "lastSuccessAt": "2026-10-20T15:45:10.536Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -98,17 +98,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2112330881016922499",
-      "lastCheckedAt": "2026-10-20T11:28:05.572Z",
-      "lastSuccessAt": "2026-10-20T11:28:05.572Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 67,
+      "sinceId": "2112565705711239248",
+      "lastCheckedAt": "2026-10-20T15:45:11.859Z",
+      "lastSuccessAt": "2026-10-20T15:45:11.859Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 69,
       "latestObservedPost": {
-        "id": "2112330881016922499",
-        "canonicalId": "2112330881016922499",
-        "text": "@Ferhan_XRB @PICOXR impressive!",
-        "createdAt": "2026-10-19T23:51:41.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2112330881016922499",
+        "id": "2112565705711239248",
+        "canonicalId": "2112565705711239248",
+        "text": "In an eligible Enterprise workspace, create a team in Settings &gt; Teams, invite teammates, and choose its connections.\n\nThen open Scheduled &gt; New Task, select your team, and describe the work and when it should run.\n\nhttps://t.co/uLf1oRF18R",
+        "createdAt": "2026-10-20T15:24:48.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2112565705711239248",
         "media": []
       }
     },
@@ -126,8 +126,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112370206136021218",
-      "lastCheckedAt": "2026-10-20T11:28:06.119Z",
-      "lastSuccessAt": "2026-10-20T11:28:06.119Z",
+      "lastCheckedAt": "2026-10-20T15:45:12.387Z",
+      "lastSuccessAt": "2026-10-20T15:45:12.387Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 46,
       "latestObservedPost": {
@@ -145,7 +145,6 @@
     {
       "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
       "id": "2112432076767289678",
-      "canonicalId": "2112432076767289678",
       "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
       "createdAt": "2026-10-20T06:33:48.000Z",
       "url": "https://x.com/thsottiaux/status/2112432076767289678",
@@ -165,10 +164,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-20T11:28:06.121Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-20T11:28:06.121Z"
+      ]
     },
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
@@ -731,7 +730,9 @@
     "2112336387194372537": "d40016d5e938ea7aa37f2182ad06b1f5a9b8b0c879515ea362d9ff9021492e98",
     "2112370206136021218": "18ec21eb6e2b99e76975c64279e0df22ed264c1b4e98fc613072d7f4ee7f1f71",
     "2112426606870585551": "d09f4ebf49f91217eb4373f658179ae2ac17da1fb929edfb2f59aa7dd46bf136",
-    "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b"
+    "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+    "2112565702552940794": "c562c228979ef2c6b4857480d6649c8b289de43e13100a93adaaacd56c3bcefe",
+    "2112565705711239248": "07da774d5613229597fab77b070398926cc70e43fce7e3fa56ca7c4a52424eb4"
   },
   "eventParserVersion": 5
 }
