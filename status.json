@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T00:55:04.664Z",
+  "updatedAt": "2026-10-21T05:35:43.864Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-21T00:55:04.660Z",
-    "lastSuccessAt": "2026-10-21T00:55:04.660Z",
+    "lastCheckedAt": "2026-10-21T05:35:43.861Z",
+    "lastSuccessAt": "2026-10-21T05:35:43.861Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112661440934949312",
-    "text": "@tomiyasu16 @danizeres we're so happy to see you in DevDay Exchange Tokyo! ☺️",
-    "url": "https://x.com/OpenAIDevs/status/2112661440934949312",
-    "postCreatedAt": "2026-10-20T21:45:13.000Z"
+    "id": "2112712984644784534",
+    "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+    "url": "https://x.com/thsottiaux/status/2112712984644784534",
+    "postCreatedAt": "2026-10-21T01:10:02.000Z"
   },
   "latest": {
     "reset": {
