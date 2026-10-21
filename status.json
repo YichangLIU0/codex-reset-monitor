@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T10:33:18.045Z",
+  "updatedAt": "2026-10-21T15:33:04.749Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-21T10:33:18.037Z",
-    "lastSuccessAt": "2026-10-21T10:33:18.037Z",
+    "lastCheckedAt": "2026-10-21T15:33:04.744Z",
+    "lastSuccessAt": "2026-10-21T15:33:04.744Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112798601286197457",
-    "text": "@ashokaraj_ welcome to openai!!",
-    "url": "https://x.com/gdb/status/2112798601286197457",
-    "postCreatedAt": "2026-10-21T06:50:15.000Z"
+    "id": "2112907856018309586",
+    "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.\nhttps://t.co/TW3jrSbB3f",
+    "url": "https://x.com/OpenAI/status/2112907856018309586",
+    "postCreatedAt": "2026-10-21T14:04:23.000Z"
   },
   "latest": {
     "reset": {

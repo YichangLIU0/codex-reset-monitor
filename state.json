@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2112798407928713717",
-      "lastCheckedAt": "2026-10-21T10:33:14.322Z",
-      "lastSuccessAt": "2026-10-21T10:33:14.322Z",
+      "sinceId": "2112906496736641416",
+      "lastCheckedAt": "2026-10-21T15:32:56.940Z",
+      "lastSuccessAt": "2026-10-21T15:32:56.940Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 108,
+      "postsScanned": 109,
       "latestObservedPost": {
-        "id": "2112798407928713717",
-        "canonicalId": "2112798407928713717",
-        "text": "@theo I demand a reset",
-        "createdAt": "2026-10-21T06:49:29.000Z",
-        "url": "https://x.com/thsottiaux/status/2112798407928713717",
+        "id": "2112906496736641416",
+        "canonicalId": "2112906496736641416",
+        "text": "@JustLingonberry @sama is this true",
+        "createdAt": "2026-10-21T13:58:59.000Z",
+        "url": "https://x.com/thsottiaux/status/2112906496736641416",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-21T10:33:14.697Z",
-      "lastSuccessAt": "2026-10-21T10:33:14.697Z",
+      "lastCheckedAt": "2026-10-21T15:32:57.526Z",
+      "lastSuccessAt": "2026-10-21T15:32:57.526Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2112798601286197457",
-      "lastCheckedAt": "2026-10-21T10:33:15.667Z",
-      "lastSuccessAt": "2026-10-21T10:33:15.667Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-21T15:32:58.201Z",
+      "lastSuccessAt": "2026-10-21T15:32:58.201Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 20,
       "latestObservedPost": {
         "id": "2112798601286197457",
@@ -65,17 +65,17 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2112607347688583586",
-      "lastCheckedAt": "2026-10-21T10:33:16.056Z",
-      "lastSuccessAt": "2026-10-21T10:33:16.056Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 25,
+      "sinceId": "2112907856018309586",
+      "lastCheckedAt": "2026-10-21T15:33:00.687Z",
+      "lastSuccessAt": "2026-10-21T15:33:00.687Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 28,
       "latestObservedPost": {
-        "id": "2112607347688583586",
-        "canonicalId": "2112607347688583586",
-        "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!\n\nhttps://t.co/vi51OhznQn",
-        "createdAt": "2026-10-20T18:10:16.000Z",
-        "url": "https://x.com/OpenAI/status/2112607347688583586",
+        "id": "2112907856018309586",
+        "canonicalId": "2112907856018309586",
+        "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.\nhttps://t.co/TW3jrSbB3f",
+        "createdAt": "2026-10-21T14:04:23.000Z",
+        "url": "https://x.com/OpenAI/status/2112907856018309586",
         "media": []
       }
     },
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2112661440934949312",
-      "lastCheckedAt": "2026-10-21T10:33:16.987Z",
-      "lastSuccessAt": "2026-10-21T10:33:16.987Z",
+      "lastCheckedAt": "2026-10-21T15:33:03.267Z",
+      "lastSuccessAt": "2026-10-21T15:33:03.267Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 72,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112370206136021218",
-      "lastCheckedAt": "2026-10-21T10:33:18.037Z",
-      "lastSuccessAt": "2026-10-21T10:33:18.037Z",
+      "lastCheckedAt": "2026-10-21T15:33:04.744Z",
+      "lastSuccessAt": "2026-10-21T15:33:04.744Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 46,
       "latestObservedPost": {
@@ -129,7 +129,6 @@
     {
       "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
       "id": "2112798407928713717",
-      "canonicalId": "2112798407928713717",
       "text": "@theo I demand a reset",
       "createdAt": "2026-10-21T06:49:29.000Z",
       "url": "https://x.com/thsottiaux/status/2112798407928713717",
@@ -149,10 +148,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-21T10:33:18.040Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-21T10:33:18.040Z"
+      ]
     },
     {
       "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
@@ -755,7 +754,11 @@
     "2112798407928713717": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
     "2112789796095725715": "df290c4db3734327f407098d5703238fc51d72c74dd6e1be914915198185f718",
     "2112797730829697108": "3298f0890ba862b77b3430dd05df7f242a9e48067cdcf6e2ca8066ed5b73debe",
-    "2112798601286197457": "54e3ef6aba6315384aed41cc15b32f87257f6affc477c9b5b8ea4f674ab597b5"
+    "2112798601286197457": "54e3ef6aba6315384aed41cc15b32f87257f6affc477c9b5b8ea4f674ab597b5",
+    "2112906496736641416": "9a61d0f1e4b654ee2c5e6aec4b1a933ac416671c19e1559a52b1e5c025e4245e",
+    "2112899854569762936": "02c3b411a78377d0d01376572284de3b5cdf179100709e973e63e761438db57b",
+    "2112899856205578486": "67ef602e9133264309d0faf3eb67a52b9e8c500945dd79220791ac6acd865391",
+    "2112907856018309586": "0c8920aec39c46b7d658e6778f6e741aa57e55867e962938333899184859897c"
   },
   "eventParserVersion": 5
 }
