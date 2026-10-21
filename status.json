@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T05:35:43.864Z",
+  "updatedAt": "2026-10-21T10:33:18.045Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-21T05:35:43.861Z",
-    "lastSuccessAt": "2026-10-21T05:35:43.861Z",
+    "lastCheckedAt": "2026-10-21T10:33:18.037Z",
+    "lastSuccessAt": "2026-10-21T10:33:18.037Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112712984644784534",
-    "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
-    "url": "https://x.com/thsottiaux/status/2112712984644784534",
-    "postCreatedAt": "2026-10-21T01:10:02.000Z"
+    "id": "2112798601286197457",
+    "text": "@ashokaraj_ welcome to openai!!",
+    "url": "https://x.com/gdb/status/2112798601286197457",
+    "postCreatedAt": "2026-10-21T06:50:15.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+      "id": "2112798407928713717",
+      "text": "@theo I demand a reset",
+      "url": "https://x.com/thsottiaux/status/2112798407928713717",
+      "postCreatedAt": "2026-10-21T06:49:29.000Z",
+      "detectedAt": "2026-10-21T10:33:14.322Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I demand a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I demand a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
       "id": "2112432076767289678",
