@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2112906496736641416",
-      "lastCheckedAt": "2026-10-21T19:32:15.074Z",
-      "lastSuccessAt": "2026-10-21T19:32:15.074Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 109,
+      "sinceId": "2113029854417600834",
+      "lastCheckedAt": "2026-10-21T22:39:40.113Z",
+      "lastSuccessAt": "2026-10-21T22:39:40.113Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 113,
       "latestObservedPost": {
-        "id": "2112906496736641416",
-        "canonicalId": "2112906496736641416",
-        "text": "@JustLingonberry @sama is this true",
-        "createdAt": "2026-10-21T13:58:59.000Z",
-        "url": "https://x.com/thsottiaux/status/2112906496736641416",
+        "id": "2113029854417600834",
+        "canonicalId": "2113029854417600834",
+        "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+        "createdAt": "2026-10-21T22:09:10.000Z",
+        "url": "https://x.com/thsottiaux/status/2113029854417600834",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-21T19:32:15.442Z",
-      "lastSuccessAt": "2026-10-21T19:32:15.442Z",
+      "lastCheckedAt": "2026-10-21T22:39:40.499Z",
+      "lastSuccessAt": "2026-10-21T22:39:40.499Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2112950297404608595",
-      "lastCheckedAt": "2026-10-21T19:32:17.045Z",
-      "lastSuccessAt": "2026-10-21T19:32:17.045Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-21T22:39:41.040Z",
+      "lastSuccessAt": "2026-10-21T22:39:41.040Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
         "id": "2112950297404608595",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112988118471295323",
-      "lastCheckedAt": "2026-10-21T19:32:18.064Z",
-      "lastSuccessAt": "2026-10-21T19:32:18.064Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-21T22:39:41.523Z",
+      "lastSuccessAt": "2026-10-21T22:39:41.523Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
         "id": "2112988118471295323",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2112962760854425829",
-      "lastCheckedAt": "2026-10-21T19:32:19.975Z",
-      "lastSuccessAt": "2026-10-21T19:32:19.975Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-21T22:39:41.964Z",
+      "lastSuccessAt": "2026-10-21T22:39:41.964Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 75,
       "latestObservedPost": {
         "id": "2112962760854425829",
@@ -110,9 +110,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112949221175517265",
-      "lastCheckedAt": "2026-10-21T19:32:21.172Z",
-      "lastSuccessAt": "2026-10-21T19:32:21.172Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-21T22:39:42.927Z",
+      "lastSuccessAt": "2026-10-21T22:39:42.927Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 47,
       "latestObservedPost": {
         "id": "2112949221175517265",
@@ -765,7 +765,11 @@
     "2112962753682198969": "f8c87f2b1afe8ebb84f54645649c7e7dfd7c43adcc4b3bf54c9319ee97374abc",
     "2112962757230571949": "2b06f9449613cc5440f1cacf535da56d5f89042e141faf1810469714e3a10a17",
     "2112962760854425829": "07944c8148a54e407f3913d7e2b53aed3b143d83581b4eb09c12c07ecb5738b8",
-    "2112949221175517265": "a4d57a6e373401a8abe452d3ee6aaf4ee5a269866e332bc1c921e85a78ce8c9d"
+    "2112949221175517265": "a4d57a6e373401a8abe452d3ee6aaf4ee5a269866e332bc1c921e85a78ce8c9d",
+    "2112992042465009736": "b28df03af70dece6d272b1def36c48353b48cb0c31978a91891fe75636a9784f",
+    "2113009945134379213": "113b460f6a15498062c666335ad2542d45315a465476766d4ed3c5e024c8c7a6",
+    "2113029655095836957": "86a2ce6087357bf459cb2675a1e3f4b69ca461da3173a17951a00e9343d5a446",
+    "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T19:32:21.175Z",
+  "updatedAt": "2026-10-21T22:39:42.931Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-21T19:32:21.172Z",
-    "lastSuccessAt": "2026-10-21T19:32:21.172Z",
+    "lastCheckedAt": "2026-10-21T22:39:42.927Z",
+    "lastSuccessAt": "2026-10-21T22:39:42.927Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2112988118471295323",
-    "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.\n\nhttps://t.co/gjuLVALjDm",
-    "url": "https://x.com/OpenAI/status/2112988118471295323",
-    "postCreatedAt": "2026-10-21T19:23:19.000Z"
+    "id": "2113029854417600834",
+    "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+    "url": "https://x.com/thsottiaux/status/2113029854417600834",
+    "postCreatedAt": "2026-10-21T22:09:10.000Z"
   },
   "latest": {
     "reset": {
