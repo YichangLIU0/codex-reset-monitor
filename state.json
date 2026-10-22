@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2113163458867032238",
-      "lastCheckedAt": "2026-10-22T19:27:01.380Z",
-      "lastSuccessAt": "2026-10-22T19:27:01.380Z",
+      "lastCheckedAt": "2026-10-22T22:36:24.605Z",
+      "lastSuccessAt": "2026-10-22T22:36:24.605Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 116,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-22T19:27:02.050Z",
-      "lastSuccessAt": "2026-10-22T19:27:02.050Z",
+      "lastCheckedAt": "2026-10-22T22:36:25.027Z",
+      "lastSuccessAt": "2026-10-22T22:36:25.027Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113325885491437764",
-      "lastCheckedAt": "2026-10-22T19:27:03.393Z",
-      "lastSuccessAt": "2026-10-22T19:27:03.393Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-22T22:36:26.003Z",
+      "lastSuccessAt": "2026-10-22T22:36:26.003Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
         "id": "2113325885491437764",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113298833392496746",
-      "lastCheckedAt": "2026-10-22T19:27:03.979Z",
-      "lastSuccessAt": "2026-10-22T19:27:03.979Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-22T22:36:26.443Z",
+      "lastSuccessAt": "2026-10-22T22:36:26.443Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 31,
       "latestObservedPost": {
         "id": "2113298833392496746",
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2113346645463081418",
-      "lastCheckedAt": "2026-10-22T19:27:05.460Z",
-      "lastSuccessAt": "2026-10-22T19:27:05.460Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 78,
+      "sinceId": "2113363779211977138",
+      "lastCheckedAt": "2026-10-22T22:36:27.348Z",
+      "lastSuccessAt": "2026-10-22T22:36:27.348Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 79,
       "latestObservedPost": {
-        "id": "2113346645463081418",
-        "canonicalId": "2113346645463081418",
-        "text": "Since the beta, we’ve added new capabilities to the Decisions API so you can now use:\n\n• Native GPT-Live integration so voice apps can react as people speak.\n\n• Prompt caching to help lower costs when reusing context.\n\n• Native JSON inputs so you can pass structured app data directly.\n\n• Images in individual question instructions so you can compare multiple images against a shared reference.\n\n• Up to 400 questions per request so you can make twice as many decisions in a single call.\n\nhttps://t.co/7LtPr2XjKW",
-        "createdAt": "2026-10-22T19:07:59.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2113346645463081418",
+        "id": "2113363779211977138",
+        "canonicalId": "2113363779211977138",
+        "text": "@acatovicx @thsottiaux @pvncher @OpenAI the perfect mix 👨‍🍳",
+        "createdAt": "2026-10-22T20:16:04.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2113363779211977138",
         "media": []
       }
     },
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2113337005446942874",
-      "lastCheckedAt": "2026-10-22T19:27:08.697Z",
-      "lastSuccessAt": "2026-10-22T19:27:08.697Z",
+      "sinceId": "2113373676733350081",
+      "lastCheckedAt": "2026-10-22T22:36:28.318Z",
+      "lastSuccessAt": "2026-10-22T22:36:28.318Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 48,
+      "postsScanned": 49,
       "latestObservedPost": {
-        "id": "2113337005446942874",
-        "canonicalId": "2113337005446942874",
-        "text": "@kevinwhinnery Have you had an agent configure your wifi yet 🤣",
-        "createdAt": "2026-10-22T18:29:40.000Z",
-        "url": "https://x.com/dkundel/status/2113337005446942874",
+        "id": "2113373676733350081",
+        "canonicalId": "2113373676733350081",
+        "text": "🥐 || !🥐",
+        "createdAt": "2026-10-22T20:55:23.000Z",
+        "url": "https://x.com/dkundel/status/2113373676733350081",
         "media": []
       }
     }
@@ -805,7 +805,9 @@
     "2113298833392496746": "1dfa23dd04dbcae587a77b154217911b035e1958b9688663bfe5f5560ef74537",
     "2113346642787086538": "075c0ded3050283e4c63fe3a053ba02781501ced6cbd2fe098d43e2ac4161a9d",
     "2113346645463081418": "9fc9a47268adcf82b2a84d5804b10aeff589b7b079d4fe8ea05f9a72adb5faef",
-    "2113337005446942874": "771d98f86cd133051a7b4b90fc35a3468ca1d039ec38f64483c1f0c3fd22c0c1"
+    "2113337005446942874": "771d98f86cd133051a7b4b90fc35a3468ca1d039ec38f64483c1f0c3fd22c0c1",
+    "2113363779211977138": "2440635fbfa7d1044012f56c9e5ca27915eb8a7d6704f29020c9f00578a18e98",
+    "2113373676733350081": "37529438042e0d80ca4e182e15dd1b68234879a6242981240756811ba52009c3"
   },
   "eventParserVersion": 5
 }
