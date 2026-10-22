@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T05:34:47.091Z",
+  "updatedAt": "2026-10-22T10:35:37.979Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-22T05:34:47.088Z",
-    "lastSuccessAt": "2026-10-22T05:34:47.088Z",
+    "lastCheckedAt": "2026-10-22T10:35:37.814Z",
+    "lastSuccessAt": "2026-10-22T10:35:37.814Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113029854417600834",
-    "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-    "url": "https://x.com/thsottiaux/status/2113029854417600834",
-    "postCreatedAt": "2026-10-21T22:09:10.000Z"
+    "id": "2113163458867032238",
+    "text": "@ebloch Hefty",
+    "url": "https://x.com/thsottiaux/status/2113163458867032238",
+    "postCreatedAt": "2026-10-22T07:00:03.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+      "id": "2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "postCreatedAt": "2026-10-22T06:55:22.000Z",
+      "detectedAt": "2026-10-22T10:35:33.005Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
       "id": "2112798407928713717",

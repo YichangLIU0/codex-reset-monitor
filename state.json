@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2113029854417600834",
-      "lastCheckedAt": "2026-10-22T05:34:44.020Z",
-      "lastSuccessAt": "2026-10-22T05:34:44.020Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 113,
+      "sinceId": "2113163458867032238",
+      "lastCheckedAt": "2026-10-22T10:35:33.007Z",
+      "lastSuccessAt": "2026-10-22T10:35:33.007Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 116,
       "latestObservedPost": {
-        "id": "2113029854417600834",
-        "canonicalId": "2113029854417600834",
-        "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-        "createdAt": "2026-10-21T22:09:10.000Z",
-        "url": "https://x.com/thsottiaux/status/2113029854417600834",
+        "id": "2113163458867032238",
+        "canonicalId": "2113163458867032238",
+        "text": "@ebloch Hefty",
+        "createdAt": "2026-10-22T07:00:03.000Z",
+        "url": "https://x.com/thsottiaux/status/2113163458867032238",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-22T05:34:44.368Z",
-      "lastSuccessAt": "2026-10-22T05:34:44.368Z",
+      "lastCheckedAt": "2026-10-22T10:35:33.437Z",
+      "lastSuccessAt": "2026-10-22T10:35:33.437Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2112950297404608595",
-      "lastCheckedAt": "2026-10-22T05:34:44.858Z",
-      "lastSuccessAt": "2026-10-22T05:34:44.858Z",
+      "lastCheckedAt": "2026-10-22T10:35:33.960Z",
+      "lastSuccessAt": "2026-10-22T10:35:33.960Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112988118471295323",
-      "lastCheckedAt": "2026-10-22T05:34:45.256Z",
-      "lastSuccessAt": "2026-10-22T05:34:45.256Z",
+      "lastCheckedAt": "2026-10-22T10:35:35.427Z",
+      "lastSuccessAt": "2026-10-22T10:35:35.427Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2112962760854425829",
-      "lastCheckedAt": "2026-10-22T05:34:46.246Z",
-      "lastSuccessAt": "2026-10-22T05:34:46.246Z",
+      "lastCheckedAt": "2026-10-22T10:35:36.569Z",
+      "lastSuccessAt": "2026-10-22T10:35:36.569Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 75,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112949221175517265",
-      "lastCheckedAt": "2026-10-22T05:34:47.088Z",
-      "lastSuccessAt": "2026-10-22T05:34:47.088Z",
+      "lastCheckedAt": "2026-10-22T10:35:37.814Z",
+      "lastSuccessAt": "2026-10-22T10:35:37.814Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 47,
       "latestObservedPost": {
@@ -126,6 +126,34 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+      "id": "2113162277688070445",
+      "canonicalId": "2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "createdAt": "2026-10-22T06:55:22.000Z",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "media": [],
+      "detectedAt": "2026-10-22T10:35:33.005Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-22T10:35:37.917Z"
+    },
     {
       "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
       "id": "2112798407928713717",
@@ -769,7 +797,10 @@
     "2112992042465009736": "b28df03af70dece6d272b1def36c48353b48cb0c31978a91891fe75636a9784f",
     "2113009945134379213": "113b460f6a15498062c666335ad2542d45315a465476766d4ed3c5e024c8c7a6",
     "2113029655095836957": "86a2ce6087357bf459cb2675a1e3f4b69ca461da3173a17951a00e9343d5a446",
-    "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f"
+    "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f",
+    "2113162277688070445": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+    "2113162413008884099": "ac64cd14b4916c4387ab7d448ee3cf68d4dfc40b38cb3dadd3fdc913cee1a98d",
+    "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100"
   },
   "eventParserVersion": 5
 }
