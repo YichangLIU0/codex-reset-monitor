@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T15:36:19.631Z",
+  "updatedAt": "2026-10-22T19:27:08.702Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-22T15:36:19.625Z",
-    "lastSuccessAt": "2026-10-22T15:36:19.625Z",
+    "lastCheckedAt": "2026-10-22T19:27:08.697Z",
+    "lastSuccessAt": "2026-10-22T19:27:08.697Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113231426779005095",
-    "text": "@Harshakoliki @OpenAI sick video 😎",
-    "url": "https://x.com/OpenAIDevs/status/2113231426779005095",
-    "postCreatedAt": "2026-10-22T11:30:08.000Z"
+    "id": "2113346645463081418",
+    "text": "Since the beta, we’ve added new capabilities to the Decisions API so you can now use:\n\n• Native GPT-Live integration so voice apps can react as people speak.\n\n• Prompt caching to help lower costs when reusing context.\n\n• Native JSON inputs so you can pass structured app data directly.\n\n• Images in individual question instructions so you can compare multiple images against a shared reference.\n\n• Up to 400 questions per request so you can make twice as many decisions in a single call.\n\nhttps://t.co/7LtPr2XjKW",
+    "url": "https://x.com/OpenAIDevs/status/2113346645463081418",
+    "postCreatedAt": "2026-10-22T19:07:59.000Z"
   },
   "latest": {
     "reset": {
