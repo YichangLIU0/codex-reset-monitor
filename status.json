@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T10:35:37.979Z",
+  "updatedAt": "2026-10-22T15:36:19.631Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-22T10:35:37.814Z",
-    "lastSuccessAt": "2026-10-22T10:35:37.814Z",
+    "lastCheckedAt": "2026-10-22T15:36:19.625Z",
+    "lastSuccessAt": "2026-10-22T15:36:19.625Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113163458867032238",
-    "text": "@ebloch Hefty",
-    "url": "https://x.com/thsottiaux/status/2113163458867032238",
-    "postCreatedAt": "2026-10-22T07:00:03.000Z"
+    "id": "2113231426779005095",
+    "text": "@Harshakoliki @OpenAI sick video 😎",
+    "url": "https://x.com/OpenAIDevs/status/2113231426779005095",
+    "postCreatedAt": "2026-10-22T11:30:08.000Z"
   },
   "latest": {
     "reset": {

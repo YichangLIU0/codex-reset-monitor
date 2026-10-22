@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2113163458867032238",
-      "lastCheckedAt": "2026-10-22T10:35:33.007Z",
-      "lastSuccessAt": "2026-10-22T10:35:33.007Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-22T15:36:15.926Z",
+      "lastSuccessAt": "2026-10-22T15:36:15.926Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 116,
       "latestObservedPost": {
         "id": "2113163458867032238",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-22T10:35:33.437Z",
-      "lastSuccessAt": "2026-10-22T10:35:33.437Z",
+      "lastCheckedAt": "2026-10-22T15:36:16.330Z",
+      "lastSuccessAt": "2026-10-22T15:36:16.330Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2112950297404608595",
-      "lastCheckedAt": "2026-10-22T10:35:33.960Z",
-      "lastSuccessAt": "2026-10-22T10:35:33.960Z",
+      "lastCheckedAt": "2026-10-22T15:36:16.877Z",
+      "lastSuccessAt": "2026-10-22T15:36:16.877Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 21,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2112988118471295323",
-      "lastCheckedAt": "2026-10-22T10:35:35.427Z",
-      "lastSuccessAt": "2026-10-22T10:35:35.427Z",
+      "lastCheckedAt": "2026-10-22T15:36:17.314Z",
+      "lastSuccessAt": "2026-10-22T15:36:17.314Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2112962760854425829",
-      "lastCheckedAt": "2026-10-22T10:35:36.569Z",
-      "lastSuccessAt": "2026-10-22T10:35:36.569Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 75,
+      "sinceId": "2113231426779005095",
+      "lastCheckedAt": "2026-10-22T15:36:18.674Z",
+      "lastSuccessAt": "2026-10-22T15:36:18.674Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 76,
       "latestObservedPost": {
-        "id": "2112962760854425829",
-        "canonicalId": "2112962760854425829",
-        "text": "The ChatGPT frontend shows eligible ads below the answer, labeled as sponsored.\n\nIf an ad arrives after the answer is fully generated, it isn’t shown for that turn. ChatGPT’s answer doesn’t wait for ads.\n\nhttps://t.co/utnISbxFpl",
-        "createdAt": "2026-10-21T17:42:33.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2112962760854425829",
+        "id": "2113231426779005095",
+        "canonicalId": "2113231426779005095",
+        "text": "@Harshakoliki @OpenAI sick video 😎",
+        "createdAt": "2026-10-22T11:30:08.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2113231426779005095",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2112949221175517265",
-      "lastCheckedAt": "2026-10-22T10:35:37.814Z",
-      "lastSuccessAt": "2026-10-22T10:35:37.814Z",
+      "lastCheckedAt": "2026-10-22T15:36:19.625Z",
+      "lastSuccessAt": "2026-10-22T15:36:19.625Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 47,
       "latestObservedPost": {
@@ -129,7 +129,6 @@
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
-      "canonicalId": "2113162277688070445",
       "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
       "createdAt": "2026-10-22T06:55:22.000Z",
       "url": "https://x.com/thsottiaux/status/2113162277688070445",
@@ -149,10 +148,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-22T10:35:37.917Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-22T10:35:37.917Z"
+      ]
     },
     {
       "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
@@ -800,7 +799,8 @@
     "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f",
     "2113162277688070445": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
     "2113162413008884099": "ac64cd14b4916c4387ab7d448ee3cf68d4dfc40b38cb3dadd3fdc913cee1a98d",
-    "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100"
+    "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100",
+    "2113231426779005095": "93888e86842b65a996f7801b33857e88bdc564fbe2755de5559186eeb1db94d3"
   },
   "eventParserVersion": 5
 }
