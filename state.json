@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2113404560853397516",
-      "lastCheckedAt": "2026-10-23T00:54:45.734Z",
-      "lastSuccessAt": "2026-10-23T00:54:45.734Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 117,
+      "sinceId": "2113492502355562875",
+      "lastCheckedAt": "2026-10-23T05:35:36.245Z",
+      "lastSuccessAt": "2026-10-23T05:35:36.245Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 119,
       "latestObservedPost": {
-        "id": "2113404560853397516",
-        "canonicalId": "2113404560853397516",
-        "text": "@romainhuet Very baguette of you",
-        "createdAt": "2026-10-22T22:58:07.000Z",
-        "url": "https://x.com/thsottiaux/status/2113404560853397516",
+        "id": "2113492502355562875",
+        "canonicalId": "2113492502355562875",
+        "text": "Landing tomorrow before 10am PST together with a small ship.",
+        "createdAt": "2026-10-23T04:47:34.000Z",
+        "url": "https://x.com/thsottiaux/status/2113492502355562875",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-23T00:54:46.141Z",
-      "lastSuccessAt": "2026-10-23T00:54:46.141Z",
+      "lastCheckedAt": "2026-10-23T05:35:36.631Z",
+      "lastSuccessAt": "2026-10-23T05:35:36.631Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113325885491437764",
-      "lastCheckedAt": "2026-10-23T00:54:46.647Z",
-      "lastSuccessAt": "2026-10-23T00:54:46.647Z",
+      "lastCheckedAt": "2026-10-23T05:35:37.175Z",
+      "lastSuccessAt": "2026-10-23T05:35:37.175Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113298833392496746",
-      "lastCheckedAt": "2026-10-23T00:54:47.088Z",
-      "lastSuccessAt": "2026-10-23T00:54:47.088Z",
+      "lastCheckedAt": "2026-10-23T05:35:37.604Z",
+      "lastSuccessAt": "2026-10-23T05:35:37.604Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 31,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113363779211977138",
-      "lastCheckedAt": "2026-10-23T00:54:48.720Z",
-      "lastSuccessAt": "2026-10-23T00:54:48.720Z",
+      "lastCheckedAt": "2026-10-23T05:35:38.616Z",
+      "lastSuccessAt": "2026-10-23T05:35:38.616Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 79,
       "latestObservedPost": {
@@ -109,23 +109,51 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2113373676733350081",
-      "lastCheckedAt": "2026-10-23T00:54:49.758Z",
-      "lastSuccessAt": "2026-10-23T00:54:49.758Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 49,
+      "sinceId": "2113446466945728978",
+      "lastCheckedAt": "2026-10-23T05:35:39.662Z",
+      "lastSuccessAt": "2026-10-23T05:35:39.662Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 50,
       "latestObservedPost": {
-        "id": "2113373676733350081",
-        "canonicalId": "2113373676733350081",
-        "text": "🥐 || !🥐",
-        "createdAt": "2026-10-22T20:55:23.000Z",
-        "url": "https://x.com/dkundel/status/2113373676733350081",
+        "id": "2113446466945728978",
+        "canonicalId": "2113446466945728978",
+        "text": "There's something magical of putting an SD card into your laptop after shooting footage, walking away from your desk and having your dot and Codex edit the video automatically with Davinci Resolve. slacking you regular updates to review.",
+        "createdAt": "2026-10-23T01:44:38.000Z",
+        "url": "https://x.com/dkundel/status/2113446466945728978",
         "media": []
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+      "id": "2113492187770175603",
+      "canonicalId": "2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "createdAt": "2026-10-23T04:46:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "media": [],
+      "detectedAt": "2026-10-23T05:35:36.244Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But yes… that’s a reset!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But yes… that’s a reset!",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T05:35:39.847Z"
+    },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
@@ -808,7 +836,10 @@
     "2113337005446942874": "771d98f86cd133051a7b4b90fc35a3468ca1d039ec38f64483c1f0c3fd22c0c1",
     "2113363779211977138": "2440635fbfa7d1044012f56c9e5ca27915eb8a7d6704f29020c9f00578a18e98",
     "2113373676733350081": "37529438042e0d80ca4e182e15dd1b68234879a6242981240756811ba52009c3",
-    "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781"
+    "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781",
+    "2113492187770175603": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+    "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
+    "2113446466945728978": "0b5ebfe26cd5a56d71463d37902ca060e74a7f66866dbf5bddc7636cc01e6c79"
   },
   "eventParserVersion": 5
 }

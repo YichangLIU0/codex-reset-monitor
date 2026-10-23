@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T00:54:49.765Z",
+  "updatedAt": "2026-10-23T05:35:39.936Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-23T00:54:49.758Z",
-    "lastSuccessAt": "2026-10-23T00:54:49.758Z",
+    "lastCheckedAt": "2026-10-23T05:35:39.662Z",
+    "lastSuccessAt": "2026-10-23T05:35:39.662Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113404560853397516",
-    "text": "@romainhuet Very baguette of you",
-    "url": "https://x.com/thsottiaux/status/2113404560853397516",
-    "postCreatedAt": "2026-10-22T22:58:07.000Z"
+    "id": "2113492502355562875",
+    "text": "Landing tomorrow before 10am PST together with a small ship.",
+    "url": "https://x.com/thsottiaux/status/2113492502355562875",
+    "postCreatedAt": "2026-10-23T04:47:34.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+      "id": "2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "postCreatedAt": "2026-10-23T04:46:19.000Z",
+      "detectedAt": "2026-10-23T05:35:36.244Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But yes… that’s a reset!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But yes… that’s a reset!",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
