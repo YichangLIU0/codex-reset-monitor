@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T22:36:28.321Z",
+  "updatedAt": "2026-10-23T00:54:49.765Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-22T22:36:28.318Z",
-    "lastSuccessAt": "2026-10-22T22:36:28.318Z",
+    "lastCheckedAt": "2026-10-23T00:54:49.758Z",
+    "lastSuccessAt": "2026-10-23T00:54:49.758Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113373676733350081",
-    "text": "🥐 || !🥐",
-    "url": "https://x.com/dkundel/status/2113373676733350081",
-    "postCreatedAt": "2026-10-22T20:55:23.000Z"
+    "id": "2113404560853397516",
+    "text": "@romainhuet Very baguette of you",
+    "url": "https://x.com/thsottiaux/status/2113404560853397516",
+    "postCreatedAt": "2026-10-22T22:58:07.000Z"
   },
   "latest": {
     "reset": {
