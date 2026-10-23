@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T15:22:57.509Z",
+  "updatedAt": "2026-10-23T19:22:05.332Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-23T15:22:57.506Z",
-    "lastSuccessAt": "2026-10-23T15:22:57.506Z",
+    "lastCheckedAt": "2026-10-23T19:22:05.328Z",
+    "lastSuccessAt": "2026-10-23T19:22:05.328Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113512824563720238",
-    "text": "@theo Time for Astra Ultrafast!",
-    "url": "https://x.com/dkundel/status/2113512824563720238",
-    "postCreatedAt": "2026-10-23T06:08:19.000Z"
+    "id": "2113682853644882361",
+    "text": "Together, caching, replication, and the Python-to-Rust rewrite brought global median read latency from ~120ms to ~10ms. \n\nProduct teams also have less infrastructure to manage, allowing them to move faster.\n\nhttps://t.co/rSCASCnxtE",
+    "url": "https://x.com/OpenAIDevs/status/2113682853644882361",
+    "postCreatedAt": "2026-10-23T17:23:57.000Z"
   },
   "latest": {
     "reset": {

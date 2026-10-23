@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2113492502355562875",
-      "lastCheckedAt": "2026-10-23T15:22:54.511Z",
-      "lastSuccessAt": "2026-10-23T15:22:54.511Z",
+      "lastCheckedAt": "2026-10-23T19:22:02.849Z",
+      "lastSuccessAt": "2026-10-23T19:22:02.849Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-23T15:22:54.925Z",
-      "lastSuccessAt": "2026-10-23T15:22:54.925Z",
+      "lastCheckedAt": "2026-10-23T19:22:03.199Z",
+      "lastSuccessAt": "2026-10-23T19:22:03.199Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113325885491437764",
-      "lastCheckedAt": "2026-10-23T15:22:55.422Z",
-      "lastSuccessAt": "2026-10-23T15:22:55.422Z",
+      "lastCheckedAt": "2026-10-23T19:22:03.641Z",
+      "lastSuccessAt": "2026-10-23T19:22:03.641Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 22,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113298833392496746",
-      "lastCheckedAt": "2026-10-23T15:22:55.864Z",
-      "lastSuccessAt": "2026-10-23T15:22:55.864Z",
+      "lastCheckedAt": "2026-10-23T19:22:04.019Z",
+      "lastSuccessAt": "2026-10-23T19:22:04.019Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 31,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2113363779211977138",
-      "lastCheckedAt": "2026-10-23T15:22:56.956Z",
-      "lastSuccessAt": "2026-10-23T15:22:56.956Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 79,
+      "sinceId": "2113682853644882361",
+      "lastCheckedAt": "2026-10-23T19:22:04.857Z",
+      "lastSuccessAt": "2026-10-23T19:22:04.857Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 82,
       "latestObservedPost": {
-        "id": "2113363779211977138",
-        "canonicalId": "2113363779211977138",
-        "text": "@acatovicx @thsottiaux @pvncher @OpenAI the perfect mix 👨‍🍳",
-        "createdAt": "2026-10-22T20:16:04.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2113363779211977138",
+        "id": "2113682853644882361",
+        "canonicalId": "2113682853644882361",
+        "text": "Together, caching, replication, and the Python-to-Rust rewrite brought global median read latency from ~120ms to ~10ms. \n\nProduct teams also have less infrastructure to manage, allowing them to move faster.\n\nhttps://t.co/rSCASCnxtE",
+        "createdAt": "2026-10-23T17:23:57.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2113682853644882361",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2113512824563720238",
-      "lastCheckedAt": "2026-10-23T15:22:57.506Z",
-      "lastSuccessAt": "2026-10-23T15:22:57.506Z",
+      "lastCheckedAt": "2026-10-23T19:22:05.328Z",
+      "lastSuccessAt": "2026-10-23T19:22:05.328Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 51,
       "latestObservedPost": {
@@ -839,7 +839,10 @@
     "2113492187770175603": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
     "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
     "2113446466945728978": "0b5ebfe26cd5a56d71463d37902ca060e74a7f66866dbf5bddc7636cc01e6c79",
-    "2113512824563720238": "01fe15e3cfb82bf6b80f062c9fb6a8634f74175081060c8fdabab8182ebf1545"
+    "2113512824563720238": "01fe15e3cfb82bf6b80f062c9fb6a8634f74175081060c8fdabab8182ebf1545",
+    "2113682848607780912": "dbab0bd246663307c6dbaca68ba7960d02fb5a87a2594d5b0c76fcfd5206f964",
+    "2113682851182915726": "27b5171c74eab261df3833d216f33dfc27a16ae5dda7f3cf985fb319c066ab51",
+    "2113682853644882361": "6e056cba5b34cf7eed8f286028a613148f5ce9c281346d5af7cd250210f58598"
   },
   "eventParserVersion": 5
 }
