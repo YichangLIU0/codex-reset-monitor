@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2113492502355562875",
-      "lastCheckedAt": "2026-10-23T19:22:02.849Z",
-      "lastSuccessAt": "2026-10-23T19:22:02.849Z",
+      "lastCheckedAt": "2026-10-23T22:23:26.334Z",
+      "lastSuccessAt": "2026-10-23T22:23:26.334Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-23T19:22:03.199Z",
-      "lastSuccessAt": "2026-10-23T19:22:03.199Z",
+      "lastCheckedAt": "2026-10-23T22:23:26.700Z",
+      "lastSuccessAt": "2026-10-23T22:23:26.700Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -48,34 +48,34 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2113325885491437764",
-      "lastCheckedAt": "2026-10-23T19:22:03.641Z",
-      "lastSuccessAt": "2026-10-23T19:22:03.641Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 22,
+      "sinceId": "2113746426236977236",
+      "lastCheckedAt": "2026-10-23T22:23:27.653Z",
+      "lastSuccessAt": "2026-10-23T22:23:27.653Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 24,
       "latestObservedPost": {
-        "id": "2113325885491437764",
-        "canonicalId": "2113325885491437764",
-        "text": "it's been great to work closely with Uber to roll out ChatGPT Work to every employee, bringing agentic capabilities to the whole company!",
-        "createdAt": "2026-10-22T17:45:29.000Z",
-        "url": "https://x.com/gdb/status/2113325885491437764",
+        "id": "2113746426236977236",
+        "canonicalId": "2113746426236977236",
+        "text": "trying to rise to the occasion. grateful to be working with a team that feels the responsibility as deeply as i do.",
+        "createdAt": "2026-10-23T21:36:34.000Z",
+        "url": "https://x.com/gdb/status/2113746426236977236",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2113298833392496746",
-      "lastCheckedAt": "2026-10-23T19:22:04.019Z",
-      "lastSuccessAt": "2026-10-23T19:22:04.019Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 31,
+      "sinceId": "2113718797505036665",
+      "lastCheckedAt": "2026-10-23T22:23:28.349Z",
+      "lastSuccessAt": "2026-10-23T22:23:28.349Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 32,
       "latestObservedPost": {
-        "id": "2113298833392496746",
-        "canonicalId": "2113298833392496746",
-        "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
-        "createdAt": "2026-10-22T15:57:59.000Z",
-        "url": "https://x.com/OpenAI/status/2113298833392496746",
+        "id": "2113718797505036665",
+        "canonicalId": "2113718797505036665",
+        "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can still learn to browse, search, and use applications.\n\nOn September 20, after a model exploited a DNS misconfiguration to find a way outside of this offline world, we paused frontier training to strengthen containment further. We assembled teams of agents, powered by our most cyber-capable models, and tasked them with finding weaknesses in our research environments.\n\nWhile they found no route to the internet they could easily exploit while concealing their activity from our monitors, they did find zero-day vulnerabilities, virtual machine escapes, and hardware side-channels for communication between agents. We used their discoveries to further strengthen our defenses and contribute fixes to open-source software.\n\nAfter strengthening our containment architecture, we resumed our frontier RL training and inference on October 1. We’ve reserved substantial compute for continuous red-teaming, and made high-compute red-teaming part of the safety cases we use to decide whether frontier training and evaluation can proceed securely.\n\nhttps://t.co/EmEZsFRMcF",
+        "createdAt": "2026-10-23T19:46:46.000Z",
+        "url": "https://x.com/OpenAI/status/2113718797505036665",
         "media": []
       }
     },
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113682853644882361",
-      "lastCheckedAt": "2026-10-23T19:22:04.857Z",
-      "lastSuccessAt": "2026-10-23T19:22:04.857Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-23T22:23:29.254Z",
+      "lastSuccessAt": "2026-10-23T22:23:29.254Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 82,
       "latestObservedPost": {
         "id": "2113682853644882361",
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2113512824563720238",
-      "lastCheckedAt": "2026-10-23T19:22:05.328Z",
-      "lastSuccessAt": "2026-10-23T19:22:05.328Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 51,
+      "sinceId": "2113714891353948600",
+      "lastCheckedAt": "2026-10-23T22:23:30.097Z",
+      "lastSuccessAt": "2026-10-23T22:23:30.097Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 52,
       "latestObservedPost": {
-        "id": "2113512824563720238",
-        "canonicalId": "2113512824563720238",
-        "text": "@theo Time for Astra Ultrafast!",
-        "createdAt": "2026-10-23T06:08:19.000Z",
-        "url": "https://x.com/dkundel/status/2113512824563720238",
+        "id": "2113714891353948600",
+        "canonicalId": "2113714891353948600",
+        "text": "@threepointone Legendary run!",
+        "createdAt": "2026-10-23T19:31:15.000Z",
+        "url": "https://x.com/dkundel/status/2113714891353948600",
         "media": []
       }
     }
@@ -842,7 +842,11 @@
     "2113512824563720238": "01fe15e3cfb82bf6b80f062c9fb6a8634f74175081060c8fdabab8182ebf1545",
     "2113682848607780912": "dbab0bd246663307c6dbaca68ba7960d02fb5a87a2594d5b0c76fcfd5206f964",
     "2113682851182915726": "27b5171c74eab261df3833d216f33dfc27a16ae5dda7f3cf985fb319c066ab51",
-    "2113682853644882361": "6e056cba5b34cf7eed8f286028a613148f5ce9c281346d5af7cd250210f58598"
+    "2113682853644882361": "6e056cba5b34cf7eed8f286028a613148f5ce9c281346d5af7cd250210f58598",
+    "2113724268773023917": "b865a854f58db4d916b5eb9b701fc5cffb69f5dbe59ab809f88be9baf09f2465",
+    "2113746426236977236": "49471998977bb32a6bcaa2bc6af3aca6f1195e4aa01d5f9e7119dd13c4c77ef1",
+    "2113718797505036665": "895bbb1e484b7a20fc535c65e05c4dca2e871fbc34a9f6fff8249beaa9c54936",
+    "2113714891353948600": "2c16d00459c6289ccc96d8a6d0968871aa99c7738a0db8e1a84af7f7d747554f"
   },
   "eventParserVersion": 5
 }
