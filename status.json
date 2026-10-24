@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T00:51:19.012Z",
+  "updatedAt": "2026-10-24T05:08:22.303Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-24T00:51:19.008Z",
-    "lastSuccessAt": "2026-10-24T00:51:19.008Z",
+    "lastCheckedAt": "2026-10-24T05:08:22.300Z",
+    "lastSuccessAt": "2026-10-24T05:08:22.300Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113773790207283353",
-    "text": "we've found and have been working on disclosure for a remote code execution in a widely-deployed compression library.\n\nit's both an impactful issue and an example that shows how complicated it can be to coordinate patching, since it's integrated into a lot of downstream software:",
-    "url": "https://x.com/gdb/status/2113773790207283353",
-    "postCreatedAt": "2026-10-23T23:25:18.000Z"
+    "id": "2113858781872582799",
+    "text": "🤣👏🤣",
+    "url": "https://x.com/dkundel/status/2113858781872582799",
+    "postCreatedAt": "2026-10-24T05:03:01.000Z"
   },
   "latest": {
     "reset": {

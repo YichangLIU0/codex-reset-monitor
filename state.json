@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2113771215433392478",
-      "lastCheckedAt": "2026-10-24T00:51:13.078Z",
-      "lastSuccessAt": "2026-10-24T00:51:13.078Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 122,
+      "sinceId": "2113838156193894447",
+      "lastCheckedAt": "2026-10-24T05:08:17.898Z",
+      "lastSuccessAt": "2026-10-24T05:08:17.898Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 123,
       "latestObservedPost": {
-        "id": "2113771215433392478",
-        "canonicalId": "2113771215433392478",
-        "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
-        "createdAt": "2026-10-23T23:15:04.000Z",
-        "url": "https://x.com/thsottiaux/status/2113771215433392478",
+        "id": "2113838156193894447",
+        "canonicalId": "2113838156193894447",
+        "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+        "createdAt": "2026-10-24T03:41:04.000Z",
+        "url": "https://x.com/thsottiaux/status/2113838156193894447",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-24T00:51:13.437Z",
-      "lastSuccessAt": "2026-10-24T00:51:13.437Z",
+      "lastCheckedAt": "2026-10-24T05:08:18.952Z",
+      "lastSuccessAt": "2026-10-24T05:08:18.952Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113773790207283353",
-      "lastCheckedAt": "2026-10-24T00:51:15.037Z",
-      "lastSuccessAt": "2026-10-24T00:51:15.037Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-24T05:08:19.491Z",
+      "lastSuccessAt": "2026-10-24T05:08:19.491Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 25,
       "latestObservedPost": {
         "id": "2113773790207283353",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-24T00:51:16.247Z",
-      "lastSuccessAt": "2026-10-24T00:51:16.247Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-24T05:08:20.029Z",
+      "lastSuccessAt": "2026-10-24T05:08:20.029Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
         "id": "2113766354386084338",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-24T00:51:17.199Z",
-      "lastSuccessAt": "2026-10-24T00:51:17.199Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-24T05:08:21.269Z",
+      "lastSuccessAt": "2026-10-24T05:08:21.269Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 84,
       "latestObservedPost": {
         "id": "2113760182727791071",
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2113772332057579619",
-      "lastCheckedAt": "2026-10-24T00:51:19.008Z",
-      "lastSuccessAt": "2026-10-24T00:51:19.008Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 55,
+      "sinceId": "2113858781872582799",
+      "lastCheckedAt": "2026-10-24T05:08:22.300Z",
+      "lastSuccessAt": "2026-10-24T05:08:22.300Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 59,
       "latestObservedPost": {
-        "id": "2113772332057579619",
-        "canonicalId": "2113772332057579619",
-        "text": "@chefbrent @realbasilchatha It should show when it spins up a new thread on Codex that you can click on even from mobile if you also have remote enabled",
-        "createdAt": "2026-10-23T23:19:30.000Z",
-        "url": "https://x.com/dkundel/status/2113772332057579619",
+        "id": "2113858781872582799",
+        "canonicalId": "2113858781872582799",
+        "text": "🤣👏🤣",
+        "createdAt": "2026-10-24T05:03:01.000Z",
+        "url": "https://x.com/dkundel/status/2113858781872582799",
         "media": []
       }
     }
@@ -856,7 +856,12 @@
     "2113760182727791071": "4ec9512e99453bc35ae92520ed5c455e00474039f20eb6592f600e1a3d13e7a3",
     "2113760716939284735": "3b58648113f23d1dd8884dbd24919db612693dbb4e94cb13955d176d68725bf8",
     "2113761113280327718": "980850701dcb6356904d99002ee36e4a3ac4701a339808116bbc3554529095ac",
-    "2113772332057579619": "769ed4c2699550b8ba8ced1f72d73a738b995aca6ade61f379770e2160b7ea14"
+    "2113772332057579619": "769ed4c2699550b8ba8ced1f72d73a738b995aca6ade61f379770e2160b7ea14",
+    "2113838156193894447": "05dc0fb389d15d4ff59fdd7b233eaa00727e301a3a05a8d02897277fc69796eb",
+    "2113801297313009766": "4c4ffd77e26fd7747c9c905247884f57f783647496c54d83fd9e9a16d772428d",
+    "2113843872073908716": "d125943d8175bea255d1c9687bc161a1b10ca528acd0ebf9a834b86a4fc92871",
+    "2113852426440863918": "d4e4363eeb4e4f9e1a69a6e5da92c046c43ad1cb23781e8b459873732e214ae2",
+    "2113858781872582799": "aa45f767b31d1d472a7a8479531db68ab786b06dfb88ddd9ed90d6e29dc8e165"
   },
   "eventParserVersion": 5
 }
