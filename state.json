@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2113838156193894447",
-      "lastCheckedAt": "2026-10-24T13:29:57.843Z",
-      "lastSuccessAt": "2026-10-24T13:29:57.843Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 123,
+      "sinceId": "2114030784625647855",
+      "lastCheckedAt": "2026-10-24T16:51:49.035Z",
+      "lastSuccessAt": "2026-10-24T16:51:49.035Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 124,
       "latestObservedPost": {
-        "id": "2113838156193894447",
-        "canonicalId": "2113838156193894447",
-        "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
-        "createdAt": "2026-10-24T03:41:04.000Z",
-        "url": "https://x.com/thsottiaux/status/2113838156193894447",
+        "id": "2114030784625647855",
+        "canonicalId": "2114030784625647855",
+        "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
+        "createdAt": "2026-10-24T16:26:30.000Z",
+        "url": "https://x.com/thsottiaux/status/2114030784625647855",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-24T13:29:58.406Z",
-      "lastSuccessAt": "2026-10-24T13:29:58.406Z",
+      "lastCheckedAt": "2026-10-24T16:51:49.411Z",
+      "lastSuccessAt": "2026-10-24T16:51:49.411Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113773790207283353",
-      "lastCheckedAt": "2026-10-24T13:29:58.832Z",
-      "lastSuccessAt": "2026-10-24T13:29:58.832Z",
+      "lastCheckedAt": "2026-10-24T16:51:50.266Z",
+      "lastSuccessAt": "2026-10-24T16:51:50.266Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 25,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-24T13:29:59.205Z",
-      "lastSuccessAt": "2026-10-24T13:29:59.205Z",
+      "lastCheckedAt": "2026-10-24T16:51:50.736Z",
+      "lastSuccessAt": "2026-10-24T16:51:50.736Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-24T13:30:00.645Z",
-      "lastSuccessAt": "2026-10-24T13:30:00.645Z",
+      "lastCheckedAt": "2026-10-24T16:51:51.804Z",
+      "lastSuccessAt": "2026-10-24T16:51:51.804Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 84,
       "latestObservedPost": {
@@ -110,9 +110,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2113952034634486234",
-      "lastCheckedAt": "2026-10-24T13:30:01.592Z",
-      "lastSuccessAt": "2026-10-24T13:30:01.592Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-24T16:51:52.263Z",
+      "lastSuccessAt": "2026-10-24T16:51:52.263Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 60,
       "latestObservedPost": {
         "id": "2113952034634486234",
@@ -862,7 +862,8 @@
     "2113843872073908716": "d125943d8175bea255d1c9687bc161a1b10ca528acd0ebf9a834b86a4fc92871",
     "2113852426440863918": "d4e4363eeb4e4f9e1a69a6e5da92c046c43ad1cb23781e8b459873732e214ae2",
     "2113858781872582799": "aa45f767b31d1d472a7a8479531db68ab786b06dfb88ddd9ed90d6e29dc8e165",
-    "2113952034634486234": "7a08686a89935983b200fc3a3593ed3e9bdd21595c9907e90a06d66f6359f447"
+    "2113952034634486234": "7a08686a89935983b200fc3a3593ed3e9bdd21595c9907e90a06d66f6359f447",
+    "2114030784625647855": "d1e9efb0ffdb5f1a864e647a828a7cd63029d9c5532e7154e80dc1b5bbff2d18"
   },
   "eventParserVersion": 5
 }
