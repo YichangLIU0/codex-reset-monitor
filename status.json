@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T16:51:52.267Z",
+  "updatedAt": "2026-10-24T19:06:03.432Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-24T16:51:52.263Z",
-    "lastSuccessAt": "2026-10-24T16:51:52.263Z",
+    "lastCheckedAt": "2026-10-24T19:06:03.429Z",
+    "lastSuccessAt": "2026-10-24T19:06:03.429Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2114030784625647855",
-    "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
-    "url": "https://x.com/thsottiaux/status/2114030784625647855",
-    "postCreatedAt": "2026-10-24T16:26:30.000Z"
+    "id": "2114037527598576003",
+    "text": "@vishalsingh2972 One day",
+    "url": "https://x.com/thsottiaux/status/2114037527598576003",
+    "postCreatedAt": "2026-10-24T16:53:18.000Z"
   },
   "latest": {
     "reset": {
