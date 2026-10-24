@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T09:28:52.477Z",
+  "updatedAt": "2026-10-24T13:30:01.594Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-24T09:28:52.182Z",
-    "lastSuccessAt": "2026-10-24T09:28:52.182Z",
+    "lastCheckedAt": "2026-10-24T13:30:01.592Z",
+    "lastSuccessAt": "2026-10-24T13:30:01.592Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2113858781872582799",
-    "text": "🤣👏🤣",
-    "url": "https://x.com/dkundel/status/2113858781872582799",
-    "postCreatedAt": "2026-10-24T05:03:01.000Z"
+    "id": "2113952034634486234",
+    "text": "@reach_vb @matteing Frontpage all the way",
+    "url": "https://x.com/dkundel/status/2113952034634486234",
+    "postCreatedAt": "2026-10-24T11:13:35.000Z"
   },
   "latest": {
     "reset": {
