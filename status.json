@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T06:48:21.094Z",
+  "updatedAt": "2026-10-25T12:05:34.497Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-25T06:48:20.416Z",
-    "lastSuccessAt": "2026-10-25T06:48:20.416Z",
+    "lastCheckedAt": "2026-10-25T12:05:34.493Z",
+    "lastSuccessAt": "2026-10-25T12:05:34.493Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2114237441250828563",
-    "text": "@ScriptedAlchemy .com",
-    "url": "https://x.com/thsottiaux/status/2114237441250828563",
-    "postCreatedAt": "2026-10-25T06:07:41.000Z"
+    "id": "2114281471167123656",
+    "text": "@paw_lean I forgot my passport on the way to the airport so I think you are okay 🤣",
+    "url": "https://x.com/dkundel/status/2114281471167123656",
+    "postCreatedAt": "2026-10-25T09:02:38.000Z"
   },
   "latest": {
     "reset": {

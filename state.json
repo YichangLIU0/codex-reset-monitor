@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2114237441250828563",
-      "lastCheckedAt": "2026-10-25T06:48:16.492Z",
-      "lastSuccessAt": "2026-10-25T06:48:16.492Z",
-      "lastRunStatus": "checked-7-posts",
+      "lastCheckedAt": "2026-10-25T12:05:30.171Z",
+      "lastSuccessAt": "2026-10-25T12:05:30.171Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 138,
       "latestObservedPost": {
         "id": "2114237441250828563",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-25T06:48:17.190Z",
-      "lastSuccessAt": "2026-10-25T06:48:17.190Z",
+      "lastCheckedAt": "2026-10-25T12:05:30.542Z",
+      "lastSuccessAt": "2026-10-25T12:05:30.542Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113773790207283353",
-      "lastCheckedAt": "2026-10-25T06:48:17.696Z",
-      "lastSuccessAt": "2026-10-25T06:48:17.696Z",
+      "lastCheckedAt": "2026-10-25T12:05:31.076Z",
+      "lastSuccessAt": "2026-10-25T12:05:31.076Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 25,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-25T06:48:18.065Z",
-      "lastSuccessAt": "2026-10-25T06:48:18.065Z",
+      "lastCheckedAt": "2026-10-25T12:05:31.861Z",
+      "lastSuccessAt": "2026-10-25T12:05:31.861Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-25T06:48:19.071Z",
-      "lastSuccessAt": "2026-10-25T06:48:19.071Z",
+      "lastCheckedAt": "2026-10-25T12:05:33.317Z",
+      "lastSuccessAt": "2026-10-25T12:05:33.317Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 84,
       "latestObservedPost": {
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2113952034634486234",
-      "lastCheckedAt": "2026-10-25T06:48:20.416Z",
-      "lastSuccessAt": "2026-10-25T06:48:20.416Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 60,
+      "sinceId": "2114281471167123656",
+      "lastCheckedAt": "2026-10-25T12:05:34.493Z",
+      "lastSuccessAt": "2026-10-25T12:05:34.493Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 61,
       "latestObservedPost": {
-        "id": "2113952034634486234",
-        "canonicalId": "2113952034634486234",
-        "text": "@reach_vb @matteing Frontpage all the way",
-        "createdAt": "2026-10-24T11:13:35.000Z",
-        "url": "https://x.com/dkundel/status/2113952034634486234",
+        "id": "2114281471167123656",
+        "canonicalId": "2114281471167123656",
+        "text": "@paw_lean I forgot my passport on the way to the airport so I think you are okay 🤣",
+        "createdAt": "2026-10-25T09:02:38.000Z",
+        "url": "https://x.com/dkundel/status/2114281471167123656",
         "media": []
       }
     }
@@ -129,7 +129,6 @@
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
       "id": "2114228044072403055",
-      "canonicalId": "2114228044072403055",
       "text": "@theo Not a real improvement, put the reset in the bag",
       "createdAt": "2026-10-25T05:30:20.000Z",
       "url": "https://x.com/thsottiaux/status/2114228044072403055",
@@ -149,15 +148,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T06:48:21.045Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-25T06:48:21.045Z"
+      ]
     },
     {
       "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
       "id": "2114200152701575656",
-      "canonicalId": "2114200152701575656",
       "text": "Day 20/ Rest and reset",
       "createdAt": "2026-10-25T03:39:31.000Z",
       "url": "https://x.com/thsottiaux/status/2114200152701575656",
@@ -177,10 +175,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T06:48:20.702Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-25T06:48:20.702Z"
+      ]
     },
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -933,7 +931,8 @@
     "2114228044072403055": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
     "2114228445043691592": "8dbf1139cc31522a4bec626bbb697beabd39584ef74f629e5728244acbf21f04",
     "2114237083652882932": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
-    "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461"
+    "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461",
+    "2114281471167123656": "55ead3d7f87823bb155aceedf90d662e5fe0674ba1c9083c54e6d6b4134b5e06"
   },
   "eventParserVersion": 5
 }
