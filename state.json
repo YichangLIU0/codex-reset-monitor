@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2114365873049993364",
-      "lastCheckedAt": "2026-10-25T18:56:56.552Z",
-      "lastSuccessAt": "2026-10-25T18:56:56.552Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 139,
+      "sinceId": "2114435873857028129",
+      "lastCheckedAt": "2026-10-25T21:25:13.468Z",
+      "lastSuccessAt": "2026-10-25T21:25:13.468Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 141,
       "latestObservedPost": {
-        "id": "2114365873049993364",
-        "canonicalId": "2114365873049993364",
-        "text": "@theo Love to see it!!",
-        "createdAt": "2026-10-25T14:38:01.000Z",
-        "url": "https://x.com/thsottiaux/status/2114365873049993364",
+        "id": "2114435873857028129",
+        "canonicalId": "2114435873857028129",
+        "text": "@himanshutwtxs Did you?",
+        "createdAt": "2026-10-25T19:16:11.000Z",
+        "url": "https://x.com/thsottiaux/status/2114435873857028129",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-25T18:56:56.891Z",
-      "lastSuccessAt": "2026-10-25T18:56:56.891Z",
+      "lastCheckedAt": "2026-10-25T21:25:14.194Z",
+      "lastSuccessAt": "2026-10-25T21:25:14.194Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2113773790207283353",
-      "lastCheckedAt": "2026-10-25T18:56:57.416Z",
-      "lastSuccessAt": "2026-10-25T18:56:57.416Z",
+      "lastCheckedAt": "2026-10-25T21:25:14.887Z",
+      "lastSuccessAt": "2026-10-25T21:25:14.887Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 25,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-25T18:56:58.259Z",
-      "lastSuccessAt": "2026-10-25T18:56:58.259Z",
+      "lastCheckedAt": "2026-10-25T21:25:15.917Z",
+      "lastSuccessAt": "2026-10-25T21:25:15.917Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-25T18:56:59.268Z",
-      "lastSuccessAt": "2026-10-25T18:56:59.268Z",
+      "lastCheckedAt": "2026-10-25T21:25:17.782Z",
+      "lastSuccessAt": "2026-10-25T21:25:17.782Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 84,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2114281471167123656",
-      "lastCheckedAt": "2026-10-25T18:57:00.165Z",
-      "lastSuccessAt": "2026-10-25T18:57:00.165Z",
+      "lastCheckedAt": "2026-10-25T21:25:19.623Z",
+      "lastSuccessAt": "2026-10-25T21:25:19.623Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -933,7 +933,9 @@
     "2114237083652882932": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
     "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461",
     "2114281471167123656": "55ead3d7f87823bb155aceedf90d662e5fe0674ba1c9083c54e6d6b4134b5e06",
-    "2114365873049993364": "4498ccf874603559fbcb2ce2b64a8cd358c221869ed10a20354822876e1ae34e"
+    "2114365873049993364": "4498ccf874603559fbcb2ce2b64a8cd358c221869ed10a20354822876e1ae34e",
+    "2114435715605885396": "205beb0cedc09d77d05cdda348e3ca069830fcf8ed781b504d3692b0cf7bd991",
+    "2114435873857028129": "bdb4e613582a3a41c1a682d1ae36f2ca7b63b769e733a21a8127f8aeb4623777"
   },
   "eventParserVersion": 5
 }
