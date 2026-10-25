@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2114435873857028129",
-      "lastCheckedAt": "2026-10-25T21:25:13.468Z",
-      "lastSuccessAt": "2026-10-25T21:25:13.468Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-25T23:24:39.358Z",
+      "lastSuccessAt": "2026-10-25T23:24:39.358Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 141,
       "latestObservedPost": {
         "id": "2114435873857028129",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-25T21:25:14.194Z",
-      "lastSuccessAt": "2026-10-25T21:25:14.194Z",
+      "lastCheckedAt": "2026-10-25T23:24:40.018Z",
+      "lastSuccessAt": "2026-10-25T23:24:40.018Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2113773790207283353",
-      "lastCheckedAt": "2026-10-25T21:25:14.887Z",
-      "lastSuccessAt": "2026-10-25T21:25:14.887Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 25,
+      "sinceId": "2114483026608755082",
+      "lastCheckedAt": "2026-10-25T23:24:41.190Z",
+      "lastSuccessAt": "2026-10-25T23:24:41.190Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 26,
       "latestObservedPost": {
-        "id": "2113773790207283353",
-        "canonicalId": "2113773790207283353",
-        "text": "we've found and have been working on disclosure for a remote code execution in a widely-deployed compression library.\n\nit's both an impactful issue and an example that shows how complicated it can be to coordinate patching, since it's integrated into a lot of downstream software:",
-        "createdAt": "2026-10-23T23:25:18.000Z",
-        "url": "https://x.com/gdb/status/2113773790207283353",
+        "id": "2114483026608755082",
+        "canonicalId": "2114483026608755082",
+        "text": "“On a technical level, the paper is unbelievable, maybe beyond what a human could have come up with but not beyond human understanding”",
+        "createdAt": "2026-10-25T22:23:33.000Z",
+        "url": "https://x.com/gdb/status/2114483026608755082",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-25T21:25:15.917Z",
-      "lastSuccessAt": "2026-10-25T21:25:15.917Z",
+      "lastCheckedAt": "2026-10-25T23:24:42.214Z",
+      "lastSuccessAt": "2026-10-25T23:24:42.214Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-25T21:25:17.782Z",
-      "lastSuccessAt": "2026-10-25T21:25:17.782Z",
+      "lastCheckedAt": "2026-10-25T23:24:43.624Z",
+      "lastSuccessAt": "2026-10-25T23:24:43.624Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 84,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2114281471167123656",
-      "lastCheckedAt": "2026-10-25T21:25:19.623Z",
-      "lastSuccessAt": "2026-10-25T21:25:19.623Z",
+      "lastCheckedAt": "2026-10-25T23:24:44.930Z",
+      "lastSuccessAt": "2026-10-25T23:24:44.930Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -935,7 +935,8 @@
     "2114281471167123656": "55ead3d7f87823bb155aceedf90d662e5fe0674ba1c9083c54e6d6b4134b5e06",
     "2114365873049993364": "4498ccf874603559fbcb2ce2b64a8cd358c221869ed10a20354822876e1ae34e",
     "2114435715605885396": "205beb0cedc09d77d05cdda348e3ca069830fcf8ed781b504d3692b0cf7bd991",
-    "2114435873857028129": "bdb4e613582a3a41c1a682d1ae36f2ca7b63b769e733a21a8127f8aeb4623777"
+    "2114435873857028129": "bdb4e613582a3a41c1a682d1ae36f2ca7b63b769e733a21a8127f8aeb4623777",
+    "2114483026608755082": "dfaf0e441da26f107bb3e861b167c8710b1fc279782b4a354718d658a1c42cc2"
   },
   "eventParserVersion": 5
 }
