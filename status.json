@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T12:05:34.497Z",
+  "updatedAt": "2026-10-25T16:04:58.220Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-25T12:05:34.493Z",
-    "lastSuccessAt": "2026-10-25T12:05:34.493Z",
+    "lastCheckedAt": "2026-10-25T16:04:58.216Z",
+    "lastSuccessAt": "2026-10-25T16:04:58.216Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2114281471167123656",
-    "text": "@paw_lean I forgot my passport on the way to the airport so I think you are okay 🤣",
-    "url": "https://x.com/dkundel/status/2114281471167123656",
-    "postCreatedAt": "2026-10-25T09:02:38.000Z"
+    "id": "2114365873049993364",
+    "text": "@theo Love to see it!!",
+    "url": "https://x.com/thsottiaux/status/2114365873049993364",
+    "postCreatedAt": "2026-10-25T14:38:01.000Z"
   },
   "latest": {
     "reset": {
