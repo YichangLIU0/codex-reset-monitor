@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2114599388454481930",
-      "lastCheckedAt": "2026-10-26T06:39:49.565Z",
-      "lastSuccessAt": "2026-10-26T06:39:49.565Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-10-26T13:33:43.555Z",
+      "lastSuccessAt": "2026-10-26T13:33:43.555Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 147,
       "latestObservedPost": {
         "id": "2114599388454481930",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-26T06:39:49.947Z",
-      "lastSuccessAt": "2026-10-26T06:39:49.947Z",
+      "lastCheckedAt": "2026-10-26T13:33:43.962Z",
+      "lastSuccessAt": "2026-10-26T13:33:43.962Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 23,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2114483026608755082",
-      "lastCheckedAt": "2026-10-26T06:39:50.773Z",
-      "lastSuccessAt": "2026-10-26T06:39:50.773Z",
+      "lastCheckedAt": "2026-10-26T13:33:44.543Z",
+      "lastSuccessAt": "2026-10-26T13:33:44.543Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 26,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2113766354386084338",
-      "lastCheckedAt": "2026-10-26T06:39:51.262Z",
-      "lastSuccessAt": "2026-10-26T06:39:51.262Z",
+      "lastCheckedAt": "2026-10-26T13:33:44.971Z",
+      "lastSuccessAt": "2026-10-26T13:33:44.971Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2113760182727791071",
-      "lastCheckedAt": "2026-10-26T06:39:52.285Z",
-      "lastSuccessAt": "2026-10-26T06:39:52.285Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 84,
+      "sinceId": "2114709851830092257",
+      "lastCheckedAt": "2026-10-26T13:33:45.690Z",
+      "lastSuccessAt": "2026-10-26T13:33:45.690Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 85,
       "latestObservedPost": {
-        "id": "2113760182727791071",
-        "canonicalId": "2113760182727791071",
-        "text": "@Box @charlierguo @OpenAI see you there!",
-        "createdAt": "2026-10-23T22:31:13.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2113760182727791071",
+        "id": "2114709851830092257",
+        "canonicalId": "2114709851830092257",
+        "text": "@Andy_AJT can’t wait to see what you all will build",
+        "createdAt": "2026-10-26T13:24:52.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2114709851830092257",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2114281471167123656",
-      "lastCheckedAt": "2026-10-26T06:39:53.263Z",
-      "lastSuccessAt": "2026-10-26T06:39:53.263Z",
+      "lastCheckedAt": "2026-10-26T13:33:46.688Z",
+      "lastSuccessAt": "2026-10-26T13:33:46.688Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -129,7 +129,6 @@
     {
       "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
       "id": "2114599388454481930",
-      "canonicalId": "2114599388454481930",
       "text": "@larsencc @bot Not enough resets",
       "createdAt": "2026-10-26T06:05:56.000Z",
       "url": "https://x.com/thsottiaux/status/2114599388454481930",
@@ -149,15 +148,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-26T06:39:53.272Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-26T06:39:53.272Z"
+      ]
     },
     {
       "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
       "id": "2114588174249071102",
-      "canonicalId": "2114588174249071102",
       "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
       "createdAt": "2026-10-26T05:21:22.000Z",
       "url": "https://x.com/thsottiaux/status/2114588174249071102",
@@ -177,10 +175,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-26T06:39:53.266Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-26T06:39:53.266Z"
+      ]
     },
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
@@ -998,7 +996,8 @@
     "2114595002210783279": "bf544ce34fc1e238e61acc579c040811c6752b90f07aaa33c3bb5b6e0ae7403c",
     "2114598609245126731": "ef0392c1bfa6cb2286935cdbb382bb67e518aebd81eac2b6f4b8cb5da33cd093",
     "2114598675930296518": "9e6d0a5ab6920465eaa6c1bdda004fca2656fd5fdb77dd8691472eefb07e944e",
-    "2114599388454481930": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3"
+    "2114599388454481930": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+    "2114709851830092257": "65d26834e00221487bbfb34d8427cea5560d4ecf029ed9679b271ca7d1935b78"
   },
   "eventParserVersion": 5
 }
