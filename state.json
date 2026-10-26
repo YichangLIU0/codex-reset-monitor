@@ -14,61 +14,69 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2114800277677092936",
-      "lastCheckedAt": "2026-10-26T19:31:26.030Z",
-      "lastSuccessAt": "2026-10-26T19:31:26.030Z",
+      "sinceId": "2114839845604667840",
+      "lastCheckedAt": "2026-10-26T23:17:01.242Z",
+      "lastSuccessAt": "2026-10-26T23:17:01.242Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 148,
+      "postsScanned": 149,
       "latestObservedPost": {
-        "id": "2114800277677092936",
-        "canonicalId": "2114800277677092936",
-        "text": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
-        "createdAt": "2026-10-26T19:24:11.000Z",
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "id": "2114839845604667840",
+        "canonicalId": "2114839845604667840",
+        "text": "@ZryMiller @rohit3a Lore accurate tibo",
+        "createdAt": "2026-10-26T22:01:25.000Z",
+        "url": "https://x.com/thsottiaux/status/2114839845604667840",
         "media": []
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2112652656602923366",
-      "lastCheckedAt": "2026-10-26T19:31:26.794Z",
-      "lastSuccessAt": "2026-10-26T19:31:26.794Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 23,
+      "sinceId": "2114818620782248024",
+      "lastCheckedAt": "2026-10-26T23:17:02.404Z",
+      "lastSuccessAt": "2026-10-26T23:17:02.404Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 24,
       "latestObservedPost": {
-        "id": "2112652656602923366",
-        "canonicalId": "2112652656602923366",
-        "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
-        "createdAt": "2026-10-20T21:10:19.000Z",
-        "url": "https://x.com/sama/status/2112652656602923366",
+        "id": "2114818620782248024",
+        "canonicalId": "2114818620782248024",
+        "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use.",
+        "createdAt": "2026-10-26T20:37:05.000Z",
+        "url": "https://x.com/sama/status/2114818620782248024",
         "media": []
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2114483026608755082",
-      "lastCheckedAt": "2026-10-26T19:31:27.659Z",
-      "lastSuccessAt": "2026-10-26T19:31:27.659Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 26,
+      "sinceId": "2114814747254432243",
+      "lastCheckedAt": "2026-10-26T23:17:03.491Z",
+      "lastSuccessAt": "2026-10-26T23:17:03.491Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 27,
       "latestObservedPost": {
-        "id": "2114483026608755082",
-        "canonicalId": "2114483026608755082",
-        "text": "“On a technical level, the paper is unbelievable, maybe beyond what a human could have come up with but not beyond human understanding”",
-        "createdAt": "2026-10-25T22:23:33.000Z",
-        "url": "https://x.com/gdb/status/2114483026608755082",
-        "media": []
+        "id": "2114814747254432243",
+        "canonicalId": "2114814747254432243",
+        "text": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p",
+        "createdAt": "2026-10-26T20:21:41.000Z",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "media": [
+          {
+            "mediaKey": "2114813731813384192",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVlT4mLa4AAKD0a.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-26T19:31:28.519Z",
-      "lastSuccessAt": "2026-10-26T19:31:28.519Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-26T23:17:04.913Z",
+      "lastSuccessAt": "2026-10-26T23:17:04.913Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
         "id": "2114780720170164735",
@@ -82,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2114799902861688948",
-      "lastCheckedAt": "2026-10-26T19:31:30.518Z",
-      "lastSuccessAt": "2026-10-26T19:31:30.518Z",
-      "lastRunStatus": "checked-16-posts",
-      "postsScanned": 101,
+      "sinceId": "2114837277310361645",
+      "lastCheckedAt": "2026-10-26T23:17:05.794Z",
+      "lastSuccessAt": "2026-10-26T23:17:05.794Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 104,
       "latestObservedPost": {
-        "id": "2114799902861688948",
-        "canonicalId": "2114799902861688948",
-        "text": "@BytesWithAnkit 🏎️",
-        "createdAt": "2026-10-26T19:22:42.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2114799902861688948",
+        "id": "2114837277310361645",
+        "canonicalId": "2114837277310361645",
+        "text": "https://t.co/JiYVJFqyGi",
+        "createdAt": "2026-10-26T21:51:13.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2114837277310361645",
         "media": []
       }
     },
@@ -110,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2114784885923799162",
-      "lastCheckedAt": "2026-10-26T19:31:31.998Z",
-      "lastSuccessAt": "2026-10-26T19:31:31.998Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-26T23:17:06.738Z",
+      "lastSuccessAt": "2026-10-26T23:17:06.738Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 63,
       "latestObservedPost": {
         "id": "2114784885923799162",
@@ -1019,7 +1027,13 @@
     "2114799692211015820": "bbae3a17e237a78c8e0cce8bc5192011c9133409109baae67bd0b5939b82394e",
     "2114799902861688948": "d37ec173311c19736107601812c26892bdd1c34849a8bc17390a1d318644c03c",
     "2114745041369677869": "5bd48a8a3635246ad81e4d4f12cf6ee2c01c7e022bc9c2e00eaf98bf33635271",
-    "2114784885923799162": "0dcd8f03073f99264f853652e4869271bfc90076d02df4e62b6dc3223eb9a644"
+    "2114784885923799162": "0dcd8f03073f99264f853652e4869271bfc90076d02df4e62b6dc3223eb9a644",
+    "2114839845604667840": "00e13f770ea457666f8eca1e583fb11e25a7974b1d1accac1841029f3999758f",
+    "2114818620782248024": "87ed1638d11c75c6d6b1bd75a26e0534fe6691f5cdac855d12f3f60e54c8ca1b",
+    "2114814747254432243": "25d8dd5882448752614e51255b0d09bae9cfbf5224943d6a591c4feee7f8ac94",
+    "2114834188016988222": "89b106d68c7fce852bddddd3688f58cfd5bf26eeb4fcdea074398d234a781d02",
+    "2114837274550747603": "901e8ab97ce0d131d1d51695c8cf5c5bcf2f1118f06226e0694db93fcbe45a31",
+    "2114837277310361645": "6d1929897873362162cd5ad437b23e8e6d37d7a3051e0e6231c266c8f799c8c3"
   },
   "eventParserVersion": 5
 }
