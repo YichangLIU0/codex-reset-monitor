@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T13:38:34.073Z",
+  "updatedAt": "2026-10-27T18:57:34.579Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-27T13:38:34.048Z",
-    "lastSuccessAt": "2026-10-27T13:38:34.048Z",
+    "lastCheckedAt": "2026-10-27T18:57:34.577Z",
+    "lastSuccessAt": "2026-10-27T18:57:34.577Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2114922374978277786",
-    "text": "@TokenGremlin Interesting",
-    "url": "https://x.com/thsottiaux/status/2114922374978277786",
-    "postCreatedAt": "2026-10-27T03:29:22.000Z"
+    "id": "2115148258372964831",
+    "text": "@BrenBuilds A sign of great things to come",
+    "url": "https://x.com/thsottiaux/status/2115148258372964831",
+    "postCreatedAt": "2026-10-27T18:26:57.000Z"
   },
   "latest": {
     "reset": {

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2114922374978277786",
-      "lastCheckedAt": "2026-10-27T13:38:29.976Z",
-      "lastSuccessAt": "2026-10-27T13:38:29.976Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 150,
+      "sinceId": "2115148258372964831",
+      "lastCheckedAt": "2026-10-27T18:57:31.291Z",
+      "lastSuccessAt": "2026-10-27T18:57:31.291Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 151,
       "latestObservedPost": {
-        "id": "2114922374978277786",
-        "canonicalId": "2114922374978277786",
-        "text": "@TokenGremlin Interesting",
-        "createdAt": "2026-10-27T03:29:22.000Z",
-        "url": "https://x.com/thsottiaux/status/2114922374978277786",
+        "id": "2115148258372964831",
+        "canonicalId": "2115148258372964831",
+        "text": "@BrenBuilds A sign of great things to come",
+        "createdAt": "2026-10-27T18:26:57.000Z",
+        "url": "https://x.com/thsottiaux/status/2115148258372964831",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-27T13:38:30.859Z",
-      "lastSuccessAt": "2026-10-27T13:38:30.859Z",
+      "lastCheckedAt": "2026-10-27T18:57:32.127Z",
+      "lastSuccessAt": "2026-10-27T18:57:32.127Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2114860693585563907",
-      "lastCheckedAt": "2026-10-27T13:38:31.290Z",
-      "lastSuccessAt": "2026-10-27T13:38:31.290Z",
+      "lastCheckedAt": "2026-10-27T18:57:32.600Z",
+      "lastSuccessAt": "2026-10-27T18:57:32.600Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 28,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-27T13:38:33.075Z",
-      "lastSuccessAt": "2026-10-27T13:38:33.075Z",
+      "lastCheckedAt": "2026-10-27T18:57:33.343Z",
+      "lastSuccessAt": "2026-10-27T18:57:33.343Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2114837277310361645",
-      "lastCheckedAt": "2026-10-27T13:38:33.540Z",
-      "lastSuccessAt": "2026-10-27T13:38:33.540Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 104,
+      "sinceId": "2115144730300584079",
+      "lastCheckedAt": "2026-10-27T18:57:34.148Z",
+      "lastSuccessAt": "2026-10-27T18:57:34.148Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 108,
       "latestObservedPost": {
-        "id": "2114837277310361645",
-        "canonicalId": "2114837277310361645",
-        "text": "https://t.co/JiYVJFqyGi",
-        "createdAt": "2026-10-26T21:51:13.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2114837277310361645",
+        "id": "2115144730300584079",
+        "canonicalId": "2115144730300584079",
+        "text": "@borvibe @joinhexa @oleksandrtsp @Andy_AJT @slaviquee @rayan_elid 🇫🇷🫶",
+        "createdAt": "2026-10-27T18:12:55.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2115144730300584079",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2114871185057923396",
-      "lastCheckedAt": "2026-10-27T13:38:34.048Z",
-      "lastSuccessAt": "2026-10-27T13:38:34.048Z",
+      "lastCheckedAt": "2026-10-27T18:57:34.577Z",
+      "lastSuccessAt": "2026-10-27T18:57:34.577Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 64,
       "latestObservedPost": {
@@ -1028,7 +1028,12 @@
     "2114837277310361645": "6d1929897873362162cd5ad437b23e8e6d37d7a3051e0e6231c266c8f799c8c3",
     "2114860693585563907": "a02e26c5dfe36236f902ae7e090ca41103ba66b68fb1f672e653dc1343690fe5",
     "2114871185057923396": "6354f3a498d6ad53e0e64e7fd2a74b4f561e39895e23669d38b8ee2dd51b306a",
-    "2114922374978277786": "472c6c35b088a53861a2da98f07c8233774868924713f816f5642a0a784623e2"
+    "2114922374978277786": "472c6c35b088a53861a2da98f07c8233774868924713f816f5642a0a784623e2",
+    "2115148258372964831": "279b88ab09bd67c0a117f18a57b542896019b3805a3cab9cdd78349f31e6ae53",
+    "2115134936500068407": "719915a47ac38b30f1d0ffdc6d412775d0d62bd4fdd8e5fd271f6f7e36b9807b",
+    "2115135095854305637": "0360466a144c3ceb0ebb4e7073282f72bb4f39c7f8e95286553f4693c19163b0",
+    "2115139980146405669": "0a061cb02d82d6b12334b57022d1229b8fb450912cb397c0c10a621e0c9d7432",
+    "2115144730300584079": "8e377a86d82e09b2c25c64fa84db8e11490fb5f291d4656726733297535160fc"
   },
   "eventParserVersion": 5
 }
