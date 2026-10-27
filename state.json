@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2114839845604667840",
-      "lastCheckedAt": "2026-10-26T23:17:01.242Z",
-      "lastSuccessAt": "2026-10-26T23:17:01.242Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-27T02:08:31.780Z",
+      "lastSuccessAt": "2026-10-27T02:08:31.780Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 149,
       "latestObservedPost": {
         "id": "2114839845604667840",
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-26T23:17:02.404Z",
-      "lastSuccessAt": "2026-10-26T23:17:02.404Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-27T02:08:32.707Z",
+      "lastSuccessAt": "2026-10-27T02:08:32.707Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
         "id": "2114818620782248024",
@@ -48,34 +48,26 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2114814747254432243",
-      "lastCheckedAt": "2026-10-26T23:17:03.491Z",
-      "lastSuccessAt": "2026-10-26T23:17:03.491Z",
+      "sinceId": "2114860693585563907",
+      "lastCheckedAt": "2026-10-27T02:08:33.863Z",
+      "lastSuccessAt": "2026-10-27T02:08:33.863Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 27,
+      "postsScanned": 28,
       "latestObservedPost": {
-        "id": "2114814747254432243",
-        "canonicalId": "2114814747254432243",
-        "text": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p",
-        "createdAt": "2026-10-26T20:21:41.000Z",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "media": [
-          {
-            "mediaKey": "2114813731813384192",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVlT4mLa4AAKD0a.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2114860693585563907",
+        "canonicalId": "2114860693585563907",
+        "text": "p still probably doesn't equal np",
+        "createdAt": "2026-10-26T23:24:16.000Z",
+        "url": "https://x.com/gdb/status/2114860693585563907",
+        "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-26T23:17:04.913Z",
-      "lastSuccessAt": "2026-10-26T23:17:04.913Z",
+      "lastCheckedAt": "2026-10-27T02:08:35.123Z",
+      "lastSuccessAt": "2026-10-27T02:08:35.123Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -91,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2114837277310361645",
-      "lastCheckedAt": "2026-10-26T23:17:05.794Z",
-      "lastSuccessAt": "2026-10-26T23:17:05.794Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-27T02:08:36.132Z",
+      "lastSuccessAt": "2026-10-27T02:08:36.132Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 104,
       "latestObservedPost": {
         "id": "2114837277310361645",
@@ -117,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2114784885923799162",
-      "lastCheckedAt": "2026-10-26T23:17:06.738Z",
-      "lastSuccessAt": "2026-10-26T23:17:06.738Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 63,
+      "sinceId": "2114871185057923396",
+      "lastCheckedAt": "2026-10-27T02:08:37.118Z",
+      "lastSuccessAt": "2026-10-27T02:08:37.118Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 64,
       "latestObservedPost": {
-        "id": "2114784885923799162",
-        "canonicalId": "2114784885923799162",
-        "text": "@cherry_mx_reds @reach_vb It's a great model for CUA tasks",
-        "createdAt": "2026-10-26T18:23:02.000Z",
-        "url": "https://x.com/dkundel/status/2114784885923799162",
+        "id": "2114871185057923396",
+        "canonicalId": "2114871185057923396",
+        "text": "@Folken911 @cherry_mx_reds @reach_vb @charlierguo did a pretty good job summarizing it overall. It's not just CUA but it's definitely a very fast, cost effective and good model for CUA use cases.\n\nhttps://t.co/FjsCLAX6A8",
+        "createdAt": "2026-10-27T00:05:57.000Z",
+        "url": "https://x.com/dkundel/status/2114871185057923396",
         "media": []
       }
     }
@@ -1033,7 +1025,9 @@
     "2114814747254432243": "25d8dd5882448752614e51255b0d09bae9cfbf5224943d6a591c4feee7f8ac94",
     "2114834188016988222": "89b106d68c7fce852bddddd3688f58cfd5bf26eeb4fcdea074398d234a781d02",
     "2114837274550747603": "901e8ab97ce0d131d1d51695c8cf5c5bcf2f1118f06226e0694db93fcbe45a31",
-    "2114837277310361645": "6d1929897873362162cd5ad437b23e8e6d37d7a3051e0e6231c266c8f799c8c3"
+    "2114837277310361645": "6d1929897873362162cd5ad437b23e8e6d37d7a3051e0e6231c266c8f799c8c3",
+    "2114860693585563907": "a02e26c5dfe36236f902ae7e090ca41103ba66b68fb1f672e653dc1343690fe5",
+    "2114871185057923396": "6354f3a498d6ad53e0e64e7fd2a74b4f561e39895e23669d38b8ee2dd51b306a"
   },
   "eventParserVersion": 5
 }
