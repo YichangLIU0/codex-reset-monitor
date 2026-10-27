@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2115148258372964831",
-      "lastCheckedAt": "2026-10-27T18:57:31.291Z",
-      "lastSuccessAt": "2026-10-27T18:57:31.291Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-27T22:51:47.822Z",
+      "lastSuccessAt": "2026-10-27T22:51:47.822Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 151,
       "latestObservedPost": {
         "id": "2115148258372964831",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-27T18:57:32.127Z",
-      "lastSuccessAt": "2026-10-27T18:57:32.127Z",
+      "lastCheckedAt": "2026-10-27T22:51:49.355Z",
+      "lastSuccessAt": "2026-10-27T22:51:49.355Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2114860693585563907",
-      "lastCheckedAt": "2026-10-27T18:57:32.600Z",
-      "lastSuccessAt": "2026-10-27T18:57:32.600Z",
+      "lastCheckedAt": "2026-10-27T22:51:50.328Z",
+      "lastSuccessAt": "2026-10-27T22:51:50.328Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 28,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-27T18:57:33.343Z",
-      "lastSuccessAt": "2026-10-27T18:57:33.343Z",
+      "lastCheckedAt": "2026-10-27T22:51:51.202Z",
+      "lastSuccessAt": "2026-10-27T22:51:51.202Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2115144730300584079",
-      "lastCheckedAt": "2026-10-27T18:57:34.148Z",
-      "lastSuccessAt": "2026-10-27T18:57:34.148Z",
-      "lastRunStatus": "checked-4-posts",
+      "lastCheckedAt": "2026-10-27T22:51:52.220Z",
+      "lastSuccessAt": "2026-10-27T22:51:52.220Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 108,
       "latestObservedPost": {
         "id": "2115144730300584079",
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2114871185057923396",
-      "lastCheckedAt": "2026-10-27T18:57:34.577Z",
-      "lastSuccessAt": "2026-10-27T18:57:34.577Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 64,
+      "sinceId": "2115187527724494866",
+      "lastCheckedAt": "2026-10-27T22:51:53.302Z",
+      "lastSuccessAt": "2026-10-27T22:51:53.302Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 66,
       "latestObservedPost": {
-        "id": "2114871185057923396",
-        "canonicalId": "2114871185057923396",
-        "text": "@Folken911 @cherry_mx_reds @reach_vb @charlierguo did a pretty good job summarizing it overall. It's not just CUA but it's definitely a very fast, cost effective and good model for CUA use cases.\n\nhttps://t.co/FjsCLAX6A8",
-        "createdAt": "2026-10-27T00:05:57.000Z",
-        "url": "https://x.com/dkundel/status/2114871185057923396",
+        "id": "2115187527724494866",
+        "canonicalId": "2115187527724494866",
+        "text": "Part of taste is definitely knowing what not to ship.\n\n(Dumb ideas can be fun to explore though 😄)",
+        "createdAt": "2026-10-27T21:02:59.000Z",
+        "url": "https://x.com/dkundel/status/2115187527724494866",
         "media": []
       }
     }
@@ -1033,7 +1033,9 @@
     "2115134936500068407": "719915a47ac38b30f1d0ffdc6d412775d0d62bd4fdd8e5fd271f6f7e36b9807b",
     "2115135095854305637": "0360466a144c3ceb0ebb4e7073282f72bb4f39c7f8e95286553f4693c19163b0",
     "2115139980146405669": "0a061cb02d82d6b12334b57022d1229b8fb450912cb397c0c10a621e0c9d7432",
-    "2115144730300584079": "8e377a86d82e09b2c25c64fa84db8e11490fb5f291d4656726733297535160fc"
+    "2115144730300584079": "8e377a86d82e09b2c25c64fa84db8e11490fb5f291d4656726733297535160fc",
+    "2115184110084010409": "9ad6b812e0157fb9709dfdbfbed0802e6f538ba15d24b9399e6c9b5f1053d2c6",
+    "2115187527724494866": "70347d72997320239d58adfc5b6b641cf09ee8e775343aebbf0b880771aa0ede"
   },
   "eventParserVersion": 5
 }

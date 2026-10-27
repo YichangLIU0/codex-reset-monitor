@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T18:57:34.579Z",
+  "updatedAt": "2026-10-27T22:51:53.305Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-27T18:57:34.577Z",
-    "lastSuccessAt": "2026-10-27T18:57:34.577Z",
+    "lastCheckedAt": "2026-10-27T22:51:53.302Z",
+    "lastSuccessAt": "2026-10-27T22:51:53.302Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115148258372964831",
-    "text": "@BrenBuilds A sign of great things to come",
-    "url": "https://x.com/thsottiaux/status/2115148258372964831",
-    "postCreatedAt": "2026-10-27T18:26:57.000Z"
+    "id": "2115187527724494866",
+    "text": "Part of taste is definitely knowing what not to ship.\n\n(Dumb ideas can be fun to explore though 😄)",
+    "url": "https://x.com/dkundel/status/2115187527724494866",
+    "postCreatedAt": "2026-10-27T21:02:59.000Z"
   },
   "latest": {
     "reset": {
