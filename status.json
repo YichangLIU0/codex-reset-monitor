@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T19:43:41.376Z",
+  "updatedAt": "2026-10-28T23:35:16.282Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T19:43:41.371Z",
-    "lastSuccessAt": "2026-10-28T19:43:41.371Z",
+    "lastCheckedAt": "2026-10-28T23:35:16.278Z",
+    "lastSuccessAt": "2026-10-28T23:35:16.278Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115523096870539704",
-    "text": "@aastroza @pablopoo @ingenieriaUDD_ @iadevsconf @imontenegroc builder vibes 🏗️",
-    "url": "https://x.com/OpenAIDevs/status/2115523096870539704",
-    "postCreatedAt": "2026-10-28T19:16:25.000Z"
+    "id": "2115583721994944972",
+    "text": "Credit amounts depend on the plan.\n\nPro plans get $100, $200 or $500 per month by tier.\n\nBusiness plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nhttps://t.co/WTvAkEwsy4",
+    "url": "https://x.com/OpenAIDevs/status/2115583721994944972",
+    "postCreatedAt": "2026-10-28T23:17:19.000Z"
   },
   "latest": {
     "reset": {

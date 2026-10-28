@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2115473280677363810",
-      "lastCheckedAt": "2026-10-28T19:43:32.042Z",
-      "lastSuccessAt": "2026-10-28T19:43:32.042Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-28T23:35:12.430Z",
+      "lastSuccessAt": "2026-10-28T23:35:12.430Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 163,
       "latestObservedPost": {
         "id": "2115473280677363810",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-28T19:43:34.035Z",
-      "lastSuccessAt": "2026-10-28T19:43:34.035Z",
+      "lastCheckedAt": "2026-10-28T23:35:13.053Z",
+      "lastSuccessAt": "2026-10-28T23:35:13.053Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2115270653452648605",
-      "lastCheckedAt": "2026-10-28T19:43:34.696Z",
-      "lastSuccessAt": "2026-10-28T19:43:34.696Z",
+      "lastCheckedAt": "2026-10-28T23:35:13.531Z",
+      "lastSuccessAt": "2026-10-28T23:35:13.531Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-28T19:43:35.926Z",
-      "lastSuccessAt": "2026-10-28T19:43:35.926Z",
+      "lastCheckedAt": "2026-10-28T23:35:14.631Z",
+      "lastSuccessAt": "2026-10-28T23:35:14.631Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2115523096870539704",
-      "lastCheckedAt": "2026-10-28T19:43:37.230Z",
-      "lastSuccessAt": "2026-10-28T19:43:37.230Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 109,
+      "sinceId": "2115583721994944972",
+      "lastCheckedAt": "2026-10-28T23:35:15.586Z",
+      "lastSuccessAt": "2026-10-28T23:35:15.586Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 114,
       "latestObservedPost": {
-        "id": "2115523096870539704",
-        "canonicalId": "2115523096870539704",
-        "text": "@aastroza @pablopoo @ingenieriaUDD_ @iadevsconf @imontenegroc builder vibes 🏗️",
-        "createdAt": "2026-10-28T19:16:25.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2115523096870539704",
+        "id": "2115583721994944972",
+        "canonicalId": "2115583721994944972",
+        "text": "Credit amounts depend on the plan.\n\nPro plans get $100, $200 or $500 per month by tier.\n\nBusiness plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nhttps://t.co/WTvAkEwsy4",
+        "createdAt": "2026-10-28T23:17:19.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2115583721994944972",
         "media": []
       }
     },
@@ -110,9 +110,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2115504450609504584",
-      "lastCheckedAt": "2026-10-28T19:43:41.371Z",
-      "lastSuccessAt": "2026-10-28T19:43:41.371Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-28T23:35:16.278Z",
+      "lastSuccessAt": "2026-10-28T23:35:16.278Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 72,
       "latestObservedPost": {
         "id": "2115504450609504584",
@@ -1082,7 +1082,12 @@
     "2115473280677363810": "03c3670bfd06f6211699a841c5ea9277061ada237a3850f986d4810c0a14f656",
     "2115523096870539704": "7dc81a9861bcfb239ab956cfb289b5a9f9e4a9ead3a31fbb25a773993072dd08",
     "2115503881618931950": "4cae53a67a172f7f2b15cb47097973d852ca6951944938ff1f2ffd0da0ffc269",
-    "2115504450609504584": "485eb3068bfc8f2d5ac5ba3c5d5342c994aa9ff5b374b0941df362f63c9fa33f"
+    "2115504450609504584": "485eb3068bfc8f2d5ac5ba3c5d5342c994aa9ff5b374b0941df362f63c9fa33f",
+    "2115553852007354591": "33dfdac0ac54d92d717a256676f633ce6667c321612931aaf8c97c9995ef8143",
+    "2115578469207691626": "2f74599e187ee9eaf7c086d2877b4afd87618548b7ac1aa35499e03e8015f095",
+    "2115583698074755078": "28979f4b229bfc4b0657c6aee3b8b80023dc4ac7f185f97b45c49418d985e5a8",
+    "2115583710288613476": "2020114b8f492d4f48f2d8d5109a5f7052a0c0fd30da29fdc4e095c8e6ef7dca",
+    "2115583721994944972": "2e481010148e4b643096228d9226a106dc2db00279702c42d6d46259387596a7"
   },
   "eventParserVersion": 5
 }
