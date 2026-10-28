@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2115148258372964831",
-      "lastCheckedAt": "2026-10-28T01:50:10.925Z",
-      "lastSuccessAt": "2026-10-28T01:50:10.925Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 151,
+      "sinceId": "2115330127886463244",
+      "lastCheckedAt": "2026-10-28T07:33:25.556Z",
+      "lastSuccessAt": "2026-10-28T07:33:25.556Z",
+      "lastRunStatus": "checked-10-posts",
+      "postsScanned": 161,
       "latestObservedPost": {
-        "id": "2115148258372964831",
-        "canonicalId": "2115148258372964831",
-        "text": "@BrenBuilds A sign of great things to come",
-        "createdAt": "2026-10-27T18:26:57.000Z",
-        "url": "https://x.com/thsottiaux/status/2115148258372964831",
+        "id": "2115330127886463244",
+        "canonicalId": "2115330127886463244",
+        "text": "And it's done. See you tomorrow for some good news.",
+        "createdAt": "2026-10-28T06:29:38.000Z",
+        "url": "https://x.com/thsottiaux/status/2115330127886463244",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-28T01:50:12.339Z",
-      "lastSuccessAt": "2026-10-28T01:50:12.339Z",
+      "lastCheckedAt": "2026-10-28T07:33:26.428Z",
+      "lastSuccessAt": "2026-10-28T07:33:26.428Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2114860693585563907",
-      "lastCheckedAt": "2026-10-28T01:50:12.891Z",
-      "lastSuccessAt": "2026-10-28T01:50:12.891Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 28,
+      "sinceId": "2115270653452648605",
+      "lastCheckedAt": "2026-10-28T07:33:27.151Z",
+      "lastSuccessAt": "2026-10-28T07:33:27.151Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 29,
       "latestObservedPost": {
-        "id": "2114860693585563907",
-        "canonicalId": "2114860693585563907",
-        "text": "p still probably doesn't equal np",
-        "createdAt": "2026-10-26T23:24:16.000Z",
-        "url": "https://x.com/gdb/status/2114860693585563907",
+        "id": "2115270653452648605",
+        "canonicalId": "2115270653452648605",
+        "text": "learn about php2shell and the general emerging security landscape:",
+        "createdAt": "2026-10-28T02:33:18.000Z",
+        "url": "https://x.com/gdb/status/2115270653452648605",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-28T01:50:13.627Z",
-      "lastSuccessAt": "2026-10-28T01:50:13.627Z",
+      "lastCheckedAt": "2026-10-28T07:33:28.153Z",
+      "lastSuccessAt": "2026-10-28T07:33:28.153Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2115144730300584079",
-      "lastCheckedAt": "2026-10-28T01:50:14.103Z",
-      "lastSuccessAt": "2026-10-28T01:50:14.103Z",
+      "lastCheckedAt": "2026-10-28T07:33:28.611Z",
+      "lastSuccessAt": "2026-10-28T07:33:28.611Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 108,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2115187527724494866",
-      "lastCheckedAt": "2026-10-28T01:50:14.600Z",
-      "lastSuccessAt": "2026-10-28T01:50:14.600Z",
+      "lastCheckedAt": "2026-10-28T07:33:30.412Z",
+      "lastSuccessAt": "2026-10-28T07:33:30.412Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 66,
       "latestObservedPost": {
@@ -126,6 +126,34 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+      "id": "2115273064481218829",
+      "canonicalId": "2115273064481218829",
+      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+      "createdAt": "2026-10-28T02:42:53.000Z",
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "media": [],
+      "detectedAt": "2026-10-28T07:33:25.556Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Just kidding, today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Just kidding, today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-28T07:33:30.415Z"
+    },
     {
       "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
       "id": "2114599388454481930",
@@ -1035,7 +1063,18 @@
     "2115139980146405669": "0a061cb02d82d6b12334b57022d1229b8fb450912cb397c0c10a621e0c9d7432",
     "2115144730300584079": "8e377a86d82e09b2c25c64fa84db8e11490fb5f291d4656726733297535160fc",
     "2115184110084010409": "9ad6b812e0157fb9709dfdbfbed0802e6f538ba15d24b9399e6c9b5f1053d2c6",
-    "2115187527724494866": "70347d72997320239d58adfc5b6b641cf09ee8e775343aebbf0b880771aa0ede"
+    "2115187527724494866": "70347d72997320239d58adfc5b6b641cf09ee8e775343aebbf0b880771aa0ede",
+    "2115272201922572627": "d7a4309e06bddd420c92a4d127581eb2aa07f6f4537af5140b30feb9b0d5b317",
+    "2115273064481218829": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+    "2115273253711409208": "bf0b229980513092e3549a6e241b4525d80a4e9011cac8e18369e692eea6ba39",
+    "2115289940233961584": "ac8de13f52c7de95a14499503e527e73dba679b2634b4f38d08a061ff88ce0a4",
+    "2115290111147712544": "7c8fe1b3f1edd06e5a3e2bfa5d922bd8a020bac22257b5fa321431945183f8c7",
+    "2115290318652444729": "0c87bd85be53ee5000a3c41d6c930da61c8a92fc292fd5402f0e0c08dc164f98",
+    "2115297093879472332": "348086deaaffe04f05f1c0a578218034b844eb460382f98ff4aefd329144af15",
+    "2115299029294920189": "2300a59f4f3c3c0f9fc6be5ec044510f8e7283fa29269d014398d3b08291dfff",
+    "2115329600897319076": "4e6b929e8003b3b57c9219338c38897363ff63d2ddd5053334ee396b376d0a98",
+    "2115330127886463244": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
+    "2115270653452648605": "92226a7f6447b26fc176b8747ba8e679d770bf229cfbd661f1e2cace0dd8ed08"
   },
   "eventParserVersion": 5
 }

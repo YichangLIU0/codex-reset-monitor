@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T01:50:14.605Z",
+  "updatedAt": "2026-10-28T07:33:30.420Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T01:50:14.600Z",
-    "lastSuccessAt": "2026-10-28T01:50:14.600Z",
+    "lastCheckedAt": "2026-10-28T07:33:30.412Z",
+    "lastSuccessAt": "2026-10-28T07:33:30.412Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115187527724494866",
-    "text": "Part of taste is definitely knowing what not to ship.\n\n(Dumb ideas can be fun to explore though 😄)",
-    "url": "https://x.com/dkundel/status/2115187527724494866",
-    "postCreatedAt": "2026-10-27T21:02:59.000Z"
+    "id": "2115330127886463244",
+    "text": "And it's done. See you tomorrow for some good news.",
+    "url": "https://x.com/thsottiaux/status/2115330127886463244",
+    "postCreatedAt": "2026-10-28T06:29:38.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+      "id": "2115273064481218829",
+      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "postCreatedAt": "2026-10-28T02:42:53.000Z",
+      "detectedAt": "2026-10-28T07:33:25.556Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Just kidding, today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Just kidding, today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
       "id": "2114599388454481930",
