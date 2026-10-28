@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T14:26:04.516Z",
+  "updatedAt": "2026-10-28T19:43:41.376Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T14:26:04.494Z",
-    "lastSuccessAt": "2026-10-28T14:26:04.494Z",
+    "lastCheckedAt": "2026-10-28T19:43:41.371Z",
+    "lastSuccessAt": "2026-10-28T19:43:41.371Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115442538697900076",
-    "text": "@Dimillian Symantic VIP is always the one",
-    "url": "https://x.com/dkundel/status/2115442538697900076",
-    "postCreatedAt": "2026-10-28T13:56:18.000Z"
+    "id": "2115523096870539704",
+    "text": "@aastroza @pablopoo @ingenieriaUDD_ @iadevsconf @imontenegroc builder vibes 🏗️",
+    "url": "https://x.com/OpenAIDevs/status/2115523096870539704",
+    "postCreatedAt": "2026-10-28T19:16:25.000Z"
   },
   "latest": {
     "reset": {

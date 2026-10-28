@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2115330127886463244",
-      "lastCheckedAt": "2026-10-28T14:26:00.842Z",
-      "lastSuccessAt": "2026-10-28T14:26:00.842Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 161,
+      "sinceId": "2115473280677363810",
+      "lastCheckedAt": "2026-10-28T19:43:32.042Z",
+      "lastSuccessAt": "2026-10-28T19:43:32.042Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 163,
       "latestObservedPost": {
-        "id": "2115330127886463244",
-        "canonicalId": "2115330127886463244",
-        "text": "And it's done. See you tomorrow for some good news.",
-        "createdAt": "2026-10-28T06:29:38.000Z",
-        "url": "https://x.com/thsottiaux/status/2115330127886463244",
+        "id": "2115473280677363810",
+        "canonicalId": "2115473280677363810",
+        "text": "@Ananth7e If only",
+        "createdAt": "2026-10-28T15:58:28.000Z",
+        "url": "https://x.com/thsottiaux/status/2115473280677363810",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-28T14:26:01.068Z",
-      "lastSuccessAt": "2026-10-28T14:26:01.068Z",
+      "lastCheckedAt": "2026-10-28T19:43:34.035Z",
+      "lastSuccessAt": "2026-10-28T19:43:34.035Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2115270653452648605",
-      "lastCheckedAt": "2026-10-28T14:26:01.549Z",
-      "lastSuccessAt": "2026-10-28T14:26:01.549Z",
+      "lastCheckedAt": "2026-10-28T19:43:34.696Z",
+      "lastSuccessAt": "2026-10-28T19:43:34.696Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-28T14:26:02.398Z",
-      "lastSuccessAt": "2026-10-28T14:26:02.398Z",
+      "lastCheckedAt": "2026-10-28T19:43:35.926Z",
+      "lastSuccessAt": "2026-10-28T19:43:35.926Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2115144730300584079",
-      "lastCheckedAt": "2026-10-28T14:26:02.814Z",
-      "lastSuccessAt": "2026-10-28T14:26:02.814Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 108,
+      "sinceId": "2115523096870539704",
+      "lastCheckedAt": "2026-10-28T19:43:37.230Z",
+      "lastSuccessAt": "2026-10-28T19:43:37.230Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 109,
       "latestObservedPost": {
-        "id": "2115144730300584079",
-        "canonicalId": "2115144730300584079",
-        "text": "@borvibe @joinhexa @oleksandrtsp @Andy_AJT @slaviquee @rayan_elid 🇫🇷🫶",
-        "createdAt": "2026-10-27T18:12:55.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2115144730300584079",
+        "id": "2115523096870539704",
+        "canonicalId": "2115523096870539704",
+        "text": "@aastroza @pablopoo @ingenieriaUDD_ @iadevsconf @imontenegroc builder vibes 🏗️",
+        "createdAt": "2026-10-28T19:16:25.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2115523096870539704",
         "media": []
       }
     },
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2115442538697900076",
-      "lastCheckedAt": "2026-10-28T14:26:04.494Z",
-      "lastSuccessAt": "2026-10-28T14:26:04.494Z",
-      "lastRunStatus": "checked-4-posts",
-      "postsScanned": 70,
+      "sinceId": "2115504450609504584",
+      "lastCheckedAt": "2026-10-28T19:43:41.371Z",
+      "lastSuccessAt": "2026-10-28T19:43:41.371Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 72,
       "latestObservedPost": {
-        "id": "2115442538697900076",
-        "canonicalId": "2115442538697900076",
-        "text": "@Dimillian Symantic VIP is always the one",
-        "createdAt": "2026-10-28T13:56:18.000Z",
-        "url": "https://x.com/dkundel/status/2115442538697900076",
+        "id": "2115504450609504584",
+        "canonicalId": "2115504450609504584",
+        "text": "Apple's Twitter strategy is interesting. No posts in general not even a retweet of this post",
+        "createdAt": "2026-10-28T18:02:19.000Z",
+        "url": "https://x.com/dkundel/status/2115504450609504584",
         "media": []
       }
     }
@@ -1077,7 +1077,12 @@
     "2115407049089515852": "5da26555a5c58b9be36d4b1fd0f84d6114108736af0da509483f6c8aaee65e6b",
     "2115425207905333701": "f7a669af034afe3b517023d590cf6659cd8d84b31130d2b3097e5fc760ca33a5",
     "2115425844948549738": "3e46234c01af25eb0d2889b8df09c8d72827929b4efce80c7db5759b913017d8",
-    "2115442538697900076": "fb5b8214d3280a3ec6cb300b09aaa4807d34e14840e176a04d5a1cff624bea70"
+    "2115442538697900076": "fb5b8214d3280a3ec6cb300b09aaa4807d34e14840e176a04d5a1cff624bea70",
+    "2115473170279080149": "1cca13fe4b3a129ce7743b3f38a5844650e1417cbe05092029d7c2293d29c1b2",
+    "2115473280677363810": "03c3670bfd06f6211699a841c5ea9277061ada237a3850f986d4810c0a14f656",
+    "2115523096870539704": "7dc81a9861bcfb239ab956cfb289b5a9f9e4a9ead3a31fbb25a773993072dd08",
+    "2115503881618931950": "4cae53a67a172f7f2b15cb47097973d852ca6951944938ff1f2ffd0da0ffc269",
+    "2115504450609504584": "485eb3068bfc8f2d5ac5ba3c5d5342c994aa9ff5b374b0941df362f63c9fa33f"
   },
   "eventParserVersion": 5
 }
