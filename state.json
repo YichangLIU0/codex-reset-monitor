@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2115622002581188681",
-      "lastCheckedAt": "2026-10-29T02:47:55.754Z",
-      "lastSuccessAt": "2026-10-29T02:47:55.754Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 165,
+      "sinceId": "2115649073302904875",
+      "lastCheckedAt": "2026-10-29T08:58:05.241Z",
+      "lastSuccessAt": "2026-10-29T08:58:05.241Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 168,
       "latestObservedPost": {
-        "id": "2115622002581188681",
-        "canonicalId": "2115622002581188681",
-        "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to &lt;INSERT WILD REQUEST&gt;\" and sit back and relax.",
-        "createdAt": "2026-10-29T01:49:26.000Z",
-        "url": "https://x.com/thsottiaux/status/2115622002581188681",
+        "id": "2115649073302904875",
+        "canonicalId": "2115649073302904875",
+        "text": "@rezoundous Low, but not zero",
+        "createdAt": "2026-10-29T03:37:00.000Z",
+        "url": "https://x.com/thsottiaux/status/2115649073302904875",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-29T02:47:57.027Z",
-      "lastSuccessAt": "2026-10-29T02:47:57.027Z",
+      "lastCheckedAt": "2026-10-29T08:58:06.165Z",
+      "lastSuccessAt": "2026-10-29T08:58:06.165Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2115270653452648605",
-      "lastCheckedAt": "2026-10-29T02:47:57.501Z",
-      "lastSuccessAt": "2026-10-29T02:47:57.501Z",
+      "lastCheckedAt": "2026-10-29T08:58:06.606Z",
+      "lastSuccessAt": "2026-10-29T08:58:06.606Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2114780720170164735",
-      "lastCheckedAt": "2026-10-29T02:47:58.275Z",
-      "lastSuccessAt": "2026-10-29T02:47:58.275Z",
+      "lastCheckedAt": "2026-10-29T08:58:07.554Z",
+      "lastSuccessAt": "2026-10-29T08:58:07.554Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 36,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2115583721994944972",
-      "lastCheckedAt": "2026-10-29T02:47:58.706Z",
-      "lastSuccessAt": "2026-10-29T02:47:58.706Z",
+      "lastCheckedAt": "2026-10-29T08:58:07.949Z",
+      "lastSuccessAt": "2026-10-29T08:58:07.949Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 114,
       "latestObservedPost": {
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2115504450609504584",
-      "lastCheckedAt": "2026-10-29T02:47:59.189Z",
-      "lastSuccessAt": "2026-10-29T02:47:59.189Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 72,
+      "sinceId": "2115709019570462941",
+      "lastCheckedAt": "2026-10-29T08:58:08.986Z",
+      "lastSuccessAt": "2026-10-29T08:58:08.986Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 73,
       "latestObservedPost": {
-        "id": "2115504450609504584",
-        "canonicalId": "2115504450609504584",
-        "text": "Apple's Twitter strategy is interesting. No posts in general not even a retweet of this post",
-        "createdAt": "2026-10-28T18:02:19.000Z",
-        "url": "https://x.com/dkundel/status/2115504450609504584",
+        "id": "2115709019570462941",
+        "canonicalId": "2115709019570462941",
+        "text": "@paw_lean @Dimillian If only it had the cameras of the pro",
+        "createdAt": "2026-10-29T07:35:12.000Z",
+        "url": "https://x.com/dkundel/status/2115709019570462941",
         "media": []
       }
     }
@@ -1089,7 +1089,11 @@
     "2115583710288613476": "2020114b8f492d4f48f2d8d5109a5f7052a0c0fd30da29fdc4e095c8e6ef7dca",
     "2115583721994944972": "2e481010148e4b643096228d9226a106dc2db00279702c42d6d46259387596a7",
     "2115588390414581916": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
-    "2115622002581188681": "3c9c86b377d54385c34f4b6323c16131f61e4541a9c3a63c6d26b9177e641357"
+    "2115622002581188681": "3c9c86b377d54385c34f4b6323c16131f61e4541a9c3a63c6d26b9177e641357",
+    "2115648685069742441": "b4f67c3649e0fe237a45865c442520eb6c50b9b4872ff9222ae167d3cf1f8e93",
+    "2115648938149818370": "efa9253050c7572d56456578267faa086d329d702cf5c3348a0511704ce56c5f",
+    "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62",
+    "2115709019570462941": "108f9c71b490225b2317dd42db25cdc1b050f2198633bea986d1c7f27ccb562c"
   },
   "eventParserVersion": 5
 }
