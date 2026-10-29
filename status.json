@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T08:58:08.991Z",
+  "updatedAt": "2026-10-29T15:54:06.330Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-29T08:58:08.986Z",
-    "lastSuccessAt": "2026-10-29T08:58:08.986Z",
+    "lastCheckedAt": "2026-10-29T15:54:06.327Z",
+    "lastSuccessAt": "2026-10-29T15:54:06.327Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115709019570462941",
-    "text": "@paw_lean @Dimillian If only it had the cameras of the pro",
-    "url": "https://x.com/dkundel/status/2115709019570462941",
-    "postCreatedAt": "2026-10-29T07:35:12.000Z"
+    "id": "2115811730140152243",
+    "text": "@kwindla Congrats! Huge :) also very excited for some great joint @kwindla and @coreylweathers content!",
+    "url": "https://x.com/dkundel/status/2115811730140152243",
+    "postCreatedAt": "2026-10-29T14:23:21.000Z"
   },
   "latest": {
     "reset": {
