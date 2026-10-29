@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T23:35:16.282Z",
+  "updatedAt": "2026-10-29T02:47:59.192Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T23:35:16.278Z",
-    "lastSuccessAt": "2026-10-28T23:35:16.278Z",
+    "lastCheckedAt": "2026-10-29T02:47:59.189Z",
+    "lastSuccessAt": "2026-10-29T02:47:59.189Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115583721994944972",
-    "text": "Credit amounts depend on the plan.\n\nPro plans get $100, $200 or $500 per month by tier.\n\nBusiness plans get $20 per paid Standard seat or $100 per paid Premium seat, pooled up to $500 per workspace.\n\nhttps://t.co/WTvAkEwsy4",
-    "url": "https://x.com/OpenAIDevs/status/2115583721994944972",
-    "postCreatedAt": "2026-10-28T23:17:19.000Z"
+    "id": "2115622002581188681",
+    "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to &lt;INSERT WILD REQUEST&gt;\" and sit back and relax.",
+    "url": "https://x.com/thsottiaux/status/2115622002581188681",
+    "postCreatedAt": "2026-10-29T01:49:26.000Z"
   },
   "latest": {
     "reset": {
