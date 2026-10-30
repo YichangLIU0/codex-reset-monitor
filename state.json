@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2116072117540417651",
-      "lastCheckedAt": "2026-10-30T18:16:48.313Z",
-      "lastSuccessAt": "2026-10-30T18:16:48.313Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 179,
+      "sinceId": "2116256600436641887",
+      "lastCheckedAt": "2026-10-30T22:26:52.767Z",
+      "lastSuccessAt": "2026-10-30T22:26:52.767Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 180,
       "latestObservedPost": {
-        "id": "2116072117540417651",
-        "canonicalId": "2116072117540417651",
-        "text": "@ajambrosino No hype, just shipping",
-        "createdAt": "2026-10-30T07:38:02.000Z",
-        "url": "https://x.com/thsottiaux/status/2116072117540417651",
+        "id": "2116256600436641887",
+        "canonicalId": "2116256600436641887",
+        "text": "@claudeai Better announce 28 days of reset",
+        "createdAt": "2026-10-30T19:51:06.000Z",
+        "url": "https://x.com/thsottiaux/status/2116256600436641887",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-30T18:16:48.895Z",
-      "lastSuccessAt": "2026-10-30T18:16:48.895Z",
+      "lastCheckedAt": "2026-10-30T22:26:53.645Z",
+      "lastSuccessAt": "2026-10-30T22:26:53.645Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-30T18:16:49.457Z",
-      "lastSuccessAt": "2026-10-30T18:16:49.457Z",
+      "lastCheckedAt": "2026-10-30T22:26:54.218Z",
+      "lastSuccessAt": "2026-10-30T22:26:54.218Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -65,23 +65,23 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2116186509384815084",
-      "lastCheckedAt": "2026-10-30T18:16:50.282Z",
-      "lastSuccessAt": "2026-10-30T18:16:50.282Z",
+      "sinceId": "2116253388883345623",
+      "lastCheckedAt": "2026-10-30T22:26:56.309Z",
+      "lastSuccessAt": "2026-10-30T22:26:56.309Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 38,
+      "postsScanned": 39,
       "latestObservedPost": {
-        "id": "2116186509384815084",
-        "canonicalId": "2116186509384815084",
-        "text": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe’re building these protections in close collaboration with some of our largest customers to help businesses apply frontier AI to their most sensitive work.\nhttps://t.co/BiA4N8FQVH",
-        "createdAt": "2026-10-30T15:12:35.000Z",
-        "url": "https://x.com/OpenAI/status/2116186509384815084",
+        "id": "2116253388883345623",
+        "canonicalId": "2116253388883345623",
+        "text": "There are many futures. Which do you want to build? https://t.co/19NY7tgPHM",
+        "createdAt": "2026-10-30T19:38:20.000Z",
+        "url": "https://x.com/OpenAI/status/2116253388883345623",
         "media": [
           {
-            "mediaKey": "2116186389536788480",
+            "mediaKey": "2116236456897212416",
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2116186389536788480/vid/avc1/2200x1400/ebhP3w8awbmD1FrY.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116186389536788480/img/hbO4g10coOsa0Gy3.jpg",
+            "url": "https://video.twimg.com/amplify_video/2116236456897212416/vid/avc1/1920x1080/sm29CeaG5Z5Eba7P.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116236456897212416/img/3feufnhOpbHvJ6kt.jpg",
             "altText": null
           }
         ]
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116209354244513816",
-      "lastCheckedAt": "2026-10-30T18:16:51.262Z",
-      "lastSuccessAt": "2026-10-30T18:16:51.262Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-10-30T22:26:56.801Z",
+      "lastSuccessAt": "2026-10-30T22:26:56.801Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
         "id": "2116209354244513816",
@@ -117,23 +117,51 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2116164426323608030",
-      "lastCheckedAt": "2026-10-30T18:16:52.619Z",
-      "lastSuccessAt": "2026-10-30T18:16:52.619Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 84,
+      "sinceId": "2116272936575201638",
+      "lastCheckedAt": "2026-10-30T22:26:57.801Z",
+      "lastSuccessAt": "2026-10-30T22:26:57.801Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 88,
       "latestObservedPost": {
-        "id": "2116164426323608030",
-        "canonicalId": "2116164426323608030",
-        "text": "@scottbarden Did you try with the new codex cloud that we released at devday?",
-        "createdAt": "2026-10-30T13:44:50.000Z",
-        "url": "https://x.com/dkundel/status/2116164426323608030",
+        "id": "2116272936575201638",
+        "canonicalId": "2116272936575201638",
+        "text": "@PaulSolt @thsottiaux What type of tasks do you use Ultrafast for? I think right now the best use case is iterating on UI or actively pairing on docs.",
+        "createdAt": "2026-10-30T20:56:01.000Z",
+        "url": "https://x.com/dkundel/status/2116272936575201638",
         "media": []
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
+      "id": "2116256600436641887",
+      "canonicalId": "2116256600436641887",
+      "text": "@claudeai Better announce 28 days of reset",
+      "createdAt": "2026-10-30T19:51:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2116256600436641887",
+      "media": [],
+      "detectedAt": "2026-10-30T22:26:52.767Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@claudeai Better announce 28 days of reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@claudeai Better announce 28 days of reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-30T22:26:57.821Z"
+    },
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
       "id": "2115851621137784832",
@@ -657,30 +685,6 @@
         }
       ],
       "channels": []
-    },
-    {
-      "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
-      "id": "2109045220411351517",
-      "text": "Day 6/ Reset",
-      "createdAt": "2026-10-10T22:15:39.000Z",
-      "url": "https://x.com/thsottiaux/status/2109045220411351517",
-      "media": [],
-      "detectedAt": "2026-10-11T15:24:32.114Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 6/ Reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 6/ Reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "channels": []
     }
   ],
   "outbox": [],
@@ -1158,7 +1162,13 @@
     "2116186509384815084": "1f866c65120402e0c7433b0855c019f3d5cb3cb89ea4b41268ed97ba7847f3e7",
     "2116175714777174525": "f469f228a5b3aee058fa3802198f7d1c9b053cd0e44d4fd905097dc13690514c",
     "2116209354244513816": "ccab1fc030c946d367d92452df17660bb493f4f2a2ba02b244167b96f415d307",
-    "2116164426323608030": "d52cc972dfe54d88df7c0bff81ed13e77bbe0205df00b00efe7fabf3c60eefa4"
+    "2116164426323608030": "d52cc972dfe54d88df7c0bff81ed13e77bbe0205df00b00efe7fabf3c60eefa4",
+    "2116256600436641887": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
+    "2116253388883345623": "63a4a1628841fc60246536478fd8299d343a82bbefef9cb992122c9ce81885de",
+    "2116238691521757359": "e7c69219c7f85e3936c48a0d3a71942235d567abd38fd6d392cfbf1b70907df4",
+    "2116255308586827782": "bcceaafa1945ce6a61a869df91b7614c7fdf36b7d4b28c2ade5d53e29af389a7",
+    "2116267754693214602": "d9a434f5ae13ea57bcc2d46e3de56ec79932d114e8b3b2a862d69583a7c74372",
+    "2116272936575201638": "9b94ff452b6bc3f40be7e7488a43ad3f893776d418d37b7fe3e2759fa06494b0"
   },
   "eventParserVersion": 5
 }

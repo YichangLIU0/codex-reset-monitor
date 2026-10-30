@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T18:16:52.732Z",
+  "updatedAt": "2026-10-30T22:26:57.832Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T18:16:52.619Z",
-    "lastSuccessAt": "2026-10-30T18:16:52.619Z",
+    "lastCheckedAt": "2026-10-30T22:26:57.801Z",
+    "lastSuccessAt": "2026-10-30T22:26:57.801Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116209354244513816",
-    "text": "@LuckySah22 impressive balance",
-    "url": "https://x.com/OpenAIDevs/status/2116209354244513816",
-    "postCreatedAt": "2026-10-30T16:43:21.000Z"
+    "id": "2116272936575201638",
+    "text": "@PaulSolt @thsottiaux What type of tasks do you use Ultrafast for? I think right now the best use case is iterating on UI or actively pairing on docs.",
+    "url": "https://x.com/dkundel/status/2116272936575201638",
+    "postCreatedAt": "2026-10-30T20:56:01.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
+      "id": "2116256600436641887",
+      "text": "@claudeai Better announce 28 days of reset",
+      "url": "https://x.com/thsottiaux/status/2116256600436641887",
+      "postCreatedAt": "2026-10-30T19:51:06.000Z",
+      "detectedAt": "2026-10-30T22:26:52.767Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@claudeai Better announce 28 days of reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@claudeai Better announce 28 days of reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
       "id": "2115851621137784832",
@@ -529,30 +553,6 @@
             "end": null,
             "evidence": "Global reset by EOD",
             "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
-      "id": "2109045220411351517",
-      "text": "Day 6/ Reset",
-      "url": "https://x.com/thsottiaux/status/2109045220411351517",
-      "postCreatedAt": "2026-10-10T22:15:39.000Z",
-      "detectedAt": "2026-10-11T15:24:32.114Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 6/ Reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 6/ Reset",
-            "note": "未形成明确的重置承诺或完成确认"
           }
         }
       ],
