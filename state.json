@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116072117540417651",
-      "lastCheckedAt": "2026-10-30T12:50:15.971Z",
-      "lastSuccessAt": "2026-10-30T12:50:15.971Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-30T18:16:48.313Z",
+      "lastSuccessAt": "2026-10-30T18:16:48.313Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 179,
       "latestObservedPost": {
         "id": "2116072117540417651",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-30T12:50:17.180Z",
-      "lastSuccessAt": "2026-10-30T12:50:17.180Z",
+      "lastCheckedAt": "2026-10-30T18:16:48.895Z",
+      "lastSuccessAt": "2026-10-30T18:16:48.895Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-30T12:50:18.328Z",
-      "lastSuccessAt": "2026-10-30T12:50:18.328Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-30T18:16:49.457Z",
+      "lastSuccessAt": "2026-10-30T18:16:49.457Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
         "id": "2116052823096131817",
@@ -65,43 +65,43 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2115896329645723836",
-      "lastCheckedAt": "2026-10-30T12:50:18.741Z",
-      "lastSuccessAt": "2026-10-30T12:50:18.741Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 37,
+      "sinceId": "2116186509384815084",
+      "lastCheckedAt": "2026-10-30T18:16:50.282Z",
+      "lastSuccessAt": "2026-10-30T18:16:50.282Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 38,
       "latestObservedPost": {
-        "id": "2115896329645723836",
-        "canonicalId": "2115896329645723836",
-        "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity investigation where we weren’t running our misalignment monitors—we’ve substantially expanded our monitoring of frontier agents. We now monitor all frontier reinforcement learning runs and evaluations, as well as all internal Codex use. When our system finds evidence of a problem that might require intervention, it rapidly alerts human responders who can investigate and take action.\n\nTo detect when a model’s behavior departs from what we intended, we use several layers of monitoring. Activation probes look for patterns in a model’s internal activity. Reviewer models examine its reasoning and tool use, and investigative agents can read back through the model’s entire transcript to understand how a sequence of actions fits together and whether it warrants human review.\n\nTo test whether our current system would have detected the Hugging Face incident, we replayed the recorded activity with our new monitors in place. In the replay, our monitors alerted our security team about 30 minutes after the agents escaped their sandbox. That was more than 30 hours before the point at which the agents breached Hugging Face’s systems in the original incident.\n\nIn September, a model exploited a DNS misconfiguration to reach the live internet. Our monitors flagged the breach within 15 minutes, and a responder began reviewing the alert three minutes later. The alert enabled responders to investigate while the run was still underway.\n\nAs we give models more autonomy, we need to know when they cross a boundary we expected to hold. We believe that monitoring is essential to catching those failures in time for people to intervene. \nhttps://t.co/dIYP7B1GlD",
-        "createdAt": "2026-10-29T19:59:31.000Z",
-        "url": "https://x.com/OpenAI/status/2115896329645723836",
-        "media": []
+        "id": "2116186509384815084",
+        "canonicalId": "2116186509384815084",
+        "text": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe’re building these protections in close collaboration with some of our largest customers to help businesses apply frontier AI to their most sensitive work.\nhttps://t.co/BiA4N8FQVH",
+        "createdAt": "2026-10-30T15:12:35.000Z",
+        "url": "https://x.com/OpenAI/status/2116186509384815084",
+        "media": [
+          {
+            "mediaKey": "2116186389536788480",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2116186389536788480/vid/avc1/2200x1400/ebhP3w8awbmD1FrY.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116186389536788480/img/hbO4g10coOsa0Gy3.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2115855240444670267",
-      "lastCheckedAt": "2026-10-30T12:50:19.138Z",
-      "lastSuccessAt": "2026-10-30T12:50:19.138Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 117,
+      "sinceId": "2116209354244513816",
+      "lastCheckedAt": "2026-10-30T18:16:51.262Z",
+      "lastSuccessAt": "2026-10-30T18:16:51.262Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 119,
       "latestObservedPost": {
-        "id": "2115855240444670267",
-        "canonicalId": "2115855240444670267",
-        "text": "Fatimah Hussain (@fatimahs_tech) and Chloe Hughes built Finnie with Codex. It pulls details from a student’s PDF to find scholarships that fit. https://t.co/z2vmcd8SYH",
-        "createdAt": "2026-10-29T17:16:14.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2115855240444670267",
-        "media": [
-          {
-            "mediaKey": "2115855199407595520",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115855199407595520/vid/avc1/1920x1080/XPdZ_hWdwoJxmBi1.mp4?tag=16",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115855199407595520/img/qHLOeRjlJHKWYjTm.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2116209354244513816",
+        "canonicalId": "2116209354244513816",
+        "text": "@LuckySah22 impressive balance",
+        "createdAt": "2026-10-30T16:43:21.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2116209354244513816",
+        "media": []
       }
     },
     "codex": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2116136235819205014",
-      "lastCheckedAt": "2026-10-30T12:50:20.071Z",
-      "lastSuccessAt": "2026-10-30T12:50:20.071Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 83,
+      "sinceId": "2116164426323608030",
+      "lastCheckedAt": "2026-10-30T18:16:52.619Z",
+      "lastSuccessAt": "2026-10-30T18:16:52.619Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 84,
       "latestObservedPost": {
-        "id": "2116136235819205014",
-        "canonicalId": "2116136235819205014",
-        "text": "@mcpark The new version we launched at DevDay should be smoother!",
-        "createdAt": "2026-10-30T11:52:49.000Z",
-        "url": "https://x.com/dkundel/status/2116136235819205014",
+        "id": "2116164426323608030",
+        "canonicalId": "2116164426323608030",
+        "text": "@scottbarden Did you try with the new codex cloud that we released at devday?",
+        "createdAt": "2026-10-30T13:44:50.000Z",
+        "url": "https://x.com/dkundel/status/2116164426323608030",
         "media": []
       }
     }
@@ -1154,7 +1154,11 @@
     "2116052823096131817": "d47ff79f9e3d921d8f873438017980dd278a2eed2deb36613cfb34d29df81f7b",
     "2116131092772384953": "7f84d04ee136357678cf15a0383a75d3c8327235ad1eea69986251dae2d90c00",
     "2116136087621980232": "2c873927531e2acb940ef3c29aa6b8ec881a2aa76f85390ec1f421e156c3ae2b",
-    "2116136235819205014": "531be371230fc25c2bb75d65be6b3c07ddbd8e91ba996c7d4238389d73bfd193"
+    "2116136235819205014": "531be371230fc25c2bb75d65be6b3c07ddbd8e91ba996c7d4238389d73bfd193",
+    "2116186509384815084": "1f866c65120402e0c7433b0855c019f3d5cb3cb89ea4b41268ed97ba7847f3e7",
+    "2116175714777174525": "f469f228a5b3aee058fa3802198f7d1c9b053cd0e44d4fd905097dc13690514c",
+    "2116209354244513816": "ccab1fc030c946d367d92452df17660bb493f4f2a2ba02b244167b96f415d307",
+    "2116164426323608030": "d52cc972dfe54d88df7c0bff81ed13e77bbe0205df00b00efe7fabf3c60eefa4"
   },
   "eventParserVersion": 5
 }

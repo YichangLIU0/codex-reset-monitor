@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T12:50:20.076Z",
+  "updatedAt": "2026-10-30T18:16:52.732Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T12:50:20.071Z",
-    "lastSuccessAt": "2026-10-30T12:50:20.071Z",
+    "lastCheckedAt": "2026-10-30T18:16:52.619Z",
+    "lastSuccessAt": "2026-10-30T18:16:52.619Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116136235819205014",
-    "text": "@mcpark The new version we launched at DevDay should be smoother!",
-    "url": "https://x.com/dkundel/status/2116136235819205014",
-    "postCreatedAt": "2026-10-30T11:52:49.000Z"
+    "id": "2116209354244513816",
+    "text": "@LuckySah22 impressive balance",
+    "url": "https://x.com/OpenAIDevs/status/2116209354244513816",
+    "postCreatedAt": "2026-10-30T16:43:21.000Z"
   },
   "latest": {
     "reset": {
