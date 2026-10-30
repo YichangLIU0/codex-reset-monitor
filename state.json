@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2115890336107233347",
-      "lastCheckedAt": "2026-10-29T20:44:21.078Z",
-      "lastSuccessAt": "2026-10-29T20:44:21.078Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-10-30T00:26:33.056Z",
+      "lastSuccessAt": "2026-10-30T00:26:33.056Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 174,
       "latestObservedPost": {
         "id": "2115890336107233347",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-29T20:44:22.886Z",
-      "lastSuccessAt": "2026-10-29T20:44:22.886Z",
+      "lastCheckedAt": "2026-10-30T00:26:34.103Z",
+      "lastSuccessAt": "2026-10-30T00:26:34.103Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2115270653452648605",
-      "lastCheckedAt": "2026-10-29T20:44:23.652Z",
-      "lastSuccessAt": "2026-10-29T20:44:23.652Z",
+      "lastCheckedAt": "2026-10-30T00:26:35.351Z",
+      "lastSuccessAt": "2026-10-30T00:26:35.351Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2115896329645723836",
-      "lastCheckedAt": "2026-10-29T20:44:26.195Z",
-      "lastSuccessAt": "2026-10-29T20:44:26.195Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-30T00:26:36.279Z",
+      "lastSuccessAt": "2026-10-30T00:26:36.279Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 37,
       "latestObservedPost": {
         "id": "2115896329645723836",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2115855240444670267",
-      "lastCheckedAt": "2026-10-29T20:44:26.948Z",
-      "lastSuccessAt": "2026-10-29T20:44:26.948Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-30T00:26:36.765Z",
+      "lastSuccessAt": "2026-10-30T00:26:36.765Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 117,
       "latestObservedPost": {
         "id": "2115855240444670267",
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2115901413096333632",
-      "lastCheckedAt": "2026-10-29T20:44:27.901Z",
-      "lastSuccessAt": "2026-10-29T20:44:27.901Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-30T00:26:37.305Z",
+      "lastSuccessAt": "2026-10-30T00:26:37.305Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 79,
       "latestObservedPost": {
         "id": "2115901413096333632",
@@ -137,7 +137,6 @@
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
       "id": "2115851621137784832",
-      "canonicalId": "2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "createdAt": "2026-10-29T17:01:51.000Z",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T20:44:27.904Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-29T20:44:27.904Z"
+      ]
     },
     {
       "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
