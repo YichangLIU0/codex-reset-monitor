@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2115890336107233347",
-      "lastCheckedAt": "2026-10-30T00:26:33.056Z",
-      "lastSuccessAt": "2026-10-30T00:26:33.056Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 174,
+      "sinceId": "2116046569963421719",
+      "lastCheckedAt": "2026-10-30T06:10:46.269Z",
+      "lastSuccessAt": "2026-10-30T06:10:46.269Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 178,
       "latestObservedPost": {
-        "id": "2115890336107233347",
-        "canonicalId": "2115890336107233347",
-        "text": "Send your kind feedback to this person",
-        "createdAt": "2026-10-29T19:35:42.000Z",
-        "url": "https://x.com/thsottiaux/status/2115890336107233347",
+        "id": "2116046569963421719",
+        "canonicalId": "2116046569963421719",
+        "text": "@Ananth7e Yep",
+        "createdAt": "2026-10-30T05:56:31.000Z",
+        "url": "https://x.com/thsottiaux/status/2116046569963421719",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-30T00:26:34.103Z",
-      "lastSuccessAt": "2026-10-30T00:26:34.103Z",
+      "lastCheckedAt": "2026-10-30T06:10:46.848Z",
+      "lastSuccessAt": "2026-10-30T06:10:46.848Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2115270653452648605",
-      "lastCheckedAt": "2026-10-30T00:26:35.351Z",
-      "lastSuccessAt": "2026-10-30T00:26:35.351Z",
+      "lastCheckedAt": "2026-10-30T06:10:47.301Z",
+      "lastSuccessAt": "2026-10-30T06:10:47.301Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2115896329645723836",
-      "lastCheckedAt": "2026-10-30T00:26:36.279Z",
-      "lastSuccessAt": "2026-10-30T00:26:36.279Z",
+      "lastCheckedAt": "2026-10-30T06:10:47.666Z",
+      "lastSuccessAt": "2026-10-30T06:10:47.666Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 37,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2115855240444670267",
-      "lastCheckedAt": "2026-10-30T00:26:36.765Z",
-      "lastSuccessAt": "2026-10-30T00:26:36.765Z",
+      "lastCheckedAt": "2026-10-30T06:10:47.981Z",
+      "lastSuccessAt": "2026-10-30T06:10:47.981Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 117,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2115901413096333632",
-      "lastCheckedAt": "2026-10-30T00:26:37.305Z",
-      "lastSuccessAt": "2026-10-30T00:26:37.305Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 79,
+      "sinceId": "2116018512791806020",
+      "lastCheckedAt": "2026-10-30T06:10:49.428Z",
+      "lastSuccessAt": "2026-10-30T06:10:49.428Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 80,
       "latestObservedPost": {
-        "id": "2115901413096333632",
-        "canonicalId": "2115901413096333632",
-        "text": "@chefbrent Now give me proper controls for color nodes!",
-        "createdAt": "2026-10-29T20:19:43.000Z",
-        "url": "https://x.com/dkundel/status/2115901413096333632",
+        "id": "2116018512791806020",
+        "canonicalId": "2116018512791806020",
+        "text": "@pvncher @ajambrosino And they are compressed now after a few days 😉",
+        "createdAt": "2026-10-30T04:05:01.000Z",
+        "url": "https://x.com/dkundel/status/2116018512791806020",
         "media": []
       }
     }
@@ -1144,7 +1144,12 @@
     "2115855240444670267": "52f244bfa9a3a1e7bb6fb5619c5f52101e8163329bcbc2dca5a8eaa67794b24c",
     "2115863532067848362": "521150707c9e476fed112daa7adbd0dbc69c8fe332d5eb17163bc690ab1c5be9",
     "2115866191373926736": "daa2b85c48cd50dff6ff6c1ed96620d8b1ce486c06f2ff9774f6a101a85765e0",
-    "2115901413096333632": "50990aaab866852721f95a03b6e8f0c6a75e03ba1f33f8416d2f471dbe7f69fe"
+    "2115901413096333632": "50990aaab866852721f95a03b6e8f0c6a75e03ba1f33f8416d2f471dbe7f69fe",
+    "2115974268936712436": "eb03c93713f8ea348a0f441a4370808c8933b046e283754e0d0a80ff2c6db88b",
+    "2116044153515815186": "6cffdd7f9755a2d4cd1d9f8c71ffa5bb90a70e38e2185d73eab2c6ff768a37bd",
+    "2116045727642366367": "c94f3d825349d1c7e8bc572a69d177490010bf3d25d4c7fe250fd1a1b22c2500",
+    "2116046569963421719": "6a88b33a93f70a13d486c471dee8d4062e59bf27aa4fd6ac8348057a06799a67",
+    "2116018512791806020": "97a00ea5317e04671f106845f492569693829a572d4d766bc4e57159a4717efd"
   },
   "eventParserVersion": 5
 }

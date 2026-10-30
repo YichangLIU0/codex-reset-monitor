@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T00:26:37.312Z",
+  "updatedAt": "2026-10-30T06:10:49.475Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T00:26:37.305Z",
-    "lastSuccessAt": "2026-10-30T00:26:37.305Z",
+    "lastCheckedAt": "2026-10-30T06:10:49.428Z",
+    "lastSuccessAt": "2026-10-30T06:10:49.428Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2115901413096333632",
-    "text": "@chefbrent Now give me proper controls for color nodes!",
-    "url": "https://x.com/dkundel/status/2115901413096333632",
-    "postCreatedAt": "2026-10-29T20:19:43.000Z"
+    "id": "2116046569963421719",
+    "text": "@Ananth7e Yep",
+    "url": "https://x.com/thsottiaux/status/2116046569963421719",
+    "postCreatedAt": "2026-10-30T05:56:31.000Z"
   },
   "latest": {
     "reset": {
