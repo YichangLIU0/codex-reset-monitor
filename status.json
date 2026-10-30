@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T06:10:49.475Z",
+  "updatedAt": "2026-10-30T12:50:20.076Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T06:10:49.428Z",
-    "lastSuccessAt": "2026-10-30T06:10:49.428Z",
+    "lastCheckedAt": "2026-10-30T12:50:20.071Z",
+    "lastSuccessAt": "2026-10-30T12:50:20.071Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116046569963421719",
-    "text": "@Ananth7e Yep",
-    "url": "https://x.com/thsottiaux/status/2116046569963421719",
-    "postCreatedAt": "2026-10-30T05:56:31.000Z"
+    "id": "2116136235819205014",
+    "text": "@mcpark The new version we launched at DevDay should be smoother!",
+    "url": "https://x.com/dkundel/status/2116136235819205014",
+    "postCreatedAt": "2026-10-30T11:52:49.000Z"
   },
   "latest": {
     "reset": {
