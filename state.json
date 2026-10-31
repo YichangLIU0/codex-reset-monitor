@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116408135930069347",
-      "lastCheckedAt": "2026-10-31T17:58:49.835Z",
-      "lastSuccessAt": "2026-10-31T17:58:49.835Z",
+      "lastCheckedAt": "2026-10-31T21:11:31.173Z",
+      "lastSuccessAt": "2026-10-31T21:11:31.173Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 183,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-31T17:58:50.782Z",
-      "lastSuccessAt": "2026-10-31T17:58:50.782Z",
+      "lastCheckedAt": "2026-10-31T21:11:31.914Z",
+      "lastSuccessAt": "2026-10-31T21:11:31.914Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-31T17:58:51.778Z",
-      "lastSuccessAt": "2026-10-31T17:58:51.778Z",
+      "lastCheckedAt": "2026-10-31T21:11:32.324Z",
+      "lastSuccessAt": "2026-10-31T21:11:32.324Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-10-31T17:58:52.188Z",
-      "lastSuccessAt": "2026-10-31T17:58:52.188Z",
+      "lastCheckedAt": "2026-10-31T21:11:32.695Z",
+      "lastSuccessAt": "2026-10-31T21:11:32.695Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116306164375863343",
-      "lastCheckedAt": "2026-10-31T17:58:52.949Z",
-      "lastSuccessAt": "2026-10-31T17:58:52.949Z",
+      "lastCheckedAt": "2026-10-31T21:11:33.150Z",
+      "lastSuccessAt": "2026-10-31T21:11:33.150Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 120,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2116272936575201638",
-      "lastCheckedAt": "2026-10-31T17:58:54.444Z",
-      "lastSuccessAt": "2026-10-31T17:58:54.444Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 88,
+      "sinceId": "2116630022794461450",
+      "lastCheckedAt": "2026-10-31T21:11:33.915Z",
+      "lastSuccessAt": "2026-10-31T21:11:33.915Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 89,
       "latestObservedPost": {
-        "id": "2116272936575201638",
-        "canonicalId": "2116272936575201638",
-        "text": "@PaulSolt @thsottiaux What type of tasks do you use Ultrafast for? I think right now the best use case is iterating on UI or actively pairing on docs.",
-        "createdAt": "2026-10-30T20:56:01.000Z",
-        "url": "https://x.com/dkundel/status/2116272936575201638",
+        "id": "2116630022794461450",
+        "canonicalId": "2116630022794461450",
+        "text": "@Dimillian @romainhuet spotted in the video 🤣",
+        "createdAt": "2026-10-31T20:34:57.000Z",
+        "url": "https://x.com/dkundel/status/2116630022794461450",
         "media": []
       }
     }
@@ -1174,7 +1174,8 @@
     "2116306164375863343": "94ba9afa3f26ed99296cf38d7faa1044b5863a82a96d3d5e20bfe9309f95e126",
     "2116346061317140873": "8212827e9cf116cc06d8fa3c4c569dc17248b59dcb7369cca93b895cb141fda7",
     "2116405414921384099": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
-    "2116408135930069347": "91189de77a6c7210e882e060b46bbdc0192c9e152b76a69c4ffab477578eecba"
+    "2116408135930069347": "91189de77a6c7210e882e060b46bbdc0192c9e152b76a69c4ffab477578eecba",
+    "2116630022794461450": "dd2594d7a9f39e4eff0bb86c197f9aef09842895528c3bba94c86fb364d88556"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T17:58:54.447Z",
+  "updatedAt": "2026-10-31T21:11:33.921Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-31T17:58:54.444Z",
-    "lastSuccessAt": "2026-10-31T17:58:54.444Z",
+    "lastCheckedAt": "2026-10-31T21:11:33.915Z",
+    "lastSuccessAt": "2026-10-31T21:11:33.915Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116408135930069347",
-    "text": "@theo You had me at Codex",
-    "url": "https://x.com/thsottiaux/status/2116408135930069347",
-    "postCreatedAt": "2026-10-31T05:53:15.000Z"
+    "id": "2116630022794461450",
+    "text": "@Dimillian @romainhuet spotted in the video 🤣",
+    "url": "https://x.com/dkundel/status/2116630022794461450",
+    "postCreatedAt": "2026-10-31T20:34:57.000Z"
   },
   "latest": {
     "reset": {
