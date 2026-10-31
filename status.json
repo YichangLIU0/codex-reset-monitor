@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T01:43:38.561Z",
+  "updatedAt": "2026-10-31T07:31:28.758Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-31T01:43:38.409Z",
-    "lastSuccessAt": "2026-10-31T01:43:38.409Z",
+    "lastCheckedAt": "2026-10-31T07:31:28.555Z",
+    "lastSuccessAt": "2026-10-31T07:31:28.555Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116306164375863343",
-    "text": "Building with the Agents API? \n\nHere's what we shipped this week for you:",
-    "url": "https://x.com/OpenAIDevs/status/2116306164375863343",
-    "postCreatedAt": "2026-10-30T23:08:03.000Z"
+    "id": "2116408135930069347",
+    "text": "@theo You had me at Codex",
+    "url": "https://x.com/thsottiaux/status/2116408135930069347",
+    "postCreatedAt": "2026-10-31T05:53:15.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
+      "id": "2116405414921384099",
+      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
+      "url": "https://x.com/thsottiaux/status/2116405414921384099",
+      "postCreatedAt": "2026-10-31T05:42:26.000Z",
+      "detectedAt": "2026-10-31T07:31:25.364Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Next two days will be resets… banked… do with this what you may 👀",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Next two days will be resets… banked… do with this what you may 👀",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
       "id": "2116256600436641887",
@@ -529,30 +553,6 @@
             "end": "2026-10-12T07:13:54.000Z",
             "evidence": "The day",
             "note": "按配置假设原文时区为 America/Los_Angeles"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
-      "id": "2109045392684032299",
-      "text": "Global reset by EOD. May the tokens do good things for you.",
-      "url": "https://x.com/thsottiaux/status/2109045392684032299",
-      "postCreatedAt": "2026-10-10T22:16:20.000Z",
-      "detectedAt": "2026-10-11T15:24:32.141Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Global reset by EOD",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Global reset by EOD",
-            "note": "原文没有可确定的时间"
           }
         }
       ],
