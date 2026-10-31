@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116408135930069347",
-      "lastCheckedAt": "2026-10-31T07:31:25.365Z",
-      "lastSuccessAt": "2026-10-31T07:31:25.365Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-10-31T13:49:44.581Z",
+      "lastSuccessAt": "2026-10-31T13:49:44.581Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 183,
       "latestObservedPost": {
         "id": "2116408135930069347",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-31T07:31:26.121Z",
-      "lastSuccessAt": "2026-10-31T07:31:26.121Z",
+      "lastCheckedAt": "2026-10-31T13:49:45.461Z",
+      "lastSuccessAt": "2026-10-31T13:49:45.461Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-31T07:31:26.573Z",
-      "lastSuccessAt": "2026-10-31T07:31:26.573Z",
+      "lastCheckedAt": "2026-10-31T13:49:46.320Z",
+      "lastSuccessAt": "2026-10-31T13:49:46.320Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-10-31T07:31:26.946Z",
-      "lastSuccessAt": "2026-10-31T07:31:26.946Z",
+      "lastCheckedAt": "2026-10-31T13:49:46.841Z",
+      "lastSuccessAt": "2026-10-31T13:49:46.841Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116306164375863343",
-      "lastCheckedAt": "2026-10-31T07:31:27.287Z",
-      "lastSuccessAt": "2026-10-31T07:31:27.287Z",
+      "lastCheckedAt": "2026-10-31T13:49:47.208Z",
+      "lastSuccessAt": "2026-10-31T13:49:47.208Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 120,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116272936575201638",
-      "lastCheckedAt": "2026-10-31T07:31:28.555Z",
-      "lastSuccessAt": "2026-10-31T07:31:28.555Z",
+      "lastCheckedAt": "2026-10-31T13:49:48.727Z",
+      "lastSuccessAt": "2026-10-31T13:49:48.727Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 88,
       "latestObservedPost": {
@@ -137,7 +137,6 @@
     {
       "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
       "id": "2116405414921384099",
-      "canonicalId": "2116405414921384099",
       "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
       "createdAt": "2026-10-31T05:42:26.000Z",
       "url": "https://x.com/thsottiaux/status/2116405414921384099",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-31T07:31:28.612Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-31T07:31:28.612Z"
+      ]
     },
     {
       "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
