@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116256600436641887",
-      "lastCheckedAt": "2026-10-30T22:26:52.767Z",
-      "lastSuccessAt": "2026-10-30T22:26:52.767Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-31T01:43:35.135Z",
+      "lastSuccessAt": "2026-10-31T01:43:35.135Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 180,
       "latestObservedPost": {
         "id": "2116256600436641887",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-30T22:26:53.645Z",
-      "lastSuccessAt": "2026-10-30T22:26:53.645Z",
+      "lastCheckedAt": "2026-10-31T01:43:35.898Z",
+      "lastSuccessAt": "2026-10-31T01:43:35.898Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-30T22:26:54.218Z",
-      "lastSuccessAt": "2026-10-30T22:26:54.218Z",
+      "lastCheckedAt": "2026-10-31T01:43:36.319Z",
+      "lastSuccessAt": "2026-10-31T01:43:36.319Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-10-30T22:26:56.309Z",
-      "lastSuccessAt": "2026-10-30T22:26:56.309Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-10-31T01:43:36.702Z",
+      "lastSuccessAt": "2026-10-31T01:43:36.702Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
         "id": "2116253388883345623",
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2116209354244513816",
-      "lastCheckedAt": "2026-10-30T22:26:56.801Z",
-      "lastSuccessAt": "2026-10-30T22:26:56.801Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 119,
+      "sinceId": "2116306164375863343",
+      "lastCheckedAt": "2026-10-31T01:43:37.987Z",
+      "lastSuccessAt": "2026-10-31T01:43:37.987Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 120,
       "latestObservedPost": {
-        "id": "2116209354244513816",
-        "canonicalId": "2116209354244513816",
-        "text": "@LuckySah22 impressive balance",
-        "createdAt": "2026-10-30T16:43:21.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2116209354244513816",
+        "id": "2116306164375863343",
+        "canonicalId": "2116306164375863343",
+        "text": "Building with the Agents API? \n\nHere's what we shipped this week for you:",
+        "createdAt": "2026-10-30T23:08:03.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2116306164375863343",
         "media": []
       }
     },
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116272936575201638",
-      "lastCheckedAt": "2026-10-30T22:26:57.801Z",
-      "lastSuccessAt": "2026-10-30T22:26:57.801Z",
-      "lastRunStatus": "checked-4-posts",
+      "lastCheckedAt": "2026-10-31T01:43:38.409Z",
+      "lastSuccessAt": "2026-10-31T01:43:38.409Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 88,
       "latestObservedPost": {
         "id": "2116272936575201638",
@@ -137,7 +137,6 @@
     {
       "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
       "id": "2116256600436641887",
-      "canonicalId": "2116256600436641887",
       "text": "@claudeai Better announce 28 days of reset",
       "createdAt": "2026-10-30T19:51:06.000Z",
       "url": "https://x.com/thsottiaux/status/2116256600436641887",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-30T22:26:57.821Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-30T22:26:57.821Z"
+      ]
     },
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
@@ -1168,7 +1167,8 @@
     "2116238691521757359": "e7c69219c7f85e3936c48a0d3a71942235d567abd38fd6d392cfbf1b70907df4",
     "2116255308586827782": "bcceaafa1945ce6a61a869df91b7614c7fdf36b7d4b28c2ade5d53e29af389a7",
     "2116267754693214602": "d9a434f5ae13ea57bcc2d46e3de56ec79932d114e8b3b2a862d69583a7c74372",
-    "2116272936575201638": "9b94ff452b6bc3f40be7e7488a43ad3f893776d418d37b7fe3e2759fa06494b0"
+    "2116272936575201638": "9b94ff452b6bc3f40be7e7488a43ad3f893776d418d37b7fe3e2759fa06494b0",
+    "2116306164375863343": "94ba9afa3f26ed99296cf38d7faa1044b5863a82a96d3d5e20bfe9309f95e126"
   },
   "eventParserVersion": 5
 }

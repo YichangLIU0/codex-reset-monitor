@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T22:26:57.832Z",
+  "updatedAt": "2026-10-31T01:43:38.561Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T22:26:57.801Z",
-    "lastSuccessAt": "2026-10-30T22:26:57.801Z",
+    "lastCheckedAt": "2026-10-31T01:43:38.409Z",
+    "lastSuccessAt": "2026-10-31T01:43:38.409Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116272936575201638",
-    "text": "@PaulSolt @thsottiaux What type of tasks do you use Ultrafast for? I think right now the best use case is iterating on UI or actively pairing on docs.",
-    "url": "https://x.com/dkundel/status/2116272936575201638",
-    "postCreatedAt": "2026-10-30T20:56:01.000Z"
+    "id": "2116306164375863343",
+    "text": "Building with the Agents API? \n\nHere's what we shipped this week for you:",
+    "url": "https://x.com/OpenAIDevs/status/2116306164375863343",
+    "postCreatedAt": "2026-10-30T23:08:03.000Z"
   },
   "latest": {
     "reset": {
