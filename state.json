@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2116408135930069347",
-      "lastCheckedAt": "2026-11-01T00:06:43.134Z",
-      "lastSuccessAt": "2026-11-01T00:06:43.134Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 183,
+      "sinceId": "2116692827459747906",
+      "lastCheckedAt": "2026-11-01T05:53:51.013Z",
+      "lastSuccessAt": "2026-11-01T05:53:51.013Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 186,
       "latestObservedPost": {
-        "id": "2116408135930069347",
-        "canonicalId": "2116408135930069347",
-        "text": "@theo You had me at Codex",
-        "createdAt": "2026-10-31T05:53:15.000Z",
-        "url": "https://x.com/thsottiaux/status/2116408135930069347",
+        "id": "2116692827459747906",
+        "canonicalId": "2116692827459747906",
+        "text": "@yacineMTB ?!",
+        "createdAt": "2026-11-01T00:44:30.000Z",
+        "url": "https://x.com/thsottiaux/status/2116692827459747906",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-01T00:06:43.974Z",
-      "lastSuccessAt": "2026-11-01T00:06:43.974Z",
+      "lastCheckedAt": "2026-11-01T05:53:52.027Z",
+      "lastSuccessAt": "2026-11-01T05:53:52.027Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-01T00:06:44.826Z",
-      "lastSuccessAt": "2026-11-01T00:06:44.826Z",
+      "lastCheckedAt": "2026-11-01T05:53:52.498Z",
+      "lastSuccessAt": "2026-11-01T05:53:52.498Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-11-01T00:06:45.590Z",
-      "lastSuccessAt": "2026-11-01T00:06:45.590Z",
+      "lastCheckedAt": "2026-11-01T05:53:52.875Z",
+      "lastSuccessAt": "2026-11-01T05:53:52.875Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116673985807286553",
-      "lastCheckedAt": "2026-11-01T00:06:46.565Z",
-      "lastSuccessAt": "2026-11-01T00:06:46.565Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-01T05:53:53.260Z",
+      "lastSuccessAt": "2026-11-01T05:53:53.260Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 121,
       "latestObservedPost": {
         "id": "2116673985807286553",
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116630022794461450",
-      "lastCheckedAt": "2026-11-01T00:06:47.019Z",
-      "lastSuccessAt": "2026-11-01T00:06:47.019Z",
+      "lastCheckedAt": "2026-11-01T05:53:53.704Z",
+      "lastSuccessAt": "2026-11-01T05:53:53.704Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 89,
       "latestObservedPost": {
@@ -1176,7 +1176,10 @@
     "2116405414921384099": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
     "2116408135930069347": "91189de77a6c7210e882e060b46bbdc0192c9e152b76a69c4ffab477578eecba",
     "2116630022794461450": "dd2594d7a9f39e4eff0bb86c197f9aef09842895528c3bba94c86fb364d88556",
-    "2116673985807286553": "193480ea8d164f6e605ffad4939b8a085a64bbf4887f1a30e364b6df843b496b"
+    "2116673985807286553": "193480ea8d164f6e605ffad4939b8a085a64bbf4887f1a30e364b6df843b496b",
+    "2116692529970311254": "97be25c182cc5b46a07b2275790b658d4efacef590b5924b52f100b69dbfcbb4",
+    "2116692730877522349": "c716185a71444dcf8fac7ae4701a25e26cede050ba72b9b9e4fb2acf9cebb33d",
+    "2116692827459747906": "971d62e5808f3b03a0fa67b2235d7c1d0fa6b4585a4289fa59b01602552e6043"
   },
   "eventParserVersion": 5
 }

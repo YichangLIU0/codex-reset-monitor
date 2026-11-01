@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T00:06:47.170Z",
+  "updatedAt": "2026-11-01T05:53:53.707Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-01T00:06:47.019Z",
-    "lastSuccessAt": "2026-11-01T00:06:47.019Z",
+    "lastCheckedAt": "2026-11-01T05:53:53.704Z",
+    "lastSuccessAt": "2026-11-01T05:53:53.704Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116673985807286553",
-    "text": "@zavrenn @threejs amazing build, what a fun city",
-    "url": "https://x.com/OpenAIDevs/status/2116673985807286553",
-    "postCreatedAt": "2026-10-31T23:29:38.000Z"
+    "id": "2116692827459747906",
+    "text": "@yacineMTB ?!",
+    "url": "https://x.com/thsottiaux/status/2116692827459747906",
+    "postCreatedAt": "2026-11-01T00:44:30.000Z"
   },
   "latest": {
     "reset": {
