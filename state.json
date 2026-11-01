@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116942192497533418",
-      "lastCheckedAt": "2026-11-01T17:56:43.556Z",
-      "lastSuccessAt": "2026-11-01T17:56:43.556Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-11-01T21:40:11.689Z",
+      "lastSuccessAt": "2026-11-01T21:40:11.689Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 192,
       "latestObservedPost": {
         "id": "2116942192497533418",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-01T17:56:45.022Z",
-      "lastSuccessAt": "2026-11-01T17:56:45.022Z",
+      "lastCheckedAt": "2026-11-01T21:40:13.343Z",
+      "lastSuccessAt": "2026-11-01T21:40:13.343Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-01T17:56:45.575Z",
-      "lastSuccessAt": "2026-11-01T17:56:45.575Z",
+      "lastCheckedAt": "2026-11-01T21:40:14.262Z",
+      "lastSuccessAt": "2026-11-01T21:40:14.262Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-11-01T17:56:46.026Z",
-      "lastSuccessAt": "2026-11-01T17:56:46.026Z",
+      "lastCheckedAt": "2026-11-01T21:40:14.709Z",
+      "lastSuccessAt": "2026-11-01T21:40:14.709Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116673985807286553",
-      "lastCheckedAt": "2026-11-01T17:56:46.431Z",
-      "lastSuccessAt": "2026-11-01T17:56:46.431Z",
+      "lastCheckedAt": "2026-11-01T21:40:15.177Z",
+      "lastSuccessAt": "2026-11-01T21:40:15.177Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 121,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2116913038695473577",
-      "lastCheckedAt": "2026-11-01T17:56:47.794Z",
-      "lastSuccessAt": "2026-11-01T17:56:47.794Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 91,
+      "sinceId": "2116999443597942941",
+      "lastCheckedAt": "2026-11-01T21:40:16.096Z",
+      "lastSuccessAt": "2026-11-01T21:40:16.096Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 92,
       "latestObservedPost": {
-        "id": "2116913038695473577",
-        "canonicalId": "2116913038695473577",
-        "text": "@AndrewGinns I can stand next to Alfred as security",
-        "createdAt": "2026-11-01T15:19:33.000Z",
-        "url": "https://x.com/dkundel/status/2116913038695473577",
+        "id": "2116999443597942941",
+        "canonicalId": "2116999443597942941",
+        "text": "@paw_lean @reach_vb Last Christmas all day tomorrow? 🤣",
+        "createdAt": "2026-11-01T21:02:53.000Z",
+        "url": "https://x.com/dkundel/status/2116999443597942941",
         "media": []
       }
     }
@@ -137,7 +137,6 @@
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
       "id": "2116942192497533418",
-      "canonicalId": "2116942192497533418",
       "text": "@TokenGremlin I demand a banked reset",
       "createdAt": "2026-11-01T17:15:24.000Z",
       "url": "https://x.com/thsottiaux/status/2116942192497533418",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-01T17:56:47.797Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-01T17:56:47.797Z"
+      ]
     },
     {
       "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
@@ -1191,7 +1190,8 @@
     "2116936205623611781": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
     "2116942192497533418": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
     "2116908873000857609": "3982de428206daa762d85da05a6fa4c3647b8343403e43af3f6e51d3fb12a58e",
-    "2116913038695473577": "ad482e0e45bcbd48139329ee795c26f12be205a90d81a9a8c4ca45be39b8dd85"
+    "2116913038695473577": "ad482e0e45bcbd48139329ee795c26f12be205a90d81a9a8c4ca45be39b8dd85",
+    "2116999443597942941": "3d45b4aac289cfeafae55c4a092238c0cfda244a618a34afdcb28f31193f8b80"
   },
   "eventParserVersion": 5
 }
