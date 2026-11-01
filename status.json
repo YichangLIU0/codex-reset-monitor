@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T12:15:16.757Z",
+  "updatedAt": "2026-11-01T17:56:47.804Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-01T12:15:16.753Z",
-    "lastSuccessAt": "2026-11-01T12:15:16.753Z",
+    "lastCheckedAt": "2026-11-01T17:56:47.794Z",
+    "lastSuccessAt": "2026-11-01T17:56:47.794Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2116692827459747906",
-    "text": "@yacineMTB ?!",
-    "url": "https://x.com/thsottiaux/status/2116692827459747906",
-    "postCreatedAt": "2026-11-01T00:44:30.000Z"
+    "id": "2116942192497533418",
+    "text": "@TokenGremlin I demand a banked reset",
+    "url": "https://x.com/thsottiaux/status/2116942192497533418",
+    "postCreatedAt": "2026-11-01T17:15:24.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
+      "id": "2116942192497533418",
+      "text": "@TokenGremlin I demand a banked reset",
+      "url": "https://x.com/thsottiaux/status/2116942192497533418",
+      "postCreatedAt": "2026-11-01T17:15:24.000Z",
+      "detectedAt": "2026-11-01T17:56:43.556Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@TokenGremlin I demand a banked reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@TokenGremlin I demand a banked reset",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
       "id": "2116405414921384099",
@@ -529,30 +553,6 @@
             "end": null,
             "evidence": "Put the reset in the bag",
             "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
-      "id": "2109090080497508356",
-      "text": "The day we reach perfection it will be resets from there onwards",
-      "url": "https://x.com/thsottiaux/status/2109090080497508356",
-      "postCreatedAt": "2026-10-11T01:13:54.000Z",
-      "detectedAt": "2026-10-11T15:24:32.305Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "scheduled",
-          "evidence": "The day we reach perfection it will be resets from there onwards",
-          "time": {
-            "kind": "date",
-            "start": "2026-10-11T07:13:54.000Z",
-            "end": "2026-10-12T07:13:54.000Z",
-            "evidence": "The day",
-            "note": "按配置假设原文时区为 America/Los_Angeles"
           }
         }
       ],
