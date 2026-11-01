@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2116408135930069347",
-      "lastCheckedAt": "2026-10-31T21:11:31.173Z",
-      "lastSuccessAt": "2026-10-31T21:11:31.173Z",
+      "lastCheckedAt": "2026-11-01T00:06:43.134Z",
+      "lastSuccessAt": "2026-11-01T00:06:43.134Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 183,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-10-31T21:11:31.914Z",
-      "lastSuccessAt": "2026-10-31T21:11:31.914Z",
+      "lastCheckedAt": "2026-11-01T00:06:43.974Z",
+      "lastSuccessAt": "2026-11-01T00:06:43.974Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-10-31T21:11:32.324Z",
-      "lastSuccessAt": "2026-10-31T21:11:32.324Z",
+      "lastCheckedAt": "2026-11-01T00:06:44.826Z",
+      "lastSuccessAt": "2026-11-01T00:06:44.826Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-10-31T21:11:32.695Z",
-      "lastSuccessAt": "2026-10-31T21:11:32.695Z",
+      "lastCheckedAt": "2026-11-01T00:06:45.590Z",
+      "lastSuccessAt": "2026-11-01T00:06:45.590Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2116306164375863343",
-      "lastCheckedAt": "2026-10-31T21:11:33.150Z",
-      "lastSuccessAt": "2026-10-31T21:11:33.150Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 120,
+      "sinceId": "2116673985807286553",
+      "lastCheckedAt": "2026-11-01T00:06:46.565Z",
+      "lastSuccessAt": "2026-11-01T00:06:46.565Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 121,
       "latestObservedPost": {
-        "id": "2116306164375863343",
-        "canonicalId": "2116306164375863343",
-        "text": "Building with the Agents API? \n\nHere's what we shipped this week for you:",
-        "createdAt": "2026-10-30T23:08:03.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2116306164375863343",
+        "id": "2116673985807286553",
+        "canonicalId": "2116673985807286553",
+        "text": "@zavrenn @threejs amazing build, what a fun city",
+        "createdAt": "2026-10-31T23:29:38.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2116673985807286553",
         "media": []
       }
     },
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116630022794461450",
-      "lastCheckedAt": "2026-10-31T21:11:33.915Z",
-      "lastSuccessAt": "2026-10-31T21:11:33.915Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-01T00:06:47.019Z",
+      "lastSuccessAt": "2026-11-01T00:06:47.019Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 89,
       "latestObservedPost": {
         "id": "2116630022794461450",
@@ -1175,7 +1175,8 @@
     "2116346061317140873": "8212827e9cf116cc06d8fa3c4c569dc17248b59dcb7369cca93b895cb141fda7",
     "2116405414921384099": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
     "2116408135930069347": "91189de77a6c7210e882e060b46bbdc0192c9e152b76a69c4ffab477578eecba",
-    "2116630022794461450": "dd2594d7a9f39e4eff0bb86c197f9aef09842895528c3bba94c86fb364d88556"
+    "2116630022794461450": "dd2594d7a9f39e4eff0bb86c197f9aef09842895528c3bba94c86fb364d88556",
+    "2116673985807286553": "193480ea8d164f6e605ffad4939b8a085a64bbf4887f1a30e364b6df843b496b"
   },
   "eventParserVersion": 5
 }
