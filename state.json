@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2116942192497533418",
-      "lastCheckedAt": "2026-11-01T21:40:11.689Z",
-      "lastSuccessAt": "2026-11-01T21:40:11.689Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 192,
+      "sinceId": "2117035794678546764",
+      "lastCheckedAt": "2026-11-02T01:01:57.284Z",
+      "lastSuccessAt": "2026-11-02T01:01:57.284Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 194,
       "latestObservedPost": {
-        "id": "2116942192497533418",
-        "canonicalId": "2116942192497533418",
-        "text": "@TokenGremlin I demand a banked reset",
-        "createdAt": "2026-11-01T17:15:24.000Z",
-        "url": "https://x.com/thsottiaux/status/2116942192497533418",
+        "id": "2117035794678546764",
+        "canonicalId": "2117035794678546764",
+        "text": "Day 28/ Banked 2/2",
+        "createdAt": "2026-11-01T23:27:20.000Z",
+        "url": "https://x.com/thsottiaux/status/2117035794678546764",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-01T21:40:13.343Z",
-      "lastSuccessAt": "2026-11-01T21:40:13.343Z",
+      "lastCheckedAt": "2026-11-02T01:01:58.013Z",
+      "lastSuccessAt": "2026-11-02T01:01:58.013Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-01T21:40:14.262Z",
-      "lastSuccessAt": "2026-11-01T21:40:14.262Z",
+      "lastCheckedAt": "2026-11-02T01:01:58.466Z",
+      "lastSuccessAt": "2026-11-02T01:01:58.466Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-11-01T21:40:14.709Z",
-      "lastSuccessAt": "2026-11-01T21:40:14.709Z",
+      "lastCheckedAt": "2026-11-02T01:01:58.834Z",
+      "lastSuccessAt": "2026-11-02T01:01:58.834Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2116673985807286553",
-      "lastCheckedAt": "2026-11-01T21:40:15.177Z",
-      "lastSuccessAt": "2026-11-01T21:40:15.177Z",
+      "lastCheckedAt": "2026-11-02T01:01:59.214Z",
+      "lastSuccessAt": "2026-11-02T01:01:59.214Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 121,
       "latestObservedPost": {
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116999443597942941",
-      "lastCheckedAt": "2026-11-01T21:40:16.096Z",
-      "lastSuccessAt": "2026-11-01T21:40:16.096Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-02T01:01:59.647Z",
+      "lastSuccessAt": "2026-11-02T01:01:59.647Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 92,
       "latestObservedPost": {
         "id": "2116999443597942941",
@@ -1191,7 +1191,9 @@
     "2116942192497533418": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
     "2116908873000857609": "3982de428206daa762d85da05a6fa4c3647b8343403e43af3f6e51d3fb12a58e",
     "2116913038695473577": "ad482e0e45bcbd48139329ee795c26f12be205a90d81a9a8c4ca45be39b8dd85",
-    "2116999443597942941": "3d45b4aac289cfeafae55c4a092238c0cfda244a618a34afdcb28f31193f8b80"
+    "2116999443597942941": "3d45b4aac289cfeafae55c4a092238c0cfda244a618a34afdcb28f31193f8b80",
+    "2117035666332954818": "0d77e08d7e4f287ba832a96e6807b8abdb2d9d6cf3265be4686aa9d51fd81146",
+    "2117035794678546764": "f81460dab5a8a566c98134727d5014e960246a39c9da32ebf4b7f5e156588769"
   },
   "eventParserVersion": 5
 }
