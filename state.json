@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117151862705230048",
-      "lastCheckedAt": "2026-11-02T07:34:46.925Z",
-      "lastSuccessAt": "2026-11-02T07:34:46.925Z",
+      "sinceId": "2117283355427495983",
+      "lastCheckedAt": "2026-11-02T17:24:12.805Z",
+      "lastSuccessAt": "2026-11-02T17:24:12.805Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 196,
+      "postsScanned": 198,
       "latestObservedPost": {
-        "id": "2117151862705230048",
-        "canonicalId": "2117151862705230048",
-        "text": "@poteto I finished it though",
-        "createdAt": "2026-11-02T07:08:33.000Z",
-        "url": "https://x.com/thsottiaux/status/2117151862705230048",
+        "id": "2117283355427495983",
+        "canonicalId": "2117283355427495983",
+        "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+        "createdAt": "2026-11-02T15:51:03.000Z",
+        "url": "https://x.com/thsottiaux/status/2117283355427495983",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-02T07:34:48.339Z",
-      "lastSuccessAt": "2026-11-02T07:34:48.339Z",
+      "lastCheckedAt": "2026-11-02T17:24:14.034Z",
+      "lastSuccessAt": "2026-11-02T17:24:14.034Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-02T07:34:48.761Z",
-      "lastSuccessAt": "2026-11-02T07:34:48.761Z",
+      "lastCheckedAt": "2026-11-02T17:24:14.483Z",
+      "lastSuccessAt": "2026-11-02T17:24:14.483Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-11-02T07:34:49.099Z",
-      "lastSuccessAt": "2026-11-02T07:34:49.099Z",
+      "lastCheckedAt": "2026-11-02T17:24:14.866Z",
+      "lastSuccessAt": "2026-11-02T17:24:14.866Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2116673985807286553",
-      "lastCheckedAt": "2026-11-02T07:34:49.428Z",
-      "lastSuccessAt": "2026-11-02T07:34:49.428Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 121,
+      "sinceId": "2117267944098889840",
+      "lastCheckedAt": "2026-11-02T17:24:15.651Z",
+      "lastSuccessAt": "2026-11-02T17:24:15.651Z",
+      "lastRunStatus": "checked-8-posts",
+      "postsScanned": 129,
       "latestObservedPost": {
-        "id": "2116673985807286553",
-        "canonicalId": "2116673985807286553",
-        "text": "@zavrenn @threejs amazing build, what a fun city",
-        "createdAt": "2026-10-31T23:29:38.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2116673985807286553",
+        "id": "2117267944098889840",
+        "canonicalId": "2117267944098889840",
+        "text": "@kuberwastaken @OpenAI @fedesarquis thank you for sharing what you build !",
+        "createdAt": "2026-11-02T14:49:49.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2117267944098889840",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2116999443597942941",
-      "lastCheckedAt": "2026-11-02T07:34:49.775Z",
-      "lastSuccessAt": "2026-11-02T07:34:49.775Z",
+      "lastCheckedAt": "2026-11-02T17:24:16.046Z",
+      "lastSuccessAt": "2026-11-02T17:24:16.046Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 92,
       "latestObservedPost": {
@@ -1195,7 +1195,17 @@
     "2117035666332954818": "0d77e08d7e4f287ba832a96e6807b8abdb2d9d6cf3265be4686aa9d51fd81146",
     "2117035794678546764": "f81460dab5a8a566c98134727d5014e960246a39c9da32ebf4b7f5e156588769",
     "2117151734506397716": "4983ca67a0406e8375fd1bddf72a4039df8f755684e03fac791f04acbced8929",
-    "2117151862705230048": "652a0c8a55a542431161d4b183538219a0e815505c7ec223ebe9f07db41ed9b3"
+    "2117151862705230048": "652a0c8a55a542431161d4b183538219a0e815505c7ec223ebe9f07db41ed9b3",
+    "2117283124833055196": "7360b7762eac7c109a506053ef8f8e3a5dd16e98cd4aa1cd2c37fa2bb98ae544",
+    "2117283355427495983": "ed60e44377bc6a8bc250acd1a8275a5274276a29c52eb7187a830a1fe6112f30",
+    "2117244742421434645": "291f5cb2bac8c1debbe13b206961361b99c700b1abdfd05fd297c40b232ddc5a",
+    "2117244903814013299": "9527deb199e6621b5b21c4ff8d6f7349d01e1639482365fcfb1ca027f41271ab",
+    "2117245295834636291": "df628d4f4548c18015a72cd32c0baf2b4da7c5be06f03d82d5425ce516acec28",
+    "2117245978453418050": "3da847a8d437fc0449293b5de0472524c0282d1150193030f616ed581b26d948",
+    "2117246655955435935": "5c95991c32371497b6aaa919d6fa9e55eb88e71ca9d6a2be5b719f84c3e55564",
+    "2117250033112293652": "f8811c320e90c06352490cce3c3b53ec49c99618f419e07055470406da0e50cd",
+    "2117250373014749584": "f86b0f01f75b49643271e4db7514e6440bd67baa4922f690f36411584360095e",
+    "2117267944098889840": "ecb275f4765f1ef1d3c2eb747fa5267039eefd3f7bae6e2bd8c782fb2871e19d"
   },
   "eventParserVersion": 5
 }
