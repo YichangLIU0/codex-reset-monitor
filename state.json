@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117283355427495983",
-      "lastCheckedAt": "2026-11-02T17:24:12.805Z",
-      "lastSuccessAt": "2026-11-02T17:24:12.805Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 198,
+      "sinceId": "2117364233210151160",
+      "lastCheckedAt": "2026-11-02T23:57:40.247Z",
+      "lastSuccessAt": "2026-11-02T23:57:40.247Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 199,
       "latestObservedPost": {
-        "id": "2117283355427495983",
-        "canonicalId": "2117283355427495983",
-        "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-        "createdAt": "2026-11-02T15:51:03.000Z",
-        "url": "https://x.com/thsottiaux/status/2117283355427495983",
+        "id": "2117364233210151160",
+        "canonicalId": "2117364233210151160",
+        "text": "@jxnlco Always been a fan",
+        "createdAt": "2026-11-02T21:12:26.000Z",
+        "url": "https://x.com/thsottiaux/status/2117364233210151160",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-02T17:24:14.034Z",
-      "lastSuccessAt": "2026-11-02T17:24:14.034Z",
+      "lastCheckedAt": "2026-11-02T23:57:41.036Z",
+      "lastSuccessAt": "2026-11-02T23:57:41.036Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-02T17:24:14.483Z",
-      "lastSuccessAt": "2026-11-02T17:24:14.483Z",
+      "lastCheckedAt": "2026-11-02T23:57:41.476Z",
+      "lastSuccessAt": "2026-11-02T23:57:41.476Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 30,
       "latestObservedPost": {
@@ -65,23 +65,23 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2116253388883345623",
-      "lastCheckedAt": "2026-11-02T17:24:14.866Z",
-      "lastSuccessAt": "2026-11-02T17:24:14.866Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 39,
+      "sinceId": "2117307611338997846",
+      "lastCheckedAt": "2026-11-02T23:57:42.232Z",
+      "lastSuccessAt": "2026-11-02T23:57:42.232Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 40,
       "latestObservedPost": {
-        "id": "2116253388883345623",
-        "canonicalId": "2116253388883345623",
-        "text": "There are many futures. Which do you want to build? https://t.co/19NY7tgPHM",
-        "createdAt": "2026-10-30T19:38:20.000Z",
-        "url": "https://x.com/OpenAI/status/2116253388883345623",
+        "id": "2117307611338997846",
+        "canonicalId": "2117307611338997846",
+        "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0",
+        "createdAt": "2026-11-02T17:27:26.000Z",
+        "url": "https://x.com/OpenAI/status/2117307611338997846",
         "media": [
           {
-            "mediaKey": "2116236456897212416",
+            "mediaKey": "2117307511820754944",
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2116236456897212416/vid/avc1/1920x1080/sm29CeaG5Z5Eba7P.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116236456897212416/img/3feufnhOpbHvJ6kt.jpg",
+            "url": "https://video.twimg.com/amplify_video/2117307511820754944/vid/avc1/1920x1080/64IggJ2B6FS0lQMg.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117307511820754944/img/KAscj7SLp6lhMJr9.jpg",
             "altText": null
           }
         ]
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2117267944098889840",
-      "lastCheckedAt": "2026-11-02T17:24:15.651Z",
-      "lastSuccessAt": "2026-11-02T17:24:15.651Z",
-      "lastRunStatus": "checked-8-posts",
+      "lastCheckedAt": "2026-11-02T23:57:42.663Z",
+      "lastSuccessAt": "2026-11-02T23:57:42.663Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 129,
       "latestObservedPost": {
         "id": "2117267944098889840",
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2116999443597942941",
-      "lastCheckedAt": "2026-11-02T17:24:16.046Z",
-      "lastSuccessAt": "2026-11-02T17:24:16.046Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 92,
+      "sinceId": "2117370511294447829",
+      "lastCheckedAt": "2026-11-02T23:57:43.426Z",
+      "lastSuccessAt": "2026-11-02T23:57:43.426Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 93,
       "latestObservedPost": {
-        "id": "2116999443597942941",
-        "canonicalId": "2116999443597942941",
-        "text": "@paw_lean @reach_vb Last Christmas all day tomorrow? 🤣",
-        "createdAt": "2026-11-01T21:02:53.000Z",
-        "url": "https://x.com/dkundel/status/2116999443597942941",
+        "id": "2117370511294447829",
+        "canonicalId": "2117370511294447829",
+        "text": "Astra continues to surprise me 🤯",
+        "createdAt": "2026-11-02T21:37:23.000Z",
+        "url": "https://x.com/dkundel/status/2117370511294447829",
         "media": []
       }
     }
@@ -1205,7 +1205,10 @@
     "2117246655955435935": "5c95991c32371497b6aaa919d6fa9e55eb88e71ca9d6a2be5b719f84c3e55564",
     "2117250033112293652": "f8811c320e90c06352490cce3c3b53ec49c99618f419e07055470406da0e50cd",
     "2117250373014749584": "f86b0f01f75b49643271e4db7514e6440bd67baa4922f690f36411584360095e",
-    "2117267944098889840": "ecb275f4765f1ef1d3c2eb747fa5267039eefd3f7bae6e2bd8c782fb2871e19d"
+    "2117267944098889840": "ecb275f4765f1ef1d3c2eb747fa5267039eefd3f7bae6e2bd8c782fb2871e19d",
+    "2117364233210151160": "9be417143926430eb3374e5ef0452b74e73524b9076a91c2da821961c8f3870a",
+    "2117307611338997846": "d07d45a6c6446cbc941b39c07f863191cfdb453a51b30f5d20b1a4eea1237f3b",
+    "2117370511294447829": "441e65dfe7932e2658d9189c77d0b4351d530723c210998daeab95d112c28353"
   },
   "eventParserVersion": 5
 }
