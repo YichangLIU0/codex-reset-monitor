@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117489367417803042",
-      "lastCheckedAt": "2026-11-03T05:30:27.542Z",
-      "lastSuccessAt": "2026-11-03T05:30:27.542Z",
+      "sinceId": "2117515752588853710",
+      "lastCheckedAt": "2026-11-03T12:57:43.434Z",
+      "lastSuccessAt": "2026-11-03T12:57:43.434Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 201,
+      "postsScanned": 203,
       "latestObservedPost": {
-        "id": "2117489367417803042",
-        "canonicalId": "2117489367417803042",
-        "text": "Le GPT Fat",
-        "createdAt": "2026-11-03T05:29:40.000Z",
-        "url": "https://x.com/thsottiaux/status/2117489367417803042",
+        "id": "2117515752588853710",
+        "canonicalId": "2117515752588853710",
+        "text": "@Raitox_tech 🫨",
+        "createdAt": "2026-11-03T07:14:31.000Z",
+        "url": "https://x.com/thsottiaux/status/2117515752588853710",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-03T05:30:28.317Z",
-      "lastSuccessAt": "2026-11-03T05:30:28.317Z",
+      "lastCheckedAt": "2026-11-03T12:57:44.367Z",
+      "lastSuccessAt": "2026-11-03T12:57:44.367Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2117435285021810921",
-      "lastCheckedAt": "2026-11-03T05:30:29.264Z",
-      "lastSuccessAt": "2026-11-03T05:30:29.264Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-03T12:57:45.186Z",
+      "lastSuccessAt": "2026-11-03T12:57:45.186Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 31,
       "latestObservedPost": {
         "id": "2117435285021810921",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2117444049900654743",
-      "lastCheckedAt": "2026-11-03T05:30:29.977Z",
-      "lastSuccessAt": "2026-11-03T05:30:29.977Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-03T12:57:45.589Z",
+      "lastSuccessAt": "2026-11-03T12:57:45.589Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 42,
       "latestObservedPost": {
         "id": "2117444049900654743",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2117409608352559584",
-      "lastCheckedAt": "2026-11-03T05:30:30.758Z",
-      "lastSuccessAt": "2026-11-03T05:30:30.758Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-03T12:57:46.999Z",
+      "lastSuccessAt": "2026-11-03T12:57:46.999Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 132,
       "latestObservedPost": {
         "id": "2117409608352559584",
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2117370511294447829",
-      "lastCheckedAt": "2026-11-03T05:30:31.135Z",
-      "lastSuccessAt": "2026-11-03T05:30:31.135Z",
+      "lastCheckedAt": "2026-11-03T12:57:47.929Z",
+      "lastSuccessAt": "2026-11-03T12:57:47.929Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 93,
       "latestObservedPost": {
@@ -1208,7 +1208,9 @@
     "2117444049900654743": "f30df7e70a299cad4bed33ff9bdfaa3e6ceb5fb49d5695ca081083166cc512cc",
     "2117408792346509663": "4cef39c2135c0801dfc7df0d751e5b893447d4c267d90b4946d74a00f1e5a9d5",
     "2117408834348310581": "bcc65a94422c6600076b07e907fb4ec0cb3d0ccd40e8bf18d0ebb5395ba370d1",
-    "2117409608352559584": "6eb0b63fe6a51fd0a922950f68b473cb451600ba82617b54d13c43668ef9b69e"
+    "2117409608352559584": "6eb0b63fe6a51fd0a922950f68b473cb451600ba82617b54d13c43668ef9b69e",
+    "2117506709417795626": "197322de1438cca2db3708bed1e771c6c7fbe624d4a08f9dfd724c5bd20e4ca8",
+    "2117515752588853710": "514fcef91054a256c44dfe6c6db5f8f26aa617c598e45c0b394d7a4117bad746"
   },
   "eventParserVersion": 5
 }
