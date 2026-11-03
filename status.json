@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T23:57:43.434Z",
+  "updatedAt": "2026-11-03T05:30:31.140Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-02T23:57:43.426Z",
-    "lastSuccessAt": "2026-11-02T23:57:43.426Z",
+    "lastCheckedAt": "2026-11-03T05:30:31.135Z",
+    "lastSuccessAt": "2026-11-03T05:30:31.135Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2117370511294447829",
-    "text": "Astra continues to surprise me 🤯",
-    "url": "https://x.com/dkundel/status/2117370511294447829",
-    "postCreatedAt": "2026-11-02T21:37:23.000Z"
+    "id": "2117489367417803042",
+    "text": "Le GPT Fat",
+    "url": "https://x.com/thsottiaux/status/2117489367417803042",
+    "postCreatedAt": "2026-11-03T05:29:40.000Z"
   },
   "latest": {
     "reset": {

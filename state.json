@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117364233210151160",
-      "lastCheckedAt": "2026-11-02T23:57:40.247Z",
-      "lastSuccessAt": "2026-11-02T23:57:40.247Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 199,
+      "sinceId": "2117489367417803042",
+      "lastCheckedAt": "2026-11-03T05:30:27.542Z",
+      "lastSuccessAt": "2026-11-03T05:30:27.542Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 201,
       "latestObservedPost": {
-        "id": "2117364233210151160",
-        "canonicalId": "2117364233210151160",
-        "text": "@jxnlco Always been a fan",
-        "createdAt": "2026-11-02T21:12:26.000Z",
-        "url": "https://x.com/thsottiaux/status/2117364233210151160",
+        "id": "2117489367417803042",
+        "canonicalId": "2117489367417803042",
+        "text": "Le GPT Fat",
+        "createdAt": "2026-11-03T05:29:40.000Z",
+        "url": "https://x.com/thsottiaux/status/2117489367417803042",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-02T23:57:41.036Z",
-      "lastSuccessAt": "2026-11-02T23:57:41.036Z",
+      "lastCheckedAt": "2026-11-03T05:30:28.317Z",
+      "lastSuccessAt": "2026-11-03T05:30:28.317Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -48,59 +48,51 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2116052823096131817",
-      "lastCheckedAt": "2026-11-02T23:57:41.476Z",
-      "lastSuccessAt": "2026-11-02T23:57:41.476Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 30,
+      "sinceId": "2117435285021810921",
+      "lastCheckedAt": "2026-11-03T05:30:29.264Z",
+      "lastSuccessAt": "2026-11-03T05:30:29.264Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 31,
       "latestObservedPost": {
-        "id": "2116052823096131817",
-        "canonicalId": "2116052823096131817",
-        "text": "@jeffreycrowell @OpenAI welcome to the team!!",
-        "createdAt": "2026-10-30T06:21:22.000Z",
-        "url": "https://x.com/gdb/status/2116052823096131817",
+        "id": "2117435285021810921",
+        "canonicalId": "2117435285021810921",
+        "text": "Pando is a Git backend which can scale to very large monorepos. We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others, let me know (gdb@openai.com) if you'd be interested.",
+        "createdAt": "2026-11-03T01:54:46.000Z",
+        "url": "https://x.com/gdb/status/2117435285021810921",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2117307611338997846",
-      "lastCheckedAt": "2026-11-02T23:57:42.232Z",
-      "lastSuccessAt": "2026-11-02T23:57:42.232Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 40,
+      "sinceId": "2117444049900654743",
+      "lastCheckedAt": "2026-11-03T05:30:29.977Z",
+      "lastSuccessAt": "2026-11-03T05:30:29.977Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 42,
       "latestObservedPost": {
-        "id": "2117307611338997846",
-        "canonicalId": "2117307611338997846",
-        "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0",
-        "createdAt": "2026-11-02T17:27:26.000Z",
-        "url": "https://x.com/OpenAI/status/2117307611338997846",
-        "media": [
-          {
-            "mediaKey": "2117307511820754944",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2117307511820754944/vid/avc1/1920x1080/64IggJ2B6FS0lQMg.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117307511820754944/img/KAscj7SLp6lhMJr9.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2117444049900654743",
+        "canonicalId": "2117444049900654743",
+        "text": "The updated bug bounty rewards also apply to reports awaiting a bounty. \n\nFor bounties awarded in the past 30 days, we’ll pay the difference if the finding qualifies for more under the new ranges.\n\nLearn more about the program: https://t.co/hrtvmwynXR",
+        "createdAt": "2026-11-03T02:29:36.000Z",
+        "url": "https://x.com/OpenAI/status/2117444049900654743",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2117267944098889840",
-      "lastCheckedAt": "2026-11-02T23:57:42.663Z",
-      "lastSuccessAt": "2026-11-02T23:57:42.663Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 129,
+      "sinceId": "2117409608352559584",
+      "lastCheckedAt": "2026-11-03T05:30:30.758Z",
+      "lastSuccessAt": "2026-11-03T05:30:30.758Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 132,
       "latestObservedPost": {
-        "id": "2117267944098889840",
-        "canonicalId": "2117267944098889840",
-        "text": "@kuberwastaken @OpenAI @fedesarquis thank you for sharing what you build !",
-        "createdAt": "2026-11-02T14:49:49.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2117267944098889840",
+        "id": "2117409608352559584",
+        "canonicalId": "2117409608352559584",
+        "text": "We’ve also contributed fixes back to Git for cases like cleaning up after an interrupted packfile download.\n\nhttps://t.co/ljraNSC5XK",
+        "createdAt": "2026-11-03T00:12:44.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2117409608352559584",
         "media": []
       }
     },
@@ -118,9 +110,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2117370511294447829",
-      "lastCheckedAt": "2026-11-02T23:57:43.426Z",
-      "lastSuccessAt": "2026-11-02T23:57:43.426Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-03T05:30:31.135Z",
+      "lastSuccessAt": "2026-11-03T05:30:31.135Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 93,
       "latestObservedPost": {
         "id": "2117370511294447829",
@@ -1208,7 +1200,15 @@
     "2117267944098889840": "ecb275f4765f1ef1d3c2eb747fa5267039eefd3f7bae6e2bd8c782fb2871e19d",
     "2117364233210151160": "9be417143926430eb3374e5ef0452b74e73524b9076a91c2da821961c8f3870a",
     "2117307611338997846": "d07d45a6c6446cbc941b39c07f863191cfdb453a51b30f5d20b1a4eea1237f3b",
-    "2117370511294447829": "441e65dfe7932e2658d9189c77d0b4351d530723c210998daeab95d112c28353"
+    "2117370511294447829": "441e65dfe7932e2658d9189c77d0b4351d530723c210998daeab95d112c28353",
+    "2117412956950638872": "a0bf06976acace72c0ea4c178156d34c9767516b7fdfbf684ed6d2bba5e76cdd",
+    "2117489367417803042": "c443f9c8baf5a52ac7550077cd1b0783b115da40115d316b61fb3343ea2064fe",
+    "2117435285021810921": "f040a190ef9de243f549562d88e957fcc790431141b681fa6f4f99110ed631de",
+    "2117444048227123277": "256e8cd3742ace3ad052620e515c27d41cf88932666a3313d0e473034ba2959d",
+    "2117444049900654743": "f30df7e70a299cad4bed33ff9bdfaa3e6ceb5fb49d5695ca081083166cc512cc",
+    "2117408792346509663": "4cef39c2135c0801dfc7df0d751e5b893447d4c267d90b4946d74a00f1e5a9d5",
+    "2117408834348310581": "bcc65a94422c6600076b07e907fb4ec0cb3d0ccd40e8bf18d0ebb5395ba370d1",
+    "2117409608352559584": "6eb0b63fe6a51fd0a922950f68b473cb451600ba82617b54d13c43668ef9b69e"
   },
   "eventParserVersion": 5
 }
