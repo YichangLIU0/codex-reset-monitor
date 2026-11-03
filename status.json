@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T12:57:47.934Z",
+  "updatedAt": "2026-11-03T19:58:38.957Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-03T12:57:47.929Z",
-    "lastSuccessAt": "2026-11-03T12:57:47.929Z",
+    "lastCheckedAt": "2026-11-03T19:58:38.953Z",
+    "lastSuccessAt": "2026-11-03T19:58:38.953Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2117515752588853710",
-    "text": "@Raitox_tech 🫨",
-    "url": "https://x.com/thsottiaux/status/2117515752588853710",
-    "postCreatedAt": "2026-11-03T07:14:31.000Z"
+    "id": "2117692483685757188",
+    "text": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next.\n\nhttps://t.co/WrqdW2IwaP",
+    "url": "https://x.com/OpenAI/status/2117692483685757188",
+    "postCreatedAt": "2026-11-03T18:56:47.000Z"
   },
   "latest": {
     "reset": {

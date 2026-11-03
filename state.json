@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2117515752588853710",
-      "lastCheckedAt": "2026-11-03T12:57:43.434Z",
-      "lastSuccessAt": "2026-11-03T12:57:43.434Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-03T19:58:35.112Z",
+      "lastSuccessAt": "2026-11-03T19:58:35.112Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 203,
       "latestObservedPost": {
         "id": "2117515752588853710",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-03T12:57:44.367Z",
-      "lastSuccessAt": "2026-11-03T12:57:44.367Z",
+      "lastCheckedAt": "2026-11-03T19:58:35.862Z",
+      "lastSuccessAt": "2026-11-03T19:58:35.862Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2117435285021810921",
-      "lastCheckedAt": "2026-11-03T12:57:45.186Z",
-      "lastSuccessAt": "2026-11-03T12:57:45.186Z",
+      "lastCheckedAt": "2026-11-03T19:58:36.321Z",
+      "lastSuccessAt": "2026-11-03T19:58:36.321Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 31,
       "latestObservedPost": {
@@ -65,17 +65,17 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2117444049900654743",
-      "lastCheckedAt": "2026-11-03T12:57:45.589Z",
-      "lastSuccessAt": "2026-11-03T12:57:45.589Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 42,
+      "sinceId": "2117692483685757188",
+      "lastCheckedAt": "2026-11-03T19:58:37.054Z",
+      "lastSuccessAt": "2026-11-03T19:58:37.054Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 45,
       "latestObservedPost": {
-        "id": "2117444049900654743",
-        "canonicalId": "2117444049900654743",
-        "text": "The updated bug bounty rewards also apply to reports awaiting a bounty. \n\nFor bounties awarded in the past 30 days, we’ll pay the difference if the finding qualifies for more under the new ranges.\n\nLearn more about the program: https://t.co/hrtvmwynXR",
-        "createdAt": "2026-11-03T02:29:36.000Z",
-        "url": "https://x.com/OpenAI/status/2117444049900654743",
+        "id": "2117692483685757188",
+        "canonicalId": "2117692483685757188",
+        "text": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next.\n\nhttps://t.co/WrqdW2IwaP",
+        "createdAt": "2026-11-03T18:56:47.000Z",
+        "url": "https://x.com/OpenAI/status/2117692483685757188",
         "media": []
       }
     },
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2117409608352559584",
-      "lastCheckedAt": "2026-11-03T12:57:46.999Z",
-      "lastSuccessAt": "2026-11-03T12:57:46.999Z",
+      "lastCheckedAt": "2026-11-03T19:58:38.152Z",
+      "lastSuccessAt": "2026-11-03T19:58:38.152Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 132,
       "latestObservedPost": {
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2117370511294447829",
-      "lastCheckedAt": "2026-11-03T12:57:47.929Z",
-      "lastSuccessAt": "2026-11-03T12:57:47.929Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 93,
+      "sinceId": "2117659420133867981",
+      "lastCheckedAt": "2026-11-03T19:58:38.953Z",
+      "lastSuccessAt": "2026-11-03T19:58:38.953Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 96,
       "latestObservedPost": {
-        "id": "2117370511294447829",
-        "canonicalId": "2117370511294447829",
-        "text": "Astra continues to surprise me 🤯",
-        "createdAt": "2026-11-02T21:37:23.000Z",
-        "url": "https://x.com/dkundel/status/2117370511294447829",
+        "id": "2117659420133867981",
+        "canonicalId": "2117659420133867981",
+        "text": "@rachelnabors @Dimillian Yes :) need to find you!",
+        "createdAt": "2026-11-03T16:45:24.000Z",
+        "url": "https://x.com/dkundel/status/2117659420133867981",
         "media": []
       }
     }
@@ -1210,7 +1210,13 @@
     "2117408834348310581": "bcc65a94422c6600076b07e907fb4ec0cb3d0ccd40e8bf18d0ebb5395ba370d1",
     "2117409608352559584": "6eb0b63fe6a51fd0a922950f68b473cb451600ba82617b54d13c43668ef9b69e",
     "2117506709417795626": "197322de1438cca2db3708bed1e771c6c7fbe624d4a08f9dfd724c5bd20e4ca8",
-    "2117515752588853710": "514fcef91054a256c44dfe6c6db5f8f26aa617c598e45c0b394d7a4117bad746"
+    "2117515752588853710": "514fcef91054a256c44dfe6c6db5f8f26aa617c598e45c0b394d7a4117bad746",
+    "2117692475775258785": "3fb6d20242bb77103d1ed0f5473473997a8ab54a2276c1020c7fc79ddcaa5a35",
+    "2117692480590373245": "d771b50bac289dfaf550550e3ef7f8e6ee0972379c33b2490de7eb3e1a417cd7",
+    "2117692483685757188": "2a719b28785ae1845141843b5b4530134a5f3eed91c25714841551b952960f13",
+    "2117633514598474023": "ce14ce9abef23ea42a37e282c5394a8c5c956afb946438ae2cef66ce5f51ae6f",
+    "2117641130846437586": "db5b9df2f2b0e0773081bf8cbb549b5e25304ce3157a1b308265b9f396b09e6a",
+    "2117659420133867981": "c55664778796d31837cb01ba8fc8e11f86dd1a208449d6cf3bb75ea87c8c68d4"
   },
   "eventParserVersion": 5
 }
