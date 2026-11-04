@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117515752588853710",
-      "lastCheckedAt": "2026-11-03T19:58:35.112Z",
-      "lastSuccessAt": "2026-11-03T19:58:35.112Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 203,
+      "sinceId": "2117746467058405665",
+      "lastCheckedAt": "2026-11-04T00:25:09.351Z",
+      "lastSuccessAt": "2026-11-04T00:25:09.351Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 204,
       "latestObservedPost": {
-        "id": "2117515752588853710",
-        "canonicalId": "2117515752588853710",
-        "text": "@Raitox_tech 🫨",
-        "createdAt": "2026-11-03T07:14:31.000Z",
-        "url": "https://x.com/thsottiaux/status/2117515752588853710",
+        "id": "2117746467058405665",
+        "canonicalId": "2117746467058405665",
+        "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+        "createdAt": "2026-11-03T22:31:18.000Z",
+        "url": "https://x.com/thsottiaux/status/2117746467058405665",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2114818620782248024",
-      "lastCheckedAt": "2026-11-03T19:58:35.862Z",
-      "lastSuccessAt": "2026-11-03T19:58:35.862Z",
+      "lastCheckedAt": "2026-11-04T00:25:10.726Z",
+      "lastSuccessAt": "2026-11-04T00:25:10.726Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 24,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2117435285021810921",
-      "lastCheckedAt": "2026-11-03T19:58:36.321Z",
-      "lastSuccessAt": "2026-11-03T19:58:36.321Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 31,
+      "sinceId": "2117755028211642849",
+      "lastCheckedAt": "2026-11-04T00:25:12.527Z",
+      "lastSuccessAt": "2026-11-04T00:25:12.527Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 32,
       "latestObservedPost": {
-        "id": "2117435285021810921",
-        "canonicalId": "2117435285021810921",
-        "text": "Pando is a Git backend which can scale to very large monorepos. We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others, let me know (gdb@openai.com) if you'd be interested.",
-        "createdAt": "2026-11-03T01:54:46.000Z",
-        "url": "https://x.com/gdb/status/2117435285021810921",
+        "id": "2117755028211642849",
+        "canonicalId": "2117755028211642849",
+        "text": "welcome @jillhazelbaker to the team, extremely excited to be working together!",
+        "createdAt": "2026-11-03T23:05:19.000Z",
+        "url": "https://x.com/gdb/status/2117755028211642849",
         "media": []
       }
     },
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2117692483685757188",
-      "lastCheckedAt": "2026-11-03T19:58:37.054Z",
-      "lastSuccessAt": "2026-11-03T19:58:37.054Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-04T00:25:13.022Z",
+      "lastSuccessAt": "2026-11-04T00:25:13.022Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 45,
       "latestObservedPost": {
         "id": "2117692483685757188",
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2117409608352559584",
-      "lastCheckedAt": "2026-11-03T19:58:38.152Z",
-      "lastSuccessAt": "2026-11-03T19:58:38.152Z",
+      "lastCheckedAt": "2026-11-04T00:25:13.828Z",
+      "lastSuccessAt": "2026-11-04T00:25:13.828Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 132,
       "latestObservedPost": {
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2117659420133867981",
-      "lastCheckedAt": "2026-11-03T19:58:38.953Z",
-      "lastSuccessAt": "2026-11-03T19:58:38.953Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 96,
+      "sinceId": "2117751826514903115",
+      "lastCheckedAt": "2026-11-04T00:25:15.183Z",
+      "lastSuccessAt": "2026-11-04T00:25:15.183Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 97,
       "latestObservedPost": {
-        "id": "2117659420133867981",
-        "canonicalId": "2117659420133867981",
-        "text": "@rachelnabors @Dimillian Yes :) need to find you!",
-        "createdAt": "2026-11-03T16:45:24.000Z",
-        "url": "https://x.com/dkundel/status/2117659420133867981",
+        "id": "2117751826514903115",
+        "canonicalId": "2117751826514903115",
+        "text": "@_catwu Incredible job 👏",
+        "createdAt": "2026-11-03T22:52:36.000Z",
+        "url": "https://x.com/dkundel/status/2117751826514903115",
         "media": []
       }
     }
@@ -1216,7 +1216,10 @@
     "2117692483685757188": "2a719b28785ae1845141843b5b4530134a5f3eed91c25714841551b952960f13",
     "2117633514598474023": "ce14ce9abef23ea42a37e282c5394a8c5c956afb946438ae2cef66ce5f51ae6f",
     "2117641130846437586": "db5b9df2f2b0e0773081bf8cbb549b5e25304ce3157a1b308265b9f396b09e6a",
-    "2117659420133867981": "c55664778796d31837cb01ba8fc8e11f86dd1a208449d6cf3bb75ea87c8c68d4"
+    "2117659420133867981": "c55664778796d31837cb01ba8fc8e11f86dd1a208449d6cf3bb75ea87c8c68d4",
+    "2117746467058405665": "668b7b66861cfbbbf7cbf6379e9aac08ec20414acb64b5522a31eb87aeaaac1b",
+    "2117755028211642849": "cc0386790b84fb744c18d24d5a2bdfd90b3d28b698cd924c0ceb6b82a26c4e0f",
+    "2117751826514903115": "4c78a0522772f81c048623eef55305f5fab4df87a30a3c82c0ef3907c4b5f247"
   },
   "eventParserVersion": 5
 }
