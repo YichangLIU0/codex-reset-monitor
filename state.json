@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117868812657971442",
-      "lastCheckedAt": "2026-11-04T06:47:57.756Z",
-      "lastSuccessAt": "2026-11-04T06:47:57.756Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 206,
+      "sinceId": "2117889346426823037",
+      "lastCheckedAt": "2026-11-04T14:54:03.909Z",
+      "lastSuccessAt": "2026-11-04T14:54:03.909Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 211,
       "latestObservedPost": {
-        "id": "2117868812657971442",
-        "canonicalId": "2117868812657971442",
-        "text": "@hiarun02 It’s 50X",
-        "createdAt": "2026-11-04T06:37:27.000Z",
-        "url": "https://x.com/thsottiaux/status/2117868812657971442",
+        "id": "2117889346426823037",
+        "canonicalId": "2117889346426823037",
+        "text": "@haydenfield Asked chat and it confirmed the story",
+        "createdAt": "2026-11-04T07:59:03.000Z",
+        "url": "https://x.com/thsottiaux/status/2117889346426823037",
         "media": []
       }
     },
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-04T06:47:58.604Z",
-      "lastSuccessAt": "2026-11-04T06:47:58.604Z",
-      "lastRunStatus": "checked-5-posts",
+      "lastCheckedAt": "2026-11-04T14:54:04.317Z",
+      "lastSuccessAt": "2026-11-04T14:54:04.317Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
         "id": "2117846298472886419",
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2117781797555851515",
-      "lastCheckedAt": "2026-11-04T06:47:59.573Z",
-      "lastSuccessAt": "2026-11-04T06:47:59.573Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-04T14:54:04.795Z",
+      "lastSuccessAt": "2026-11-04T14:54:04.795Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
         "id": "2117781797555851515",
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2117692483685757188",
-      "lastCheckedAt": "2026-11-04T06:47:59.928Z",
-      "lastSuccessAt": "2026-11-04T06:47:59.928Z",
+      "lastCheckedAt": "2026-11-04T14:54:05.154Z",
+      "lastSuccessAt": "2026-11-04T14:54:05.154Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 45,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2117409608352559584",
-      "lastCheckedAt": "2026-11-04T06:48:00.722Z",
-      "lastSuccessAt": "2026-11-04T06:48:00.722Z",
+      "lastCheckedAt": "2026-11-04T14:54:06.977Z",
+      "lastSuccessAt": "2026-11-04T14:54:06.977Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 132,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2117751826514903115",
-      "lastCheckedAt": "2026-11-04T06:48:01.109Z",
-      "lastSuccessAt": "2026-11-04T06:48:01.109Z",
+      "lastCheckedAt": "2026-11-04T14:54:07.383Z",
+      "lastSuccessAt": "2026-11-04T14:54:07.383Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 97,
       "latestObservedPost": {
@@ -1227,7 +1227,12 @@
     "2117844267020492948": "b659163e0cf70df6dec3353b6f7c3d6fd5369a526ed8b64602bc403f0d4eb21d",
     "2117845542021808438": "25aba04a9f5cac6c5a84d2654927c5a7ca0139536ab546bd6bdad6caf5dae65d",
     "2117846298472886419": "b3e8c3a222c462bf5dd267846bddfc5dcb195c7962f41ed133feb3990b96a966",
-    "2117781797555851515": "0b9a3c4ca363f99caa34197d27aa21268e4496d8cd627f8cd90db0d515be20a6"
+    "2117781797555851515": "0b9a3c4ca363f99caa34197d27aa21268e4496d8cd627f8cd90db0d515be20a6",
+    "2117884085385429502": "55d01642438d8a9cb1e55ac14bba97bce368ac382dae65c1e46cc2050a91f104",
+    "2117884611640668212": "7c84b11f238c643e6d297d0707bbd2691e35d817399956b0e8e63a06ea5ae6ea",
+    "2117888243119304945": "c1c78146655892b0fd8aa147be0513689f02ade43cc263e20af9850661c8c911",
+    "2117888828874936679": "3cac1518a7e5c2e799d3a0d47c9782b5546d58d6e84a528898858000510c6209",
+    "2117889346426823037": "9a82cd9d7f8cc92f72ae45a4b015bd5f6a5aba236e1e17c7ca9b83cfebf67716"
   },
   "eventParserVersion": 5
 }
