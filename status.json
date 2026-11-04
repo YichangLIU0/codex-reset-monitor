@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T00:25:15.190Z",
+  "updatedAt": "2026-11-04T06:48:01.114Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T00:25:15.183Z",
-    "lastSuccessAt": "2026-11-04T00:25:15.183Z",
+    "lastCheckedAt": "2026-11-04T06:48:01.109Z",
+    "lastSuccessAt": "2026-11-04T06:48:01.109Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2117755028211642849",
-    "text": "welcome @jillhazelbaker to the team, extremely excited to be working together!",
-    "url": "https://x.com/gdb/status/2117755028211642849",
-    "postCreatedAt": "2026-11-03T23:05:19.000Z"
+    "id": "2117868812657971442",
+    "text": "@hiarun02 It’s 50X",
+    "url": "https://x.com/thsottiaux/status/2117868812657971442",
+    "postCreatedAt": "2026-11-04T06:37:27.000Z"
   },
   "latest": {
     "reset": {
