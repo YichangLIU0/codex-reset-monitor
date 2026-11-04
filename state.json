@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2117889346426823037",
-      "lastCheckedAt": "2026-11-04T14:54:03.909Z",
-      "lastSuccessAt": "2026-11-04T14:54:03.909Z",
-      "lastRunStatus": "checked-5-posts",
-      "postsScanned": 211,
+      "sinceId": "2118024737070957009",
+      "lastCheckedAt": "2026-11-04T20:59:04.555Z",
+      "lastSuccessAt": "2026-11-04T20:59:04.555Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 214,
       "latestObservedPost": {
-        "id": "2117889346426823037",
-        "canonicalId": "2117889346426823037",
-        "text": "@haydenfield Asked chat and it confirmed the story",
-        "createdAt": "2026-11-04T07:59:03.000Z",
-        "url": "https://x.com/thsottiaux/status/2117889346426823037",
+        "id": "2118024737070957009",
+        "canonicalId": "2118024737070957009",
+        "text": "@AnikaCodes I was moved to the basement yesterday",
+        "createdAt": "2026-11-04T16:57:02.000Z",
+        "url": "https://x.com/thsottiaux/status/2118024737070957009",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-04T14:54:04.317Z",
-      "lastSuccessAt": "2026-11-04T14:54:04.317Z",
+      "lastCheckedAt": "2026-11-04T20:59:05.036Z",
+      "lastSuccessAt": "2026-11-04T20:59:05.036Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2117781797555851515",
-      "lastCheckedAt": "2026-11-04T14:54:04.795Z",
-      "lastSuccessAt": "2026-11-04T14:54:04.795Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 33,
+      "sinceId": "2118042051057250377",
+      "lastCheckedAt": "2026-11-04T20:59:06.110Z",
+      "lastSuccessAt": "2026-11-04T20:59:06.110Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 34,
       "latestObservedPost": {
-        "id": "2117781797555851515",
-        "canonicalId": "2117781797555851515",
-        "text": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices:",
-        "createdAt": "2026-11-04T00:51:41.000Z",
-        "url": "https://x.com/gdb/status/2117781797555851515",
+        "id": "2118042051057250377",
+        "canonicalId": "2118042051057250377",
+        "text": "welcome @pierrecomputer to openai!\n\npierre’s open-source developer tools already power parts of codex today, and excited to build together the future of collaboratively building software with ai.",
+        "createdAt": "2026-11-04T18:05:50.000Z",
+        "url": "https://x.com/gdb/status/2118042051057250377",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2117692483685757188",
-      "lastCheckedAt": "2026-11-04T14:54:05.154Z",
-      "lastSuccessAt": "2026-11-04T14:54:05.154Z",
+      "lastCheckedAt": "2026-11-04T20:59:06.990Z",
+      "lastSuccessAt": "2026-11-04T20:59:06.990Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 45,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2117409608352559584",
-      "lastCheckedAt": "2026-11-04T14:54:06.977Z",
-      "lastSuccessAt": "2026-11-04T14:54:06.977Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 132,
+      "sinceId": "2118083933233357132",
+      "lastCheckedAt": "2026-11-04T20:59:08.519Z",
+      "lastSuccessAt": "2026-11-04T20:59:08.519Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 137,
       "latestObservedPost": {
-        "id": "2117409608352559584",
-        "canonicalId": "2117409608352559584",
-        "text": "We’ve also contributed fixes back to Git for cases like cleaning up after an interrupted packfile download.\n\nhttps://t.co/ljraNSC5XK",
-        "createdAt": "2026-11-03T00:12:44.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2117409608352559584",
+        "id": "2118083933233357132",
+        "canonicalId": "2118083933233357132",
+        "text": "https://t.co/ZVTHMjAKzE",
+        "createdAt": "2026-11-04T20:52:16.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2118083933233357132",
         "media": []
       }
     },
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2117751826514903115",
-      "lastCheckedAt": "2026-11-04T14:54:07.383Z",
-      "lastSuccessAt": "2026-11-04T14:54:07.383Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 97,
+      "sinceId": "2118040671454204296",
+      "lastCheckedAt": "2026-11-04T20:59:10.304Z",
+      "lastSuccessAt": "2026-11-04T20:59:10.304Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 98,
       "latestObservedPost": {
-        "id": "2117751826514903115",
-        "canonicalId": "2117751826514903115",
-        "text": "@_catwu Incredible job 👏",
-        "createdAt": "2026-11-03T22:52:36.000Z",
-        "url": "https://x.com/dkundel/status/2117751826514903115",
+        "id": "2118040671454204296",
+        "canonicalId": "2118040671454204296",
+        "text": "I refuse to accept the fact that there are already Christmas branded Diet Coke cans. Isn't it August?",
+        "createdAt": "2026-11-04T18:00:22.000Z",
+        "url": "https://x.com/dkundel/status/2118040671454204296",
         "media": []
       }
     }
@@ -1232,7 +1232,17 @@
     "2117884611640668212": "7c84b11f238c643e6d297d0707bbd2691e35d817399956b0e8e63a06ea5ae6ea",
     "2117888243119304945": "c1c78146655892b0fd8aa147be0513689f02ade43cc263e20af9850661c8c911",
     "2117888828874936679": "3cac1518a7e5c2e799d3a0d47c9782b5546d58d6e84a528898858000510c6209",
-    "2117889346426823037": "9a82cd9d7f8cc92f72ae45a4b015bd5f6a5aba236e1e17c7ca9b83cfebf67716"
+    "2117889346426823037": "9a82cd9d7f8cc92f72ae45a4b015bd5f6a5aba236e1e17c7ca9b83cfebf67716",
+    "2118024169762029594": "7dada5ffd0a298352bc496a4531e30d9d2642af13c3cff016e1f03fbc9d85a4c",
+    "2118024484594803084": "ef506fe0badc3b544d25e57ae8b3b2464fd17b17503d7723cfcbe68dd7b5657f",
+    "2118024737070957009": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
+    "2118042051057250377": "c289493e10f8df7aa5d2ed862904a44a079397055e691fbe0a847de5db2e35c8",
+    "2118003508309872989": "5136c49da31d42fc16b83a8ab23508c6698107a1c42c0b0264e7b4ab7d36d9d2",
+    "2118006100238938321": "14cba1755780f5ff7f97ce55211712a390a80aedf1208e708040f075ee2bc1a8",
+    "2118006279041946108": "84ce20c732597eb911699702902cef6adda77c3c2aaa1191d0548c7f06f9b591",
+    "2118006585171861922": "ca0bc789202c98046bfa0d65f030ac1a5d2a65648735be90152ab78a27282023",
+    "2118083933233357132": "49d492362e2322501d70651036b424d3c27f18818123e0442699c32d3155fffc",
+    "2118040671454204296": "f236754af5748629b12bea66134814cb8304ad3cc403b221dea8f17a3f835758"
   },
   "eventParserVersion": 5
 }
