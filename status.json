@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T20:59:10.309Z",
+  "updatedAt": "2026-11-05T01:22:01.789Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T20:59:10.304Z",
-    "lastSuccessAt": "2026-11-04T20:59:10.304Z",
+    "lastCheckedAt": "2026-11-05T01:22:01.781Z",
+    "lastSuccessAt": "2026-11-05T01:22:01.781Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118083933233357132",
-    "text": "https://t.co/ZVTHMjAKzE",
-    "url": "https://x.com/OpenAIDevs/status/2118083933233357132",
-    "postCreatedAt": "2026-11-04T20:52:16.000Z"
+    "id": "2118147545931374976",
+    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
+    "url": "https://x.com/thsottiaux/status/2118147545931374976",
+    "postCreatedAt": "2026-11-05T01:05:02.000Z"
   },
   "latest": {
     "reset": {
