@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T07:58:27.347Z",
+  "updatedAt": "2026-11-05T22:00:51.696Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T07:58:27.339Z",
-    "lastSuccessAt": "2026-11-05T07:58:27.339Z",
+    "lastCheckedAt": "2026-11-05T22:00:51.693Z",
+    "lastSuccessAt": "2026-11-05T22:00:51.693Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118250631165300747",
-    "text": "Follow Samir for dot updates",
-    "url": "https://x.com/thsottiaux/status/2118250631165300747",
-    "postCreatedAt": "2026-11-05T07:54:40.000Z"
+    "id": "2118450138087866586",
+    "text": "gpt-6 cyber is a good model",
+    "url": "https://x.com/gdb/status/2118450138087866586",
+    "postCreatedAt": "2026-11-05T21:07:26.000Z"
   },
   "latest": {
     "reset": {
