@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T01:22:01.789Z",
+  "updatedAt": "2026-11-05T07:58:27.347Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T01:22:01.781Z",
-    "lastSuccessAt": "2026-11-05T01:22:01.781Z",
+    "lastCheckedAt": "2026-11-05T07:58:27.339Z",
+    "lastSuccessAt": "2026-11-05T07:58:27.339Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118147545931374976",
-    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
-    "url": "https://x.com/thsottiaux/status/2118147545931374976",
-    "postCreatedAt": "2026-11-05T01:05:02.000Z"
+    "id": "2118250631165300747",
+    "text": "Follow Samir for dot updates",
+    "url": "https://x.com/thsottiaux/status/2118250631165300747",
+    "postCreatedAt": "2026-11-05T07:54:40.000Z"
   },
   "latest": {
     "reset": {

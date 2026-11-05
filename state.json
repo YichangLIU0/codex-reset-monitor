@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2118147545931374976",
-      "lastCheckedAt": "2026-11-05T01:21:57.043Z",
-      "lastSuccessAt": "2026-11-05T01:21:57.043Z",
-      "lastRunStatus": "checked-8-posts",
-      "postsScanned": 222,
+      "sinceId": "2118250631165300747",
+      "lastCheckedAt": "2026-11-05T07:58:24.049Z",
+      "lastSuccessAt": "2026-11-05T07:58:24.049Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 227,
       "latestObservedPost": {
-        "id": "2118147545931374976",
-        "canonicalId": "2118147545931374976",
-        "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
-        "createdAt": "2026-11-05T01:05:02.000Z",
-        "url": "https://x.com/thsottiaux/status/2118147545931374976",
+        "id": "2118250631165300747",
+        "canonicalId": "2118250631165300747",
+        "text": "Follow Samir for dot updates",
+        "createdAt": "2026-11-05T07:54:40.000Z",
+        "url": "https://x.com/thsottiaux/status/2118250631165300747",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-05T01:21:57.750Z",
-      "lastSuccessAt": "2026-11-05T01:21:57.750Z",
+      "lastCheckedAt": "2026-11-05T07:58:24.381Z",
+      "lastSuccessAt": "2026-11-05T07:58:24.381Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2118138320375136695",
-      "lastCheckedAt": "2026-11-05T01:21:58.729Z",
-      "lastSuccessAt": "2026-11-05T01:21:58.729Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 37,
+      "sinceId": "2118228924052496839",
+      "lastCheckedAt": "2026-11-05T07:58:25.251Z",
+      "lastSuccessAt": "2026-11-05T07:58:25.251Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 41,
       "latestObservedPost": {
-        "id": "2118138320375136695",
-        "canonicalId": "2118138320375136695",
-        "text": "welcome @_catwu to the team!!",
-        "createdAt": "2026-11-05T00:28:23.000Z",
-        "url": "https://x.com/gdb/status/2118138320375136695",
+        "id": "2118228924052496839",
+        "canonicalId": "2118228924052496839",
+        "text": "dots is such a good product, and is getting better fast",
+        "createdAt": "2026-11-05T06:28:24.000Z",
+        "url": "https://x.com/gdb/status/2118228924052496839",
         "media": []
       }
     },
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2118124966055223755",
-      "lastCheckedAt": "2026-11-05T01:21:59.922Z",
-      "lastSuccessAt": "2026-11-05T01:21:59.922Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-11-05T07:58:25.715Z",
+      "lastSuccessAt": "2026-11-05T07:58:25.715Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 51,
       "latestObservedPost": {
         "id": "2118124966055223755",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2118124764413718953",
-      "lastCheckedAt": "2026-11-05T01:22:00.931Z",
-      "lastSuccessAt": "2026-11-05T01:22:00.931Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-05T07:58:26.529Z",
+      "lastSuccessAt": "2026-11-05T07:58:26.529Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 140,
       "latestObservedPost": {
         "id": "2118124764413718953",
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2118142638788632749",
-      "lastCheckedAt": "2026-11-05T01:22:01.781Z",
-      "lastSuccessAt": "2026-11-05T01:22:01.781Z",
+      "sinceId": "2118187391366443318",
+      "lastCheckedAt": "2026-11-05T07:58:27.339Z",
+      "lastSuccessAt": "2026-11-05T07:58:27.339Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 99,
+      "postsScanned": 100,
       "latestObservedPost": {
-        "id": "2118142638788632749",
-        "canonicalId": "2118142638788632749",
-        "text": "@_catwu Welcome!! Excited to work with you 🎉",
-        "createdAt": "2026-11-05T00:45:32.000Z",
-        "url": "https://x.com/dkundel/status/2118142638788632749",
+        "id": "2118187391366443318",
+        "canonicalId": "2118187391366443318",
+        "text": "@helloitsaustin @shaokyi @OpenAI Welcome to the team 🫶",
+        "createdAt": "2026-11-05T03:43:22.000Z",
+        "url": "https://x.com/dkundel/status/2118187391366443318",
         "media": []
       }
     }
@@ -1263,7 +1263,17 @@
     "2118124753340756055": "08459ec8db6dffa398b2583608bdbc381d848d990910b90158fa336a4c0d757a",
     "2118124761867845847": "16ff9d84203ba881147f6548c075a76aba28fd2eb4dd214f4ee8c7bd69173121",
     "2118124764413718953": "f0e50e1b80acb5833f28f27d2a8cc11a83b6acb818aa182001e636a9c1b4af17",
-    "2118142638788632749": "6ff2424559baefdfe3af0c2bea2bcae61967ca0a8b6e6cdb6eb1e54024d5353a"
+    "2118142638788632749": "6ff2424559baefdfe3af0c2bea2bcae61967ca0a8b6e6cdb6eb1e54024d5353a",
+    "2118165504955494695": "703ad6fee61abed6265edf9c6e41ab8b54a2f7787f7ec5b18400df978a54ce56",
+    "2118248900381536740": "53a4b7d7fb5b19a80f458689ca4424df9f297976211415513707bc143adfcb34",
+    "2118249806875533399": "a00fc5d0b30d2f4f1975548a6ef5bba0455e73d2b7564a8b29368094161455a7",
+    "2118250462092914736": "e61869310fe54677be32af7b0fc6c46e14ed4deb11300786073b6915ca8a828d",
+    "2118250631165300747": "5847aa6b3b9d6ad3b759fb8b890fad36ab93684ea7b8311909294f861f88ed27",
+    "2118174986544488876": "c6b78027753b2818c68f2a7c0fca9e2dc2368c99d0a51d2b0e63aadf19efbadd",
+    "2118204795219489172": "f265ac52c0401976597f2e245433f30d2a558bad2c01b9c8a30c53a39f082f12",
+    "2118225266363564540": "74ab8ca77428f1e70d726fd2776e0a801f158025ca3d16c27fcdbde90876c0d2",
+    "2118228924052496839": "f09e51592ef4994bcd056ba39d9c436bfa2c9d62572fcf2ba6723b273653efc1",
+    "2118187391366443318": "cb1b13ac478525c2243f2d8ea9c51d7ccb158073c48cd6e49f4d8f5ef48ba703"
   },
   "eventParserVersion": 5
 }
