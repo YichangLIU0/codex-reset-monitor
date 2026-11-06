@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T02:13:05.380Z",
+  "updatedAt": "2026-11-06T09:25:11.806Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-06T02:13:05.377Z",
-    "lastSuccessAt": "2026-11-06T02:13:05.377Z",
+    "lastCheckedAt": "2026-11-06T09:25:11.686Z",
+    "lastSuccessAt": "2026-11-06T09:25:11.686Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118473311822782878",
-    "text": "I forward a lot to my dot inside Slack. Now I can easily share anything on my phone with my dot 🙌 https://t.co/QteABCtvoA",
-    "url": "https://x.com/dkundel/status/2118473311822782878",
-    "postCreatedAt": "2026-11-05T22:39:31.000Z"
+    "id": "2118574897542922697",
+    "text": "@ThePrimeagen My loop caught this. It's the future",
+    "url": "https://x.com/thsottiaux/status/2118574897542922697",
+    "postCreatedAt": "2026-11-06T05:23:11.000Z"
   },
   "latest": {
     "reset": {
