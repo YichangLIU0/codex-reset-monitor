@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T22:00:51.696Z",
+  "updatedAt": "2026-11-06T02:13:05.380Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T22:00:51.693Z",
-    "lastSuccessAt": "2026-11-05T22:00:51.693Z",
+    "lastCheckedAt": "2026-11-06T02:13:05.377Z",
+    "lastSuccessAt": "2026-11-06T02:13:05.377Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118450138087866586",
-    "text": "gpt-6 cyber is a good model",
-    "url": "https://x.com/gdb/status/2118450138087866586",
-    "postCreatedAt": "2026-11-05T21:07:26.000Z"
+    "id": "2118473311822782878",
+    "text": "I forward a lot to my dot inside Slack. Now I can easily share anything on my phone with my dot 🙌 https://t.co/QteABCtvoA",
+    "url": "https://x.com/dkundel/status/2118473311822782878",
+    "postCreatedAt": "2026-11-05T22:39:31.000Z"
   },
   "latest": {
     "reset": {
