@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T01:18:43.048Z",
+  "updatedAt": "2026-11-07T07:17:38.253Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T01:18:43.044Z",
-    "lastSuccessAt": "2026-11-07T01:18:43.044Z",
+    "lastCheckedAt": "2026-11-07T07:17:38.246Z",
+    "lastSuccessAt": "2026-11-07T07:17:38.246Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118874107341389982",
-    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
-    "url": "https://x.com/thsottiaux/status/2118874107341389982",
-    "postCreatedAt": "2026-11-07T01:12:08.000Z"
+    "id": "2118953661820977315",
+    "text": "@theo Also, you really died 25 times? 😭",
+    "url": "https://x.com/thsottiaux/status/2118953661820977315",
+    "postCreatedAt": "2026-11-07T06:28:15.000Z"
   },
   "latest": {
     "reset": {
