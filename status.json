@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T18:43:50.809Z",
+  "updatedAt": "2026-11-07T22:19:27.542Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T18:43:50.803Z",
-    "lastSuccessAt": "2026-11-07T18:43:50.803Z",
+    "lastCheckedAt": "2026-11-07T22:19:27.534Z",
+    "lastSuccessAt": "2026-11-07T22:19:27.534Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119137258779611273",
-    "text": "https://t.co/AUDGdKpvH0",
-    "url": "https://x.com/OpenAIDevs/status/2119137258779611273",
-    "postCreatedAt": "2026-11-07T18:37:48.000Z"
+    "id": "2119190175532437936",
+    "text": "@TheNickWalsh Because I got AIE Code Summit, AI Coding Summit and re:invent 🤣",
+    "url": "https://x.com/dkundel/status/2119190175532437936",
+    "postCreatedAt": "2026-11-07T22:08:05.000Z"
   },
   "latest": {
     "reset": {

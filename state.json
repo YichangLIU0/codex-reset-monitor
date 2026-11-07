@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2119113983118672370",
-      "lastCheckedAt": "2026-11-07T18:43:47.896Z",
-      "lastSuccessAt": "2026-11-07T18:43:47.896Z",
+      "sinceId": "2119161246872429013",
+      "lastCheckedAt": "2026-11-07T22:19:23.515Z",
+      "lastSuccessAt": "2026-11-07T22:19:23.515Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 266,
+      "postsScanned": 268,
       "latestObservedPost": {
-        "id": "2119113983118672370",
-        "canonicalId": "2119113983118672370",
-        "text": "@rezoundous Nothing much",
-        "createdAt": "2026-11-07T17:05:19.000Z",
-        "url": "https://x.com/thsottiaux/status/2119113983118672370",
+        "id": "2119161246872429013",
+        "canonicalId": "2119161246872429013",
+        "text": "@AdamHoltererer What's the before, after?",
+        "createdAt": "2026-11-07T20:13:08.000Z",
+        "url": "https://x.com/thsottiaux/status/2119161246872429013",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-07T18:43:48.083Z",
-      "lastSuccessAt": "2026-11-07T18:43:48.083Z",
+      "lastCheckedAt": "2026-11-07T22:19:24.190Z",
+      "lastSuccessAt": "2026-11-07T22:19:24.190Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2118753277718528402",
-      "lastCheckedAt": "2026-11-07T18:43:48.522Z",
-      "lastSuccessAt": "2026-11-07T18:43:48.522Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 49,
+      "sinceId": "2119179547468005432",
+      "lastCheckedAt": "2026-11-07T22:19:25.657Z",
+      "lastSuccessAt": "2026-11-07T22:19:25.657Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 50,
       "latestObservedPost": {
-        "id": "2118753277718528402",
-        "canonicalId": "2118753277718528402",
-        "text": "dots team is cooking",
-        "createdAt": "2026-11-06T17:12:00.000Z",
-        "url": "https://x.com/gdb/status/2118753277718528402",
+        "id": "2119179547468005432",
+        "canonicalId": "2119179547468005432",
+        "text": "security architecture fundamentals are more important than ever before",
+        "createdAt": "2026-11-07T21:25:51.000Z",
+        "url": "https://x.com/gdb/status/2119179547468005432",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2118795218099253606",
-      "lastCheckedAt": "2026-11-07T18:43:48.789Z",
-      "lastSuccessAt": "2026-11-07T18:43:48.789Z",
+      "lastCheckedAt": "2026-11-07T22:19:25.985Z",
+      "lastSuccessAt": "2026-11-07T22:19:25.985Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2119137258779611273",
-      "lastCheckedAt": "2026-11-07T18:43:49.561Z",
-      "lastSuccessAt": "2026-11-07T18:43:49.561Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-07T22:19:26.709Z",
+      "lastSuccessAt": "2026-11-07T22:19:26.709Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 152,
       "latestObservedPost": {
         "id": "2119137258779611273",
@@ -109,17 +109,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2118789020931264817",
-      "lastCheckedAt": "2026-11-07T18:43:50.803Z",
-      "lastSuccessAt": "2026-11-07T18:43:50.803Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 102,
+      "sinceId": "2119190175532437936",
+      "lastCheckedAt": "2026-11-07T22:19:27.534Z",
+      "lastSuccessAt": "2026-11-07T22:19:27.534Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 104,
       "latestObservedPost": {
-        "id": "2118789020931264817",
-        "canonicalId": "2118789020931264817",
-        "text": "@Dimillian @PaulSolt Straight to jail",
-        "createdAt": "2026-11-06T19:34:02.000Z",
-        "url": "https://x.com/dkundel/status/2118789020931264817",
+        "id": "2119190175532437936",
+        "canonicalId": "2119190175532437936",
+        "text": "@TheNickWalsh Because I got AIE Code Summit, AI Coding Summit and re:invent 🤣",
+        "createdAt": "2026-11-07T22:08:05.000Z",
+        "url": "https://x.com/dkundel/status/2119190175532437936",
         "media": []
       }
     }
@@ -1339,7 +1339,12 @@
     "2118953661820977315": "db38a2bc40a8d21e5b8e8afea15533d97c25bc9ba98e8174cd752e9fc6f64ad9",
     "2119113859747426370": "5d0ddd1e64060b10bd9c2600def0e32f1231461917c1e57f754520447dabb741",
     "2119113983118672370": "b0e7aae87602efa2652913245708e3d52d0a4df0bd123ccdba42810a0fd75401",
-    "2119137258779611273": "99a125d2bdf8dea93b1d4b5a1336b661c446b0016f3e0e70bac9f18200d48ad2"
+    "2119137258779611273": "99a125d2bdf8dea93b1d4b5a1336b661c446b0016f3e0e70bac9f18200d48ad2",
+    "2119160727164604874": "7d4010a45e29be51aadaa5ef6828c1414f968b597b7ab1c0e6889409f636a3df",
+    "2119161246872429013": "1c064b928924cfe81c59d2132bd4645f56f4be61fd7b2790bfe4f78b2c515509",
+    "2119179547468005432": "8ebceb151dfc866f7e8c6ac7db6abcf604d340a1931bfe7b4fa723c21d39f1c9",
+    "2119182856102801621": "a78d7902816fc7fb92d25f807bdc6c954cd56338ed0cb171f410b43bfcbd56df",
+    "2119190175532437936": "7c12484cd174ec31ba7889a6ed7eca2eedb0bd0ca7ea43988426956876e85137"
   },
   "eventParserVersion": 5
 }
