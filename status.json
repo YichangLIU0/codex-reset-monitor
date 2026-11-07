@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T14:08:32.940Z",
+  "updatedAt": "2026-11-07T18:43:50.809Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T14:08:32.935Z",
-    "lastSuccessAt": "2026-11-07T14:08:32.935Z",
+    "lastCheckedAt": "2026-11-07T18:43:50.803Z",
+    "lastSuccessAt": "2026-11-07T18:43:50.803Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2118953661820977315",
-    "text": "@theo Also, you really died 25 times? 😭",
-    "url": "https://x.com/thsottiaux/status/2118953661820977315",
-    "postCreatedAt": "2026-11-07T06:28:15.000Z"
+    "id": "2119137258779611273",
+    "text": "https://t.co/AUDGdKpvH0",
+    "url": "https://x.com/OpenAIDevs/status/2119137258779611273",
+    "postCreatedAt": "2026-11-07T18:37:48.000Z"
   },
   "latest": {
     "reset": {

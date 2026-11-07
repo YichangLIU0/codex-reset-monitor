@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2118953661820977315",
-      "lastCheckedAt": "2026-11-07T14:08:30.631Z",
-      "lastSuccessAt": "2026-11-07T14:08:30.631Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 264,
+      "sinceId": "2119113983118672370",
+      "lastCheckedAt": "2026-11-07T18:43:47.896Z",
+      "lastSuccessAt": "2026-11-07T18:43:47.896Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 266,
       "latestObservedPost": {
-        "id": "2118953661820977315",
-        "canonicalId": "2118953661820977315",
-        "text": "@theo Also, you really died 25 times? 😭",
-        "createdAt": "2026-11-07T06:28:15.000Z",
-        "url": "https://x.com/thsottiaux/status/2118953661820977315",
+        "id": "2119113983118672370",
+        "canonicalId": "2119113983118672370",
+        "text": "@rezoundous Nothing much",
+        "createdAt": "2026-11-07T17:05:19.000Z",
+        "url": "https://x.com/thsottiaux/status/2119113983118672370",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-07T14:08:30.820Z",
-      "lastSuccessAt": "2026-11-07T14:08:30.820Z",
+      "lastCheckedAt": "2026-11-07T18:43:48.083Z",
+      "lastSuccessAt": "2026-11-07T18:43:48.083Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2118753277718528402",
-      "lastCheckedAt": "2026-11-07T14:08:31.386Z",
-      "lastSuccessAt": "2026-11-07T14:08:31.386Z",
+      "lastCheckedAt": "2026-11-07T18:43:48.522Z",
+      "lastSuccessAt": "2026-11-07T18:43:48.522Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 49,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2118795218099253606",
-      "lastCheckedAt": "2026-11-07T14:08:31.731Z",
-      "lastSuccessAt": "2026-11-07T14:08:31.731Z",
+      "lastCheckedAt": "2026-11-07T18:43:48.789Z",
+      "lastSuccessAt": "2026-11-07T18:43:48.789Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2118856568485896621",
-      "lastCheckedAt": "2026-11-07T14:08:32.077Z",
-      "lastSuccessAt": "2026-11-07T14:08:32.077Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 151,
+      "sinceId": "2119137258779611273",
+      "lastCheckedAt": "2026-11-07T18:43:49.561Z",
+      "lastSuccessAt": "2026-11-07T18:43:49.561Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 152,
       "latestObservedPost": {
-        "id": "2118856568485896621",
-        "canonicalId": "2118856568485896621",
-        "text": "You can choose from starter projects for the OpenAI API across agents, creative tools, data visualization, and voice. Open one in Codex and build on it.\n\nFind a project to remix:\nhttps://t.co/G8q3pUnwyJ",
-        "createdAt": "2026-11-07T00:02:27.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2118856568485896621",
+        "id": "2119137258779611273",
+        "canonicalId": "2119137258779611273",
+        "text": "https://t.co/AUDGdKpvH0",
+        "createdAt": "2026-11-07T18:37:48.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2119137258779611273",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2118789020931264817",
-      "lastCheckedAt": "2026-11-07T14:08:32.935Z",
-      "lastSuccessAt": "2026-11-07T14:08:32.935Z",
+      "lastCheckedAt": "2026-11-07T18:43:50.803Z",
+      "lastSuccessAt": "2026-11-07T18:43:50.803Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 102,
       "latestObservedPost": {
@@ -1336,7 +1336,10 @@
     "2118953187344560319": "6f4e684365c79526d614cd037841798914114a217ec1c006e6f5ef5d9ecd9d6d",
     "2118953362725159104": "72ce60358613411e68ebea6dfc553fa4141cede1e9d2942dcc76ad22aa876e50",
     "2118953500432650621": "b562eca3ea23639b29e7602331ce57e5e25b4ec78ec62265dcf289f0fc3a1407",
-    "2118953661820977315": "db38a2bc40a8d21e5b8e8afea15533d97c25bc9ba98e8174cd752e9fc6f64ad9"
+    "2118953661820977315": "db38a2bc40a8d21e5b8e8afea15533d97c25bc9ba98e8174cd752e9fc6f64ad9",
+    "2119113859747426370": "5d0ddd1e64060b10bd9c2600def0e32f1231461917c1e57f754520447dabb741",
+    "2119113983118672370": "b0e7aae87602efa2652913245708e3d52d0a4df0bd123ccdba42810a0fd75401",
+    "2119137258779611273": "99a125d2bdf8dea93b1d4b5a1336b661c446b0016f3e0e70bac9f18200d48ad2"
   },
   "eventParserVersion": 5
 }
