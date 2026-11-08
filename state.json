@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2119309070658318698",
-      "lastCheckedAt": "2026-11-08T07:52:25.980Z",
-      "lastSuccessAt": "2026-11-08T07:52:25.980Z",
-      "lastRunStatus": "checked-10-posts",
+      "lastCheckedAt": "2026-11-08T14:35:22.566Z",
+      "lastSuccessAt": "2026-11-08T14:35:22.566Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 280,
       "latestObservedPost": {
         "id": "2119309070658318698",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-08T07:52:27.284Z",
-      "lastSuccessAt": "2026-11-08T07:52:27.284Z",
+      "lastCheckedAt": "2026-11-08T14:35:23.458Z",
+      "lastSuccessAt": "2026-11-08T14:35:23.458Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2119179547468005432",
-      "lastCheckedAt": "2026-11-08T07:52:27.811Z",
-      "lastSuccessAt": "2026-11-08T07:52:27.811Z",
+      "lastCheckedAt": "2026-11-08T14:35:24.277Z",
+      "lastSuccessAt": "2026-11-08T14:35:24.277Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 50,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2118795218099253606",
-      "lastCheckedAt": "2026-11-08T07:52:28.513Z",
-      "lastSuccessAt": "2026-11-08T07:52:28.513Z",
+      "lastCheckedAt": "2026-11-08T14:35:24.609Z",
+      "lastSuccessAt": "2026-11-08T14:35:24.609Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2119137258779611273",
-      "lastCheckedAt": "2026-11-08T07:52:28.846Z",
-      "lastSuccessAt": "2026-11-08T07:52:28.846Z",
+      "lastCheckedAt": "2026-11-08T14:35:24.969Z",
+      "lastSuccessAt": "2026-11-08T14:35:24.969Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 152,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2119190175532437936",
-      "lastCheckedAt": "2026-11-08T07:52:29.286Z",
-      "lastSuccessAt": "2026-11-08T07:52:29.286Z",
+      "lastCheckedAt": "2026-11-08T14:35:25.496Z",
+      "lastSuccessAt": "2026-11-08T14:35:25.496Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 104,
       "latestObservedPost": {
@@ -129,7 +129,6 @@
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
-      "canonicalId": "2119308687676432672",
       "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
       "createdAt": "2026-11-08T05:59:00.000Z",
       "url": "https://x.com/thsottiaux/status/2119308687676432672",
@@ -149,10 +148,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-08T07:52:29.288Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-08T07:52:29.288Z"
+      ]
     },
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
