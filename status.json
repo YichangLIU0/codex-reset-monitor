@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T01:30:46.083Z",
+  "updatedAt": "2026-11-08T07:52:29.293Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-08T01:30:46.077Z",
-    "lastSuccessAt": "2026-11-08T01:30:46.077Z",
+    "lastCheckedAt": "2026-11-08T07:52:29.286Z",
+    "lastSuccessAt": "2026-11-08T07:52:29.286Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119232059537514598",
-    "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-    "url": "https://x.com/thsottiaux/status/2119232059537514598",
-    "postCreatedAt": "2026-11-08T00:54:31.000Z"
+    "id": "2119309070658318698",
+    "text": "@alexmichael @claudeai @bot @Meta @OpenAI Alfred plays to win",
+    "url": "https://x.com/thsottiaux/status/2119309070658318698",
+    "postCreatedAt": "2026-11-08T06:00:31.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
+      "id": "2119308687676432672",
+      "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
+      "url": "https://x.com/thsottiaux/status/2119308687676432672",
+      "postCreatedAt": "2026-11-08T05:59:00.000Z",
+      "detectedAt": "2026-11-08T07:52:25.980Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
       "id": "2116942192497533418",
@@ -529,30 +553,6 @@
             "end": null,
             "evidence": "Day 8/ Reset",
             "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
-      "id": "2109132167112782291",
-      "text": "Put the reset in the bag. All propagated.",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291",
-      "postCreatedAt": "2026-10-11T04:01:09.000Z",
-      "detectedAt": "2026-10-11T15:24:32.308Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Put the reset in the bag",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Put the reset in the bag",
-            "note": "原文没有可确定的时间"
           }
         }
       ],

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2119232059537514598",
-      "lastCheckedAt": "2026-11-08T01:30:42.968Z",
-      "lastSuccessAt": "2026-11-08T01:30:42.968Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 270,
+      "sinceId": "2119309070658318698",
+      "lastCheckedAt": "2026-11-08T07:52:25.980Z",
+      "lastSuccessAt": "2026-11-08T07:52:25.980Z",
+      "lastRunStatus": "checked-10-posts",
+      "postsScanned": 280,
       "latestObservedPost": {
-        "id": "2119232059537514598",
-        "canonicalId": "2119232059537514598",
-        "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-        "createdAt": "2026-11-08T00:54:31.000Z",
-        "url": "https://x.com/thsottiaux/status/2119232059537514598",
+        "id": "2119309070658318698",
+        "canonicalId": "2119309070658318698",
+        "text": "@alexmichael @claudeai @bot @Meta @OpenAI Alfred plays to win",
+        "createdAt": "2026-11-08T06:00:31.000Z",
+        "url": "https://x.com/thsottiaux/status/2119309070658318698",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-08T01:30:44.102Z",
-      "lastSuccessAt": "2026-11-08T01:30:44.102Z",
+      "lastCheckedAt": "2026-11-08T07:52:27.284Z",
+      "lastSuccessAt": "2026-11-08T07:52:27.284Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2119179547468005432",
-      "lastCheckedAt": "2026-11-08T01:30:44.589Z",
-      "lastSuccessAt": "2026-11-08T01:30:44.589Z",
+      "lastCheckedAt": "2026-11-08T07:52:27.811Z",
+      "lastSuccessAt": "2026-11-08T07:52:27.811Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 50,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2118795218099253606",
-      "lastCheckedAt": "2026-11-08T01:30:45.225Z",
-      "lastSuccessAt": "2026-11-08T01:30:45.225Z",
+      "lastCheckedAt": "2026-11-08T07:52:28.513Z",
+      "lastSuccessAt": "2026-11-08T07:52:28.513Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2119137258779611273",
-      "lastCheckedAt": "2026-11-08T01:30:45.518Z",
-      "lastSuccessAt": "2026-11-08T01:30:45.518Z",
+      "lastCheckedAt": "2026-11-08T07:52:28.846Z",
+      "lastSuccessAt": "2026-11-08T07:52:28.846Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 152,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2119190175532437936",
-      "lastCheckedAt": "2026-11-08T01:30:46.077Z",
-      "lastSuccessAt": "2026-11-08T01:30:46.077Z",
+      "lastCheckedAt": "2026-11-08T07:52:29.286Z",
+      "lastSuccessAt": "2026-11-08T07:52:29.286Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 104,
       "latestObservedPost": {
@@ -126,6 +126,34 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
+      "id": "2119308687676432672",
+      "canonicalId": "2119308687676432672",
+      "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
+      "createdAt": "2026-11-08T05:59:00.000Z",
+      "url": "https://x.com/thsottiaux/status/2119308687676432672",
+      "media": [],
+      "detectedAt": "2026-11-08T07:52:25.980Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-08T07:52:29.288Z"
+    },
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
       "id": "2116942192497533418",
@@ -658,30 +686,6 @@
       "channels": [
         "github-actions"
       ]
-    },
-    {
-      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
-      "id": "2109132167112782291",
-      "text": "Put the reset in the bag. All propagated.",
-      "createdAt": "2026-10-11T04:01:09.000Z",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291",
-      "media": [],
-      "detectedAt": "2026-10-11T15:24:32.308Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Put the reset in the bag",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Put the reset in the bag",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "channels": []
     }
   ],
   "outbox": [],
@@ -1346,7 +1350,17 @@
     "2119182856102801621": "a78d7902816fc7fb92d25f807bdc6c954cd56338ed0cb171f410b43bfcbd56df",
     "2119190175532437936": "7c12484cd174ec31ba7889a6ed7eca2eedb0bd0ca7ea43988426956876e85137",
     "2119211022410228094": "f9377e02659713e34d7909918591505b72f8642ce0361204eb4c47c01976dafd",
-    "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25"
+    "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
+    "2119293235353006321": "6ecf44302274bfa89da4c70708e04617b4a0b74204496e888ad11f80d3267edd",
+    "2119294044480401585": "1fe79fd58fd142579549cdda0ea91341d5288960e3c50b678cc5b2407d458231",
+    "2119296267545419987": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8",
+    "2119303444683255991": "27db6b76437e2df38dca524ef95dd2f2e6d973a903d766feed947b3339584492",
+    "2119304055126425939": "951e75fdef278beef074b370d46a48662e76b9d27260d77d2a49cc11958d89d7",
+    "2119304841873023158": "de970059a54690504414afe2928fe2e4b62a71cd35ee1ccf5ff84c17a1e82c76",
+    "2119305294291612140": "8a79c22146858a5e1b29614c2d247b5cf9e086e32dd21b4a98f6a4f1ddc54513",
+    "2119305379100450928": "c2c3f3ff8958c2752ca1cf91fcb76a6287f8161d1cf35b59b3e8549256935b31",
+    "2119308687676432672": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
+    "2119309070658318698": "d8ef0e6c6eda079386f56be8a18afac7363e384c3abf8487114b0085b83e3073"
   },
   "eventParserVersion": 5
 }
