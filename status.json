@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T22:19:27.542Z",
+  "updatedAt": "2026-11-08T01:30:46.083Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T22:19:27.534Z",
-    "lastSuccessAt": "2026-11-07T22:19:27.534Z",
+    "lastCheckedAt": "2026-11-08T01:30:46.077Z",
+    "lastSuccessAt": "2026-11-08T01:30:46.077Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119190175532437936",
-    "text": "@TheNickWalsh Because I got AIE Code Summit, AI Coding Summit and re:invent 🤣",
-    "url": "https://x.com/dkundel/status/2119190175532437936",
-    "postCreatedAt": "2026-11-07T22:08:05.000Z"
+    "id": "2119232059537514598",
+    "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
+    "url": "https://x.com/thsottiaux/status/2119232059537514598",
+    "postCreatedAt": "2026-11-08T00:54:31.000Z"
   },
   "latest": {
     "reset": {
