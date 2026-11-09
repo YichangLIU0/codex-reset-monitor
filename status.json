@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T09:38:47.996Z",
+  "updatedAt": "2026-11-09T20:03:50.957Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-09T09:38:47.990Z",
-    "lastSuccessAt": "2026-11-09T09:38:47.990Z",
+    "lastCheckedAt": "2026-11-09T20:03:50.952Z",
+    "lastSuccessAt": "2026-11-09T20:03:50.952Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119631547905220621",
-    "text": "@derrickcchoi 😉",
-    "url": "https://x.com/OpenAIDevs/status/2119631547905220621",
-    "postCreatedAt": "2026-11-09T03:21:56.000Z"
+    "id": "2119883189028266171",
+    "text": "A few things to try with your dot:\n\nBuilding an iOS app? You can ask your dot to test a change in Xcode on a second Mac and send you screenshots of how it looks.\n\nNeed to reproduce a bug? Ask your dot to run the same test on your laptop and on a machine with an older SDK. You can compare the two results without changing your everyday setup.\n\nTesting UI updates? Have your dot click through a flow on a second computer and capture where things break. That keeps your own screen and cursor free while you work on the fix.\n\nhttps://t.co/XkLqx8xdr8",
+    "url": "https://x.com/OpenAIDevs/status/2119883189028266171",
+    "postCreatedAt": "2026-11-09T20:01:52.000Z"
   },
   "latest": {
     "reset": {
