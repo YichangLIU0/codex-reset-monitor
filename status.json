@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T02:04:18.044Z",
+  "updatedAt": "2026-11-09T09:38:47.996Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-09T02:04:18.038Z",
-    "lastSuccessAt": "2026-11-09T02:04:18.038Z",
+    "lastCheckedAt": "2026-11-09T09:38:47.990Z",
+    "lastSuccessAt": "2026-11-09T09:38:47.990Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119611877810639072",
-    "text": "@maria_rcks Congrats to Theo",
-    "url": "https://x.com/thsottiaux/status/2119611877810639072",
-    "postCreatedAt": "2026-11-09T02:03:46.000Z"
+    "id": "2119631547905220621",
+    "text": "@derrickcchoi 😉",
+    "url": "https://x.com/OpenAIDevs/status/2119631547905220621",
+    "postCreatedAt": "2026-11-09T03:21:56.000Z"
   },
   "latest": {
     "reset": {
