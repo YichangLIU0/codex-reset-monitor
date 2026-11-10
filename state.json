@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2119611877810639072",
-      "lastCheckedAt": "2026-11-09T20:03:47.445Z",
-      "lastSuccessAt": "2026-11-09T20:03:47.445Z",
+      "lastCheckedAt": "2026-11-10T02:39:55.026Z",
+      "lastSuccessAt": "2026-11-10T02:39:55.026Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 283,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-09T20:03:48.182Z",
-      "lastSuccessAt": "2026-11-09T20:03:48.182Z",
+      "lastCheckedAt": "2026-11-10T02:39:55.643Z",
+      "lastSuccessAt": "2026-11-10T02:39:55.643Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2119834216787747139",
-      "lastCheckedAt": "2026-11-09T20:03:49.041Z",
-      "lastSuccessAt": "2026-11-09T20:03:49.041Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-10T02:39:56.225Z",
+      "lastSuccessAt": "2026-11-10T02:39:56.225Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 51,
       "latestObservedPost": {
         "id": "2119834216787747139",
@@ -65,17 +65,17 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2118795218099253606",
-      "lastCheckedAt": "2026-11-09T20:03:49.388Z",
-      "lastSuccessAt": "2026-11-09T20:03:49.388Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 56,
+      "sinceId": "2119913172039868579",
+      "lastCheckedAt": "2026-11-10T02:39:56.758Z",
+      "lastSuccessAt": "2026-11-10T02:39:56.758Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 57,
       "latestObservedPost": {
-        "id": "2118795218099253606",
-        "canonicalId": "2118795218099253606",
-        "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating and comparing the severity of cyber jailbreaks, including the capabilities they unlock and how readily they can be used. Shared approaches like this can help the AI and security communities build a clearer evidence base and prioritize improvements to safeguards.\"  - OpenAI's Sasha Baker, Head of National Security Policy\n\nhttps://t.co/epOq98YPau",
-        "createdAt": "2026-11-06T19:58:39.000Z",
-        "url": "https://x.com/OpenAI/status/2118795218099253606",
+        "id": "2119913172039868579",
+        "canonicalId": "2119913172039868579",
+        "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5",
+        "createdAt": "2026-11-09T22:01:00.000Z",
+        "url": "https://x.com/OpenAI/status/2119913172039868579",
         "media": []
       }
     },
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2119883189028266171",
-      "lastCheckedAt": "2026-11-09T20:03:50.110Z",
-      "lastSuccessAt": "2026-11-09T20:03:50.110Z",
-      "lastRunStatus": "checked-10-posts",
+      "lastCheckedAt": "2026-11-10T02:39:57.288Z",
+      "lastSuccessAt": "2026-11-10T02:39:57.288Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 163,
       "latestObservedPost": {
         "id": "2119883189028266171",
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2119190175532437936",
-      "lastCheckedAt": "2026-11-09T20:03:50.952Z",
-      "lastSuccessAt": "2026-11-09T20:03:50.952Z",
+      "lastCheckedAt": "2026-11-10T02:39:58.187Z",
+      "lastSuccessAt": "2026-11-10T02:39:58.187Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 104,
       "latestObservedPost": {
@@ -1374,7 +1374,8 @@
     "2119869470642463057": "f8438b5cacb3c938677193ee8321f3c4960123b19f26ab9b104772b6ee5127de",
     "2119880895444529302": "14ad8c4f042622d240f13c9ee4db074c2ae26266c05598da063e6bf38f4eebdf",
     "2119883176726409645": "dd443298b3ae21e172ac13c6c1633e7a592344397f2c1db396ea0636d184b91b",
-    "2119883189028266171": "ebc43b1f843299c18c178a514287ae3ea379f1d835812c4aaee4cce257fe07a7"
+    "2119883189028266171": "ebc43b1f843299c18c178a514287ae3ea379f1d835812c4aaee4cce257fe07a7",
+    "2119913172039868579": "f4be5daca5af684e8bd4190eb737e31692088ca0ca93aa8717be8730f1ea6edc"
   },
   "eventParserVersion": 5
 }
