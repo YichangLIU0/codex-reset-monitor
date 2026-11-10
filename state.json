@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2120021043876106429",
-      "lastCheckedAt": "2026-11-10T10:24:19.281Z",
-      "lastSuccessAt": "2026-11-10T10:24:19.281Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-10T18:01:54.033Z",
+      "lastSuccessAt": "2026-11-10T18:01:54.033Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 285,
       "latestObservedPost": {
         "id": "2120021043876106429",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-10T10:24:20.581Z",
-      "lastSuccessAt": "2026-11-10T10:24:20.581Z",
+      "lastCheckedAt": "2026-11-10T18:01:54.779Z",
+      "lastSuccessAt": "2026-11-10T18:01:54.779Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2119834216787747139",
-      "lastCheckedAt": "2026-11-10T10:24:21.100Z",
-      "lastSuccessAt": "2026-11-10T10:24:21.100Z",
+      "lastCheckedAt": "2026-11-10T18:01:55.366Z",
+      "lastSuccessAt": "2026-11-10T18:01:55.366Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 51,
       "latestObservedPost": {
@@ -65,34 +65,42 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2119913172039868579",
-      "lastCheckedAt": "2026-11-10T10:24:21.886Z",
-      "lastSuccessAt": "2026-11-10T10:24:21.886Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 57,
+      "sinceId": "2120202353907486826",
+      "lastCheckedAt": "2026-11-10T18:01:57.717Z",
+      "lastSuccessAt": "2026-11-10T18:01:57.717Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 58,
       "latestObservedPost": {
-        "id": "2119913172039868579",
-        "canonicalId": "2119913172039868579",
-        "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5",
-        "createdAt": "2026-11-09T22:01:00.000Z",
-        "url": "https://x.com/OpenAI/status/2119913172039868579",
-        "media": []
+        "id": "2120202353907486826",
+        "canonicalId": "2120202353907486826",
+        "text": "We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.\n\nWorking with our frontier models, we've identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we're building to help other security teams strengthen their defenses.\n\n@gdb shares what we've learned and why security teams should keep putting the latest models to work as capabilities improve.\n\nTune in on November 12 at 10 a.m. PT: https://t.co/jYly2SEDM0",
+        "createdAt": "2026-11-10T17:10:07.000Z",
+        "url": "https://x.com/OpenAI/status/2120202353907486826",
+        "media": [
+          {
+            "mediaKey": "2120202060255928320",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2120202060255928320/vid/avc1/3840x2160/km9YLfTxPuJO285E.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120202060255928320/img/UsvVqShqoZcUGVhy.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2119883189028266171",
-      "lastCheckedAt": "2026-11-10T10:24:22.333Z",
-      "lastSuccessAt": "2026-11-10T10:24:22.333Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 163,
+      "sinceId": "2120212598385733732",
+      "lastCheckedAt": "2026-11-10T18:01:58.707Z",
+      "lastSuccessAt": "2026-11-10T18:01:58.707Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 165,
       "latestObservedPost": {
-        "id": "2119883189028266171",
-        "canonicalId": "2119883189028266171",
-        "text": "A few things to try with your dot:\n\nBuilding an iOS app? You can ask your dot to test a change in Xcode on a second Mac and send you screenshots of how it looks.\n\nNeed to reproduce a bug? Ask your dot to run the same test on your laptop and on a machine with an older SDK. You can compare the two results without changing your everyday setup.\n\nTesting UI updates? Have your dot click through a flow on a second computer and capture where things break. That keeps your own screen and cursor free while you work on the fix.\n\nhttps://t.co/XkLqx8xdr8",
-        "createdAt": "2026-11-09T20:01:52.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2119883189028266171",
+        "id": "2120212598385733732",
+        "canonicalId": "2120212598385733732",
+        "text": "Your workspace admin can enable access and set usage limits for supported tools, including open-source tools.\n\nhttps://t.co/4Ene44gUpc",
+        "createdAt": "2026-11-10T17:50:49.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2120212598385733732",
         "media": []
       }
     },
@@ -109,18 +117,26 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2119190175532437936",
-      "lastCheckedAt": "2026-11-10T10:24:23.208Z",
-      "lastSuccessAt": "2026-11-10T10:24:23.208Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 104,
+      "sinceId": "2120196021116608519",
+      "lastCheckedAt": "2026-11-10T18:01:59.703Z",
+      "lastSuccessAt": "2026-11-10T18:01:59.703Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 105,
       "latestObservedPost": {
-        "id": "2119190175532437936",
-        "canonicalId": "2119190175532437936",
-        "text": "@TheNickWalsh Because I got AIE Code Summit, AI Coding Summit and re:invent 🤣",
-        "createdAt": "2026-11-07T22:08:05.000Z",
-        "url": "https://x.com/dkundel/status/2119190175532437936",
-        "media": []
+        "id": "2120196021116608519",
+        "canonicalId": "2120196021116608519",
+        "text": "Is @charlierguo on an important business call or testing his @aiDotEngineer demo? Only one way to find out. Join us in 15 min in Ballroom 6 https://t.co/DQle16n65W",
+        "createdAt": "2026-11-10T16:44:57.000Z",
+        "url": "https://x.com/dkundel/status/2120196021116608519",
+        "media": [
+          {
+            "mediaKey": "2120196016783892481",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWxzC0KaIAEegLn.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     }
   },
@@ -1377,7 +1393,11 @@
     "2119883189028266171": "ebc43b1f843299c18c178a514287ae3ea379f1d835812c4aaee4cce257fe07a7",
     "2119913172039868579": "f4be5daca5af684e8bd4190eb737e31692088ca0ca93aa8717be8730f1ea6edc",
     "2120018604691521609": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
-    "2120021043876106429": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7"
+    "2120021043876106429": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7",
+    "2120202353907486826": "0b496c8ab30e087f1bd7845f9eddc3d9a903a58b8e7bb00a3e7ad6535468c18c",
+    "2120212596850663712": "780675ee6391eb3257b1435c779bb734b708ab11b662f19fe9a2623a744247c2",
+    "2120212598385733732": "07a230d499e9d983c0a545ca816c3df9209d9a10bbdb6a723484b85d85d09ecc",
+    "2120196021116608519": "7adfe832706bed7bd1e00398796047accf6fb1304747d0c9b5b812e6ac757404"
   },
   "eventParserVersion": 5
 }

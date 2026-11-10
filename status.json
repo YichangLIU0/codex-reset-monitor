@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T10:24:23.215Z",
+  "updatedAt": "2026-11-10T18:01:59.744Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-10T10:24:23.208Z",
-    "lastSuccessAt": "2026-11-10T10:24:23.208Z",
+    "lastCheckedAt": "2026-11-10T18:01:59.703Z",
+    "lastSuccessAt": "2026-11-10T18:01:59.703Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2120021043876106429",
-    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
-    "url": "https://x.com/thsottiaux/status/2120021043876106429",
-    "postCreatedAt": "2026-11-10T05:09:39.000Z"
+    "id": "2120212598385733732",
+    "text": "Your workspace admin can enable access and set usage limits for supported tools, including open-source tools.\n\nhttps://t.co/4Ene44gUpc",
+    "url": "https://x.com/OpenAIDevs/status/2120212598385733732",
+    "postCreatedAt": "2026-11-10T17:50:49.000Z"
   },
   "latest": {
     "reset": {
