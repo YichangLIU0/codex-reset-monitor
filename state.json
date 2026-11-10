@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2119611877810639072",
-      "lastCheckedAt": "2026-11-10T02:39:55.026Z",
-      "lastSuccessAt": "2026-11-10T02:39:55.026Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 283,
+      "sinceId": "2120021043876106429",
+      "lastCheckedAt": "2026-11-10T10:24:19.281Z",
+      "lastSuccessAt": "2026-11-10T10:24:19.281Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 285,
       "latestObservedPost": {
-        "id": "2119611877810639072",
-        "canonicalId": "2119611877810639072",
-        "text": "@maria_rcks Congrats to Theo",
-        "createdAt": "2026-11-09T02:03:46.000Z",
-        "url": "https://x.com/thsottiaux/status/2119611877810639072",
+        "id": "2120021043876106429",
+        "canonicalId": "2120021043876106429",
+        "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+        "createdAt": "2026-11-10T05:09:39.000Z",
+        "url": "https://x.com/thsottiaux/status/2120021043876106429",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-10T02:39:55.643Z",
-      "lastSuccessAt": "2026-11-10T02:39:55.643Z",
+      "lastCheckedAt": "2026-11-10T10:24:20.581Z",
+      "lastSuccessAt": "2026-11-10T10:24:20.581Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2119834216787747139",
-      "lastCheckedAt": "2026-11-10T02:39:56.225Z",
-      "lastSuccessAt": "2026-11-10T02:39:56.225Z",
+      "lastCheckedAt": "2026-11-10T10:24:21.100Z",
+      "lastSuccessAt": "2026-11-10T10:24:21.100Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 51,
       "latestObservedPost": {
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2119913172039868579",
-      "lastCheckedAt": "2026-11-10T02:39:56.758Z",
-      "lastSuccessAt": "2026-11-10T02:39:56.758Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-10T10:24:21.886Z",
+      "lastSuccessAt": "2026-11-10T10:24:21.886Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 57,
       "latestObservedPost": {
         "id": "2119913172039868579",
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2119883189028266171",
-      "lastCheckedAt": "2026-11-10T02:39:57.288Z",
-      "lastSuccessAt": "2026-11-10T02:39:57.288Z",
+      "lastCheckedAt": "2026-11-10T10:24:22.333Z",
+      "lastSuccessAt": "2026-11-10T10:24:22.333Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 163,
       "latestObservedPost": {
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2119190175532437936",
-      "lastCheckedAt": "2026-11-10T02:39:58.187Z",
-      "lastSuccessAt": "2026-11-10T02:39:58.187Z",
+      "lastCheckedAt": "2026-11-10T10:24:23.208Z",
+      "lastSuccessAt": "2026-11-10T10:24:23.208Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 104,
       "latestObservedPost": {
@@ -1375,7 +1375,9 @@
     "2119880895444529302": "14ad8c4f042622d240f13c9ee4db074c2ae26266c05598da063e6bf38f4eebdf",
     "2119883176726409645": "dd443298b3ae21e172ac13c6c1633e7a592344397f2c1db396ea0636d184b91b",
     "2119883189028266171": "ebc43b1f843299c18c178a514287ae3ea379f1d835812c4aaee4cce257fe07a7",
-    "2119913172039868579": "f4be5daca5af684e8bd4190eb737e31692088ca0ca93aa8717be8730f1ea6edc"
+    "2119913172039868579": "f4be5daca5af684e8bd4190eb737e31692088ca0ca93aa8717be8730f1ea6edc",
+    "2120018604691521609": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
+    "2120021043876106429": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7"
   },
   "eventParserVersion": 5
 }

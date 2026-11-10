@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T02:39:58.193Z",
+  "updatedAt": "2026-11-10T10:24:23.215Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-10T02:39:58.187Z",
-    "lastSuccessAt": "2026-11-10T02:39:58.187Z",
+    "lastCheckedAt": "2026-11-10T10:24:23.208Z",
+    "lastSuccessAt": "2026-11-10T10:24:23.208Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2119913172039868579",
-    "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://t.co/tc0lBqFdS5",
-    "url": "https://x.com/OpenAI/status/2119913172039868579",
-    "postCreatedAt": "2026-11-09T22:01:00.000Z"
+    "id": "2120021043876106429",
+    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+    "url": "https://x.com/thsottiaux/status/2120021043876106429",
+    "postCreatedAt": "2026-11-10T05:09:39.000Z"
   },
   "latest": {
     "reset": {
