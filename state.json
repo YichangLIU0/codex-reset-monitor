@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2120304649807020238",
-      "lastCheckedAt": "2026-11-11T02:44:56.317Z",
-      "lastSuccessAt": "2026-11-11T02:44:56.317Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 289,
+      "sinceId": "2120411235716063700",
+      "lastCheckedAt": "2026-11-11T09:52:30.471Z",
+      "lastSuccessAt": "2026-11-11T09:52:30.471Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 292,
       "latestObservedPost": {
-        "id": "2120304649807020238",
-        "canonicalId": "2120304649807020238",
-        "text": "@embw_l0x We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead.",
-        "createdAt": "2026-11-10T23:56:36.000Z",
-        "url": "https://x.com/thsottiaux/status/2120304649807020238",
+        "id": "2120411235716063700",
+        "canonicalId": "2120411235716063700",
+        "text": "@iso_morph Many such cases.",
+        "createdAt": "2026-11-11T07:00:08.000Z",
+        "url": "https://x.com/thsottiaux/status/2120411235716063700",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-11T02:44:56.895Z",
-      "lastSuccessAt": "2026-11-11T02:44:56.895Z",
+      "lastCheckedAt": "2026-11-11T09:52:31.593Z",
+      "lastSuccessAt": "2026-11-11T09:52:31.593Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2120257205324648811",
-      "lastCheckedAt": "2026-11-11T02:44:57.426Z",
-      "lastSuccessAt": "2026-11-11T02:44:57.426Z",
+      "lastCheckedAt": "2026-11-11T09:52:32.087Z",
+      "lastSuccessAt": "2026-11-11T09:52:32.087Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 53,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-11T02:44:57.741Z",
-      "lastSuccessAt": "2026-11-11T02:44:57.741Z",
+      "lastCheckedAt": "2026-11-11T09:52:32.410Z",
+      "lastSuccessAt": "2026-11-11T09:52:32.410Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2120258357533749755",
-      "lastCheckedAt": "2026-11-11T02:44:58.594Z",
-      "lastSuccessAt": "2026-11-11T02:44:58.594Z",
+      "lastCheckedAt": "2026-11-11T09:52:33.301Z",
+      "lastSuccessAt": "2026-11-11T09:52:33.301Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 166,
       "latestObservedPost": {
@@ -125,23 +125,79 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2120267343985332388",
-      "lastCheckedAt": "2026-11-11T02:44:59.112Z",
-      "lastSuccessAt": "2026-11-11T02:44:59.112Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 106,
+      "sinceId": "2120370290740097455",
+      "lastCheckedAt": "2026-11-11T09:52:34.142Z",
+      "lastSuccessAt": "2026-11-11T09:52:34.142Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 107,
       "latestObservedPost": {
-        "id": "2120267343985332388",
-        "canonicalId": "2120267343985332388",
-        "text": "@ajambrosino Was it about letting tibo out of the basement?",
-        "createdAt": "2026-11-10T21:28:22.000Z",
-        "url": "https://x.com/dkundel/status/2120267343985332388",
+        "id": "2120370290740097455",
+        "canonicalId": "2120370290740097455",
+        "text": "Dots for saving money",
+        "createdAt": "2026-11-11T04:17:26.000Z",
+        "url": "https://x.com/dkundel/status/2120370290740097455",
         "media": []
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
+      "id": "2120410480204525936",
+      "canonicalId": "2120410480204525936",
+      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "createdAt": "2026-11-11T06:57:08.000Z",
+      "url": "https://x.com/thsottiaux/status/2120410480204525936",
+      "media": [],
+      "detectedAt": "2026-11-11T09:52:30.470Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Perhaps also a good time for a banked reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Perhaps also a good time for a banked reset",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-11T09:52:34.151Z"
+    },
+    {
+      "version": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
+      "id": "2120410006273380750",
+      "canonicalId": "2120410006273380750",
+      "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+      "createdAt": "2026-11-11T06:55:15.000Z",
+      "url": "https://x.com/thsottiaux/status/2120410006273380750",
+      "media": [],
+      "detectedAt": "2026-11-11T09:52:30.443Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "It’s been a while without resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "It’s been a while without resets",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-11T09:52:34.146Z"
+    },
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
@@ -644,60 +700,6 @@
         }
       ],
       "notifiedAt": "2026-10-13T07:49:36.584Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
-      "id": "2109812360596865224",
-      "text": "Global reset landing by EOD PST time. Enjoy",
-      "createdAt": "2026-10-13T01:03:59.000Z",
-      "url": "https://x.com/thsottiaux/status/2109812360596865224",
-      "media": [],
-      "detectedAt": "2026-10-13T01:20:27.375Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Global reset landing by EOD PST time",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Global reset landing by EOD PST time",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-13T01:20:32.516Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "ca823a56be82e9b5268af58b19074f5b9beef0c85b5ef480343d9f8c60ef16c8",
-      "id": "2109812216212099456",
-      "text": "Day 8/ Reset",
-      "createdAt": "2026-10-13T01:03:25.000Z",
-      "url": "https://x.com/thsottiaux/status/2109812216212099456",
-      "media": [],
-      "detectedAt": "2026-10-13T01:20:27.348Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 8/ Reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 8/ Reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-13T01:20:32.513Z",
       "channels": [
         "github-actions"
       ]
@@ -1408,7 +1410,11 @@
     "2120216596753121411": "6de0aeee11da9e8581c64c16e1f2063f40a65cee60672e6557ff809113b7532a",
     "2120258357533749755": "6286160806903f6772f472c26bafaeafab74682c8876e7926de70f860940dc87",
     "2120267343985332388": "de290258de9c4d952d7f0d703bec26d8c3fcb49f8c0807192642f5c69aeff027",
-    "2120304649807020238": "28c975cc7ab55166b765948c8d58bf5d4cedf62d98bae80545d435429b344dfd"
+    "2120304649807020238": "28c975cc7ab55166b765948c8d58bf5d4cedf62d98bae80545d435429b344dfd",
+    "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
+    "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
+    "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
+    "2120370290740097455": "1df226c0a7836b941a02f738338dc7a65b6938c72a729b352bc42ed41278888d"
   },
   "eventParserVersion": 5
 }
