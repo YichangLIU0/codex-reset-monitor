@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2120411235716063700",
-      "lastCheckedAt": "2026-11-11T17:31:05.651Z",
-      "lastSuccessAt": "2026-11-11T17:31:05.651Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 292,
+      "sinceId": "2120621485442339277",
+      "lastCheckedAt": "2026-11-11T23:38:19.749Z",
+      "lastSuccessAt": "2026-11-11T23:38:19.749Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 293,
       "latestObservedPost": {
-        "id": "2120411235716063700",
-        "canonicalId": "2120411235716063700",
-        "text": "@iso_morph Many such cases.",
-        "createdAt": "2026-11-11T07:00:08.000Z",
-        "url": "https://x.com/thsottiaux/status/2120411235716063700",
+        "id": "2120621485442339277",
+        "canonicalId": "2120621485442339277",
+        "text": "@charlierguo Hi 👋 Buzz Buzz",
+        "createdAt": "2026-11-11T20:55:36.000Z",
+        "url": "https://x.com/thsottiaux/status/2120621485442339277",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-11T17:31:07.044Z",
-      "lastSuccessAt": "2026-11-11T17:31:07.044Z",
+      "lastCheckedAt": "2026-11-11T23:38:20.492Z",
+      "lastSuccessAt": "2026-11-11T23:38:20.492Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2120257205324648811",
-      "lastCheckedAt": "2026-11-11T17:31:07.645Z",
-      "lastSuccessAt": "2026-11-11T17:31:07.645Z",
+      "lastCheckedAt": "2026-11-11T23:38:20.938Z",
+      "lastSuccessAt": "2026-11-11T23:38:20.938Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 53,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-11T17:31:08.468Z",
-      "lastSuccessAt": "2026-11-11T17:31:08.468Z",
+      "lastCheckedAt": "2026-11-11T23:38:21.781Z",
+      "lastSuccessAt": "2026-11-11T23:38:21.781Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -90,26 +90,18 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2120258357533749755",
-      "lastCheckedAt": "2026-11-11T17:31:10.252Z",
-      "lastSuccessAt": "2026-11-11T17:31:10.252Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 166,
+      "sinceId": "2120649481159098694",
+      "lastCheckedAt": "2026-11-11T23:38:23.229Z",
+      "lastSuccessAt": "2026-11-11T23:38:23.229Z",
+      "lastRunStatus": "checked-14-posts",
+      "postsScanned": 180,
       "latestObservedPost": {
-        "id": "2120258357533749755",
-        "canonicalId": "2120258357533749755",
-        "text": "With the @runwayml plugin in Codex and ChatGPT, you can see how a character from your prototype moves, try a different opening shot for a trailer, or turn a product photo into a video ad.\n\nAnthony Maggio shares how Runway’s marketing team is using ChatGPT Image to produce more assets each week.",
-        "createdAt": "2026-11-10T20:52:39.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2120258357533749755",
-        "media": [
-          {
-            "mediaKey": "2120258186368454656",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2120258186368454656/vid/avc1/1920x1080/8YxATy-ScaRt_7Nf.mp4?tag=16",
-            "previewImageUrl": "https://pbs.twimg.com/media/HWyurO2awAAcZqL.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2120649481159098694",
+        "canonicalId": "2120649481159098694",
+        "text": "@KushalVijay_ @OpenAI Can’t wait!",
+        "createdAt": "2026-11-11T22:46:50.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2120649481159098694",
+        "media": []
       }
     },
     "codex": {
@@ -126,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2120370290740097455",
-      "lastCheckedAt": "2026-11-11T17:31:11.116Z",
-      "lastSuccessAt": "2026-11-11T17:31:11.116Z",
+      "lastCheckedAt": "2026-11-11T23:38:23.644Z",
+      "lastSuccessAt": "2026-11-11T23:38:23.644Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 107,
       "latestObservedPost": {
@@ -1412,7 +1404,22 @@
     "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
     "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
     "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
-    "2120370290740097455": "1df226c0a7836b941a02f738338dc7a65b6938c72a729b352bc42ed41278888d"
+    "2120370290740097455": "1df226c0a7836b941a02f738338dc7a65b6938c72a729b352bc42ed41278888d",
+    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f",
+    "2120582861459722487": "e807451e6c7180016f722991233972501e8712bcb036c89a8716b2add1334662",
+    "2120602179283063160": "1dfa3ae768d0f316bac5a011fb43ee0fca04322ee0ec8e3c7f3f14bf113e8924",
+    "2120620150533837257": "0abd1b4692ea52835f492dd8a1ae963d86d056f0a3231307dbf8f30a8009d9cf",
+    "2120634454917935543": "44eebae76f1b42a2c06aaf5c22cf7437a130c5ebc250e95a7cfbce8049509e37",
+    "2120635077084279079": "229ed84f55e6f7dbbb901cdc718997cef2246210c5707bad5996f37723651c20",
+    "2120635210966745195": "0f07f70be21030fc21c448b9781d086df007d42df8c1d50ccb198828eebdb484",
+    "2120635454022381753": "2b21d97c151c2100b64cc09cc59ac3560f59306050eef7b4f17c25f58015cb4d",
+    "2120635602563694820": "8d385984455249c6cc43021409238523c173381e1e3abe0402343c1799014b23",
+    "2120635814233473156": "ba8ba335f42f9e5c762c4c99770edea99cb0b6286f7aa2c9eb059a4fc398fc47",
+    "2120635989559587050": "89b883dd20a1c2baee4824ffc05ad697d6e3012a43f33824155df38aa24b71bf",
+    "2120636096480731505": "f532280fb90ce46b501f747656fa4f8c3b8670ae151c14960e9d93a33ed1f0ca",
+    "2120636208996901315": "bcba111536a85ab12ea7f56f87b11001af9cfd7ebb218bb865f4b224ddaefb54",
+    "2120649443456557207": "2c8ee7531c1eaef51a65d44f7264bb3715ae2b0dcf410e3ba484c670aadeb4c0",
+    "2120649481159098694": "ea38e51cc27a797abd0878c9768d584e0dddefb7bee6021ded203e2be1dddbeb"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T17:31:11.124Z",
+  "updatedAt": "2026-11-11T23:38:23.650Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-11T17:31:11.116Z",
-    "lastSuccessAt": "2026-11-11T17:31:11.116Z",
+    "lastCheckedAt": "2026-11-11T23:38:23.644Z",
+    "lastSuccessAt": "2026-11-11T23:38:23.644Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2120411235716063700",
-    "text": "@iso_morph Many such cases.",
-    "url": "https://x.com/thsottiaux/status/2120411235716063700",
-    "postCreatedAt": "2026-11-11T07:00:08.000Z"
+    "id": "2120649481159098694",
+    "text": "@KushalVijay_ @OpenAI Can’t wait!",
+    "url": "https://x.com/OpenAIDevs/status/2120649481159098694",
+    "postCreatedAt": "2026-11-11T22:46:50.000Z"
   },
   "latest": {
     "reset": null,
