@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2120621485442339277",
-      "lastCheckedAt": "2026-11-11T23:38:19.749Z",
-      "lastSuccessAt": "2026-11-11T23:38:19.749Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-12T04:12:10.219Z",
+      "lastSuccessAt": "2026-11-12T04:12:10.219Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 293,
       "latestObservedPost": {
         "id": "2120621485442339277",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-11T23:38:20.492Z",
-      "lastSuccessAt": "2026-11-11T23:38:20.492Z",
+      "lastCheckedAt": "2026-11-12T04:12:11.085Z",
+      "lastSuccessAt": "2026-11-12T04:12:11.085Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2120257205324648811",
-      "lastCheckedAt": "2026-11-11T23:38:20.938Z",
-      "lastSuccessAt": "2026-11-11T23:38:20.938Z",
+      "lastCheckedAt": "2026-11-12T04:12:11.610Z",
+      "lastSuccessAt": "2026-11-12T04:12:11.610Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 53,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-11T23:38:21.781Z",
-      "lastSuccessAt": "2026-11-11T23:38:21.781Z",
+      "lastCheckedAt": "2026-11-12T04:12:12.318Z",
+      "lastSuccessAt": "2026-11-12T04:12:12.318Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2120649481159098694",
-      "lastCheckedAt": "2026-11-11T23:38:23.229Z",
-      "lastSuccessAt": "2026-11-11T23:38:23.229Z",
-      "lastRunStatus": "checked-14-posts",
-      "postsScanned": 180,
+      "sinceId": "2120688879850389548",
+      "lastCheckedAt": "2026-11-12T04:12:13.628Z",
+      "lastSuccessAt": "2026-11-12T04:12:13.628Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 184,
       "latestObservedPost": {
-        "id": "2120649481159098694",
-        "canonicalId": "2120649481159098694",
-        "text": "@KushalVijay_ @OpenAI Can’t wait!",
-        "createdAt": "2026-11-11T22:46:50.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2120649481159098694",
+        "id": "2120688879850389548",
+        "canonicalId": "2120688879850389548",
+        "text": "@GregMadison whaaaat?",
+        "createdAt": "2026-11-12T01:23:24.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2120688879850389548",
         "media": []
       }
     },
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2120370290740097455",
-      "lastCheckedAt": "2026-11-11T23:38:23.644Z",
-      "lastSuccessAt": "2026-11-11T23:38:23.644Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 107,
+      "sinceId": "2120669179829453163",
+      "lastCheckedAt": "2026-11-12T04:12:14.525Z",
+      "lastSuccessAt": "2026-11-12T04:12:14.525Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 108,
       "latestObservedPost": {
-        "id": "2120370290740097455",
-        "canonicalId": "2120370290740097455",
-        "text": "Dots for saving money",
-        "createdAt": "2026-11-11T04:17:26.000Z",
-        "url": "https://x.com/dkundel/status/2120370290740097455",
+        "id": "2120669179829453163",
+        "canonicalId": "2120669179829453163",
+        "text": "@auchenberg @romainhuet Microphones feel so personal 🤔",
+        "createdAt": "2026-11-12T00:05:07.000Z",
+        "url": "https://x.com/dkundel/status/2120669179829453163",
         "media": []
       }
     }
@@ -1419,7 +1419,12 @@
     "2120636096480731505": "f532280fb90ce46b501f747656fa4f8c3b8670ae151c14960e9d93a33ed1f0ca",
     "2120636208996901315": "bcba111536a85ab12ea7f56f87b11001af9cfd7ebb218bb865f4b224ddaefb54",
     "2120649443456557207": "2c8ee7531c1eaef51a65d44f7264bb3715ae2b0dcf410e3ba484c670aadeb4c0",
-    "2120649481159098694": "ea38e51cc27a797abd0878c9768d584e0dddefb7bee6021ded203e2be1dddbeb"
+    "2120649481159098694": "ea38e51cc27a797abd0878c9768d584e0dddefb7bee6021ded203e2be1dddbeb",
+    "2120669165283680644": "97cc7ccb9f19b3b3673d7beae9db533a20328bd6a1588510fd3a743f8287cb1f",
+    "2120674046895657363": "f687acb0a909e212d840dad3bedb1a21753831743973a5de58f228991cbf84b6",
+    "2120674287681950069": "56dee5ec2fa9440dd135709ee25952a0c6248dbbf1cd64b52c04304f61174ab5",
+    "2120688879850389548": "720ce24ef1cbee19fcebed7a178d52cb8b6ac1bb1315915261bc68f9df75ed39",
+    "2120669179829453163": "84a8da00cb984a1b04c5faf54396f6639d9226ddd70c4e9482a94b1f1c79c1cf"
   },
   "eventParserVersion": 5
 }
