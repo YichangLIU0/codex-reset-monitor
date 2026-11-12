@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2120621485442339277",
-      "lastCheckedAt": "2026-11-12T12:42:37.055Z",
-      "lastSuccessAt": "2026-11-12T12:42:37.055Z",
+      "lastCheckedAt": "2026-11-12T20:27:45.060Z",
+      "lastSuccessAt": "2026-11-12T20:27:45.060Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 293,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-12T12:42:37.821Z",
-      "lastSuccessAt": "2026-11-12T12:42:37.821Z",
+      "lastCheckedAt": "2026-11-12T20:27:45.676Z",
+      "lastSuccessAt": "2026-11-12T20:27:45.676Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2120257205324648811",
-      "lastCheckedAt": "2026-11-12T12:42:38.307Z",
-      "lastSuccessAt": "2026-11-12T12:42:38.307Z",
+      "lastCheckedAt": "2026-11-12T20:27:46.577Z",
+      "lastSuccessAt": "2026-11-12T20:27:46.577Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 53,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-12T12:42:38.990Z",
-      "lastSuccessAt": "2026-11-12T12:42:38.990Z",
+      "lastCheckedAt": "2026-11-12T20:27:48.485Z",
+      "lastSuccessAt": "2026-11-12T20:27:48.485Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2120688879850389548",
-      "lastCheckedAt": "2026-11-12T12:42:39.745Z",
-      "lastSuccessAt": "2026-11-12T12:42:39.745Z",
+      "lastCheckedAt": "2026-11-12T20:27:49.890Z",
+      "lastSuccessAt": "2026-11-12T20:27:49.890Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 184,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2120669179829453163",
-      "lastCheckedAt": "2026-11-12T12:42:40.661Z",
-      "lastSuccessAt": "2026-11-12T12:42:40.661Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 108,
+      "sinceId": "2120945694878085600",
+      "lastCheckedAt": "2026-11-12T20:27:50.992Z",
+      "lastSuccessAt": "2026-11-12T20:27:50.992Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 110,
       "latestObservedPost": {
-        "id": "2120669179829453163",
-        "canonicalId": "2120669179829453163",
-        "text": "@auchenberg @romainhuet Microphones feel so personal 🤔",
-        "createdAt": "2026-11-12T00:05:07.000Z",
-        "url": "https://x.com/dkundel/status/2120669179829453163",
+        "id": "2120945694878085600",
+        "canonicalId": "2120945694878085600",
+        "text": "Re:invent spam is probably one of the worst parts of re:invent season 😩",
+        "createdAt": "2026-11-12T18:23:53.000Z",
+        "url": "https://x.com/dkundel/status/2120945694878085600",
         "media": []
       }
     }
@@ -1424,7 +1424,9 @@
     "2120674046895657363": "f687acb0a909e212d840dad3bedb1a21753831743973a5de58f228991cbf84b6",
     "2120674287681950069": "56dee5ec2fa9440dd135709ee25952a0c6248dbbf1cd64b52c04304f61174ab5",
     "2120688879850389548": "720ce24ef1cbee19fcebed7a178d52cb8b6ac1bb1315915261bc68f9df75ed39",
-    "2120669179829453163": "84a8da00cb984a1b04c5faf54396f6639d9226ddd70c4e9482a94b1f1c79c1cf"
+    "2120669179829453163": "84a8da00cb984a1b04c5faf54396f6639d9226ddd70c4e9482a94b1f1c79c1cf",
+    "2120937564450549967": "4194de406214ec2d4ec897a18971dac33544f25734336a47bd43359114af1401",
+    "2120945694878085600": "f44b92ddb1a6ad90c8b362b42ee428cf609bf0c84f8f5c1dbca06c3f1cbda457"
   },
   "eventParserVersion": 5
 }
