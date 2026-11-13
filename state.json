@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2121036562058400200",
-      "lastCheckedAt": "2026-11-13T01:20:20.236Z",
-      "lastSuccessAt": "2026-11-13T01:20:20.236Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 295,
+      "sinceId": "2121134582527594929",
+      "lastCheckedAt": "2026-11-13T08:09:57.094Z",
+      "lastSuccessAt": "2026-11-13T08:09:57.094Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 299,
       "latestObservedPost": {
-        "id": "2121036562058400200",
-        "canonicalId": "2121036562058400200",
-        "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
-        "createdAt": "2026-11-13T00:24:58.000Z",
-        "url": "https://x.com/thsottiaux/status/2121036562058400200",
+        "id": "2121134582527594929",
+        "canonicalId": "2121134582527594929",
+        "text": "@argofowl Hi 👋 Doing well. Team is busy",
+        "createdAt": "2026-11-13T06:54:27.000Z",
+        "url": "https://x.com/thsottiaux/status/2121134582527594929",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-13T01:20:20.741Z",
-      "lastSuccessAt": "2026-11-13T01:20:20.741Z",
+      "lastCheckedAt": "2026-11-13T08:09:58.017Z",
+      "lastSuccessAt": "2026-11-13T08:09:58.017Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2121004237413142656",
-      "lastCheckedAt": "2026-11-13T01:20:21.536Z",
-      "lastSuccessAt": "2026-11-13T01:20:21.536Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-13T08:09:58.941Z",
+      "lastSuccessAt": "2026-11-13T08:09:58.941Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 54,
       "latestObservedPost": {
         "id": "2121004237413142656",
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-13T01:20:22.169Z",
-      "lastSuccessAt": "2026-11-13T01:20:22.169Z",
+      "lastCheckedAt": "2026-11-13T08:09:59.395Z",
+      "lastSuccessAt": "2026-11-13T08:09:59.395Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2120997318467928256",
-      "lastCheckedAt": "2026-11-13T01:20:22.972Z",
-      "lastSuccessAt": "2026-11-13T01:20:22.972Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-13T08:10:00.126Z",
+      "lastSuccessAt": "2026-11-13T08:10:00.126Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 185,
       "latestObservedPost": {
         "id": "2120997318467928256",
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2120945694878085600",
-      "lastCheckedAt": "2026-11-13T01:20:23.771Z",
-      "lastSuccessAt": "2026-11-13T01:20:23.771Z",
+      "lastCheckedAt": "2026-11-13T08:10:01.128Z",
+      "lastSuccessAt": "2026-11-13T08:10:01.128Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 110,
       "latestObservedPost": {
@@ -137,7 +137,6 @@
     {
       "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
       "id": "2120999993079451919",
-      "canonicalId": "2120999993079451919",
       "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
       "createdAt": "2026-11-12T21:59:39.000Z",
       "url": "https://x.com/thsottiaux/status/2120999993079451919",
@@ -157,10 +156,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-13T01:20:23.775Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-13T01:20:23.775Z"
+      ]
     },
     {
       "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
@@ -1431,7 +1430,11 @@
     "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
     "2121036562058400200": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
     "2121004237413142656": "4604801013fce9760a35c51cf3d8710ef264c802c35bbc13b50a8acf62e5696a",
-    "2120997318467928256": "8875d3352b615425a19095699e31c5d16b2e4b17239169174dde542cb0aa9b32"
+    "2120997318467928256": "8875d3352b615425a19095699e31c5d16b2e4b17239169174dde542cb0aa9b32",
+    "2121062974161092792": "6419e4de5344490efeefee15b42626793651b44277235a3b5f4ae9c6d7b3dc1b",
+    "2121132035653894561": "92e0768eedb4122f3573985089c78d223d471994521b06e73ff26ce99022dc9c",
+    "2121132369696747608": "4bd1f5987cf5054ad496bb35c4a86b49870eeeb78ec09d6b649d1647e3ebd5af",
+    "2121134582527594929": "99f20c42e8876eb0b4b8865205e29c3f03ca08d8708dfb8af4f9ee5082eddf74"
   },
   "eventParserVersion": 5
 }
