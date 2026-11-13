@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T20:27:50.997Z",
+  "updatedAt": "2026-11-13T01:20:23.782Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-12T20:27:50.992Z",
-    "lastSuccessAt": "2026-11-12T20:27:50.992Z",
+    "lastCheckedAt": "2026-11-13T01:20:23.771Z",
+    "lastSuccessAt": "2026-11-13T01:20:23.771Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2120945694878085600",
-    "text": "Re:invent spam is probably one of the worst parts of re:invent season 😩",
-    "url": "https://x.com/dkundel/status/2120945694878085600",
-    "postCreatedAt": "2026-11-12T18:23:53.000Z"
+    "id": "2121036562058400200",
+    "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+    "url": "https://x.com/thsottiaux/status/2121036562058400200",
+    "postCreatedAt": "2026-11-13T00:24:58.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+      "id": "2120999993079451919",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "postCreatedAt": "2026-11-12T21:59:39.000Z",
+      "detectedAt": "2026-11-13T01:20:20.235Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
       "id": "2120410480204525936",
@@ -506,30 +530,6 @@
             "end": null,
             "evidence": "Day 10/ Reset",
             "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
-      "id": "2109873287853707513",
-      "text": "What would you like with your side of reset? It's done.",
-      "url": "https://x.com/thsottiaux/status/2109873287853707513",
-      "postCreatedAt": "2026-10-13T05:06:06.000Z",
-      "detectedAt": "2026-10-13T07:49:31.438Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "What would you like with your side of reset? It's done",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "What would you like with your side of reset? It's done",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
           }
         }
       ],

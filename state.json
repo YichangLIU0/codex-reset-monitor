@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2120621485442339277",
-      "lastCheckedAt": "2026-11-12T20:27:45.060Z",
-      "lastSuccessAt": "2026-11-12T20:27:45.060Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 293,
+      "sinceId": "2121036562058400200",
+      "lastCheckedAt": "2026-11-13T01:20:20.236Z",
+      "lastSuccessAt": "2026-11-13T01:20:20.236Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 295,
       "latestObservedPost": {
-        "id": "2120621485442339277",
-        "canonicalId": "2120621485442339277",
-        "text": "@charlierguo Hi 👋 Buzz Buzz",
-        "createdAt": "2026-11-11T20:55:36.000Z",
-        "url": "https://x.com/thsottiaux/status/2120621485442339277",
+        "id": "2121036562058400200",
+        "canonicalId": "2121036562058400200",
+        "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+        "createdAt": "2026-11-13T00:24:58.000Z",
+        "url": "https://x.com/thsottiaux/status/2121036562058400200",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-12T20:27:45.676Z",
-      "lastSuccessAt": "2026-11-12T20:27:45.676Z",
+      "lastCheckedAt": "2026-11-13T01:20:20.741Z",
+      "lastSuccessAt": "2026-11-13T01:20:20.741Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2120257205324648811",
-      "lastCheckedAt": "2026-11-12T20:27:46.577Z",
-      "lastSuccessAt": "2026-11-12T20:27:46.577Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 53,
+      "sinceId": "2121004237413142656",
+      "lastCheckedAt": "2026-11-13T01:20:21.536Z",
+      "lastSuccessAt": "2026-11-13T01:20:21.536Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 54,
       "latestObservedPost": {
-        "id": "2120257205324648811",
-        "canonicalId": "2120257205324648811",
-        "text": "@FDavidsonT welcome to the team!",
-        "createdAt": "2026-11-10T20:48:04.000Z",
-        "url": "https://x.com/gdb/status/2120257205324648811",
+        "id": "2121004237413142656",
+        "canonicalId": "2121004237413142656",
+        "text": "Announcing two new cyber products:\n\n- Daybreak Defense Factory (https://t.co/OdlGbgPWp8)\n- Daybreak Red Team (https://t.co/VQTAjDfduz)\n\nBoth make it much easier to put frontier cyber capabilities to work, helping defend companies in new ways.",
+        "createdAt": "2026-11-12T22:16:31.000Z",
+        "url": "https://x.com/gdb/status/2121004237413142656",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-12T20:27:48.485Z",
-      "lastSuccessAt": "2026-11-12T20:27:48.485Z",
+      "lastCheckedAt": "2026-11-13T01:20:22.169Z",
+      "lastSuccessAt": "2026-11-13T01:20:22.169Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2120688879850389548",
-      "lastCheckedAt": "2026-11-12T20:27:49.890Z",
-      "lastSuccessAt": "2026-11-12T20:27:49.890Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 184,
+      "sinceId": "2120997318467928256",
+      "lastCheckedAt": "2026-11-13T01:20:22.972Z",
+      "lastSuccessAt": "2026-11-13T01:20:22.972Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 185,
       "latestObservedPost": {
-        "id": "2120688879850389548",
-        "canonicalId": "2120688879850389548",
-        "text": "@GregMadison whaaaat?",
-        "createdAt": "2026-11-12T01:23:24.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2120688879850389548",
+        "id": "2120997318467928256",
+        "canonicalId": "2120997318467928256",
+        "text": "@TheMoonMidas welcome!",
+        "createdAt": "2026-11-12T21:49:01.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2120997318467928256",
         "media": []
       }
     },
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2120945694878085600",
-      "lastCheckedAt": "2026-11-12T20:27:50.992Z",
-      "lastSuccessAt": "2026-11-12T20:27:50.992Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-13T01:20:23.771Z",
+      "lastSuccessAt": "2026-11-13T01:20:23.771Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 110,
       "latestObservedPost": {
         "id": "2120945694878085600",
@@ -134,6 +134,34 @@
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+      "id": "2120999993079451919",
+      "canonicalId": "2120999993079451919",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+      "createdAt": "2026-11-12T21:59:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "media": [],
+      "detectedAt": "2026-11-13T01:20:20.235Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-13T01:20:23.775Z"
+    },
     {
       "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
       "id": "2120410480204525936",
@@ -663,33 +691,6 @@
         }
       ],
       "notifiedAt": "2026-10-15T09:28:51.189Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
-      "id": "2109873287853707513",
-      "text": "What would you like with your side of reset? It's done.",
-      "createdAt": "2026-10-13T05:06:06.000Z",
-      "url": "https://x.com/thsottiaux/status/2109873287853707513",
-      "media": [],
-      "detectedAt": "2026-10-13T07:49:31.438Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "What would you like with your side of reset? It's done",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "What would you like with your side of reset? It's done",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-13T07:49:36.584Z",
       "channels": [
         "github-actions"
       ]
@@ -1426,7 +1427,11 @@
     "2120688879850389548": "720ce24ef1cbee19fcebed7a178d52cb8b6ac1bb1315915261bc68f9df75ed39",
     "2120669179829453163": "84a8da00cb984a1b04c5faf54396f6639d9226ddd70c4e9482a94b1f1c79c1cf",
     "2120937564450549967": "4194de406214ec2d4ec897a18971dac33544f25734336a47bd43359114af1401",
-    "2120945694878085600": "f44b92ddb1a6ad90c8b362b42ee428cf609bf0c84f8f5c1dbca06c3f1cbda457"
+    "2120945694878085600": "f44b92ddb1a6ad90c8b362b42ee428cf609bf0c84f8f5c1dbca06c3f1cbda457",
+    "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+    "2121036562058400200": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
+    "2121004237413142656": "4604801013fce9760a35c51cf3d8710ef264c802c35bbc13b50a8acf62e5696a",
+    "2120997318467928256": "8875d3352b615425a19095699e31c5d16b2e4b17239169174dde542cb0aa9b32"
   },
   "eventParserVersion": 5
 }
