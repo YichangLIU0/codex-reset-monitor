@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T16:16:30.673Z",
+  "updatedAt": "2026-11-13T22:00:13.612Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-13T16:16:30.667Z",
-    "lastSuccessAt": "2026-11-13T16:16:30.667Z",
+    "lastCheckedAt": "2026-11-13T22:00:13.606Z",
+    "lastSuccessAt": "2026-11-13T22:00:13.606Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2121134582527594929",
-    "text": "@argofowl Hi 👋 Doing well. Team is busy",
-    "url": "https://x.com/thsottiaux/status/2121134582527594929",
-    "postCreatedAt": "2026-11-13T06:54:27.000Z"
+    "id": "2121354686250746283",
+    "text": "@charliermarsh sick",
+    "url": "https://x.com/OpenAIDevs/status/2121354686250746283",
+    "postCreatedAt": "2026-11-13T21:29:04.000Z"
   },
   "latest": {
     "reset": null,
