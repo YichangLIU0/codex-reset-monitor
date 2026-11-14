@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2121134582527594929",
-      "lastCheckedAt": "2026-11-13T22:00:09.636Z",
-      "lastSuccessAt": "2026-11-13T22:00:09.636Z",
+      "lastCheckedAt": "2026-11-14T02:09:23.537Z",
+      "lastSuccessAt": "2026-11-14T02:09:23.537Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 299,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-13T22:00:10.306Z",
-      "lastSuccessAt": "2026-11-13T22:00:10.306Z",
+      "lastCheckedAt": "2026-11-14T02:09:24.203Z",
+      "lastSuccessAt": "2026-11-14T02:09:24.203Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2121295213025194172",
-      "lastCheckedAt": "2026-11-13T22:00:11.568Z",
-      "lastSuccessAt": "2026-11-13T22:00:11.568Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-14T02:09:24.619Z",
+      "lastSuccessAt": "2026-11-14T02:09:24.619Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 55,
       "latestObservedPost": {
         "id": "2121295213025194172",
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-13T22:00:12.148Z",
-      "lastSuccessAt": "2026-11-13T22:00:12.148Z",
+      "lastCheckedAt": "2026-11-14T02:09:25.208Z",
+      "lastSuccessAt": "2026-11-14T02:09:25.208Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 61,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2121354686250746283",
-      "lastCheckedAt": "2026-11-13T22:00:12.844Z",
-      "lastSuccessAt": "2026-11-13T22:00:12.844Z",
-      "lastRunStatus": "checked-6-posts",
-      "postsScanned": 191,
+      "sinceId": "2121395296341282987",
+      "lastCheckedAt": "2026-11-14T02:09:25.903Z",
+      "lastSuccessAt": "2026-11-14T02:09:25.903Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 193,
       "latestObservedPost": {
-        "id": "2121354686250746283",
-        "canonicalId": "2121354686250746283",
-        "text": "@charliermarsh sick",
-        "createdAt": "2026-11-13T21:29:04.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2121354686250746283",
+        "id": "2121395296341282987",
+        "canonicalId": "2121395296341282987",
+        "text": "@pallavmac welcome 👏",
+        "createdAt": "2026-11-14T00:10:26.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2121395296341282987",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2120945694878085600",
-      "lastCheckedAt": "2026-11-13T22:00:13.606Z",
-      "lastSuccessAt": "2026-11-13T22:00:13.606Z",
+      "lastCheckedAt": "2026-11-14T02:09:27.134Z",
+      "lastSuccessAt": "2026-11-14T02:09:27.134Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 110,
       "latestObservedPost": {
@@ -1441,7 +1441,9 @@
     "2121350801507414312": "eef5f69c8b91f89d5eb59144a52ed133804e0f7e072a5c9987a7167c3ab700c8",
     "2121352717704597676": "961640790c71478a6e6aa3d120b3b6fba297abfde27e26baafffc1a32553b381",
     "2121352988749132184": "aff413bd91eb014c28e81647a9563a5cebdde577b5b73abf7ae33e924ec5d83e",
-    "2121354686250746283": "4d957bf2d5c6f4a29ae2291240a8ff3140d4e52292cff028e1b749c5d4b5b5cc"
+    "2121354686250746283": "4d957bf2d5c6f4a29ae2291240a8ff3140d4e52292cff028e1b749c5d4b5b5cc",
+    "2121387114747326829": "3384c6838694e3f9587d60c62804df016950bf18d301089cc754aa2e26e1fb64",
+    "2121395296341282987": "2d8d16adfbdfd9e1de495abaf03d1e3d6a120e8e34d5fafb135e20d80a8d6cb9"
   },
   "eventParserVersion": 5
 }
