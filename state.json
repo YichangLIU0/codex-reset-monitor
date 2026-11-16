@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2122206990101536852",
-      "lastCheckedAt": "2026-11-16T08:33:35.953Z",
-      "lastSuccessAt": "2026-11-16T08:33:35.953Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-16T18:51:27.172Z",
+      "lastSuccessAt": "2026-11-16T18:51:27.172Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 301,
       "latestObservedPost": {
         "id": "2122206990101536852",
@@ -40,8 +40,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-16T08:33:36.680Z",
-      "lastSuccessAt": "2026-11-16T08:33:36.680Z",
+      "lastCheckedAt": "2026-11-16T18:51:28.122Z",
+      "lastSuccessAt": "2026-11-16T18:51:28.122Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -56,51 +56,59 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2122126010691060185",
-      "lastCheckedAt": "2026-11-16T08:33:37.240Z",
-      "lastSuccessAt": "2026-11-16T08:33:37.240Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 56,
+      "sinceId": "2122381437198586144",
+      "lastCheckedAt": "2026-11-16T18:51:31.004Z",
+      "lastSuccessAt": "2026-11-16T18:51:31.004Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 58,
       "latestObservedPost": {
-        "id": "2122126010691060185",
-        "canonicalId": "2122126010691060185",
-        "text": "GPT-6 Astra for theoretical physics:",
-        "createdAt": "2026-11-16T00:34:02.000Z",
-        "url": "https://x.com/gdb/status/2122126010691060185",
+        "id": "2122381437198586144",
+        "canonicalId": "2122381437198586144",
+        "text": "ChatGPT for doubling the productivity of scientists:",
+        "createdAt": "2026-11-16T17:29:01.000Z",
+        "url": "https://x.com/gdb/status/2122381437198586144",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2122123437141553630",
-      "lastCheckedAt": "2026-11-16T08:33:37.613Z",
-      "lastSuccessAt": "2026-11-16T08:33:37.613Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 62,
+      "sinceId": "2122380010287960095",
+      "lastCheckedAt": "2026-11-16T18:51:32.045Z",
+      "lastSuccessAt": "2026-11-16T18:51:32.045Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 67,
       "latestObservedPost": {
-        "id": "2122123437141553630",
-        "canonicalId": "2122123437141553630",
-        "text": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the first post on our new science blog:\nhttps://t.co/pLd0XmTUxD",
-        "createdAt": "2026-11-16T00:23:49.000Z",
-        "url": "https://x.com/OpenAI/status/2122123437141553630",
-        "media": []
+        "id": "2122380010287960095",
+        "canonicalId": "2122380010287960095",
+        "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing data and writing code—and what it could mean for scientific discovery.\n\nhttps://t.co/T4qTuVNEzz",
+        "createdAt": "2026-11-16T17:23:21.000Z",
+        "url": "https://x.com/OpenAI/status/2122380010287960095",
+        "media": [
+          {
+            "mediaKey": "2122379074245173248",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/1920x1080/DjSA-RF8ZuHcAqPB.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122379074245173248/img/rOj7iXc8zJXjYimx.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2121395296341282987",
-      "lastCheckedAt": "2026-11-16T08:33:38.113Z",
-      "lastSuccessAt": "2026-11-16T08:33:38.113Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 193,
+      "sinceId": "2122354501911007728",
+      "lastCheckedAt": "2026-11-16T18:51:35.048Z",
+      "lastSuccessAt": "2026-11-16T18:51:35.048Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 194,
       "latestObservedPost": {
-        "id": "2121395296341282987",
-        "canonicalId": "2121395296341282987",
-        "text": "@pallavmac welcome 👏",
-        "createdAt": "2026-11-14T00:10:26.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2121395296341282987",
+        "id": "2122354501911007728",
+        "canonicalId": "2122354501911007728",
+        "text": "@maxthepilgrim @DJIGlobal no need to look for alternatives, just build them!",
+        "createdAt": "2026-11-16T15:41:59.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2122354501911007728",
         "media": []
       }
     },
@@ -117,17 +125,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2121813638550102052",
-      "lastCheckedAt": "2026-11-16T08:33:38.981Z",
-      "lastSuccessAt": "2026-11-16T08:33:38.981Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 111,
+      "sinceId": "2122383238106960281",
+      "lastCheckedAt": "2026-11-16T18:51:36.826Z",
+      "lastSuccessAt": "2026-11-16T18:51:36.826Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 114,
       "latestObservedPost": {
-        "id": "2121813638550102052",
-        "canonicalId": "2121813638550102052",
-        "text": "@kolencherry @feedthejim @Angaisb_ It's a keyboard shortcut so it should work? @Dimillian",
-        "createdAt": "2026-11-15T03:52:47.000Z",
-        "url": "https://x.com/dkundel/status/2121813638550102052",
+        "id": "2122383238106960281",
+        "canonicalId": "2122383238106960281",
+        "text": "@johnlindquist Fact",
+        "createdAt": "2026-11-16T17:36:10.000Z",
+        "url": "https://x.com/dkundel/status/2122383238106960281",
         "media": []
       }
     }
@@ -1448,7 +1456,18 @@
     "2121813638550102052": "72486682155ef3f78d6f188e04f5332a855604cce732b45cc09221a6b004874f",
     "2122126010691060185": "2a323dfd33579986237df7b98034a1f7da225e6eea301e9e6db22b98974785ec",
     "2122123437141553630": "c315bed6e2c6c07660bce56f244fe40acd69f8bcb1b0053e42f8b03ca102c6e4",
-    "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf"
+    "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf",
+    "2122371202169905639": "a419bff3207da18434cec5c5204b12e52c63e3bd992dc22b604e9aee7caed63a",
+    "2122381437198586144": "77cd9ca7ac6c77246aff2e81c2b7ff2604df7f69d9c48dfb4dd1f3df853679c2",
+    "2122359930628063248": "e38d8bfa3211173577c06f113ce16390448f4cacfa392da6e0107777e53eeba6",
+    "2122359935216558328": "5d1066eeb9cc9dffbc48f9c49621e4b581ebbeb6f167a90fd8cc8906fef1db65",
+    "2122359937649242197": "438dadcdfa0dbbfd55d4f81fee24bc86f6a7b1210a83f6e1b3a409379f6eb55c",
+    "2122377585523126615": "d9875963e09095c6c0e030267d4dadc9bc8cc8095f813a3bed4e81852dc05122",
+    "2122380010287960095": "30b18ef56fb5550b3fd9b2745b4e688f60080f4f3c6516db986a082e14ca21f0",
+    "2122354501911007728": "6f28be0ca0df8b1ded25fab1880bf8e1105bbc0b1fbd768019d45cc023a9434f",
+    "2122293348426018986": "1d2148e13b0e0b09215ee5f0e8ee7d86823025866da69bcfd92b63de7a69a79b",
+    "2122379849478099143": "10b47a344d72ddaa4aab4c3c62b5d62789aefb4fb2d98cd4257d22962e4fc38d",
+    "2122383238106960281": "2bb7c4a8ce2ada82a86b10e635f697a4a6d7c649117edc92d3a843adb76fa499"
   },
   "eventParserVersion": 5
 }

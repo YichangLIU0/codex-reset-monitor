@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T08:33:38.987Z",
+  "updatedAt": "2026-11-16T18:51:36.835Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-16T08:33:38.981Z",
-    "lastSuccessAt": "2026-11-16T08:33:38.981Z",
+    "lastCheckedAt": "2026-11-16T18:51:36.826Z",
+    "lastSuccessAt": "2026-11-16T18:51:36.826Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2122206990101536852",
-    "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
-    "url": "https://x.com/thsottiaux/status/2122206990101536852",
-    "postCreatedAt": "2026-11-16T05:55:49.000Z"
+    "id": "2122383238106960281",
+    "text": "@johnlindquist Fact",
+    "url": "https://x.com/dkundel/status/2122383238106960281",
+    "postCreatedAt": "2026-11-16T17:36:10.000Z"
   },
   "latest": {
     "reset": null,
