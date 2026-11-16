@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T21:58:35.705Z",
+  "updatedAt": "2026-11-16T01:37:19.212Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-15T21:58:35.647Z",
-    "lastSuccessAt": "2026-11-15T21:58:35.647Z",
+    "lastCheckedAt": "2026-11-16T01:37:19.206Z",
+    "lastSuccessAt": "2026-11-16T01:37:19.206Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2121845965997101118",
-    "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-    "url": "https://x.com/thsottiaux/status/2121845965997101118",
-    "postCreatedAt": "2026-11-15T06:01:14.000Z"
+    "id": "2122126010691060185",
+    "text": "GPT-6 Astra for theoretical physics:",
+    "url": "https://x.com/gdb/status/2122126010691060185",
+    "postCreatedAt": "2026-11-16T00:34:02.000Z"
   },
   "latest": {
     "reset": null,

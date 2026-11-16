@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2121845965997101118",
-      "lastCheckedAt": "2026-11-15T21:58:31.157Z",
-      "lastSuccessAt": "2026-11-15T21:58:31.157Z",
+      "lastCheckedAt": "2026-11-16T01:37:16.058Z",
+      "lastSuccessAt": "2026-11-16T01:37:16.058Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 300,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-15T21:58:32.679Z",
-      "lastSuccessAt": "2026-11-15T21:58:32.679Z",
+      "lastCheckedAt": "2026-11-16T01:37:16.541Z",
+      "lastSuccessAt": "2026-11-16T01:37:16.541Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -48,51 +48,43 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2121295213025194172",
-      "lastCheckedAt": "2026-11-15T21:58:33.172Z",
-      "lastSuccessAt": "2026-11-15T21:58:33.172Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 55,
+      "sinceId": "2122126010691060185",
+      "lastCheckedAt": "2026-11-16T01:37:17.396Z",
+      "lastSuccessAt": "2026-11-16T01:37:17.396Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 56,
       "latestObservedPost": {
-        "id": "2121295213025194172",
-        "canonicalId": "2121295213025194172",
-        "text": "make secure purchases with your dot, in partnership with American Express, Mastercard, and Visa",
-        "createdAt": "2026-11-13T17:32:45.000Z",
-        "url": "https://x.com/gdb/status/2121295213025194172",
+        "id": "2122126010691060185",
+        "canonicalId": "2122126010691060185",
+        "text": "GPT-6 Astra for theoretical physics:",
+        "createdAt": "2026-11-16T00:34:02.000Z",
+        "url": "https://x.com/gdb/status/2122126010691060185",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2120216596753121411",
-      "lastCheckedAt": "2026-11-15T21:58:33.856Z",
-      "lastSuccessAt": "2026-11-15T21:58:33.856Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 61,
+      "sinceId": "2122123437141553630",
+      "lastCheckedAt": "2026-11-16T01:37:18.025Z",
+      "lastSuccessAt": "2026-11-16T01:37:18.025Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 62,
       "latestObservedPost": {
-        "id": "2120216596753121411",
-        "canonicalId": "2120216596753121411",
-        "text": "Use Business Hub to shape what customers see about your business in ChatGPT.\n\nOnce verified, you can create a Business Agent, update your business details, and add product feeds with current pricing and availability.\n\nYou can also see aggregated insights on mentions, website clicks, and common topics in conversations where your business is cited.\n\nWe don’t share people’s conversations or Business Agent chats with businesses.\n\nEligible businesses located wherever ChatGPT is available can get started by claiming their business in Business Hub.\n\nhttps://t.co/U0MJApIBJ8",
-        "createdAt": "2026-11-10T18:06:43.000Z",
-        "url": "https://x.com/OpenAI/status/2120216596753121411",
-        "media": [
-          {
-            "mediaKey": "2120215164360499200",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWyEdWcaoAAawU3.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2122123437141553630",
+        "canonicalId": "2122123437141553630",
+        "text": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the first post on our new science blog:\nhttps://t.co/pLd0XmTUxD",
+        "createdAt": "2026-11-16T00:23:49.000Z",
+        "url": "https://x.com/OpenAI/status/2122123437141553630",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2121395296341282987",
-      "lastCheckedAt": "2026-11-15T21:58:34.307Z",
-      "lastSuccessAt": "2026-11-15T21:58:34.307Z",
+      "lastCheckedAt": "2026-11-16T01:37:18.420Z",
+      "lastSuccessAt": "2026-11-16T01:37:18.420Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 193,
       "latestObservedPost": {
@@ -118,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2121813638550102052",
-      "lastCheckedAt": "2026-11-15T21:58:35.647Z",
-      "lastSuccessAt": "2026-11-15T21:58:35.647Z",
+      "lastCheckedAt": "2026-11-16T01:37:19.206Z",
+      "lastSuccessAt": "2026-11-16T01:37:19.206Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 111,
       "latestObservedPost": {
@@ -1445,7 +1437,9 @@
     "2121387114747326829": "3384c6838694e3f9587d60c62804df016950bf18d301089cc754aa2e26e1fb64",
     "2121395296341282987": "2d8d16adfbdfd9e1de495abaf03d1e3d6a120e8e34d5fafb135e20d80a8d6cb9",
     "2121845965997101118": "cd3a8cae6a2e03fc3ac1f1f6e9ab4a38331b5adabefe02b336057a91a0cac762",
-    "2121813638550102052": "72486682155ef3f78d6f188e04f5332a855604cce732b45cc09221a6b004874f"
+    "2121813638550102052": "72486682155ef3f78d6f188e04f5332a855604cce732b45cc09221a6b004874f",
+    "2122126010691060185": "2a323dfd33579986237df7b98034a1f7da225e6eea301e9e6db22b98974785ec",
+    "2122123437141553630": "c315bed6e2c6c07660bce56f244fe40acd69f8bcb1b0053e42f8b03ca102c6e4"
   },
   "eventParserVersion": 5
 }
