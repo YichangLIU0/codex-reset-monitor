@@ -14,26 +14,34 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2121845965997101118",
-      "lastCheckedAt": "2026-11-16T01:37:16.058Z",
-      "lastSuccessAt": "2026-11-16T01:37:16.058Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 300,
+      "sinceId": "2122206990101536852",
+      "lastCheckedAt": "2026-11-16T08:33:35.953Z",
+      "lastSuccessAt": "2026-11-16T08:33:35.953Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 301,
       "latestObservedPost": {
-        "id": "2121845965997101118",
-        "canonicalId": "2121845965997101118",
-        "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-        "createdAt": "2026-11-15T06:01:14.000Z",
-        "url": "https://x.com/thsottiaux/status/2121845965997101118",
-        "media": []
+        "id": "2122206990101536852",
+        "canonicalId": "2122206990101536852",
+        "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+        "createdAt": "2026-11-16T05:55:49.000Z",
+        "url": "https://x.com/thsottiaux/status/2122206990101536852",
+        "media": [
+          {
+            "mediaKey": "2122206888217698304",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXOX68AaYAAlezW.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-16T01:37:16.541Z",
-      "lastSuccessAt": "2026-11-16T01:37:16.541Z",
+      "lastCheckedAt": "2026-11-16T08:33:36.680Z",
+      "lastSuccessAt": "2026-11-16T08:33:36.680Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -49,9 +57,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2122126010691060185",
-      "lastCheckedAt": "2026-11-16T01:37:17.396Z",
-      "lastSuccessAt": "2026-11-16T01:37:17.396Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-16T08:33:37.240Z",
+      "lastSuccessAt": "2026-11-16T08:33:37.240Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 56,
       "latestObservedPost": {
         "id": "2122126010691060185",
@@ -66,9 +74,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2122123437141553630",
-      "lastCheckedAt": "2026-11-16T01:37:18.025Z",
-      "lastSuccessAt": "2026-11-16T01:37:18.025Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-16T08:33:37.613Z",
+      "lastSuccessAt": "2026-11-16T08:33:37.613Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 62,
       "latestObservedPost": {
         "id": "2122123437141553630",
@@ -83,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2121395296341282987",
-      "lastCheckedAt": "2026-11-16T01:37:18.420Z",
-      "lastSuccessAt": "2026-11-16T01:37:18.420Z",
+      "lastCheckedAt": "2026-11-16T08:33:38.113Z",
+      "lastSuccessAt": "2026-11-16T08:33:38.113Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 193,
       "latestObservedPost": {
@@ -110,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2121813638550102052",
-      "lastCheckedAt": "2026-11-16T01:37:19.206Z",
-      "lastSuccessAt": "2026-11-16T01:37:19.206Z",
+      "lastCheckedAt": "2026-11-16T08:33:38.981Z",
+      "lastSuccessAt": "2026-11-16T08:33:38.981Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 111,
       "latestObservedPost": {
@@ -1439,7 +1447,8 @@
     "2121845965997101118": "cd3a8cae6a2e03fc3ac1f1f6e9ab4a38331b5adabefe02b336057a91a0cac762",
     "2121813638550102052": "72486682155ef3f78d6f188e04f5332a855604cce732b45cc09221a6b004874f",
     "2122126010691060185": "2a323dfd33579986237df7b98034a1f7da225e6eea301e9e6db22b98974785ec",
-    "2122123437141553630": "c315bed6e2c6c07660bce56f244fe40acd69f8bcb1b0053e42f8b03ca102c6e4"
+    "2122123437141553630": "c315bed6e2c6c07660bce56f244fe40acd69f8bcb1b0053e42f8b03ca102c6e4",
+    "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf"
   },
   "eventParserVersion": 5
 }
