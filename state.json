@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2122206990101536852",
-      "lastCheckedAt": "2026-11-16T18:51:27.172Z",
-      "lastSuccessAt": "2026-11-16T18:51:27.172Z",
+      "lastCheckedAt": "2026-11-17T02:09:08.196Z",
+      "lastSuccessAt": "2026-11-17T02:09:08.196Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 301,
       "latestObservedPost": {
@@ -40,8 +40,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-16T18:51:28.122Z",
-      "lastSuccessAt": "2026-11-16T18:51:28.122Z",
+      "lastCheckedAt": "2026-11-17T02:09:08.759Z",
+      "lastSuccessAt": "2026-11-17T02:09:08.759Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -57,9 +57,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2122381437198586144",
-      "lastCheckedAt": "2026-11-16T18:51:31.004Z",
-      "lastSuccessAt": "2026-11-16T18:51:31.004Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-17T02:09:09.238Z",
+      "lastSuccessAt": "2026-11-17T02:09:09.238Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 58,
       "latestObservedPost": {
         "id": "2122381437198586144",
@@ -73,23 +73,23 @@
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2122380010287960095",
-      "lastCheckedAt": "2026-11-16T18:51:32.045Z",
-      "lastSuccessAt": "2026-11-16T18:51:32.045Z",
-      "lastRunStatus": "checked-5-posts",
-      "postsScanned": 67,
+      "sinceId": "2122465625109090646",
+      "lastCheckedAt": "2026-11-17T02:09:09.939Z",
+      "lastSuccessAt": "2026-11-17T02:09:09.939Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 68,
       "latestObservedPost": {
-        "id": "2122380010287960095",
-        "canonicalId": "2122380010287960095",
-        "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing data and writing code—and what it could mean for scientific discovery.\n\nhttps://t.co/T4qTuVNEzz",
-        "createdAt": "2026-11-16T17:23:21.000Z",
-        "url": "https://x.com/OpenAI/status/2122380010287960095",
+        "id": "2122465625109090646",
+        "canonicalId": "2122465625109090646",
+        "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations, referrals, discharge planning, and patient outreach.\n\nTogether, these advances connect medical evidence with practical help across the tools teams already use—so they can spend less time navigating systems and more time caring for patients.\n\nhttps://t.co/NI35X8pG57",
+        "createdAt": "2026-11-16T23:03:33.000Z",
+        "url": "https://x.com/OpenAI/status/2122465625109090646",
         "media": [
           {
-            "mediaKey": "2122379074245173248",
+            "mediaKey": "2122465591847952385",
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/1920x1080/DjSA-RF8ZuHcAqPB.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122379074245173248/img/rOj7iXc8zJXjYimx.jpg",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/1920x1080/tvy45AprGu6A-YH4.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122465591847952385/img/9iPTw4fcBJ6BvW3f.jpg",
             "altText": null
           }
         ]
@@ -98,17 +98,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2122354501911007728",
-      "lastCheckedAt": "2026-11-16T18:51:35.048Z",
-      "lastSuccessAt": "2026-11-16T18:51:35.048Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 194,
+      "sinceId": "2122418505291325654",
+      "lastCheckedAt": "2026-11-17T02:09:10.804Z",
+      "lastSuccessAt": "2026-11-17T02:09:10.804Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 197,
       "latestObservedPost": {
-        "id": "2122354501911007728",
-        "canonicalId": "2122354501911007728",
-        "text": "@maxthepilgrim @DJIGlobal no need to look for alternatives, just build them!",
-        "createdAt": "2026-11-16T15:41:59.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2122354501911007728",
+        "id": "2122418505291325654",
+        "canonicalId": "2122418505291325654",
+        "text": "@BradGroux @OpenAI welcome!",
+        "createdAt": "2026-11-16T19:56:18.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2122418505291325654",
         "media": []
       }
     },
@@ -125,17 +125,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2122383238106960281",
-      "lastCheckedAt": "2026-11-16T18:51:36.826Z",
-      "lastSuccessAt": "2026-11-16T18:51:36.826Z",
+      "sinceId": "2122422629508243845",
+      "lastCheckedAt": "2026-11-17T02:09:12.201Z",
+      "lastSuccessAt": "2026-11-17T02:09:12.201Z",
       "lastRunStatus": "checked-3-posts",
-      "postsScanned": 114,
+      "postsScanned": 117,
       "latestObservedPost": {
-        "id": "2122383238106960281",
-        "canonicalId": "2122383238106960281",
-        "text": "@johnlindquist Fact",
-        "createdAt": "2026-11-16T17:36:10.000Z",
-        "url": "https://x.com/dkundel/status/2122383238106960281",
+        "id": "2122422629508243845",
+        "canonicalId": "2122422629508243845",
+        "text": "@milessy_bc Yeah it's just a Davinci Resolve project",
+        "createdAt": "2026-11-16T20:12:42.000Z",
+        "url": "https://x.com/dkundel/status/2122422629508243845",
         "media": []
       }
     }
@@ -1467,7 +1467,14 @@
     "2122354501911007728": "6f28be0ca0df8b1ded25fab1880bf8e1105bbc0b1fbd768019d45cc023a9434f",
     "2122293348426018986": "1d2148e13b0e0b09215ee5f0e8ee7d86823025866da69bcfd92b63de7a69a79b",
     "2122379849478099143": "10b47a344d72ddaa4aab4c3c62b5d62789aefb4fb2d98cd4257d22962e4fc38d",
-    "2122383238106960281": "2bb7c4a8ce2ada82a86b10e635f697a4a6d7c649117edc92d3a843adb76fa499"
+    "2122383238106960281": "2bb7c4a8ce2ada82a86b10e635f697a4a6d7c649117edc92d3a843adb76fa499",
+    "2122465625109090646": "417c0ed321f9d78275169731f4108fb2879669308608708442787de80dab970f",
+    "2122417793417240768": "a2f6eb032454850f52f58423a908d84a7b2f35eeee299bf94b36c501ea22fe78",
+    "2122418439981584840": "a415cc116f1175d78fe8749303d494d16c4618ce32b52d755238a6d3770cb008",
+    "2122418505291325654": "e4c3fcd8038157eecaa1fe6933fd5d8574b011b93dba7710240e93b12e7e1583",
+    "2122412480630853989": "cc4dc8c9da2704a23cc33689122e048a16afa23467f9d96fa575e402a466d4fb",
+    "2122417421327737077": "42e061db35fde29ad383c495a17a9755871ea8fb5e849c731274b917e48aeca2",
+    "2122422629508243845": "dc2b9abe6d41edf49a36364602bb2ea67c9d55bbf4e957684cf3c6fa7204546a"
   },
   "eventParserVersion": 5
 }

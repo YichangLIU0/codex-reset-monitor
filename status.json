@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T18:51:36.835Z",
+  "updatedAt": "2026-11-17T02:09:12.206Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-16T18:51:36.826Z",
-    "lastSuccessAt": "2026-11-16T18:51:36.826Z",
+    "lastCheckedAt": "2026-11-17T02:09:12.201Z",
+    "lastSuccessAt": "2026-11-17T02:09:12.201Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2122383238106960281",
-    "text": "@johnlindquist Fact",
-    "url": "https://x.com/dkundel/status/2122383238106960281",
-    "postCreatedAt": "2026-11-16T17:36:10.000Z"
+    "id": "2122465625109090646",
+    "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations, referrals, discharge planning, and patient outreach.\n\nTogether, these advances connect medical evidence with practical help across the tools teams already use—so they can spend less time navigating systems and more time caring for patients.\n\nhttps://t.co/NI35X8pG57",
+    "url": "https://x.com/OpenAI/status/2122465625109090646",
+    "postCreatedAt": "2026-11-16T23:03:33.000Z"
   },
   "latest": {
     "reset": null,
