@@ -14,22 +14,22 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2122534533216268747",
-      "lastCheckedAt": "2026-11-17T10:39:03.366Z",
-      "lastSuccessAt": "2026-11-17T10:39:03.366Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 302,
+      "sinceId": "2122754551187132438",
+      "lastCheckedAt": "2026-11-17T19:23:03.512Z",
+      "lastSuccessAt": "2026-11-17T19:23:03.512Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 304,
       "latestObservedPost": {
-        "id": "2122534533216268747",
-        "canonicalId": "2122534533216268747",
-        "text": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
-        "createdAt": "2026-11-17T03:37:22.000Z",
-        "url": "https://x.com/thsottiaux/status/2122534533216268747",
+        "id": "2122754551187132438",
+        "canonicalId": "2122754551187132438",
+        "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+        "createdAt": "2026-11-17T18:11:38.000Z",
+        "url": "https://x.com/thsottiaux/status/2122754551187132438",
         "media": [
           {
-            "mediaKey": "2122534506628591616",
+            "mediaKey": "2122754370001600512",
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXTB41sbMAA55mX.jpg?name=orig",
+            "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
             "previewImageUrl": null,
             "altText": null
           }
@@ -40,8 +40,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-17T10:39:04.182Z",
-      "lastSuccessAt": "2026-11-17T10:39:04.182Z",
+      "lastCheckedAt": "2026-11-17T19:23:05.355Z",
+      "lastSuccessAt": "2026-11-17T19:23:05.355Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -56,59 +56,51 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2122381437198586144",
-      "lastCheckedAt": "2026-11-17T10:39:04.595Z",
-      "lastSuccessAt": "2026-11-17T10:39:04.595Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 58,
+      "sinceId": "2122740752556216515",
+      "lastCheckedAt": "2026-11-17T19:23:07.590Z",
+      "lastSuccessAt": "2026-11-17T19:23:07.590Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 59,
       "latestObservedPost": {
-        "id": "2122381437198586144",
-        "canonicalId": "2122381437198586144",
-        "text": "ChatGPT for doubling the productivity of scientists:",
-        "createdAt": "2026-11-16T17:29:01.000Z",
-        "url": "https://x.com/gdb/status/2122381437198586144",
+        "id": "2122740752556216515",
+        "canonicalId": "2122740752556216515",
+        "text": "OpenAI Daybreak for defending NATO and allied networks: https://t.co/0E3N2u9E5r",
+        "createdAt": "2026-11-17T17:16:48.000Z",
+        "url": "https://x.com/gdb/status/2122740752556216515",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2122465625109090646",
-      "lastCheckedAt": "2026-11-17T10:39:04.893Z",
-      "lastSuccessAt": "2026-11-17T10:39:04.893Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 68,
+      "sinceId": "2122750135608528984",
+      "lastCheckedAt": "2026-11-17T19:23:09.033Z",
+      "lastSuccessAt": "2026-11-17T19:23:09.033Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 71,
       "latestObservedPost": {
-        "id": "2122465625109090646",
-        "canonicalId": "2122465625109090646",
-        "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations, referrals, discharge planning, and patient outreach.\n\nTogether, these advances connect medical evidence with practical help across the tools teams already use—so they can spend less time navigating systems and more time caring for patients.\n\nhttps://t.co/NI35X8pG57",
-        "createdAt": "2026-11-16T23:03:33.000Z",
-        "url": "https://x.com/OpenAI/status/2122465625109090646",
-        "media": [
-          {
-            "mediaKey": "2122465591847952385",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/1920x1080/tvy45AprGu6A-YH4.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122465591847952385/img/9iPTw4fcBJ6BvW3f.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2122750135608528984",
+        "canonicalId": "2122750135608528984",
+        "text": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users.\n\nPro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol.\n\nDevelopers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.",
+        "createdAt": "2026-11-17T17:54:05.000Z",
+        "url": "https://x.com/OpenAI/status/2122750135608528984",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2122418505291325654",
-      "lastCheckedAt": "2026-11-17T10:39:05.705Z",
-      "lastSuccessAt": "2026-11-17T10:39:05.705Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 197,
+      "sinceId": "2122752500877144461",
+      "lastCheckedAt": "2026-11-17T19:23:13.236Z",
+      "lastSuccessAt": "2026-11-17T19:23:13.236Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 200,
       "latestObservedPost": {
-        "id": "2122418505291325654",
-        "canonicalId": "2122418505291325654",
-        "text": "@BradGroux @OpenAI welcome!",
-        "createdAt": "2026-11-16T19:56:18.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2122418505291325654",
+        "id": "2122752500877144461",
+        "canonicalId": "2122752500877144461",
+        "text": "In the API, use gpt-6.2-astra and gpt-6.2-sol. Both models also support Fast and Ultrafast modes.\n\nWe’re cutting Ultrafast pricing by 50% for the next three months, making it available at just 3x the cost of Standard for API and Enterprise users.\n\nUltrafast is also coming to Pro 200 subscribers, starting with GPT-6.2 Sol.\n\nhttps://t.co/24iOMuYTRf",
+        "createdAt": "2026-11-17T18:03:29.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2122752500877144461",
         "media": []
       }
     },
@@ -125,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2122422629508243845",
-      "lastCheckedAt": "2026-11-17T10:39:06.472Z",
-      "lastSuccessAt": "2026-11-17T10:39:06.472Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 117,
+      "sinceId": "2122729423367733288",
+      "lastCheckedAt": "2026-11-17T19:23:14.566Z",
+      "lastSuccessAt": "2026-11-17T19:23:14.566Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 118,
       "latestObservedPost": {
-        "id": "2122422629508243845",
-        "canonicalId": "2122422629508243845",
-        "text": "@milessy_bc Yeah it's just a Davinci Resolve project",
-        "createdAt": "2026-11-16T20:12:42.000Z",
-        "url": "https://x.com/dkundel/status/2122422629508243845",
+        "id": "2122729423367733288",
+        "canonicalId": "2122729423367733288",
+        "text": "@Dimillian Just call your dot while you are playing 😂 not career advice",
+        "createdAt": "2026-11-17T16:31:47.000Z",
+        "url": "https://x.com/dkundel/status/2122729423367733288",
         "media": []
       }
     }
@@ -1475,7 +1467,17 @@
     "2122412480630853989": "cc4dc8c9da2704a23cc33689122e048a16afa23467f9d96fa575e402a466d4fb",
     "2122417421327737077": "42e061db35fde29ad383c495a17a9755871ea8fb5e849c731274b917e48aeca2",
     "2122422629508243845": "dc2b9abe6d41edf49a36364602bb2ea67c9d55bbf4e957684cf3c6fa7204546a",
-    "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c"
+    "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c",
+    "2122753991000133943": "6a081793cc0525495a517d3c984e419ddf6add9235c297098426c156c4bc7910",
+    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
+    "2122740752556216515": "fa3e6fc954fa68ae57b991c20efdcd42ed00d83d56627465e5c60635ec7eefb2",
+    "2122750124543926515": "12b97f07989ba97a3e98796be6e7f5e9412320a75e686e69702be9a1f0f85955",
+    "2122750133133791592": "fb9719c58830a04c455b7e860fea649427be54fdfd50a1f6ed7d1ea4ebfd3985",
+    "2122750135608528984": "1b6552c5d25fbe3387b30d510d728fc702ff522e1c678093fbaf7ac48bc97cfe",
+    "2122752256923873753": "9a46be07793ea234a9085d900bcb9bdf5c61f7b5953cefa4539a43e7dd1bd9fe",
+    "2122752488558522852": "e150de37dff1956633fbc0eff9bdae71d3b477587ce8ca5eef0ea9d1d638ee70",
+    "2122752500877144461": "ad9219bb25081fb8697e7fe3f39e098a138ee68b6a08a320dc7229cf3fcb6aae",
+    "2122729423367733288": "80b6161d53fe8878fa142e5c8c20105d58000d4fdea9da23f2c224d64dc96612"
   },
   "eventParserVersion": 5
 }
