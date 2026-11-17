@@ -14,22 +14,22 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2122206990101536852",
-      "lastCheckedAt": "2026-11-17T02:09:08.196Z",
-      "lastSuccessAt": "2026-11-17T02:09:08.196Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 301,
+      "sinceId": "2122534533216268747",
+      "lastCheckedAt": "2026-11-17T10:39:03.366Z",
+      "lastSuccessAt": "2026-11-17T10:39:03.366Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 302,
       "latestObservedPost": {
-        "id": "2122206990101536852",
-        "canonicalId": "2122206990101536852",
-        "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
-        "createdAt": "2026-11-16T05:55:49.000Z",
-        "url": "https://x.com/thsottiaux/status/2122206990101536852",
+        "id": "2122534533216268747",
+        "canonicalId": "2122534533216268747",
+        "text": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+        "createdAt": "2026-11-17T03:37:22.000Z",
+        "url": "https://x.com/thsottiaux/status/2122534533216268747",
         "media": [
           {
-            "mediaKey": "2122206888217698304",
+            "mediaKey": "2122534506628591616",
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXOX68AaYAAlezW.jpg?name=orig",
+            "url": "https://pbs.twimg.com/media/HXTB41sbMAA55mX.jpg?name=orig",
             "previewImageUrl": null,
             "altText": null
           }
@@ -40,8 +40,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-17T02:09:08.759Z",
-      "lastSuccessAt": "2026-11-17T02:09:08.759Z",
+      "lastCheckedAt": "2026-11-17T10:39:04.182Z",
+      "lastSuccessAt": "2026-11-17T10:39:04.182Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 29,
       "latestObservedPost": {
@@ -57,8 +57,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2122381437198586144",
-      "lastCheckedAt": "2026-11-17T02:09:09.238Z",
-      "lastSuccessAt": "2026-11-17T02:09:09.238Z",
+      "lastCheckedAt": "2026-11-17T10:39:04.595Z",
+      "lastSuccessAt": "2026-11-17T10:39:04.595Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 58,
       "latestObservedPost": {
@@ -74,9 +74,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2122465625109090646",
-      "lastCheckedAt": "2026-11-17T02:09:09.939Z",
-      "lastSuccessAt": "2026-11-17T02:09:09.939Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-17T10:39:04.893Z",
+      "lastSuccessAt": "2026-11-17T10:39:04.893Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 68,
       "latestObservedPost": {
         "id": "2122465625109090646",
@@ -99,9 +99,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2122418505291325654",
-      "lastCheckedAt": "2026-11-17T02:09:10.804Z",
-      "lastSuccessAt": "2026-11-17T02:09:10.804Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-17T10:39:05.705Z",
+      "lastSuccessAt": "2026-11-17T10:39:05.705Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 197,
       "latestObservedPost": {
         "id": "2122418505291325654",
@@ -126,9 +126,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2122422629508243845",
-      "lastCheckedAt": "2026-11-17T02:09:12.201Z",
-      "lastSuccessAt": "2026-11-17T02:09:12.201Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-17T10:39:06.472Z",
+      "lastSuccessAt": "2026-11-17T10:39:06.472Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 117,
       "latestObservedPost": {
         "id": "2122422629508243845",
@@ -1474,7 +1474,8 @@
     "2122418505291325654": "e4c3fcd8038157eecaa1fe6933fd5d8574b011b93dba7710240e93b12e7e1583",
     "2122412480630853989": "cc4dc8c9da2704a23cc33689122e048a16afa23467f9d96fa575e402a466d4fb",
     "2122417421327737077": "42e061db35fde29ad383c495a17a9755871ea8fb5e849c731274b917e48aeca2",
-    "2122422629508243845": "dc2b9abe6d41edf49a36364602bb2ea67c9d55bbf4e957684cf3c6fa7204546a"
+    "2122422629508243845": "dc2b9abe6d41edf49a36364602bb2ea67c9d55bbf4e957684cf3c6fa7204546a",
+    "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T02:09:12.206Z",
+  "updatedAt": "2026-11-17T10:39:06.477Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-17T02:09:12.201Z",
-    "lastSuccessAt": "2026-11-17T02:09:12.201Z",
+    "lastCheckedAt": "2026-11-17T10:39:06.472Z",
+    "lastSuccessAt": "2026-11-17T10:39:06.472Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2122465625109090646",
-    "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations, referrals, discharge planning, and patient outreach.\n\nTogether, these advances connect medical evidence with practical help across the tools teams already use—so they can spend less time navigating systems and more time caring for patients.\n\nhttps://t.co/NI35X8pG57",
-    "url": "https://x.com/OpenAI/status/2122465625109090646",
-    "postCreatedAt": "2026-11-16T23:03:33.000Z"
+    "id": "2122534533216268747",
+    "text": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+    "url": "https://x.com/thsottiaux/status/2122534533216268747",
+    "postCreatedAt": "2026-11-17T03:37:22.000Z"
   },
   "latest": {
     "reset": null,
