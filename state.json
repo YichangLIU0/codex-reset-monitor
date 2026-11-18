@@ -14,94 +14,115 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2122954129094111394",
-      "lastCheckedAt": "2026-11-18T09:10:19.607Z",
-      "lastSuccessAt": "2026-11-18T09:10:19.607Z",
-      "lastRunStatus": "checked-13-posts",
-      "postsScanned": 322,
+      "sinceId": "2123113107048501273",
+      "lastCheckedAt": "2026-11-18T18:00:21.325Z",
+      "lastSuccessAt": "2026-11-18T18:00:21.325Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 325,
       "latestObservedPost": {
-        "id": "2122954129094111394",
-        "canonicalId": "2122954129094111394",
-        "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
-        "createdAt": "2026-11-18T07:24:41.000Z",
-        "url": "https://x.com/thsottiaux/status/2122954129094111394",
+        "id": "2123113107048501273",
+        "canonicalId": "2123113107048501273",
+        "text": "How is 6.2 Sol treating you today?",
+        "createdAt": "2026-11-18T17:56:24.000Z",
+        "url": "https://x.com/thsottiaux/status/2123113107048501273",
         "media": []
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2122800502799016136",
-      "lastCheckedAt": "2026-11-18T09:10:21.167Z",
-      "lastSuccessAt": "2026-11-18T09:10:21.167Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 32,
+      "sinceId": "2123103873166381287",
+      "lastCheckedAt": "2026-11-18T18:00:22.172Z",
+      "lastSuccessAt": "2026-11-18T18:00:22.172Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 33,
       "latestObservedPost": {
-        "id": "2122800502799016136",
-        "canonicalId": "2122800502799016136",
-        "text": "@JensenHuang 💚",
-        "createdAt": "2026-11-17T21:14:14.000Z",
-        "url": "https://x.com/sama/status/2122800502799016136",
+        "id": "2123103873166381287",
+        "canonicalId": "2123103873166381287",
+        "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
+        "createdAt": "2026-11-18T17:19:43.000Z",
+        "url": "https://x.com/sama/status/2123103873166381287",
         "media": []
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2122869636928598361",
-      "lastCheckedAt": "2026-11-18T09:10:22.355Z",
-      "lastSuccessAt": "2026-11-18T09:10:22.355Z",
+      "sinceId": "2123083286717342011",
+      "lastCheckedAt": "2026-11-18T18:00:24.077Z",
+      "lastSuccessAt": "2026-11-18T18:00:24.077Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 62,
+      "postsScanned": 63,
       "latestObservedPost": {
-        "id": "2122869636928598361",
-        "canonicalId": "2122869636928598361",
-        "text": "GPT-6.2 Astra for Law is SOTA on legal intelligence:",
-        "createdAt": "2026-11-18T01:48:57.000Z",
-        "url": "https://x.com/gdb/status/2122869636928598361",
+        "id": "2123083286717342011",
+        "canonicalId": "2123083286717342011",
+        "text": "GPT-6.2 is incredible at browser use:",
+        "createdAt": "2026-11-18T15:57:55.000Z",
+        "url": "https://x.com/gdb/status/2123083286717342011",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2122750135608528984",
-      "lastCheckedAt": "2026-11-18T09:10:22.845Z",
-      "lastSuccessAt": "2026-11-18T09:10:22.845Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 71,
+      "sinceId": "2123100386638877054",
+      "lastCheckedAt": "2026-11-18T18:00:24.767Z",
+      "lastSuccessAt": "2026-11-18T18:00:24.767Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 72,
       "latestObservedPost": {
-        "id": "2122750135608528984",
-        "canonicalId": "2122750135608528984",
-        "text": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users.\n\nPro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol.\n\nDevelopers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.",
-        "createdAt": "2026-11-17T17:54:05.000Z",
-        "url": "https://x.com/OpenAI/status/2122750135608528984",
-        "media": []
+        "id": "2123100386638877054",
+        "canonicalId": "2123100386638877054",
+        "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon.\n\nNew evaluations also show our models getting better at certain chip design tasks.\n\nWe’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers.\n\nhttps://t.co/4BNcPIqfIQ",
+        "createdAt": "2026-11-18T17:05:52.000Z",
+        "url": "https://x.com/OpenAI/status/2123100386638877054",
+        "media": [
+          {
+            "mediaKey": "2123099499195502592",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbDvvBbkAA_huj.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          },
+          {
+            "mediaKey": "2123099499400994816",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbDvvybIAAlN65.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          },
+          {
+            "mediaKey": "2123099499354820608",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbDvvnakAAzZqh.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          },
+          {
+            "mediaKey": "2123099499052838912",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbDvufasAA5M5N.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2122847525916786843",
-      "lastCheckedAt": "2026-11-18T09:10:23.324Z",
-      "lastSuccessAt": "2026-11-18T09:10:23.324Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 210,
+      "sinceId": "2123112152735043933",
+      "lastCheckedAt": "2026-11-18T18:00:26.239Z",
+      "lastSuccessAt": "2026-11-18T18:00:26.239Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 211,
       "latestObservedPost": {
-        "id": "2122847525916786843",
-        "canonicalId": "2122847525916786843",
-        "text": "@Angaisb_ https://t.co/HB6rcLbbL2",
-        "createdAt": "2026-11-18T00:21:05.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2122847525916786843",
-        "media": [
-          {
-            "mediaKey": "2122847519923220480",
-            "type": "gif",
-            "url": "https://video.twimg.com/tweet_video/HXXeknFXsAARpWB.mp4",
-            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HXXeknFXsAARpWB.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2123112152735043933",
+        "canonicalId": "2123112152735043933",
+        "text": "@dingchilling beautiful ✨",
+        "createdAt": "2026-11-18T17:52:37.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2123112152735043933",
+        "media": []
       }
     },
     "codex": {
@@ -118,8 +139,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2122847669370671479",
-      "lastCheckedAt": "2026-11-18T09:10:25.674Z",
-      "lastSuccessAt": "2026-11-18T09:10:25.674Z",
+      "lastCheckedAt": "2026-11-18T18:00:27.654Z",
+      "lastSuccessAt": "2026-11-18T18:00:27.654Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -1512,7 +1533,14 @@
     "2122953161921196052": "f90e69d07bfc18bb16ea2f01d0a75f14ce597c3bb768c053f3180ce533dc97a2",
     "2122953953851879880": "97536de6742ac9ddfb05b3db50c4d79abc158822ffa8f8a95f8f13262d3c54e5",
     "2122954129094111394": "397ea7bb97dc934a0631a57b5240bf08fa3c03ac6a989538c5a97ff220140605",
-    "2122869636928598361": "bdb04b57cbad11a987aa895192e3c3681468fcff99048a4d853a57849609dd26"
+    "2122869636928598361": "bdb04b57cbad11a987aa895192e3c3681468fcff99048a4d853a57849609dd26",
+    "2123112623294320913": "d849906bae4379029330b2f60bbf7660d6ab3a9438b04e1c00f3406c20bf753c",
+    "2123112903809318994": "78c4f530d9f743f1ec0c41da49a2fd5b38d251f59db4fc4798bce69e8705cb8f",
+    "2123113107048501273": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc",
+    "2123103873166381287": "3546c17c6a0f5008e9326b314dc0c55f75ce87abf42e0f7ec258c85756815631",
+    "2123083286717342011": "4cf4777e24c8d5a48f61c8e417bfe5a4fb284c3c2f023cac6b8d7d6a18dff8b9",
+    "2123100386638877054": "c6ec7053f3f3782c468349fca4e4dedffde70d5ca29a7982077b0f6234662158",
+    "2123112152735043933": "5835e92c8fd18cfca6a453caa2a7046e7033950f2036095dd5a13ddaf13ebdc8"
   },
   "eventParserVersion": 5
 }
