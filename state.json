@@ -14,59 +14,51 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2122754551187132438",
-      "lastCheckedAt": "2026-11-17T19:23:03.512Z",
-      "lastSuccessAt": "2026-11-17T19:23:03.512Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 304,
+      "sinceId": "2122851449474605281",
+      "lastCheckedAt": "2026-11-18T01:43:08.810Z",
+      "lastSuccessAt": "2026-11-18T01:43:08.810Z",
+      "lastRunStatus": "checked-5-posts",
+      "postsScanned": 309,
       "latestObservedPost": {
-        "id": "2122754551187132438",
-        "canonicalId": "2122754551187132438",
-        "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-        "createdAt": "2026-11-17T18:11:38.000Z",
-        "url": "https://x.com/thsottiaux/status/2122754551187132438",
-        "media": [
-          {
-            "mediaKey": "2122754370001600512",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2122851449474605281",
+        "canonicalId": "2122851449474605281",
+        "text": "@skalskip92 Awkward",
+        "createdAt": "2026-11-18T00:36:40.000Z",
+        "url": "https://x.com/thsottiaux/status/2122851449474605281",
+        "media": []
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2117846298472886419",
-      "lastCheckedAt": "2026-11-17T19:23:05.355Z",
-      "lastSuccessAt": "2026-11-17T19:23:05.355Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 29,
+      "sinceId": "2122800502799016136",
+      "lastCheckedAt": "2026-11-18T01:43:09.304Z",
+      "lastSuccessAt": "2026-11-18T01:43:09.304Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 32,
       "latestObservedPost": {
-        "id": "2117846298472886419",
-        "canonicalId": "2117846298472886419",
-        "text": "@jestermolecule @HarshithLucky3 but only because...i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context.\n\ni have been arguing for the world to ramp up memory production for a long time.",
-        "createdAt": "2026-11-04T05:07:59.000Z",
-        "url": "https://x.com/sama/status/2117846298472886419",
+        "id": "2122800502799016136",
+        "canonicalId": "2122800502799016136",
+        "text": "@JensenHuang 💚",
+        "createdAt": "2026-11-17T21:14:14.000Z",
+        "url": "https://x.com/sama/status/2122800502799016136",
         "media": []
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2122740752556216515",
-      "lastCheckedAt": "2026-11-17T19:23:07.590Z",
-      "lastSuccessAt": "2026-11-17T19:23:07.590Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 59,
+      "sinceId": "2122825442021572838",
+      "lastCheckedAt": "2026-11-18T01:43:10.204Z",
+      "lastSuccessAt": "2026-11-18T01:43:10.204Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 61,
       "latestObservedPost": {
-        "id": "2122740752556216515",
-        "canonicalId": "2122740752556216515",
-        "text": "OpenAI Daybreak for defending NATO and allied networks: https://t.co/0E3N2u9E5r",
-        "createdAt": "2026-11-17T17:16:48.000Z",
-        "url": "https://x.com/gdb/status/2122740752556216515",
+        "id": "2122825442021572838",
+        "canonicalId": "2122825442021572838",
+        "text": "ChatGPT for all things sales:",
+        "createdAt": "2026-11-17T22:53:20.000Z",
+        "url": "https://x.com/gdb/status/2122825442021572838",
         "media": []
       }
     },
@@ -74,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2122750135608528984",
-      "lastCheckedAt": "2026-11-17T19:23:09.033Z",
-      "lastSuccessAt": "2026-11-17T19:23:09.033Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-18T01:43:10.504Z",
+      "lastSuccessAt": "2026-11-18T01:43:10.504Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 71,
       "latestObservedPost": {
         "id": "2122750135608528984",
@@ -90,18 +82,26 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2122752500877144461",
-      "lastCheckedAt": "2026-11-17T19:23:13.236Z",
-      "lastSuccessAt": "2026-11-17T19:23:13.236Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 200,
+      "sinceId": "2122847525916786843",
+      "lastCheckedAt": "2026-11-18T01:43:11.815Z",
+      "lastSuccessAt": "2026-11-18T01:43:11.815Z",
+      "lastRunStatus": "checked-10-posts",
+      "postsScanned": 210,
       "latestObservedPost": {
-        "id": "2122752500877144461",
-        "canonicalId": "2122752500877144461",
-        "text": "In the API, use gpt-6.2-astra and gpt-6.2-sol. Both models also support Fast and Ultrafast modes.\n\nWe’re cutting Ultrafast pricing by 50% for the next three months, making it available at just 3x the cost of Standard for API and Enterprise users.\n\nUltrafast is also coming to Pro 200 subscribers, starting with GPT-6.2 Sol.\n\nhttps://t.co/24iOMuYTRf",
-        "createdAt": "2026-11-17T18:03:29.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2122752500877144461",
-        "media": []
+        "id": "2122847525916786843",
+        "canonicalId": "2122847525916786843",
+        "text": "@Angaisb_ https://t.co/HB6rcLbbL2",
+        "createdAt": "2026-11-18T00:21:05.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2122847525916786843",
+        "media": [
+          {
+            "mediaKey": "2122847519923220480",
+            "type": "gif",
+            "url": "https://video.twimg.com/tweet_video/HXXeknFXsAARpWB.mp4",
+            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HXXeknFXsAARpWB.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "codex": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2122729423367733288",
-      "lastCheckedAt": "2026-11-17T19:23:14.566Z",
-      "lastSuccessAt": "2026-11-17T19:23:14.566Z",
+      "sinceId": "2122847669370671479",
+      "lastCheckedAt": "2026-11-18T01:43:12.884Z",
+      "lastSuccessAt": "2026-11-18T01:43:12.884Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 118,
+      "postsScanned": 119,
       "latestObservedPost": {
-        "id": "2122729423367733288",
-        "canonicalId": "2122729423367733288",
-        "text": "@Dimillian Just call your dot while you are playing 😂 not career advice",
-        "createdAt": "2026-11-17T16:31:47.000Z",
-        "url": "https://x.com/dkundel/status/2122729423367733288",
+        "id": "2122847669370671479",
+        "canonicalId": "2122847669370671479",
+        "text": "@Baconbrix @lydiahallie Glad you are doing better! Hope you are back on your feet soon",
+        "createdAt": "2026-11-18T00:21:39.000Z",
+        "url": "https://x.com/dkundel/status/2122847669370671479",
         "media": []
       }
     }
@@ -1477,7 +1477,28 @@
     "2122752256923873753": "9a46be07793ea234a9085d900bcb9bdf5c61f7b5953cefa4539a43e7dd1bd9fe",
     "2122752488558522852": "e150de37dff1956633fbc0eff9bdae71d3b477587ce8ca5eef0ea9d1d638ee70",
     "2122752500877144461": "ad9219bb25081fb8697e7fe3f39e098a138ee68b6a08a320dc7229cf3fcb6aae",
-    "2122729423367733288": "80b6161d53fe8878fa142e5c8c20105d58000d4fdea9da23f2c224d64dc96612"
+    "2122729423367733288": "80b6161d53fe8878fa142e5c8c20105d58000d4fdea9da23f2c224d64dc96612",
+    "2122815564821434613": "ce7597add272b03052af2fd26bd10a027c9c742ec502e97660042f7257a3142b",
+    "2122816053348847795": "4412beb5878a6cfb12e674d4d5b7b556ac61c4507249480c895a5547e1d66269",
+    "2122816458711548126": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
+    "2122850498202271748": "a03e5ede914cd7784429a1aeb7933adde730518919d878051c8394426dd49cab",
+    "2122851449474605281": "47af6c5b6161f17623b4a552240be9d993cfa1f1e497b9aa09f651436c8a9750",
+    "2122798039899263456": "1931da71f809c5c843ae1e1571b9cf9517f0080f9334e86323c723be028bb39d",
+    "2122798042734633452": "af81a1ace63b80d461767fef76a10a653a419044a4de1ea78a139b860ee3565b",
+    "2122800502799016136": "dfb531f7fa23bb8ab68e7a1bb1588705dbd0a6e3bb8d1112ed77b4de4c256e1d",
+    "2122819528858161322": "cbaeab8c3126ce54440b5b965eea57f0ca29fdc9a52a6040b6b4209a1e2220fe",
+    "2122825442021572838": "c41e1055341fe64a5cf2ac2ad94c53b049f4b2247b9fecf6b80394b14998a931",
+    "2122774871352729864": "f4ec262823014a7a1613afefb4c1f5fe80c0a95f581f97b9a5fa212a8887fe90",
+    "2122782321892081760": "82490f791b53e10e325768a08da9411bb28c44184de308911db022a1f0b78865",
+    "2122782541061267726": "133f17e453e95b67741b47d7180db5067f70d74005fc91a2a4fec9dffa876f65",
+    "2122824859491205152": "f4363c850ad0751e8a19489e9a84689773a8a0b719f1d92ff55d1976769326b2",
+    "2122824860829176173": "0f5d268da3f6c6e838c8c6351e3dd88a85d14b0bc13accffcec8d81e6abefc51",
+    "2122845238116892914": "e993e4dc59c95a48b6a384560d3d4494f82e62c226bda62486f0f2927da1eb78",
+    "2122845345092939993": "24be5d20561e88b98f81e6e460a7b79d63a7565cde8bfb088f6b1a7317b203c4",
+    "2122846944535928880": "bc0d782d093ffd77ba7de7cf37269fae1136b79706c23a51d58d3c06541c2589",
+    "2122847406857589155": "cf2db10b8e4a310fbb6d76fa70ad328afc7788c8f3c461be8c2dee17b47120b3",
+    "2122847525916786843": "697c9a9127749e27ab9d5fd5cd98fdc912a8bd5c745ffdd46dc318a03e154d0d",
+    "2122847669370671479": "50da1cab17c502585cd322ff2808bf4a1931d35cc215b7d6c813cedc665b8fed"
   },
   "eventParserVersion": 5
 }
