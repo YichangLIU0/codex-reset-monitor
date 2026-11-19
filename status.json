@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T18:00:27.660Z",
+  "updatedAt": "2026-11-19T00:09:36.534Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-18T18:00:27.654Z",
-    "lastSuccessAt": "2026-11-18T18:00:27.654Z",
+    "lastCheckedAt": "2026-11-19T00:09:36.528Z",
+    "lastSuccessAt": "2026-11-19T00:09:36.528Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2123113107048501273",
-    "text": "How is 6.2 Sol treating you today?",
-    "url": "https://x.com/thsottiaux/status/2123113107048501273",
-    "postCreatedAt": "2026-11-18T17:56:24.000Z"
+    "id": "2123191365983248653",
+    "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
+    "url": "https://x.com/OpenAI/status/2123191365983248653",
+    "postCreatedAt": "2026-11-18T23:07:23.000Z"
   },
   "latest": {
     "reset": null,

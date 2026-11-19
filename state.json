@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2123113107048501273",
-      "lastCheckedAt": "2026-11-18T18:00:21.325Z",
-      "lastSuccessAt": "2026-11-18T18:00:21.325Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 325,
+      "sinceId": "2123179276199735535",
+      "lastCheckedAt": "2026-11-19T00:09:29.832Z",
+      "lastSuccessAt": "2026-11-19T00:09:29.832Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 329,
       "latestObservedPost": {
-        "id": "2123113107048501273",
-        "canonicalId": "2123113107048501273",
-        "text": "How is 6.2 Sol treating you today?",
-        "createdAt": "2026-11-18T17:56:24.000Z",
-        "url": "https://x.com/thsottiaux/status/2123113107048501273",
+        "id": "2123179276199735535",
+        "canonicalId": "2123179276199735535",
+        "text": "@DannyIO It does like math",
+        "createdAt": "2026-11-18T22:19:20.000Z",
+        "url": "https://x.com/thsottiaux/status/2123179276199735535",
         "media": []
       }
     },
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-18T18:00:22.172Z",
-      "lastSuccessAt": "2026-11-18T18:00:22.172Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-19T00:09:31.139Z",
+      "lastSuccessAt": "2026-11-19T00:09:31.139Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
         "id": "2123103873166381287",
@@ -48,80 +48,51 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123083286717342011",
-      "lastCheckedAt": "2026-11-18T18:00:24.077Z",
-      "lastSuccessAt": "2026-11-18T18:00:24.077Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 63,
+      "sinceId": "2123190766382075992",
+      "lastCheckedAt": "2026-11-19T00:09:32.480Z",
+      "lastSuccessAt": "2026-11-19T00:09:32.480Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 65,
       "latestObservedPost": {
-        "id": "2123083286717342011",
-        "canonicalId": "2123083286717342011",
-        "text": "GPT-6.2 is incredible at browser use:",
-        "createdAt": "2026-11-18T15:57:55.000Z",
-        "url": "https://x.com/gdb/status/2123083286717342011",
+        "id": "2123190766382075992",
+        "canonicalId": "2123190766382075992",
+        "text": "further close collaboration to help secure the internet, from discovery to responsible disclosure:",
+        "createdAt": "2026-11-18T23:05:00.000Z",
+        "url": "https://x.com/gdb/status/2123190766382075992",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2123100386638877054",
-      "lastCheckedAt": "2026-11-18T18:00:24.767Z",
-      "lastSuccessAt": "2026-11-18T18:00:24.767Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 72,
+      "sinceId": "2123191365983248653",
+      "lastCheckedAt": "2026-11-19T00:09:34.241Z",
+      "lastSuccessAt": "2026-11-19T00:09:34.241Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 74,
       "latestObservedPost": {
-        "id": "2123100386638877054",
-        "canonicalId": "2123100386638877054",
-        "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon.\n\nNew evaluations also show our models getting better at certain chip design tasks.\n\nWe’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers.\n\nhttps://t.co/4BNcPIqfIQ",
-        "createdAt": "2026-11-18T17:05:52.000Z",
-        "url": "https://x.com/OpenAI/status/2123100386638877054",
-        "media": [
-          {
-            "mediaKey": "2123099499195502592",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXbDvvBbkAA_huj.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          },
-          {
-            "mediaKey": "2123099499400994816",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXbDvvybIAAlN65.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          },
-          {
-            "mediaKey": "2123099499354820608",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXbDvvnakAAzZqh.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          },
-          {
-            "mediaKey": "2123099499052838912",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXbDvufasAA5M5N.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2123191365983248653",
+        "canonicalId": "2123191365983248653",
+        "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
+        "createdAt": "2026-11-18T23:07:23.000Z",
+        "url": "https://x.com/OpenAI/status/2123191365983248653",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2123112152735043933",
-      "lastCheckedAt": "2026-11-18T18:00:26.239Z",
-      "lastSuccessAt": "2026-11-18T18:00:26.239Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 211,
+      "sinceId": "2123188224847982655",
+      "lastCheckedAt": "2026-11-19T00:09:35.141Z",
+      "lastSuccessAt": "2026-11-19T00:09:35.141Z",
+      "lastRunStatus": "checked-7-posts",
+      "postsScanned": 218,
       "latestObservedPost": {
-        "id": "2123112152735043933",
-        "canonicalId": "2123112152735043933",
-        "text": "@dingchilling beautiful ✨",
-        "createdAt": "2026-11-18T17:52:37.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2123112152735043933",
+        "id": "2123188224847982655",
+        "canonicalId": "2123188224847982655",
+        "text": "Set “completion_window” to “2h” for 30% less per token than Standard, or “8h” for 40% less.\n\nSet a continuation ID when you send the notes and reuse it on follow-up requests to give them higher queue priority.\n\nhttps://t.co/DFk2goiYsC",
+        "createdAt": "2026-11-18T22:54:54.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2123188224847982655",
         "media": []
       }
     },
@@ -139,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2122847669370671479",
-      "lastCheckedAt": "2026-11-18T18:00:27.654Z",
-      "lastSuccessAt": "2026-11-18T18:00:27.654Z",
+      "lastCheckedAt": "2026-11-19T00:09:36.528Z",
+      "lastSuccessAt": "2026-11-19T00:09:36.528Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -1540,7 +1511,22 @@
     "2123103873166381287": "3546c17c6a0f5008e9326b314dc0c55f75ce87abf42e0f7ec258c85756815631",
     "2123083286717342011": "4cf4777e24c8d5a48f61c8e417bfe5a4fb284c3c2f023cac6b8d7d6a18dff8b9",
     "2123100386638877054": "c6ec7053f3f3782c468349fca4e4dedffde70d5ca29a7982077b0f6234662158",
-    "2123112152735043933": "5835e92c8fd18cfca6a453caa2a7046e7033950f2036095dd5a13ddaf13ebdc8"
+    "2123112152735043933": "5835e92c8fd18cfca6a453caa2a7046e7033950f2036095dd5a13ddaf13ebdc8",
+    "2123150581321883811": "7421c9a8ba700c0a7781a73666b4e2b7a032c6cff9c131579c1389e379991f0f",
+    "2123151267002503570": "06498a8eeec8a31e9badb1deb9129d0998928d82d87474ab23ee76a1704a76f4",
+    "2123175166519992652": "fbae532ef257f6a6572d7ccda534a9924981dece4bed7bc8a45ad4766c9025b5",
+    "2123179276199735535": "61b537d9a9df332a041790dca8d9c738784991bf2f0c2faeffdb34908af1cbf1",
+    "2123150520303161763": "7f86110bf824a6e47aa4c376a0e6eb0eb9595cd89ed3c6ed4e33295d719b6243",
+    "2123190766382075992": "fa10ef461a2e133665d9b4956a5bc7ffee7b2574a1bcebcb9f1e48f55d6e9206",
+    "2123165872261075233": "273beb61e4d31cec917c56fd9dd4d0b598da299d54f0a13678aca506d4794c92",
+    "2123191365983248653": "bd46527e0610f5a3e6ee32c13263eabf9b10287982b4b6e849be5c7baf0b51ab",
+    "2123129469447880885": "c89c230b3d809fda28fdfe085171caa442134236db6d65c160fd39e0805a8379",
+    "2123129477047718171": "9e95e674f77f2ce3928b9ac6bd4ba47873946b14c297cae0eaa9666b04f217b4",
+    "2123129478998048824": "6bf034643b789dc50ac0e20f82970a41489b1b3506835c2dbf149d4bdf93ed71",
+    "2123138842270335394": "8964b19221fbba6df3003e4256c42383cd0520167df7434b32b6be9445142a44",
+    "2123188195202617408": "3a8f77de56e6d75ebcfd69db1d8268e5592c571467dc6543ad678df1b8fffa4c",
+    "2123188212793544792": "2173e5c1e4c4c74a7752597542918aa5baad48444255664e1f07e3bae92f1198",
+    "2123188224847982655": "788844f81eafa1f423a246a87cdb3f76693bf5c48992695b2bbea59071e6d261"
   },
   "eventParserVersion": 5
 }
