@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2123179276199735535",
-      "lastCheckedAt": "2026-11-19T07:16:30.383Z",
-      "lastSuccessAt": "2026-11-19T07:16:30.383Z",
+      "lastCheckedAt": "2026-11-19T16:37:43.838Z",
+      "lastSuccessAt": "2026-11-19T16:37:43.838Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 329,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-19T07:16:31.142Z",
-      "lastSuccessAt": "2026-11-19T07:16:31.142Z",
+      "lastCheckedAt": "2026-11-19T16:37:45.157Z",
+      "lastSuccessAt": "2026-11-19T16:37:45.157Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123225465762542044",
-      "lastCheckedAt": "2026-11-19T07:16:32.155Z",
-      "lastSuccessAt": "2026-11-19T07:16:32.155Z",
+      "sinceId": "2123420851777220790",
+      "lastCheckedAt": "2026-11-19T16:37:48.627Z",
+      "lastSuccessAt": "2026-11-19T16:37:48.627Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 66,
+      "postsScanned": 67,
       "latestObservedPost": {
-        "id": "2123225465762542044",
-        "canonicalId": "2123225465762542044",
-        "text": "ChatGPT for all things accounting:",
-        "createdAt": "2026-11-19T01:22:53.000Z",
-        "url": "https://x.com/gdb/status/2123225465762542044",
+        "id": "2123420851777220790",
+        "canonicalId": "2123420851777220790",
+        "text": "Codex for securing Ruby, with assistance from our team:",
+        "createdAt": "2026-11-19T14:19:16.000Z",
+        "url": "https://x.com/gdb/status/2123420851777220790",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123191365983248653",
-      "lastCheckedAt": "2026-11-19T07:16:32.560Z",
-      "lastSuccessAt": "2026-11-19T07:16:32.560Z",
+      "lastCheckedAt": "2026-11-19T16:37:49.281Z",
+      "lastSuccessAt": "2026-11-19T16:37:49.281Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 74,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2123188224847982655",
-      "lastCheckedAt": "2026-11-19T07:16:33.419Z",
-      "lastSuccessAt": "2026-11-19T07:16:33.419Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 218,
+      "sinceId": "2123413960367952319",
+      "lastCheckedAt": "2026-11-19T16:37:50.525Z",
+      "lastSuccessAt": "2026-11-19T16:37:50.525Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 219,
       "latestObservedPost": {
-        "id": "2123188224847982655",
-        "canonicalId": "2123188224847982655",
-        "text": "Set “completion_window” to “2h” for 30% less per token than Standard, or “8h” for 40% less.\n\nSet a continuation ID when you send the notes and reuse it on follow-up requests to give them higher queue priority.\n\nhttps://t.co/DFk2goiYsC",
-        "createdAt": "2026-11-18T22:54:54.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2123188224847982655",
+        "id": "2123413960367952319",
+        "canonicalId": "2123413960367952319",
+        "text": "@givros so impressive!",
+        "createdAt": "2026-11-19T13:51:53.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2123413960367952319",
         "media": []
       }
     },
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2122847669370671479",
-      "lastCheckedAt": "2026-11-19T07:16:34.393Z",
-      "lastSuccessAt": "2026-11-19T07:16:34.393Z",
+      "lastCheckedAt": "2026-11-19T16:37:52.890Z",
+      "lastSuccessAt": "2026-11-19T16:37:52.890Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -1527,7 +1527,9 @@
     "2123188195202617408": "3a8f77de56e6d75ebcfd69db1d8268e5592c571467dc6543ad678df1b8fffa4c",
     "2123188212793544792": "2173e5c1e4c4c74a7752597542918aa5baad48444255664e1f07e3bae92f1198",
     "2123188224847982655": "788844f81eafa1f423a246a87cdb3f76693bf5c48992695b2bbea59071e6d261",
-    "2123225465762542044": "34ca2514b175e515c3bdaf98058e34a4539d7fa1ba94b98cb736247292c47014"
+    "2123225465762542044": "34ca2514b175e515c3bdaf98058e34a4539d7fa1ba94b98cb736247292c47014",
+    "2123420851777220790": "3ffc0513d775b323bb1d6ee55cb1d992a5bd7cbdbdc0ddea3d6db8311bcd1a40",
+    "2123413960367952319": "cdf4947899672411b0f06cdac0ebca1b44131d0a4b55836bb84d7c14b2684b18"
   },
   "eventParserVersion": 5
 }

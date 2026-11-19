@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T07:16:34.399Z",
+  "updatedAt": "2026-11-19T16:37:52.898Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-19T07:16:34.393Z",
-    "lastSuccessAt": "2026-11-19T07:16:34.393Z",
+    "lastCheckedAt": "2026-11-19T16:37:52.890Z",
+    "lastSuccessAt": "2026-11-19T16:37:52.890Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2123225465762542044",
-    "text": "ChatGPT for all things accounting:",
-    "url": "https://x.com/gdb/status/2123225465762542044",
-    "postCreatedAt": "2026-11-19T01:22:53.000Z"
+    "id": "2123420851777220790",
+    "text": "Codex for securing Ruby, with assistance from our team:",
+    "url": "https://x.com/gdb/status/2123420851777220790",
+    "postCreatedAt": "2026-11-19T14:19:16.000Z"
   },
   "latest": {
     "reset": null,
