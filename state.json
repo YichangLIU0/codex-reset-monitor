@@ -15,9 +15,9 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2123179276199735535",
-      "lastCheckedAt": "2026-11-19T00:09:29.832Z",
-      "lastSuccessAt": "2026-11-19T00:09:29.832Z",
-      "lastRunStatus": "checked-4-posts",
+      "lastCheckedAt": "2026-11-19T07:16:30.383Z",
+      "lastSuccessAt": "2026-11-19T07:16:30.383Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 329,
       "latestObservedPost": {
         "id": "2123179276199735535",
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-19T00:09:31.139Z",
-      "lastSuccessAt": "2026-11-19T00:09:31.139Z",
+      "lastCheckedAt": "2026-11-19T07:16:31.142Z",
+      "lastSuccessAt": "2026-11-19T07:16:31.142Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123190766382075992",
-      "lastCheckedAt": "2026-11-19T00:09:32.480Z",
-      "lastSuccessAt": "2026-11-19T00:09:32.480Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 65,
+      "sinceId": "2123225465762542044",
+      "lastCheckedAt": "2026-11-19T07:16:32.155Z",
+      "lastSuccessAt": "2026-11-19T07:16:32.155Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 66,
       "latestObservedPost": {
-        "id": "2123190766382075992",
-        "canonicalId": "2123190766382075992",
-        "text": "further close collaboration to help secure the internet, from discovery to responsible disclosure:",
-        "createdAt": "2026-11-18T23:05:00.000Z",
-        "url": "https://x.com/gdb/status/2123190766382075992",
+        "id": "2123225465762542044",
+        "canonicalId": "2123225465762542044",
+        "text": "ChatGPT for all things accounting:",
+        "createdAt": "2026-11-19T01:22:53.000Z",
+        "url": "https://x.com/gdb/status/2123225465762542044",
         "media": []
       }
     },
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123191365983248653",
-      "lastCheckedAt": "2026-11-19T00:09:34.241Z",
-      "lastSuccessAt": "2026-11-19T00:09:34.241Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-19T07:16:32.560Z",
+      "lastSuccessAt": "2026-11-19T07:16:32.560Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 74,
       "latestObservedPost": {
         "id": "2123191365983248653",
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123188224847982655",
-      "lastCheckedAt": "2026-11-19T00:09:35.141Z",
-      "lastSuccessAt": "2026-11-19T00:09:35.141Z",
-      "lastRunStatus": "checked-7-posts",
+      "lastCheckedAt": "2026-11-19T07:16:33.419Z",
+      "lastSuccessAt": "2026-11-19T07:16:33.419Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 218,
       "latestObservedPost": {
         "id": "2123188224847982655",
@@ -110,8 +110,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2122847669370671479",
-      "lastCheckedAt": "2026-11-19T00:09:36.528Z",
-      "lastSuccessAt": "2026-11-19T00:09:36.528Z",
+      "lastCheckedAt": "2026-11-19T07:16:34.393Z",
+      "lastSuccessAt": "2026-11-19T07:16:34.393Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 119,
       "latestObservedPost": {
@@ -1526,7 +1526,8 @@
     "2123138842270335394": "8964b19221fbba6df3003e4256c42383cd0520167df7434b32b6be9445142a44",
     "2123188195202617408": "3a8f77de56e6d75ebcfd69db1d8268e5592c571467dc6543ad678df1b8fffa4c",
     "2123188212793544792": "2173e5c1e4c4c74a7752597542918aa5baad48444255664e1f07e3bae92f1198",
-    "2123188224847982655": "788844f81eafa1f423a246a87cdb3f76693bf5c48992695b2bbea59071e6d261"
+    "2123188224847982655": "788844f81eafa1f423a246a87cdb3f76693bf5c48992695b2bbea59071e6d261",
+    "2123225465762542044": "34ca2514b175e515c3bdaf98058e34a4539d7fa1ba94b98cb736247292c47014"
   },
   "eventParserVersion": 5
 }
