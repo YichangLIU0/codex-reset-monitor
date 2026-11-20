@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T03:58:36.300Z",
+  "updatedAt": "2026-11-20T12:35:19.583Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-20T03:58:36.291Z",
-    "lastSuccessAt": "2026-11-20T03:58:36.291Z",
+    "lastCheckedAt": "2026-11-20T12:35:19.572Z",
+    "lastSuccessAt": "2026-11-20T12:35:19.572Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2123626421138702627",
-    "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
-    "url": "https://x.com/thsottiaux/status/2123626421138702627",
-    "postCreatedAt": "2026-11-20T03:56:08.000Z"
+    "id": "2123719297096990726",
+    "text": "GPT-6.2 Astra exceeding human baseline on physical 3D understanding benchmark:",
+    "url": "https://x.com/gdb/status/2123719297096990726",
+    "postCreatedAt": "2026-11-20T10:05:11.000Z"
   },
   "latest": {
     "reset": null,

@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2123626421138702627",
-      "lastCheckedAt": "2026-11-20T03:58:32.703Z",
-      "lastSuccessAt": "2026-11-20T03:58:32.703Z",
-      "lastRunStatus": "checked-7-posts",
-      "postsScanned": 341,
+      "sinceId": "2123693044465906132",
+      "lastCheckedAt": "2026-11-20T12:35:16.155Z",
+      "lastSuccessAt": "2026-11-20T12:35:16.155Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 342,
       "latestObservedPost": {
-        "id": "2123626421138702627",
-        "canonicalId": "2123626421138702627",
-        "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
-        "createdAt": "2026-11-20T03:56:08.000Z",
-        "url": "https://x.com/thsottiaux/status/2123626421138702627",
+        "id": "2123693044465906132",
+        "canonicalId": "2123693044465906132",
+        "text": "@tszzl @thibaudz @Roon 🫨",
+        "createdAt": "2026-11-20T08:20:52.000Z",
+        "url": "https://x.com/thsottiaux/status/2123693044465906132",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-20T03:58:33.482Z",
-      "lastSuccessAt": "2026-11-20T03:58:33.482Z",
+      "lastCheckedAt": "2026-11-20T12:35:17.083Z",
+      "lastSuccessAt": "2026-11-20T12:35:17.083Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123420851777220790",
-      "lastCheckedAt": "2026-11-20T03:58:34.037Z",
-      "lastSuccessAt": "2026-11-20T03:58:34.037Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 67,
+      "sinceId": "2123719297096990726",
+      "lastCheckedAt": "2026-11-20T12:35:18.211Z",
+      "lastSuccessAt": "2026-11-20T12:35:18.211Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 68,
       "latestObservedPost": {
-        "id": "2123420851777220790",
-        "canonicalId": "2123420851777220790",
-        "text": "Codex for securing Ruby, with assistance from our team:",
-        "createdAt": "2026-11-19T14:19:16.000Z",
-        "url": "https://x.com/gdb/status/2123420851777220790",
+        "id": "2123719297096990726",
+        "canonicalId": "2123719297096990726",
+        "text": "GPT-6.2 Astra exceeding human baseline on physical 3D understanding benchmark:",
+        "createdAt": "2026-11-20T10:05:11.000Z",
+        "url": "https://x.com/gdb/status/2123719297096990726",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123191365983248653",
-      "lastCheckedAt": "2026-11-20T03:58:34.383Z",
-      "lastSuccessAt": "2026-11-20T03:58:34.383Z",
+      "lastCheckedAt": "2026-11-20T12:35:18.578Z",
+      "lastSuccessAt": "2026-11-20T12:35:18.578Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 74,
       "latestObservedPost": {
@@ -83,9 +83,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123566075707261252",
-      "lastCheckedAt": "2026-11-20T03:58:35.433Z",
-      "lastSuccessAt": "2026-11-20T03:58:35.433Z",
-      "lastRunStatus": "checked-3-posts",
+      "lastCheckedAt": "2026-11-20T12:35:19.083Z",
+      "lastSuccessAt": "2026-11-20T12:35:19.083Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 229,
       "latestObservedPost": {
         "id": "2123566075707261252",
@@ -110,9 +110,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2123613858208337954",
-      "lastCheckedAt": "2026-11-20T03:58:36.291Z",
-      "lastSuccessAt": "2026-11-20T03:58:36.291Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-20T12:35:19.572Z",
+      "lastSuccessAt": "2026-11-20T12:35:19.572Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 123,
       "latestObservedPost": {
         "id": "2123613858208337954",
@@ -1563,7 +1563,9 @@
     "2123566064080740508": "4130e46ad85d04e0e50b7ead2472434d67aa2ff49ab201cb5c396b843b02a360",
     "2123566075707261252": "f2735554e7e35887d169429fa07bc5ffeadf47b1cac87ea24292bf450103f30a",
     "2123612769153118270": "37684d719c8f6a08b61a37eb0b5c89feeaa0dbcbf6c13ffe1ff6baec4e05b1c2",
-    "2123613858208337954": "0f9ce54b223f7535ba77b6426ee96fb8b1a22d4f98061a38ee4394c73403e809"
+    "2123613858208337954": "0f9ce54b223f7535ba77b6426ee96fb8b1a22d4f98061a38ee4394c73403e809",
+    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f",
+    "2123719297096990726": "3340bdf3d2fea3bb53e628d2269f33c27983afdbeca2cf41dfada0adcfe09409"
   },
   "eventParserVersion": 5
 }
