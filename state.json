@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2123693044465906132",
-      "lastCheckedAt": "2026-11-20T12:35:16.155Z",
-      "lastSuccessAt": "2026-11-20T12:35:16.155Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 342,
+      "sinceId": "2123867163345961285",
+      "lastCheckedAt": "2026-11-20T20:41:08.202Z",
+      "lastSuccessAt": "2026-11-20T20:41:08.202Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 346,
       "latestObservedPost": {
-        "id": "2123693044465906132",
-        "canonicalId": "2123693044465906132",
-        "text": "@tszzl @thibaudz @Roon 🫨",
-        "createdAt": "2026-11-20T08:20:52.000Z",
-        "url": "https://x.com/thsottiaux/status/2123693044465906132",
+        "id": "2123867163345961285",
+        "canonicalId": "2123867163345961285",
+        "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+        "createdAt": "2026-11-20T19:52:45.000Z",
+        "url": "https://x.com/thsottiaux/status/2123867163345961285",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-20T12:35:17.083Z",
-      "lastSuccessAt": "2026-11-20T12:35:17.083Z",
+      "lastCheckedAt": "2026-11-20T20:41:08.378Z",
+      "lastSuccessAt": "2026-11-20T20:41:08.378Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,34 +48,34 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123719297096990726",
-      "lastCheckedAt": "2026-11-20T12:35:18.211Z",
-      "lastSuccessAt": "2026-11-20T12:35:18.211Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 68,
+      "sinceId": "2123876651583111322",
+      "lastCheckedAt": "2026-11-20T20:41:09.329Z",
+      "lastSuccessAt": "2026-11-20T20:41:09.329Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 71,
       "latestObservedPost": {
-        "id": "2123719297096990726",
-        "canonicalId": "2123719297096990726",
-        "text": "GPT-6.2 Astra exceeding human baseline on physical 3D understanding benchmark:",
-        "createdAt": "2026-11-20T10:05:11.000Z",
-        "url": "https://x.com/gdb/status/2123719297096990726",
+        "id": "2123876651583111322",
+        "canonicalId": "2123876651583111322",
+        "text": "GPT-6.2 Astra is great at robotics:",
+        "createdAt": "2026-11-20T20:30:28.000Z",
+        "url": "https://x.com/gdb/status/2123876651583111322",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2123191365983248653",
-      "lastCheckedAt": "2026-11-20T12:35:18.578Z",
-      "lastSuccessAt": "2026-11-20T12:35:18.578Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 74,
+      "sinceId": "2123862344422088794",
+      "lastCheckedAt": "2026-11-20T20:41:10.016Z",
+      "lastSuccessAt": "2026-11-20T20:41:10.016Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 77,
       "latestObservedPost": {
-        "id": "2123191365983248653",
-        "canonicalId": "2123191365983248653",
-        "text": "We're sharing new data on how AI is changing research at OpenAI.\n\nWe find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment, with human effort in these areas growing faster than in any other individual research area.\n\nThis report aims to increase transparency around research acceleration and inform the governance of increasingly capable AI. We believe that AI labs should be required to track and publicly report indicators of recursive self-improvement (RSI): the process by which AI accelerates the development of future AI systems. \n\nOur hope is that this expanded report will help sustain and advance shared measurement norms across the industry.\n\nhttps://t.co/xyGPcCkPCK",
-        "createdAt": "2026-11-18T23:07:23.000Z",
-        "url": "https://x.com/OpenAI/status/2123191365983248653",
+        "id": "2123862344422088794",
+        "canonicalId": "2123862344422088794",
+        "text": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts.\n\nThese findings are helping us sharpen our defenses and support safeguards across the industry.\n\nhttps://t.co/FGQ0PHllIO",
+        "createdAt": "2026-11-20T19:33:37.000Z",
+        "url": "https://x.com/OpenAI/status/2123862344422088794",
         "media": []
       }
     },
@@ -83,8 +83,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123566075707261252",
-      "lastCheckedAt": "2026-11-20T12:35:19.083Z",
-      "lastSuccessAt": "2026-11-20T12:35:19.083Z",
+      "lastCheckedAt": "2026-11-20T20:41:10.921Z",
+      "lastSuccessAt": "2026-11-20T20:41:10.921Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 229,
       "latestObservedPost": {
@@ -109,26 +109,18 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2123613858208337954",
-      "lastCheckedAt": "2026-11-20T12:35:19.572Z",
-      "lastSuccessAt": "2026-11-20T12:35:19.572Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 123,
+      "sinceId": "2123870433930027101",
+      "lastCheckedAt": "2026-11-20T20:41:11.952Z",
+      "lastSuccessAt": "2026-11-20T20:41:11.952Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 125,
       "latestObservedPost": {
-        "id": "2123613858208337954",
-        "canonicalId": "2123613858208337954",
-        "text": "Don't forget to pin Codex for quick access! https://t.co/ZqglV2tnBC",
-        "createdAt": "2026-11-20T03:06:13.000Z",
-        "url": "https://x.com/dkundel/status/2123613858208337954",
-        "media": [
-          {
-            "mediaKey": "2123613822422487040",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2123613822422487040/vid/avc1/1206x2622/GrTcbSWMZKoS4NPQ.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123613822422487040/img/gl1_2mX2PjysS0HV.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2123870433930027101",
+        "canonicalId": "2123870433930027101",
+        "text": "Ultrafast + 6.2 Sol + low reasoning + hot reloading + annotations + dictation is probably my favorite way to build UI in Codex right now. Wrote up how I use it and when the extra speed is worth it.",
+        "createdAt": "2026-11-20T20:05:45.000Z",
+        "url": "https://x.com/dkundel/status/2123870433930027101",
+        "media": []
       }
     }
   },
@@ -1565,7 +1557,19 @@
     "2123612769153118270": "37684d719c8f6a08b61a37eb0b5c89feeaa0dbcbf6c13ffe1ff6baec4e05b1c2",
     "2123613858208337954": "0f9ce54b223f7535ba77b6426ee96fb8b1a22d4f98061a38ee4394c73403e809",
     "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f",
-    "2123719297096990726": "3340bdf3d2fea3bb53e628d2269f33c27983afdbeca2cf41dfada0adcfe09409"
+    "2123719297096990726": "3340bdf3d2fea3bb53e628d2269f33c27983afdbeca2cf41dfada0adcfe09409",
+    "2123859787079426435": "669e10a273beab5bae4c3ddab9266dcb5cf81a54a35de8099b21775e3f9b5893",
+    "2123861214644347122": "0f227b3bb591cff09af871db4d3e4c93be6c417e4d9428f3f067059395534407",
+    "2123864112694509995": "4d0f2e42551634df9ebd5a34b4d59f3cb14bb15fbcc40a75d9417c4876e06f90",
+    "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
+    "2123855521996570772": "d4f6cccc8178259001a410feaf665676f28f75a814acb1f0d72871f1c0831256",
+    "2123859658473668694": "8e3d60747e372c2b205765efa0f941b6c51a7aa8190188ca598af159d9fff7de",
+    "2123876651583111322": "411348f78d6967cdf28ba8aff0510e42db4ff6563ab5d88a96cf50f346312f42",
+    "2123856316187975756": "0779c7cb74ff148443589934314c2aa187dd371d32cb90ba4d6ad8c0d41827ea",
+    "2123861461877588180": "1497503e4d92bc8592de047fb1c8bb76450ea2e38b5c6c201924ed88078deef4",
+    "2123862344422088794": "15a0df68bf84fd144a124f6b7da4091cd3a330d3678f62d57ce88269aeb8a76a",
+    "2123868868963889153": "07723fd44847a5e0b0950ecfc58321c2e35cd2e7c6d00a2f8e9b06b27d8ee61c",
+    "2123870433930027101": "89c3faf2b85551d33271112bdaf79b0589b1ff375e61b712f3484f11193cbac6"
   },
   "eventParserVersion": 5
 }
