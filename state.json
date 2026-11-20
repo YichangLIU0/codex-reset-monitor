@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2123527849403674729",
-      "lastCheckedAt": "2026-11-19T23:13:10.622Z",
-      "lastSuccessAt": "2026-11-19T23:13:10.622Z",
-      "lastRunStatus": "checked-5-posts",
-      "postsScanned": 334,
+      "sinceId": "2123626421138702627",
+      "lastCheckedAt": "2026-11-20T03:58:32.703Z",
+      "lastSuccessAt": "2026-11-20T03:58:32.703Z",
+      "lastRunStatus": "checked-7-posts",
+      "postsScanned": 341,
       "latestObservedPost": {
-        "id": "2123527849403674729",
-        "canonicalId": "2123527849403674729",
-        "text": "@theo I still count 6 weeks in the year",
-        "createdAt": "2026-11-19T21:24:27.000Z",
-        "url": "https://x.com/thsottiaux/status/2123527849403674729",
+        "id": "2123626421138702627",
+        "canonicalId": "2123626421138702627",
+        "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
+        "createdAt": "2026-11-20T03:56:08.000Z",
+        "url": "https://x.com/thsottiaux/status/2123626421138702627",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-19T23:13:11.296Z",
-      "lastSuccessAt": "2026-11-19T23:13:11.296Z",
+      "lastCheckedAt": "2026-11-20T03:58:33.482Z",
+      "lastSuccessAt": "2026-11-20T03:58:33.482Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2123420851777220790",
-      "lastCheckedAt": "2026-11-19T23:13:11.789Z",
-      "lastSuccessAt": "2026-11-19T23:13:11.789Z",
+      "lastCheckedAt": "2026-11-20T03:58:34.037Z",
+      "lastSuccessAt": "2026-11-20T03:58:34.037Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 67,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123191365983248653",
-      "lastCheckedAt": "2026-11-19T23:13:12.146Z",
-      "lastSuccessAt": "2026-11-19T23:13:12.146Z",
+      "lastCheckedAt": "2026-11-20T03:58:34.383Z",
+      "lastSuccessAt": "2026-11-20T03:58:34.383Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 74,
       "latestObservedPost": {
@@ -82,17 +82,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2123506775077077489",
-      "lastCheckedAt": "2026-11-19T23:13:13.493Z",
-      "lastSuccessAt": "2026-11-19T23:13:13.493Z",
-      "lastRunStatus": "checked-7-posts",
-      "postsScanned": 226,
+      "sinceId": "2123566075707261252",
+      "lastCheckedAt": "2026-11-20T03:58:35.433Z",
+      "lastSuccessAt": "2026-11-20T03:58:35.433Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 229,
       "latestObservedPost": {
-        "id": "2123506775077077489",
-        "canonicalId": "2123506775077077489",
-        "text": "Sound familiar? GPT-Live-1.1 has powered voice in ChatGPT Plus and Pro since October 15th. Now it can power your apps.\n\nBuild better voice agents that can reliably understand precise details like letters and numbers, follow instructions, and delegate complex workflows to the backend model of your choice without breaking the flow of conversation.\n\nhttps://t.co/n4Q84balAS",
-        "createdAt": "2026-11-19T20:00:42.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2123506775077077489",
+        "id": "2123566075707261252",
+        "canonicalId": "2123566075707261252",
+        "text": "https://t.co/DM27OVgGQD",
+        "createdAt": "2026-11-19T23:56:21.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2123566075707261252",
         "media": []
       }
     },
@@ -109,18 +109,26 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2123528644022894822",
-      "lastCheckedAt": "2026-11-19T23:13:14.615Z",
-      "lastSuccessAt": "2026-11-19T23:13:14.615Z",
+      "sinceId": "2123613858208337954",
+      "lastCheckedAt": "2026-11-20T03:58:36.291Z",
+      "lastSuccessAt": "2026-11-20T03:58:36.291Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 121,
+      "postsScanned": 123,
       "latestObservedPost": {
-        "id": "2123528644022894822",
-        "canonicalId": "2123528644022894822",
-        "text": "@jxnlco It's been quantized into 2D and it's really GTA 2",
-        "createdAt": "2026-11-19T21:27:36.000Z",
-        "url": "https://x.com/dkundel/status/2123528644022894822",
-        "media": []
+        "id": "2123613858208337954",
+        "canonicalId": "2123613858208337954",
+        "text": "Don't forget to pin Codex for quick access! https://t.co/ZqglV2tnBC",
+        "createdAt": "2026-11-20T03:06:13.000Z",
+        "url": "https://x.com/dkundel/status/2123613858208337954",
+        "media": [
+          {
+            "mediaKey": "2123613822422487040",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2123613822422487040/vid/avc1/1206x2622/GrTcbSWMZKoS4NPQ.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123613822422487040/img/gl1_2mX2PjysS0HV.jpg",
+            "altText": null
+          }
+        ]
       }
     }
   },
@@ -1543,7 +1551,19 @@
     "2123506763144245744": "6e15e7192ae2bcf86c524433a2792793bc122b8c5ba1cad3aa4113fe0286cca1",
     "2123506775077077489": "dea7602435008508b6b59574ac5ff5eadef1fa22ce4fe916310a4dcd75c911f8",
     "2123456794572079185": "c4791007e58c16ad09664ccb7a6c689a373e5b18e191bf532f483fcf18908288",
-    "2123528644022894822": "d8851876139c0eeea4aed6f5c5fc37f06c952f86212eccb0e6ef01138c5aaa84"
+    "2123528644022894822": "d8851876139c0eeea4aed6f5c5fc37f06c952f86212eccb0e6ef01138c5aaa84",
+    "2123556256392847657": "a320ef3957d0f0a24c09bd89796f926cf1dd0ef051aa88633fe05bde6c9c5457",
+    "2123557171321561133": "5896f51177f93d154a28e0871c00c4bdf4fab3c93e30c837150441f0f5b8153f",
+    "2123612433923051976": "ae54e6585380397dc402207b28192ed21d3fd5899599a6afdeec5020c868a702",
+    "2123612889416339762": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
+    "2123621880636883137": "7d5ca50b4820c9d911c90f000473bfe51f5082b2ee485e82dda77717cd72333e",
+    "2123626048185336175": "fc101bf33088b95b770e2475dd2d489f479f6e6254205c4328a2d7318a6c6187",
+    "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71",
+    "2123566018866151579": "e334db8d1f910f77ba725451786cc548c9b6f049be551cf683c2f8c6abcc810f",
+    "2123566064080740508": "4130e46ad85d04e0e50b7ead2472434d67aa2ff49ab201cb5c396b843b02a360",
+    "2123566075707261252": "f2735554e7e35887d169429fa07bc5ffeadf47b1cac87ea24292bf450103f30a",
+    "2123612769153118270": "37684d719c8f6a08b61a37eb0b5c89feeaa0dbcbf6c13ffe1ff6baec4e05b1c2",
+    "2123613858208337954": "0f9ce54b223f7535ba77b6426ee96fb8b1a22d4f98061a38ee4394c73403e809"
   },
   "eventParserVersion": 5
 }
