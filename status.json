@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T01:44:32.021Z",
+  "updatedAt": "2026-11-21T08:47:41.413Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T01:44:32.015Z",
-    "lastSuccessAt": "2026-11-21T01:44:32.015Z",
+    "lastCheckedAt": "2026-11-21T08:47:41.405Z",
+    "lastSuccessAt": "2026-11-21T08:47:41.405Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2123953589882413337",
-    "text": "GPT-6.2 for robotics:",
-    "url": "https://x.com/gdb/status/2123953589882413337",
-    "postCreatedAt": "2026-11-21T01:36:11.000Z"
+    "id": "2124033763244175719",
+    "text": "@threepointone I guess I have to go get a ticket 👀",
+    "url": "https://x.com/dkundel/status/2124033763244175719",
+    "postCreatedAt": "2026-11-21T06:54:46.000Z"
   },
   "latest": {
     "reset": null,
