@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2123998117561532424",
-      "lastCheckedAt": "2026-11-21T16:25:01.702Z",
-      "lastSuccessAt": "2026-11-21T16:25:01.702Z",
+      "lastCheckedAt": "2026-11-21T21:45:55.536Z",
+      "lastSuccessAt": "2026-11-21T21:45:55.536Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 349,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-21T16:25:02.982Z",
-      "lastSuccessAt": "2026-11-21T16:25:02.982Z",
+      "lastCheckedAt": "2026-11-21T21:45:56.626Z",
+      "lastSuccessAt": "2026-11-21T21:45:56.626Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2123953589882413337",
-      "lastCheckedAt": "2026-11-21T16:25:03.512Z",
-      "lastSuccessAt": "2026-11-21T16:25:03.512Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 75,
+      "sinceId": "2124218429133754499",
+      "lastCheckedAt": "2026-11-21T21:45:58.314Z",
+      "lastSuccessAt": "2026-11-21T21:45:58.314Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 76,
       "latestObservedPost": {
-        "id": "2123953589882413337",
-        "canonicalId": "2123953589882413337",
-        "text": "GPT-6.2 for robotics:",
-        "createdAt": "2026-11-21T01:36:11.000Z",
-        "url": "https://x.com/gdb/status/2123953589882413337",
+        "id": "2124218429133754499",
+        "canonicalId": "2124218429133754499",
+        "text": "I played computer games growing up, and remember wondering how I could learn to make my own games.\n\nNow we’re creating models which are excellent at game dev. Hoping they can lower the barriers to entry and unleash creativity and fun for anyone with an idea!",
+        "createdAt": "2026-11-21T19:08:34.000Z",
+        "url": "https://x.com/gdb/status/2124218429133754499",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123899406550528422",
-      "lastCheckedAt": "2026-11-21T16:25:03.885Z",
-      "lastSuccessAt": "2026-11-21T16:25:03.885Z",
+      "lastCheckedAt": "2026-11-21T21:45:58.702Z",
+      "lastSuccessAt": "2026-11-21T21:45:58.702Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 78,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123881811126440163",
-      "lastCheckedAt": "2026-11-21T16:25:05.273Z",
-      "lastSuccessAt": "2026-11-21T16:25:05.273Z",
+      "lastCheckedAt": "2026-11-21T21:46:00.340Z",
+      "lastSuccessAt": "2026-11-21T21:46:00.340Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 231,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2124033763244175719",
-      "lastCheckedAt": "2026-11-21T16:25:05.807Z",
-      "lastSuccessAt": "2026-11-21T16:25:05.807Z",
+      "lastCheckedAt": "2026-11-21T21:46:01.065Z",
+      "lastSuccessAt": "2026-11-21T21:46:01.065Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 137,
       "latestObservedPost": {
@@ -1599,7 +1599,8 @@
     "2123998117561532424": "c6e8ad920deaf169c09ced90de86cb63dc106e3c5fb80c607d9a71717af7a1fb",
     "2123964574416462188": "e1e0095efa75101d632c64138f999eb891877df5926f0b89827a2f59f613383b",
     "2124033582691979753": "9fcb335e5071b1b81d5f5206075191d4b207b875cdea9773fea4b9133e326224",
-    "2124033763244175719": "530362ad1510a46ce313e1e751018e0225ccb6e07e20b5fd2e69bb725cc1a30f"
+    "2124033763244175719": "530362ad1510a46ce313e1e751018e0225ccb6e07e20b5fd2e69bb725cc1a30f",
+    "2124218429133754499": "58c69e9cde5457d48a588fa9becd64b5afe1d27a92166f9b655c5a5408565ebd"
   },
   "eventParserVersion": 5
 }

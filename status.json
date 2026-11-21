@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T16:25:05.816Z",
+  "updatedAt": "2026-11-21T21:46:01.075Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T16:25:05.807Z",
-    "lastSuccessAt": "2026-11-21T16:25:05.807Z",
+    "lastCheckedAt": "2026-11-21T21:46:01.065Z",
+    "lastSuccessAt": "2026-11-21T21:46:01.065Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124033763244175719",
-    "text": "@threepointone I guess I have to go get a ticket 👀",
-    "url": "https://x.com/dkundel/status/2124033763244175719",
-    "postCreatedAt": "2026-11-21T06:54:46.000Z"
+    "id": "2124218429133754499",
+    "text": "I played computer games growing up, and remember wondering how I could learn to make my own games.\n\nNow we’re creating models which are excellent at game dev. Hoping they can lower the barriers to entry and unleash creativity and fun for anyone with an idea!",
+    "url": "https://x.com/gdb/status/2124218429133754499",
+    "postCreatedAt": "2026-11-21T19:08:34.000Z"
   },
   "latest": {
     "reset": null,
