@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T20:41:11.957Z",
+  "updatedAt": "2026-11-21T01:44:32.021Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-20T20:41:11.952Z",
-    "lastSuccessAt": "2026-11-20T20:41:11.952Z",
+    "lastCheckedAt": "2026-11-21T01:44:32.015Z",
+    "lastSuccessAt": "2026-11-21T01:44:32.015Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2123876651583111322",
-    "text": "GPT-6.2 Astra is great at robotics:",
-    "url": "https://x.com/gdb/status/2123876651583111322",
-    "postCreatedAt": "2026-11-20T20:30:28.000Z"
+    "id": "2123953589882413337",
+    "text": "GPT-6.2 for robotics:",
+    "url": "https://x.com/gdb/status/2123953589882413337",
+    "postCreatedAt": "2026-11-21T01:36:11.000Z"
   },
   "latest": {
     "reset": null,
