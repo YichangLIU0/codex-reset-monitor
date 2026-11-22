@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2124322968499282388",
-      "lastCheckedAt": "2026-11-22T16:42:24.440Z",
-      "lastSuccessAt": "2026-11-22T16:42:24.440Z",
+      "lastCheckedAt": "2026-11-22T22:04:09.278Z",
+      "lastSuccessAt": "2026-11-22T22:04:09.278Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 351,
       "latestObservedPost": {
@@ -31,17 +31,17 @@
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-22T16:42:25.150Z",
-      "lastSuccessAt": "2026-11-22T16:42:25.150Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 33,
+      "sinceId": "2124558713646428663",
+      "lastCheckedAt": "2026-11-22T22:04:09.930Z",
+      "lastSuccessAt": "2026-11-22T22:04:09.930Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 37,
       "latestObservedPost": {
-        "id": "2123103873166381287",
-        "canonicalId": "2123103873166381287",
-        "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
-        "createdAt": "2026-11-18T17:19:43.000Z",
-        "url": "https://x.com/sama/status/2123103873166381287",
+        "id": "2124558713646428663",
+        "canonicalId": "2124558713646428663",
+        "text": "Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their systems, and I believe a discussion about the use of perplexity can further these goals.",
+        "createdAt": "2026-11-22T17:40:44.000Z",
+        "url": "https://x.com/sama/status/2124558713646428663",
         "media": []
       }
     },
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2124283509418422305",
-      "lastCheckedAt": "2026-11-22T16:42:26.260Z",
-      "lastSuccessAt": "2026-11-22T16:42:26.260Z",
+      "lastCheckedAt": "2026-11-22T22:04:10.453Z",
+      "lastSuccessAt": "2026-11-22T22:04:10.453Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 77,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123899406550528422",
-      "lastCheckedAt": "2026-11-22T16:42:26.560Z",
-      "lastSuccessAt": "2026-11-22T16:42:26.560Z",
+      "lastCheckedAt": "2026-11-22T22:04:10.843Z",
+      "lastSuccessAt": "2026-11-22T22:04:10.843Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 78,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123881811126440163",
-      "lastCheckedAt": "2026-11-22T16:42:27.529Z",
-      "lastSuccessAt": "2026-11-22T16:42:27.529Z",
+      "lastCheckedAt": "2026-11-22T22:04:12.220Z",
+      "lastSuccessAt": "2026-11-22T22:04:12.220Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 231,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2124033763244175719",
-      "lastCheckedAt": "2026-11-22T16:42:27.979Z",
-      "lastSuccessAt": "2026-11-22T16:42:27.979Z",
+      "lastCheckedAt": "2026-11-22T22:04:13.091Z",
+      "lastSuccessAt": "2026-11-22T22:04:13.091Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 137,
       "latestObservedPost": {
@@ -1603,7 +1603,11 @@
     "2124218429133754499": "58c69e9cde5457d48a588fa9becd64b5afe1d27a92166f9b655c5a5408565ebd",
     "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
     "2124283509418422305": "527cae1958f4c9f7124fa8cb78801eb3b5be704bb0270fdeb1ab243552b945d3",
-    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5"
+    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
+    "2124551594691932405": "33bade94df8308ad1ca93901c108fa05cef0dd7d7be4d61b53f2b5e0ecbdd5ec",
+    "2124551883130114403": "0f2b8aee7e02ef5b57550331b0ef691514668fffa7f1242a599185ba059e0587",
+    "2124555601745441130": "56d77537a961e1557f42e9bf2241109855b0efc4f7095a0015f8ac747f5a38f8",
+    "2124558713646428663": "8d7ede82c614aa2e5844d1c88f98056e973b6ee63fa4d14125992bd822a1f4c4"
   },
   "eventParserVersion": 5
 }

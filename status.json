@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T16:42:28.001Z",
+  "updatedAt": "2026-11-22T22:04:13.237Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-22T16:42:27.979Z",
-    "lastSuccessAt": "2026-11-22T16:42:27.979Z",
+    "lastCheckedAt": "2026-11-22T22:04:13.091Z",
+    "lastSuccessAt": "2026-11-22T22:04:13.091Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124322968499282388",
-    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
-    "url": "https://x.com/thsottiaux/status/2124322968499282388",
-    "postCreatedAt": "2026-11-22T02:03:58.000Z"
+    "id": "2124558713646428663",
+    "text": "Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their systems, and I believe a discussion about the use of perplexity can further these goals.",
+    "url": "https://x.com/sama/status/2124558713646428663",
+    "postCreatedAt": "2026-11-22T17:40:44.000Z"
   },
   "latest": {
     "reset": null,
