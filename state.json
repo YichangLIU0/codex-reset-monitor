@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2124277855131664869",
-      "lastCheckedAt": "2026-11-22T01:39:36.950Z",
-      "lastSuccessAt": "2026-11-22T01:39:36.950Z",
+      "sinceId": "2124322968499282388",
+      "lastCheckedAt": "2026-11-22T08:49:30.123Z",
+      "lastSuccessAt": "2026-11-22T08:49:30.123Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 350,
+      "postsScanned": 351,
       "latestObservedPost": {
-        "id": "2124277855131664869",
-        "canonicalId": "2124277855131664869",
-        "text": "Going to check out this threads thing",
-        "createdAt": "2026-11-21T23:04:42.000Z",
-        "url": "https://x.com/thsottiaux/status/2124277855131664869",
+        "id": "2124322968499282388",
+        "canonicalId": "2124322968499282388",
+        "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+        "createdAt": "2026-11-22T02:03:58.000Z",
+        "url": "https://x.com/thsottiaux/status/2124322968499282388",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-22T01:39:37.685Z",
-      "lastSuccessAt": "2026-11-22T01:39:37.685Z",
+      "lastCheckedAt": "2026-11-22T08:49:30.742Z",
+      "lastSuccessAt": "2026-11-22T08:49:30.742Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2124283509418422305",
-      "lastCheckedAt": "2026-11-22T01:39:39.544Z",
-      "lastSuccessAt": "2026-11-22T01:39:39.544Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-22T08:49:31.466Z",
+      "lastSuccessAt": "2026-11-22T08:49:31.466Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 77,
       "latestObservedPost": {
         "id": "2124283509418422305",
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123899406550528422",
-      "lastCheckedAt": "2026-11-22T01:39:39.917Z",
-      "lastSuccessAt": "2026-11-22T01:39:39.917Z",
+      "lastCheckedAt": "2026-11-22T08:49:31.873Z",
+      "lastSuccessAt": "2026-11-22T08:49:31.873Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 78,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123881811126440163",
-      "lastCheckedAt": "2026-11-22T01:39:41.049Z",
-      "lastSuccessAt": "2026-11-22T01:39:41.049Z",
+      "lastCheckedAt": "2026-11-22T08:49:32.868Z",
+      "lastSuccessAt": "2026-11-22T08:49:32.868Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 231,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2124033763244175719",
-      "lastCheckedAt": "2026-11-22T01:39:41.475Z",
-      "lastSuccessAt": "2026-11-22T01:39:41.475Z",
+      "lastCheckedAt": "2026-11-22T08:49:33.291Z",
+      "lastSuccessAt": "2026-11-22T08:49:33.291Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 137,
       "latestObservedPost": {
@@ -1602,7 +1602,8 @@
     "2124033763244175719": "530362ad1510a46ce313e1e751018e0225ccb6e07e20b5fd2e69bb725cc1a30f",
     "2124218429133754499": "58c69e9cde5457d48a588fa9becd64b5afe1d27a92166f9b655c5a5408565ebd",
     "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
-    "2124283509418422305": "527cae1958f4c9f7124fa8cb78801eb3b5be704bb0270fdeb1ab243552b945d3"
+    "2124283509418422305": "527cae1958f4c9f7124fa8cb78801eb3b5be704bb0270fdeb1ab243552b945d3",
+    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5"
   },
   "eventParserVersion": 5
 }

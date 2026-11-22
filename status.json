@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T01:39:41.479Z",
+  "updatedAt": "2026-11-22T08:49:33.296Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-22T01:39:41.475Z",
-    "lastSuccessAt": "2026-11-22T01:39:41.475Z",
+    "lastCheckedAt": "2026-11-22T08:49:33.291Z",
+    "lastSuccessAt": "2026-11-22T08:49:33.291Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124283509418422305",
-    "text": "OpenAI models topping the alignment benchmarks:",
-    "url": "https://x.com/gdb/status/2124283509418422305",
-    "postCreatedAt": "2026-11-21T23:27:10.000Z"
+    "id": "2124322968499282388",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
+    "postCreatedAt": "2026-11-22T02:03:58.000Z"
   },
   "latest": {
     "reset": null,
