@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T21:46:01.075Z",
+  "updatedAt": "2026-11-22T01:39:41.479Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T21:46:01.065Z",
-    "lastSuccessAt": "2026-11-21T21:46:01.065Z",
+    "lastCheckedAt": "2026-11-22T01:39:41.475Z",
+    "lastSuccessAt": "2026-11-22T01:39:41.475Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124218429133754499",
-    "text": "I played computer games growing up, and remember wondering how I could learn to make my own games.\n\nNow we’re creating models which are excellent at game dev. Hoping they can lower the barriers to entry and unleash creativity and fun for anyone with an idea!",
-    "url": "https://x.com/gdb/status/2124218429133754499",
-    "postCreatedAt": "2026-11-21T19:08:34.000Z"
+    "id": "2124283509418422305",
+    "text": "OpenAI models topping the alignment benchmarks:",
+    "url": "https://x.com/gdb/status/2124283509418422305",
+    "postCreatedAt": "2026-11-21T23:27:10.000Z"
   },
   "latest": {
     "reset": null,

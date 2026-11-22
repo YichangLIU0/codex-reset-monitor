@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2123998117561532424",
-      "lastCheckedAt": "2026-11-21T21:45:55.536Z",
-      "lastSuccessAt": "2026-11-21T21:45:55.536Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 349,
+      "sinceId": "2124277855131664869",
+      "lastCheckedAt": "2026-11-22T01:39:36.950Z",
+      "lastSuccessAt": "2026-11-22T01:39:36.950Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 350,
       "latestObservedPost": {
-        "id": "2123998117561532424",
-        "canonicalId": "2123998117561532424",
-        "text": "@DylanMcD8 DYLAN, HI! 👋",
-        "createdAt": "2026-11-21T04:33:07.000Z",
-        "url": "https://x.com/thsottiaux/status/2123998117561532424",
+        "id": "2124277855131664869",
+        "canonicalId": "2124277855131664869",
+        "text": "Going to check out this threads thing",
+        "createdAt": "2026-11-21T23:04:42.000Z",
+        "url": "https://x.com/thsottiaux/status/2124277855131664869",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2123103873166381287",
-      "lastCheckedAt": "2026-11-21T21:45:56.626Z",
-      "lastSuccessAt": "2026-11-21T21:45:56.626Z",
+      "lastCheckedAt": "2026-11-22T01:39:37.685Z",
+      "lastSuccessAt": "2026-11-22T01:39:37.685Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 33,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2124218429133754499",
-      "lastCheckedAt": "2026-11-21T21:45:58.314Z",
-      "lastSuccessAt": "2026-11-21T21:45:58.314Z",
+      "sinceId": "2124283509418422305",
+      "lastCheckedAt": "2026-11-22T01:39:39.544Z",
+      "lastSuccessAt": "2026-11-22T01:39:39.544Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 76,
+      "postsScanned": 77,
       "latestObservedPost": {
-        "id": "2124218429133754499",
-        "canonicalId": "2124218429133754499",
-        "text": "I played computer games growing up, and remember wondering how I could learn to make my own games.\n\nNow we’re creating models which are excellent at game dev. Hoping they can lower the barriers to entry and unleash creativity and fun for anyone with an idea!",
-        "createdAt": "2026-11-21T19:08:34.000Z",
-        "url": "https://x.com/gdb/status/2124218429133754499",
+        "id": "2124283509418422305",
+        "canonicalId": "2124283509418422305",
+        "text": "OpenAI models topping the alignment benchmarks:",
+        "createdAt": "2026-11-21T23:27:10.000Z",
+        "url": "https://x.com/gdb/status/2124283509418422305",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123899406550528422",
-      "lastCheckedAt": "2026-11-21T21:45:58.702Z",
-      "lastSuccessAt": "2026-11-21T21:45:58.702Z",
+      "lastCheckedAt": "2026-11-22T01:39:39.917Z",
+      "lastSuccessAt": "2026-11-22T01:39:39.917Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 78,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123881811126440163",
-      "lastCheckedAt": "2026-11-21T21:46:00.340Z",
-      "lastSuccessAt": "2026-11-21T21:46:00.340Z",
+      "lastCheckedAt": "2026-11-22T01:39:41.049Z",
+      "lastSuccessAt": "2026-11-22T01:39:41.049Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 231,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2124033763244175719",
-      "lastCheckedAt": "2026-11-21T21:46:01.065Z",
-      "lastSuccessAt": "2026-11-21T21:46:01.065Z",
+      "lastCheckedAt": "2026-11-22T01:39:41.475Z",
+      "lastSuccessAt": "2026-11-22T01:39:41.475Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 137,
       "latestObservedPost": {
@@ -1600,7 +1600,9 @@
     "2123964574416462188": "e1e0095efa75101d632c64138f999eb891877df5926f0b89827a2f59f613383b",
     "2124033582691979753": "9fcb335e5071b1b81d5f5206075191d4b207b875cdea9773fea4b9133e326224",
     "2124033763244175719": "530362ad1510a46ce313e1e751018e0225ccb6e07e20b5fd2e69bb725cc1a30f",
-    "2124218429133754499": "58c69e9cde5457d48a588fa9becd64b5afe1d27a92166f9b655c5a5408565ebd"
+    "2124218429133754499": "58c69e9cde5457d48a588fa9becd64b5afe1d27a92166f9b655c5a5408565ebd",
+    "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
+    "2124283509418422305": "527cae1958f4c9f7124fa8cb78801eb3b5be704bb0270fdeb1ab243552b945d3"
   },
   "eventParserVersion": 5
 }
