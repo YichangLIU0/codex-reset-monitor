@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T11:10:12.654Z",
+  "updatedAt": "2026-11-23T22:37:31.222Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-23T11:10:12.642Z",
-    "lastSuccessAt": "2026-11-23T11:10:12.642Z",
+    "lastCheckedAt": "2026-11-23T22:37:31.216Z",
+    "lastSuccessAt": "2026-11-23T22:37:31.216Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124691188095848453",
-    "text": "If you miss nerding out about engineering challenges read this thread of some recent app performance improvements 👇",
-    "url": "https://x.com/dkundel/status/2124691188095848453",
-    "postCreatedAt": "2026-11-23T02:27:08.000Z"
+    "id": "2124985602722676794",
+    "text": "a new open-source Linux runtime, built for the agentic era, to empower defenders to defend systems at machine speed without downtime:",
+    "url": "https://x.com/gdb/status/2124985602722676794",
+    "postCreatedAt": "2026-11-23T21:57:02.000Z"
   },
   "latest": {
     "reset": null,
