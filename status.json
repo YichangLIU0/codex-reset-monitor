@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T22:04:13.237Z",
+  "updatedAt": "2026-11-23T02:34:00.673Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-22T22:04:13.091Z",
-    "lastSuccessAt": "2026-11-22T22:04:13.091Z",
+    "lastCheckedAt": "2026-11-23T02:34:00.666Z",
+    "lastSuccessAt": "2026-11-23T02:34:00.666Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124558713646428663",
-    "text": "Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their systems, and I believe a discussion about the use of perplexity can further these goals.",
-    "url": "https://x.com/sama/status/2124558713646428663",
-    "postCreatedAt": "2026-11-22T17:40:44.000Z"
+    "id": "2124691188095848453",
+    "text": "If you miss nerding out about engineering challenges read this thread of some recent app performance improvements 👇",
+    "url": "https://x.com/dkundel/status/2124691188095848453",
+    "postCreatedAt": "2026-11-23T02:27:08.000Z"
   },
   "latest": {
     "reset": null,

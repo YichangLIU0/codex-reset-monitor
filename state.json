@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2124322968499282388",
-      "lastCheckedAt": "2026-11-22T22:04:09.278Z",
-      "lastSuccessAt": "2026-11-22T22:04:09.278Z",
+      "lastCheckedAt": "2026-11-23T02:33:57.248Z",
+      "lastSuccessAt": "2026-11-23T02:33:57.248Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 351,
       "latestObservedPost": {
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2124558713646428663",
-      "lastCheckedAt": "2026-11-22T22:04:09.930Z",
-      "lastSuccessAt": "2026-11-22T22:04:09.930Z",
-      "lastRunStatus": "checked-4-posts",
+      "lastCheckedAt": "2026-11-23T02:33:57.630Z",
+      "lastSuccessAt": "2026-11-23T02:33:57.630Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 37,
       "latestObservedPost": {
         "id": "2124558713646428663",
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2124283509418422305",
-      "lastCheckedAt": "2026-11-22T22:04:10.453Z",
-      "lastSuccessAt": "2026-11-22T22:04:10.453Z",
+      "lastCheckedAt": "2026-11-23T02:33:58.139Z",
+      "lastSuccessAt": "2026-11-23T02:33:58.139Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 77,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2123899406550528422",
-      "lastCheckedAt": "2026-11-22T22:04:10.843Z",
-      "lastSuccessAt": "2026-11-22T22:04:10.843Z",
+      "lastCheckedAt": "2026-11-23T02:33:58.473Z",
+      "lastSuccessAt": "2026-11-23T02:33:58.473Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 78,
       "latestObservedPost": {
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2123881811126440163",
-      "lastCheckedAt": "2026-11-22T22:04:12.220Z",
-      "lastSuccessAt": "2026-11-22T22:04:12.220Z",
+      "lastCheckedAt": "2026-11-23T02:33:59.801Z",
+      "lastSuccessAt": "2026-11-23T02:33:59.801Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 231,
       "latestObservedPost": {
@@ -117,17 +117,17 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2124033763244175719",
-      "lastCheckedAt": "2026-11-22T22:04:13.091Z",
-      "lastSuccessAt": "2026-11-22T22:04:13.091Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 137,
+      "sinceId": "2124691188095848453",
+      "lastCheckedAt": "2026-11-23T02:34:00.666Z",
+      "lastSuccessAt": "2026-11-23T02:34:00.666Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 138,
       "latestObservedPost": {
-        "id": "2124033763244175719",
-        "canonicalId": "2124033763244175719",
-        "text": "@threepointone I guess I have to go get a ticket 👀",
-        "createdAt": "2026-11-21T06:54:46.000Z",
-        "url": "https://x.com/dkundel/status/2124033763244175719",
+        "id": "2124691188095848453",
+        "canonicalId": "2124691188095848453",
+        "text": "If you miss nerding out about engineering challenges read this thread of some recent app performance improvements 👇",
+        "createdAt": "2026-11-23T02:27:08.000Z",
+        "url": "https://x.com/dkundel/status/2124691188095848453",
         "media": []
       }
     }
@@ -1607,7 +1607,8 @@
     "2124551594691932405": "33bade94df8308ad1ca93901c108fa05cef0dd7d7be4d61b53f2b5e0ecbdd5ec",
     "2124551883130114403": "0f2b8aee7e02ef5b57550331b0ef691514668fffa7f1242a599185ba059e0587",
     "2124555601745441130": "56d77537a961e1557f42e9bf2241109855b0efc4f7095a0015f8ac747f5a38f8",
-    "2124558713646428663": "8d7ede82c614aa2e5844d1c88f98056e973b6ee63fa4d14125992bd822a1f4c4"
+    "2124558713646428663": "8d7ede82c614aa2e5844d1c88f98056e973b6ee63fa4d14125992bd822a1f4c4",
+    "2124691188095848453": "165a6e20658975fcb7d687d22474c20979394430c623e8f0f310b59a4e250174"
   },
   "eventParserVersion": 5
 }
