@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T22:37:31.222Z",
+  "updatedAt": "2026-11-24T06:22:14.166Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-23T22:37:31.216Z",
-    "lastSuccessAt": "2026-11-23T22:37:31.216Z",
+    "lastCheckedAt": "2026-11-24T06:22:14.155Z",
+    "lastSuccessAt": "2026-11-24T06:22:14.155Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2124985602722676794",
-    "text": "a new open-source Linux runtime, built for the agentic era, to empower defenders to defend systems at machine speed without downtime:",
-    "url": "https://x.com/gdb/status/2124985602722676794",
-    "postCreatedAt": "2026-11-23T21:57:02.000Z"
+    "id": "2125042638781120632",
+    "text": "Apply now for OpenWorks — to become a partner, or to get support for your business:\n\nhttps://t.co/zb73zHJTvB",
+    "url": "https://x.com/gdb/status/2125042638781120632",
+    "postCreatedAt": "2026-11-24T01:43:41.000Z"
   },
   "latest": {
     "reset": null,
