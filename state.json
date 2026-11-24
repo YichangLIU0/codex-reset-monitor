@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125027477877887231",
-      "lastCheckedAt": "2026-11-24T06:22:10.608Z",
-      "lastSuccessAt": "2026-11-24T06:22:10.608Z",
+      "sinceId": "2125284868414394550",
+      "lastCheckedAt": "2026-11-24T17:58:56.234Z",
+      "lastSuccessAt": "2026-11-24T17:58:56.234Z",
       "lastRunStatus": "checked-2-posts",
-      "postsScanned": 357,
+      "postsScanned": 359,
       "latestObservedPost": {
-        "id": "2125027477877887231",
-        "canonicalId": "2125027477877887231",
-        "text": "Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on",
-        "createdAt": "2026-11-24T00:43:26.000Z",
-        "url": "https://x.com/thsottiaux/status/2125027477877887231",
+        "id": "2125284868414394550",
+        "canonicalId": "2125284868414394550",
+        "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
+        "createdAt": "2026-11-24T17:46:13.000Z",
+        "url": "https://x.com/thsottiaux/status/2125284868414394550",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2124894264564092952",
-      "lastCheckedAt": "2026-11-24T06:22:11.378Z",
-      "lastSuccessAt": "2026-11-24T06:22:11.378Z",
+      "lastCheckedAt": "2026-11-24T17:58:56.614Z",
+      "lastSuccessAt": "2026-11-24T17:58:56.614Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2125042638781120632",
-      "lastCheckedAt": "2026-11-24T06:22:12.251Z",
-      "lastSuccessAt": "2026-11-24T06:22:12.251Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 83,
+      "sinceId": "2125150185143906642",
+      "lastCheckedAt": "2026-11-24T17:58:58.214Z",
+      "lastSuccessAt": "2026-11-24T17:58:58.214Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 85,
       "latestObservedPost": {
-        "id": "2125042638781120632",
-        "canonicalId": "2125042638781120632",
-        "text": "Apply now for OpenWorks — to become a partner, or to get support for your business:\n\nhttps://t.co/zb73zHJTvB",
-        "createdAt": "2026-11-24T01:43:41.000Z",
-        "url": "https://x.com/gdb/status/2125042638781120632",
+        "id": "2125150185143906642",
+        "canonicalId": "2125150185143906642",
+        "text": "GPT-6.2 Astra for research taste:",
+        "createdAt": "2026-11-24T08:51:02.000Z",
+        "url": "https://x.com/gdb/status/2125150185143906642",
         "media": []
       }
     },
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2125007927098699827",
-      "lastCheckedAt": "2026-11-24T06:22:12.874Z",
-      "lastSuccessAt": "2026-11-24T06:22:12.874Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-24T17:58:58.667Z",
+      "lastSuccessAt": "2026-11-24T17:58:58.667Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 81,
       "latestObservedPost": {
         "id": "2125007927098699827",
@@ -91,8 +91,8 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2124981075596521956",
-      "lastCheckedAt": "2026-11-24T06:22:13.347Z",
-      "lastSuccessAt": "2026-11-24T06:22:13.347Z",
+      "lastCheckedAt": "2026-11-24T17:58:59.133Z",
+      "lastSuccessAt": "2026-11-24T17:58:59.133Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 236,
       "latestObservedPost": {
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2124968567527641129",
-      "lastCheckedAt": "2026-11-24T06:22:14.155Z",
-      "lastSuccessAt": "2026-11-24T06:22:14.155Z",
+      "lastCheckedAt": "2026-11-24T17:58:59.999Z",
+      "lastSuccessAt": "2026-11-24T17:58:59.999Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 140,
       "latestObservedPost": {
@@ -1632,7 +1632,11 @@
     "2125015245383180300": "13b71d233f7fb58fe502e3313a661dfcf1804d7238856e8bec90adcdb9e85238",
     "2125041014587146384": "17c87d92932d3ac20d4440d426efec523ba17b0dd314923ebc379f2cc9e89fc7",
     "2125042638781120632": "bf3d41e8703a70fe94ebba5ce16edf4849b4ad5b1cacc6d58e10062bd7fde6aa",
-    "2125007927098699827": "ecfe25e6ae3a49a1a9d2986505da01c7ffc75ddf7e8a522c90f7a7c3907cf717"
+    "2125007927098699827": "ecfe25e6ae3a49a1a9d2986505da01c7ffc75ddf7e8a522c90f7a7c3907cf717",
+    "2125141302501417232": "2846590c2803244ebcb6c190b40e64867651b91a031c1a1a968c923559894668",
+    "2125284868414394550": "dbf52068abe69888664998866650d805cbe9620888efce920d4b6ff3135bb7ee",
+    "2125115240690201049": "740a166e0ec1fded5ab657fe4bcc6808c874c3e28df9c1576126bd686bd92a5b",
+    "2125150185143906642": "255a40ea951d5c8b2a2b6970dfe23ceef68b4726daee8272c2f3021478e9726e"
   },
   "eventParserVersion": 5
 }
