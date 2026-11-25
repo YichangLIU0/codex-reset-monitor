@@ -1,49 +1,73 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T17:59:00.009Z",
+  "updatedAt": "2026-11-25T02:00:11.410Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-24T17:58:59.999Z",
-    "lastSuccessAt": "2026-11-24T17:58:59.999Z",
+    "lastCheckedAt": "2026-11-25T02:00:11.392Z",
+    "lastSuccessAt": "2026-11-25T02:00:11.392Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2125284868414394550",
-    "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
-    "url": "https://x.com/thsottiaux/status/2125284868414394550",
-    "postCreatedAt": "2026-11-24T17:46:13.000Z"
+    "id": "2125391380038230058",
+    "text": "ChatGPT Ads are opening up the playing field for smaller brands to compete:",
+    "url": "https://x.com/gdb/status/2125391380038230058",
+    "postCreatedAt": "2026-11-25T00:49:27.000Z"
   },
   "latest": {
     "reset": null,
     "bankCredit": {
-      "version": "history:2096035437299237298",
-      "id": "2096035437299237298",
-      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
-      "url": "https://x.com/thsottiaux/status/2096035437299237298",
-      "postCreatedAt": "2026-09-05T00:39:25.364Z",
-      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "postCreatedAt": "2026-11-24T18:43:21.000Z",
+      "detectedAt": "2026-11-25T02:00:06.889Z",
       "events": [
         {
           "type": "bank_credit",
-          "status": "announced",
-          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
           "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Lands end of day",
-            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
           }
         }
       ],
       "deliveryChannels": [],
-      "origin": "historical_seed"
+      "origin": "live"
     },
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "postCreatedAt": "2026-11-24T18:43:21.000Z",
+      "detectedAt": "2026-11-25T02:00:06.889Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
+          "time": {
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
       "id": "2120999993079451919",
@@ -493,42 +517,6 @@
             "start": null,
             "end": null,
             "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
-      "id": "2110595484180214059",
-      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-      "url": "https://x.com/thsottiaux/status/2110595484180214059",
-      "postCreatedAt": "2026-10-15T04:55:51.000Z",
-      "detectedAt": "2026-10-15T09:28:47.998Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "The reports of my reset button being lost are greatly exaggerated",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "The reports of my reset button being lost are greatly exaggerated",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        },
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 10/ Reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 10/ Reset",
             "note": "未形成明确的重置承诺或完成确认"
           }
         }

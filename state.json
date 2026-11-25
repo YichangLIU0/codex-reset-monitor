@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125284868414394550",
-      "lastCheckedAt": "2026-11-24T17:58:56.234Z",
-      "lastSuccessAt": "2026-11-24T17:58:56.234Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 359,
+      "sinceId": "2125388306842255694",
+      "lastCheckedAt": "2026-11-25T02:00:06.892Z",
+      "lastSuccessAt": "2026-11-25T02:00:06.892Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 365,
       "latestObservedPost": {
-        "id": "2125284868414394550",
-        "canonicalId": "2125284868414394550",
-        "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
-        "createdAt": "2026-11-24T17:46:13.000Z",
-        "url": "https://x.com/thsottiaux/status/2125284868414394550",
+        "id": "2125388306842255694",
+        "canonicalId": "2125388306842255694",
+        "text": "@TokenGremlin @amorriscode @trq212 Wait, is that true?",
+        "createdAt": "2026-11-25T00:37:14.000Z",
+        "url": "https://x.com/thsottiaux/status/2125388306842255694",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2124894264564092952",
-      "lastCheckedAt": "2026-11-24T17:58:56.614Z",
-      "lastSuccessAt": "2026-11-24T17:58:56.614Z",
+      "lastCheckedAt": "2026-11-25T02:00:07.478Z",
+      "lastSuccessAt": "2026-11-25T02:00:07.478Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -48,59 +48,51 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2125150185143906642",
-      "lastCheckedAt": "2026-11-24T17:58:58.214Z",
-      "lastSuccessAt": "2026-11-24T17:58:58.214Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 85,
+      "sinceId": "2125391380038230058",
+      "lastCheckedAt": "2026-11-25T02:00:08.797Z",
+      "lastSuccessAt": "2026-11-25T02:00:08.797Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 91,
       "latestObservedPost": {
-        "id": "2125150185143906642",
-        "canonicalId": "2125150185143906642",
-        "text": "GPT-6.2 Astra for research taste:",
-        "createdAt": "2026-11-24T08:51:02.000Z",
-        "url": "https://x.com/gdb/status/2125150185143906642",
+        "id": "2125391380038230058",
+        "canonicalId": "2125391380038230058",
+        "text": "ChatGPT Ads are opening up the playing field for smaller brands to compete:",
+        "createdAt": "2026-11-25T00:49:27.000Z",
+        "url": "https://x.com/gdb/status/2125391380038230058",
         "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2125007927098699827",
-      "lastCheckedAt": "2026-11-24T17:58:58.667Z",
-      "lastSuccessAt": "2026-11-24T17:58:58.667Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 81,
+      "sinceId": "2125334394491801883",
+      "lastCheckedAt": "2026-11-25T02:00:09.332Z",
+      "lastSuccessAt": "2026-11-25T02:00:09.332Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 87,
       "latestObservedPost": {
-        "id": "2125007927098699827",
-        "canonicalId": "2125007927098699827",
-        "text": "In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.\n\nOur researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.\n\nRead the research: https://t.co/wFfTbqet4H",
-        "createdAt": "2026-11-23T23:25:45.000Z",
-        "url": "https://x.com/OpenAI/status/2125007927098699827",
-        "media": [
-          {
-            "mediaKey": "2125002652929196032",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2125002652929196032/vid/avc1/3840x2160/AdpVBCNFOOa4eaYN.mp4?tag=29",
-            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2125002652929196032/img/UOxIg9s51dEH3-gJ.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2125334394491801883",
+        "canonicalId": "2125334394491801883",
+        "text": "This is a proof of concept. Next, we want to test whether these proteins do something useful after attaching, tackle harder targets, and extend the work to other types of molecules.\n\nOur goal is for scientists to one day design working medicines simply by prompting. We want to accelerate both the protein design cycle and reduce the number of experiments needed to find a functional protein.",
+        "createdAt": "2026-11-24T21:03:01.000Z",
+        "url": "https://x.com/OpenAI/status/2125334394491801883",
+        "media": []
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2124981075596521956",
-      "lastCheckedAt": "2026-11-24T17:58:59.133Z",
-      "lastSuccessAt": "2026-11-24T17:58:59.133Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 236,
+      "sinceId": "2125321062301008004",
+      "lastCheckedAt": "2026-11-25T02:00:10.346Z",
+      "lastSuccessAt": "2026-11-25T02:00:10.346Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 237,
       "latestObservedPost": {
-        "id": "2124981075596521956",
-        "canonicalId": "2124981075596521956",
-        "text": "https://t.co/vUC66VeJ2o",
-        "createdAt": "2026-11-23T21:39:03.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2124981075596521956",
+        "id": "2125321062301008004",
+        "canonicalId": "2125321062301008004",
+        "text": "@Ooakdata @OpenAI see you soon!",
+        "createdAt": "2026-11-24T20:10:02.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2125321062301008004",
         "media": []
       }
     },
@@ -117,23 +109,59 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2124968567527641129",
-      "lastCheckedAt": "2026-11-24T17:58:59.999Z",
-      "lastSuccessAt": "2026-11-24T17:58:59.999Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 140,
+      "sinceId": "2125334622431236504",
+      "lastCheckedAt": "2026-11-25T02:00:11.392Z",
+      "lastSuccessAt": "2026-11-25T02:00:11.392Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 141,
       "latestObservedPost": {
-        "id": "2124968567527641129",
-        "canonicalId": "2124968567527641129",
-        "text": "@wesbos Hey they are at least ordered 🤣 \n\nhttps://t.co/4HWTE8coR2",
-        "createdAt": "2026-11-23T20:49:21.000Z",
-        "url": "https://x.com/dkundel/status/2124968567527641129",
-        "media": []
+        "id": "2125334622431236504",
+        "canonicalId": "2125334622431236504",
+        "text": "The team around @charliermarsh and @feedthejim have a performance mission...\n\nLove these eng deep dives https://t.co/zio4bUiHxZ",
+        "createdAt": "2026-11-24T21:03:55.000Z",
+        "url": "https://x.com/dkundel/status/2125334622431236504",
+        "media": [
+          {
+            "mediaKey": "2125334616290840576",
+            "type": "gif",
+            "url": "https://video.twimg.com/tweet_video/HX60krDbUAAk9CH.mp4",
+            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX60krDbUAAk9CH.jpg",
+            "altText": null
+          }
+        ]
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "canonicalId": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "createdAt": "2026-11-24T18:43:21.000Z",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "media": [],
+      "detectedAt": "2026-11-25T02:00:06.889Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
+          "time": {
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-25T02:00:11.398Z"
+    },
     {
       "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
       "id": "2120999993079451919",
@@ -651,45 +679,6 @@
         }
       ],
       "notifiedAt": "2026-10-17T17:58:28.126Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
-      "id": "2110595484180214059",
-      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-      "createdAt": "2026-10-15T04:55:51.000Z",
-      "url": "https://x.com/thsottiaux/status/2110595484180214059",
-      "media": [],
-      "detectedAt": "2026-10-15T09:28:47.998Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "The reports of my reset button being lost are greatly exaggerated",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "The reports of my reset button being lost are greatly exaggerated",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        },
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 10/ Reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 10/ Reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-15T09:28:51.189Z",
       "channels": [
         "github-actions"
       ]
@@ -1636,7 +1625,27 @@
     "2125141302501417232": "2846590c2803244ebcb6c190b40e64867651b91a031c1a1a968c923559894668",
     "2125284868414394550": "dbf52068abe69888664998866650d805cbe9620888efce920d4b6ff3135bb7ee",
     "2125115240690201049": "740a166e0ec1fded5ab657fe4bcc6808c874c3e28df9c1576126bd686bd92a5b",
-    "2125150185143906642": "255a40ea951d5c8b2a2b6970dfe23ceef68b4726daee8272c2f3021478e9726e"
+    "2125150185143906642": "255a40ea951d5c8b2a2b6970dfe23ceef68b4726daee8272c2f3021478e9726e",
+    "2125299248782778588": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+    "2125299436964479474": "8072b31aa5864775c3e4ea9e4d5b8fa9c5868a81d5807d7cb6ba7efa30668258",
+    "2125299467691987445": "ee02a3d72b86ea643bc282984dd2ff94bf7f37e97ccbcfb7a3cade3c8e51bf5f",
+    "2125353693474365742": "20c036a92bb2d8c196d5b2108c4c67876c2772e3c8aec4fd45fd1eb7bbac04f1",
+    "2125387147633189101": "de9373c2dd7f4471df53c328a5b8fffe2b1d9516cfcdde1d87839343b265c457",
+    "2125388306842255694": "e8e2eb41839323ba47679d3f661f6f523f84a05a6fce9f9eed599adb41b5b349",
+    "2125305172721320165": "6795291d473ba57022204e2f4f2da384d0f24d28288637779a8f78a16d4c6e60",
+    "2125307164768317922": "b8f9cc3522769ebf37042eabc498cd3f577b76ec54cb15faeb0c2642e918da44",
+    "2125341356503748716": "26b25046a1909be3b71357bfbf7d30c4854df7cf09fe72dde49392e962b67232",
+    "2125377328629031248": "b738e5270bfd61af683da8122fefda581bcf8c37d8b5642358614e79be119628",
+    "2125386640923521141": "b72655064635d660d292d99c7067c4210efb695671448d38f292271e89c51b6a",
+    "2125391380038230058": "b0ba404a76c72c7fc124290d8a214eea061c446cda71cf97df4585883ee1960b",
+    "2125305606685053416": "d6862aabbcf95f587bc396a23772512f2aff757a88c11668892fae98ac1a2ab7",
+    "2125305608597590018": "074bdadba12d46872791a6b629eab5ec749267321a570e33efeda21228b82c1c",
+    "2125305610678010244": "3d8e4936543cd30c3cc36a2bc25967c02e5dd3075e5f32786cb17a427126c836",
+    "2125334383490105601": "2be72e08e825f2ce18b392da4c3462dcdb3ffbedd43989cb89be440728ed5f21",
+    "2125334392814051724": "8e99acf9cf9cc994008e6d8c7c808dcbc4b3c7216afaccb3541017fcd7304059",
+    "2125334394491801883": "f4a1a1a278261d00df3fba4c91a90750e4dcc82d6c58c495401e477cc78fddf2",
+    "2125321062301008004": "2db54b203c9013189558f39adb57e51a85d46049acdf5b96e8a079f16e92198c",
+    "2125334622431236504": "bf2d195bea36d3068ddaa32d581bdc307afbf2d3895720bb85bdf3381717781b"
   },
   "eventParserVersion": 5
 }
