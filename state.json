@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125388306842255694",
-      "lastCheckedAt": "2026-11-25T02:00:06.892Z",
-      "lastSuccessAt": "2026-11-25T02:00:06.892Z",
-      "lastRunStatus": "checked-6-posts",
-      "postsScanned": 365,
+      "sinceId": "2125494608826372329",
+      "lastCheckedAt": "2026-11-25T11:03:50.555Z",
+      "lastSuccessAt": "2026-11-25T11:03:50.555Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 366,
       "latestObservedPost": {
-        "id": "2125388306842255694",
-        "canonicalId": "2125388306842255694",
-        "text": "@TokenGremlin @amorriscode @trq212 Wait, is that true?",
-        "createdAt": "2026-11-25T00:37:14.000Z",
-        "url": "https://x.com/thsottiaux/status/2125388306842255694",
+        "id": "2125494608826372329",
+        "canonicalId": "2125494608826372329",
+        "text": "@jxnlco very tool of you",
+        "createdAt": "2026-11-25T07:39:39.000Z",
+        "url": "https://x.com/thsottiaux/status/2125494608826372329",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2124894264564092952",
-      "lastCheckedAt": "2026-11-25T02:00:07.478Z",
-      "lastSuccessAt": "2026-11-25T02:00:07.478Z",
+      "lastCheckedAt": "2026-11-25T11:03:50.734Z",
+      "lastSuccessAt": "2026-11-25T11:03:50.734Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 39,
       "latestObservedPost": {
@@ -48,27 +48,35 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2125391380038230058",
-      "lastCheckedAt": "2026-11-25T02:00:08.797Z",
-      "lastSuccessAt": "2026-11-25T02:00:08.797Z",
-      "lastRunStatus": "checked-6-posts",
-      "postsScanned": 91,
+      "sinceId": "2125525157464973661",
+      "lastCheckedAt": "2026-11-25T11:03:51.810Z",
+      "lastSuccessAt": "2026-11-25T11:03:51.810Z",
+      "lastRunStatus": "checked-4-posts",
+      "postsScanned": 95,
       "latestObservedPost": {
-        "id": "2125391380038230058",
-        "canonicalId": "2125391380038230058",
-        "text": "ChatGPT Ads are opening up the playing field for smaller brands to compete:",
-        "createdAt": "2026-11-25T00:49:27.000Z",
-        "url": "https://x.com/gdb/status/2125391380038230058",
-        "media": []
+        "id": "2125525157464973661",
+        "canonicalId": "2125525157464973661",
+        "text": "Writing Shirudo Shields to defend against fresh CVEs: https://t.co/cqKtxjzKL3",
+        "createdAt": "2026-11-25T09:41:02.000Z",
+        "url": "https://x.com/gdb/status/2125525157464973661",
+        "media": [
+          {
+            "mediaKey": "2125525149047001089",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX9h3I4bEAEcF7i.jpg?name=orig",
+            "previewImageUrl": null,
+            "altText": null
+          }
+        ]
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2125334394491801883",
-      "lastCheckedAt": "2026-11-25T02:00:09.332Z",
-      "lastSuccessAt": "2026-11-25T02:00:09.332Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-11-25T11:03:52.194Z",
+      "lastSuccessAt": "2026-11-25T11:03:52.194Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 87,
       "latestObservedPost": {
         "id": "2125334394491801883",
@@ -83,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2125321062301008004",
-      "lastCheckedAt": "2026-11-25T02:00:10.346Z",
-      "lastSuccessAt": "2026-11-25T02:00:10.346Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-25T11:03:53.693Z",
+      "lastSuccessAt": "2026-11-25T11:03:53.693Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 237,
       "latestObservedPost": {
         "id": "2125321062301008004",
@@ -110,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2125334622431236504",
-      "lastCheckedAt": "2026-11-25T02:00:11.392Z",
-      "lastSuccessAt": "2026-11-25T02:00:11.392Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-25T11:03:55.225Z",
+      "lastSuccessAt": "2026-11-25T11:03:55.225Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 141,
       "latestObservedPost": {
         "id": "2125334622431236504",
@@ -137,7 +145,6 @@
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
       "id": "2125299248782778588",
-      "canonicalId": "2125299248782778588",
       "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
       "createdAt": "2026-11-24T18:43:21.000Z",
       "url": "https://x.com/thsottiaux/status/2125299248782778588",
@@ -157,10 +164,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-25T02:00:11.398Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-25T02:00:11.398Z"
+      ]
     },
     {
       "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
@@ -1645,7 +1652,12 @@
     "2125334392814051724": "8e99acf9cf9cc994008e6d8c7c808dcbc4b3c7216afaccb3541017fcd7304059",
     "2125334394491801883": "f4a1a1a278261d00df3fba4c91a90750e4dcc82d6c58c495401e477cc78fddf2",
     "2125321062301008004": "2db54b203c9013189558f39adb57e51a85d46049acdf5b96e8a079f16e92198c",
-    "2125334622431236504": "bf2d195bea36d3068ddaa32d581bdc307afbf2d3895720bb85bdf3381717781b"
+    "2125334622431236504": "bf2d195bea36d3068ddaa32d581bdc307afbf2d3895720bb85bdf3381717781b",
+    "2125494608826372329": "cba235af6a44647eced184fe9f8b11c60a1feae9719051a7902e507621e60bdd",
+    "2125418102049628201": "b3544901147aed8cac854371a6c21d42e0e71ab8f96b79cae0d131499c43b932",
+    "2125428215347085370": "ea445a03c731b2a034f2c6638783da32343cca5f0f2797a63aa7a5d311804cd8",
+    "2125488568101736872": "8f9b1daad450517475cec08fa0e0a7fdf350309664a312eb15eafcc8f0169d21",
+    "2125525157464973661": "7fec5f60f62d74a406cea6461fb9d1b619dd7a561b915bcc8e0e701b9f3e22e8"
   },
   "eventParserVersion": 5
 }
