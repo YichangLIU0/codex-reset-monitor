@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T11:03:55.230Z",
+  "updatedAt": "2026-11-25T20:26:35.790Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-25T11:03:55.225Z",
-    "lastSuccessAt": "2026-11-25T11:03:55.225Z",
+    "lastCheckedAt": "2026-11-25T20:26:35.785Z",
+    "lastSuccessAt": "2026-11-25T20:26:35.785Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2125525157464973661",
-    "text": "Writing Shirudo Shields to defend against fresh CVEs: https://t.co/cqKtxjzKL3",
-    "url": "https://x.com/gdb/status/2125525157464973661",
-    "postCreatedAt": "2026-11-25T09:41:02.000Z"
+    "id": "2125686478454002081",
+    "text": "@trq212 welcome to the team!",
+    "url": "https://x.com/gdb/status/2125686478454002081",
+    "postCreatedAt": "2026-11-25T20:22:04.000Z"
   },
   "latest": {
     "reset": null,

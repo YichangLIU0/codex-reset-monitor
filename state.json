@@ -14,85 +14,85 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125494608826372329",
-      "lastCheckedAt": "2026-11-25T11:03:50.555Z",
-      "lastSuccessAt": "2026-11-25T11:03:50.555Z",
-      "lastRunStatus": "checked-1-posts",
-      "postsScanned": 366,
+      "sinceId": "2125678401541583217",
+      "lastCheckedAt": "2026-11-25T20:26:30.928Z",
+      "lastSuccessAt": "2026-11-25T20:26:30.928Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 368,
       "latestObservedPost": {
-        "id": "2125494608826372329",
-        "canonicalId": "2125494608826372329",
-        "text": "@jxnlco very tool of you",
-        "createdAt": "2026-11-25T07:39:39.000Z",
-        "url": "https://x.com/thsottiaux/status/2125494608826372329",
+        "id": "2125678401541583217",
+        "canonicalId": "2125678401541583217",
+        "text": "@charliermarsh This man is unstoppable",
+        "createdAt": "2026-11-25T19:49:58.000Z",
+        "url": "https://x.com/thsottiaux/status/2125678401541583217",
         "media": []
       }
     },
     "sama": {
       "username": "sama",
       "userId": "1605",
-      "sinceId": "2124894264564092952",
-      "lastCheckedAt": "2026-11-25T11:03:50.734Z",
-      "lastSuccessAt": "2026-11-25T11:03:50.734Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 39,
+      "sinceId": "2125639418849714280",
+      "lastCheckedAt": "2026-11-25T20:26:31.617Z",
+      "lastSuccessAt": "2026-11-25T20:26:31.617Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 41,
       "latestObservedPost": {
-        "id": "2124894264564092952",
-        "canonicalId": "2124894264564092952",
-        "text": "This is really really good:",
-        "createdAt": "2026-11-23T15:54:05.000Z",
-        "url": "https://x.com/sama/status/2124894264564092952",
+        "id": "2125639418849714280",
+        "canonicalId": "2125639418849714280",
+        "text": "I don't think I'd heard the word \"hyperstitioning\" before, but it's a good one.",
+        "createdAt": "2026-11-25T17:15:04.000Z",
+        "url": "https://x.com/sama/status/2125639418849714280",
         "media": []
       }
     },
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2125525157464973661",
-      "lastCheckedAt": "2026-11-25T11:03:51.810Z",
-      "lastSuccessAt": "2026-11-25T11:03:51.810Z",
-      "lastRunStatus": "checked-4-posts",
-      "postsScanned": 95,
+      "sinceId": "2125686478454002081",
+      "lastCheckedAt": "2026-11-25T20:26:33.582Z",
+      "lastSuccessAt": "2026-11-25T20:26:33.582Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 96,
       "latestObservedPost": {
-        "id": "2125525157464973661",
-        "canonicalId": "2125525157464973661",
-        "text": "Writing Shirudo Shields to defend against fresh CVEs: https://t.co/cqKtxjzKL3",
-        "createdAt": "2026-11-25T09:41:02.000Z",
-        "url": "https://x.com/gdb/status/2125525157464973661",
-        "media": [
-          {
-            "mediaKey": "2125525149047001089",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HX9h3I4bEAEcF7i.jpg?name=orig",
-            "previewImageUrl": null,
-            "altText": null
-          }
-        ]
+        "id": "2125686478454002081",
+        "canonicalId": "2125686478454002081",
+        "text": "@trq212 welcome to the team!",
+        "createdAt": "2026-11-25T20:22:04.000Z",
+        "url": "https://x.com/gdb/status/2125686478454002081",
+        "media": []
       }
     },
     "openai": {
       "username": "OpenAI",
       "userId": "4398626122",
-      "sinceId": "2125334394491801883",
-      "lastCheckedAt": "2026-11-25T11:03:52.194Z",
-      "lastSuccessAt": "2026-11-25T11:03:52.194Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 87,
+      "sinceId": "2125635627341561995",
+      "lastCheckedAt": "2026-11-25T20:26:34.170Z",
+      "lastSuccessAt": "2026-11-25T20:26:34.170Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 88,
       "latestObservedPost": {
-        "id": "2125334394491801883",
-        "canonicalId": "2125334394491801883",
-        "text": "This is a proof of concept. Next, we want to test whether these proteins do something useful after attaching, tackle harder targets, and extend the work to other types of molecules.\n\nOur goal is for scientists to one day design working medicines simply by prompting. We want to accelerate both the protein design cycle and reduce the number of experiments needed to find a functional protein.",
-        "createdAt": "2026-11-24T21:03:01.000Z",
-        "url": "https://x.com/OpenAI/status/2125334394491801883",
-        "media": []
+        "id": "2125635627341561995",
+        "canonicalId": "2125635627341561995",
+        "text": "For ordinary days that feel like a movie. \n\nMake a Day Do Anything with ChatGPT. https://t.co/YBMlfbNaOb",
+        "createdAt": "2026-11-25T17:00:00.000Z",
+        "url": "https://x.com/OpenAI/status/2125635627341561995",
+        "media": [
+          {
+            "mediaKey": "2125628610073739270",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2125628610073739270/vid/avc1/1920x1080/hBx22rrd56uKb7_U.mp4?tag=29",
+            "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2125628610073739270/img/e-7WA3h0XMo65Pcs.jpg",
+            "altText": null
+          }
+        ]
       }
     },
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2125321062301008004",
-      "lastCheckedAt": "2026-11-25T11:03:53.693Z",
-      "lastSuccessAt": "2026-11-25T11:03:53.693Z",
+      "lastCheckedAt": "2026-11-25T20:26:35.062Z",
+      "lastSuccessAt": "2026-11-25T20:26:35.062Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 237,
       "latestObservedPost": {
@@ -117,23 +117,23 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2125334622431236504",
-      "lastCheckedAt": "2026-11-25T11:03:55.225Z",
-      "lastSuccessAt": "2026-11-25T11:03:55.225Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 141,
+      "sinceId": "2125679105995952450",
+      "lastCheckedAt": "2026-11-25T20:26:35.785Z",
+      "lastSuccessAt": "2026-11-25T20:26:35.785Z",
+      "lastRunStatus": "checked-3-posts",
+      "postsScanned": 144,
       "latestObservedPost": {
-        "id": "2125334622431236504",
-        "canonicalId": "2125334622431236504",
-        "text": "The team around @charliermarsh and @feedthejim have a performance mission...\n\nLove these eng deep dives https://t.co/zio4bUiHxZ",
-        "createdAt": "2026-11-24T21:03:55.000Z",
-        "url": "https://x.com/dkundel/status/2125334622431236504",
+        "id": "2125679105995952450",
+        "canonicalId": "2125679105995952450",
+        "text": "@charliermarsh https://t.co/vVlPYNPevj",
+        "createdAt": "2026-11-25T19:52:46.000Z",
+        "url": "https://x.com/dkundel/status/2125679105995952450",
         "media": [
           {
-            "mediaKey": "2125334616290840576",
+            "mediaKey": "2125679099570274305",
             "type": "gif",
-            "url": "https://video.twimg.com/tweet_video/HX60krDbUAAk9CH.mp4",
-            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX60krDbUAAk9CH.jpg",
+            "url": "https://video.twimg.com/tweet_video/HX_t4PRbwAEbOdq.mp4",
+            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX_t4PRbwAEbOdq.jpg",
             "altText": null
           }
         ]
@@ -1657,7 +1657,16 @@
     "2125418102049628201": "b3544901147aed8cac854371a6c21d42e0e71ab8f96b79cae0d131499c43b932",
     "2125428215347085370": "ea445a03c731b2a034f2c6638783da32343cca5f0f2797a63aa7a5d311804cd8",
     "2125488568101736872": "8f9b1daad450517475cec08fa0e0a7fdf350309664a312eb15eafcc8f0169d21",
-    "2125525157464973661": "7fec5f60f62d74a406cea6461fb9d1b619dd7a561b915bcc8e0e701b9f3e22e8"
+    "2125525157464973661": "7fec5f60f62d74a406cea6461fb9d1b619dd7a561b915bcc8e0e701b9f3e22e8",
+    "2125678021848019454": "241bf0287807ad5cebd0718ce24f7869214d31d0c8d02514dfa2961e41bb6f39",
+    "2125678401541583217": "0829acaa1a3b5193bca7777d0227ced577149ceb5bdd069d265ae4d084b3ca0b",
+    "2125638790593274259": "1cfc176194f450bafe48497ec630bbc93927801ea8278d8662d0528525681076",
+    "2125639418849714280": "42fa7b2ec37a76e7275d658508c44caa024ba78009ecf9201918d92b7b1a2c35",
+    "2125686478454002081": "4537f524d711b810ad081147986ca59063f7295325c61184aaac98ca2bf8dc90",
+    "2125635627341561995": "c67727faade228390b10072d8b9c39280b0b16eb0a476536b22b076457332e5c",
+    "2125644140625174702": "8418679e3b38df4b685f32c39c78ef3c633a348bf79c3f253ea9ad3c1b35c61a",
+    "2125646333608649055": "891026309aad2ea8af12c2630c5ac56bdd9219d8e18692bbaa97c7b345f05f33",
+    "2125679105995952450": "0f94e375c4cd03d2f12c95f2113a42450bd36852190aefa22108eb3dabe8a942"
   },
   "eventParserVersion": 5
 }
