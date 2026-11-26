@@ -1,40 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T20:26:35.790Z",
+  "updatedAt": "2026-11-26T02:58:12.641Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-25T20:26:35.785Z",
-    "lastSuccessAt": "2026-11-25T20:26:35.785Z",
+    "lastCheckedAt": "2026-11-26T02:58:12.629Z",
+    "lastSuccessAt": "2026-11-26T02:58:12.629Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2125686478454002081",
-    "text": "@trq212 welcome to the team!",
-    "url": "https://x.com/gdb/status/2125686478454002081",
-    "postCreatedAt": "2026-11-25T20:22:04.000Z"
+    "id": "2125784147889393806",
+    "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+    "url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "postCreatedAt": "2026-11-26T02:50:10.000Z"
   },
   "latest": {
     "reset": null,
     "bankCredit": {
-      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
-      "id": "2125299248782778588",
-      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
-      "url": "https://x.com/thsottiaux/status/2125299248782778588",
-      "postCreatedAt": "2026-11-24T18:43:21.000Z",
-      "detectedAt": "2026-11-25T02:00:06.889Z",
+      "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
+      "id": "2125784147889393806",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+      "url": "https://x.com/thsottiaux/status/2125784147889393806",
+      "postCreatedAt": "2026-11-26T02:50:10.000Z",
+      "detectedAt": "2026-11-26T02:58:08.758Z",
       "events": [
         {
           "type": "bank_credit",
-          "status": "scheduled",
-          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
+          "status": "announced",
+          "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
           "time": {
-            "kind": "date",
-            "start": "2026-12-31T08:00:00.000Z",
-            "end": "2027-01-01T08:00:00.000Z",
-            "evidence": "Dec 31",
-            "note": "按配置假设原文时区为 America/Los_Angeles"
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+            "note": "原文没有可确定的时间"
           }
         }
       ],
@@ -44,6 +44,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
+      "id": "2125784147889393806",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+      "url": "https://x.com/thsottiaux/status/2125784147889393806",
+      "postCreatedAt": "2026-11-26T02:50:10.000Z",
+      "detectedAt": "2026-11-26T02:58:08.758Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
       "id": "2125299248782778588",
@@ -493,30 +517,6 @@
             "start": null,
             "end": null,
             "evidence": "People have escaped the TL and are asking me for resets on the street now",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
-      "id": "2111492673890824348",
-      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-      "url": "https://x.com/thsottiaux/status/2111492673890824348",
-      "postCreatedAt": "2026-10-17T16:20:57.000Z",
-      "detectedAt": "2026-10-17T17:58:23.795Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
             "note": "未形成明确的重置承诺或完成确认"
           }
         }

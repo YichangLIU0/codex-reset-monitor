@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125678401541583217",
-      "lastCheckedAt": "2026-11-25T20:26:30.928Z",
-      "lastSuccessAt": "2026-11-25T20:26:30.928Z",
-      "lastRunStatus": "checked-2-posts",
-      "postsScanned": 368,
+      "sinceId": "2125784147889393806",
+      "lastCheckedAt": "2026-11-26T02:58:08.758Z",
+      "lastSuccessAt": "2026-11-26T02:58:08.758Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 369,
       "latestObservedPost": {
-        "id": "2125678401541583217",
-        "canonicalId": "2125678401541583217",
-        "text": "@charliermarsh This man is unstoppable",
-        "createdAt": "2026-11-25T19:49:58.000Z",
-        "url": "https://x.com/thsottiaux/status/2125678401541583217",
+        "id": "2125784147889393806",
+        "canonicalId": "2125784147889393806",
+        "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+        "createdAt": "2026-11-26T02:50:10.000Z",
+        "url": "https://x.com/thsottiaux/status/2125784147889393806",
         "media": []
       }
     },
@@ -32,9 +32,9 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2125639418849714280",
-      "lastCheckedAt": "2026-11-25T20:26:31.617Z",
-      "lastSuccessAt": "2026-11-25T20:26:31.617Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-26T02:58:09.173Z",
+      "lastSuccessAt": "2026-11-26T02:58:09.173Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 41,
       "latestObservedPost": {
         "id": "2125639418849714280",
@@ -49,9 +49,9 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2125686478454002081",
-      "lastCheckedAt": "2026-11-25T20:26:33.582Z",
-      "lastSuccessAt": "2026-11-25T20:26:33.582Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-26T02:58:09.781Z",
+      "lastSuccessAt": "2026-11-26T02:58:09.781Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 96,
       "latestObservedPost": {
         "id": "2125686478454002081",
@@ -66,9 +66,9 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2125635627341561995",
-      "lastCheckedAt": "2026-11-25T20:26:34.170Z",
-      "lastSuccessAt": "2026-11-25T20:26:34.170Z",
-      "lastRunStatus": "checked-1-posts",
+      "lastCheckedAt": "2026-11-26T02:58:10.195Z",
+      "lastSuccessAt": "2026-11-26T02:58:10.195Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 88,
       "latestObservedPost": {
         "id": "2125635627341561995",
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2125321062301008004",
-      "lastCheckedAt": "2026-11-25T20:26:35.062Z",
-      "lastSuccessAt": "2026-11-25T20:26:35.062Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 237,
+      "sinceId": "2125730775870087615",
+      "lastCheckedAt": "2026-11-26T02:58:11.644Z",
+      "lastSuccessAt": "2026-11-26T02:58:11.644Z",
+      "lastRunStatus": "checked-6-posts",
+      "postsScanned": 243,
       "latestObservedPost": {
-        "id": "2125321062301008004",
-        "canonicalId": "2125321062301008004",
-        "text": "@Ooakdata @OpenAI see you soon!",
-        "createdAt": "2026-11-24T20:10:02.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2125321062301008004",
+        "id": "2125730775870087615",
+        "canonicalId": "2125730775870087615",
+        "text": "@javpixel_art @threejs nightmare material",
+        "createdAt": "2026-11-25T23:18:05.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2125730775870087615",
         "media": []
       }
     },
@@ -117,31 +117,51 @@
     "dkundel": {
       "username": "dkundel",
       "userId": "53388766",
-      "sinceId": "2125679105995952450",
-      "lastCheckedAt": "2026-11-25T20:26:35.785Z",
-      "lastSuccessAt": "2026-11-25T20:26:35.785Z",
-      "lastRunStatus": "checked-3-posts",
-      "postsScanned": 144,
+      "sinceId": "2125763156811399526",
+      "lastCheckedAt": "2026-11-26T02:58:12.629Z",
+      "lastSuccessAt": "2026-11-26T02:58:12.629Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 146,
       "latestObservedPost": {
-        "id": "2125679105995952450",
-        "canonicalId": "2125679105995952450",
-        "text": "@charliermarsh https://t.co/vVlPYNPevj",
-        "createdAt": "2026-11-25T19:52:46.000Z",
-        "url": "https://x.com/dkundel/status/2125679105995952450",
-        "media": [
-          {
-            "mediaKey": "2125679099570274305",
-            "type": "gif",
-            "url": "https://video.twimg.com/tweet_video/HX_t4PRbwAEbOdq.mp4",
-            "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX_t4PRbwAEbOdq.jpg",
-            "altText": null
-          }
-        ]
+        "id": "2125763156811399526",
+        "canonicalId": "2125763156811399526",
+        "text": "@trq212 Welcome! Stoked to work with you 🙌",
+        "createdAt": "2026-11-26T01:26:46.000Z",
+        "url": "https://x.com/dkundel/status/2125763156811399526",
+        "media": []
       }
     }
   },
   "lastRunStatus": "checked-6-accounts",
   "matches": [
+    {
+      "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
+      "id": "2125784147889393806",
+      "canonicalId": "2125784147889393806",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+      "createdAt": "2026-11-26T02:50:10.000Z",
+      "url": "https://x.com/thsottiaux/status/2125784147889393806",
+      "media": [],
+      "detectedAt": "2026-11-26T02:58:08.758Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-26T02:58:12.632Z"
+    },
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
       "id": "2125299248782778588",
@@ -651,41 +671,6 @@
         }
       ],
       "notifiedAt": "2026-10-18T21:04:01.251Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
-      "id": "2111492673890824348",
-      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-      "createdAt": "2026-10-17T16:20:57.000Z",
-      "url": "https://x.com/thsottiaux/status/2111492673890824348",
-      "media": [
-        {
-          "mediaKey": "2111492634128920576",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HU2HXRMbsAAqviR.jpg?name=orig",
-          "previewImageUrl": null,
-          "altText": null
-        }
-      ],
-      "detectedAt": "2026-10-17T17:58:23.795Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-17T17:58:28.126Z",
       "channels": [
         "github-actions"
       ]
@@ -1666,7 +1651,16 @@
     "2125635627341561995": "c67727faade228390b10072d8b9c39280b0b16eb0a476536b22b076457332e5c",
     "2125644140625174702": "8418679e3b38df4b685f32c39c78ef3c633a348bf79c3f253ea9ad3c1b35c61a",
     "2125646333608649055": "891026309aad2ea8af12c2630c5ac56bdd9219d8e18692bbaa97c7b345f05f33",
-    "2125679105995952450": "0f94e375c4cd03d2f12c95f2113a42450bd36852190aefa22108eb3dabe8a942"
+    "2125679105995952450": "0f94e375c4cd03d2f12c95f2113a42450bd36852190aefa22108eb3dabe8a942",
+    "2125784147889393806": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
+    "2125725698115736014": "04d131335e5b2b6184313f153000b695db5e026f7ac66195a220458a53549a61",
+    "2125726270990221709": "88cc9702a7fb6519f494920abc48440e3730196927f16d9a895db396b77108b4",
+    "2125726575928778787": "06885640f7a6de5dc95af75a4f0f763e86bdc86309f9e69ea18c8738b54a371f",
+    "2125727034030886985": "7c6a609b798f92b2dcb47b0ff8faa2c128f6fb440141c033b96c109e7f5795c8",
+    "2125730538220638302": "eda161b5e8c0bd0c8273b8572092c5d6e3af8bf706e079634eef6d02f0845329",
+    "2125730775870087615": "0404ac93586777e4341af91e84f6d81d68bf111963b4258a4624be0f56d2334c",
+    "2125761283706536387": "0d47f5031b35d0551fdeee209beb5082793401a4fffd59963ef44acb3fe85ff4",
+    "2125763156811399526": "1cab805c575d47f4862557994086067930a24bed450c9957685144dfa9e7f3c0"
   },
   "eventParserVersion": 5
 }
