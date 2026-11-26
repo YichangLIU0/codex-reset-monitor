@@ -14,17 +14,17 @@
     "thsottiaux": {
       "username": "thsottiaux",
       "userId": "1953337039510003712",
-      "sinceId": "2125784147889393806",
-      "lastCheckedAt": "2026-11-26T02:58:08.758Z",
-      "lastSuccessAt": "2026-11-26T02:58:08.758Z",
+      "sinceId": "2125853628250599730",
+      "lastCheckedAt": "2026-11-26T11:57:52.230Z",
+      "lastSuccessAt": "2026-11-26T11:57:52.230Z",
       "lastRunStatus": "checked-1-posts",
-      "postsScanned": 369,
+      "postsScanned": 370,
       "latestObservedPost": {
-        "id": "2125784147889393806",
-        "canonicalId": "2125784147889393806",
-        "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
-        "createdAt": "2026-11-26T02:50:10.000Z",
-        "url": "https://x.com/thsottiaux/status/2125784147889393806",
+        "id": "2125853628250599730",
+        "canonicalId": "2125853628250599730",
+        "text": "Banked reset is online",
+        "createdAt": "2026-11-26T07:26:16.000Z",
+        "url": "https://x.com/thsottiaux/status/2125853628250599730",
         "media": []
       }
     },
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2125639418849714280",
-      "lastCheckedAt": "2026-11-26T02:58:09.173Z",
-      "lastSuccessAt": "2026-11-26T02:58:09.173Z",
+      "lastCheckedAt": "2026-11-26T11:57:52.685Z",
+      "lastSuccessAt": "2026-11-26T11:57:52.685Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 41,
       "latestObservedPost": {
@@ -48,17 +48,17 @@
     "gdb": {
       "username": "gdb",
       "userId": "162124540",
-      "sinceId": "2125686478454002081",
-      "lastCheckedAt": "2026-11-26T02:58:09.781Z",
-      "lastSuccessAt": "2026-11-26T02:58:09.781Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 96,
+      "sinceId": "2125824585027272727",
+      "lastCheckedAt": "2026-11-26T11:57:53.884Z",
+      "lastSuccessAt": "2026-11-26T11:57:53.884Z",
+      "lastRunStatus": "checked-1-posts",
+      "postsScanned": 97,
       "latestObservedPost": {
-        "id": "2125686478454002081",
-        "canonicalId": "2125686478454002081",
-        "text": "@trq212 welcome to the team!",
-        "createdAt": "2026-11-25T20:22:04.000Z",
-        "url": "https://x.com/gdb/status/2125686478454002081",
+        "id": "2125824585027272727",
+        "canonicalId": "2125824585027272727",
+        "text": "Private Inference — confidential computing, with strict controls over prompts and responses while they're being processed by a model, is now in testing:",
+        "createdAt": "2026-11-26T05:30:51.000Z",
+        "url": "https://x.com/gdb/status/2125824585027272727",
         "media": []
       }
     },
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2125635627341561995",
-      "lastCheckedAt": "2026-11-26T02:58:10.195Z",
-      "lastSuccessAt": "2026-11-26T02:58:10.195Z",
+      "lastCheckedAt": "2026-11-26T11:57:54.427Z",
+      "lastSuccessAt": "2026-11-26T11:57:54.427Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 88,
       "latestObservedPost": {
@@ -91,9 +91,9 @@
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
       "sinceId": "2125730775870087615",
-      "lastCheckedAt": "2026-11-26T02:58:11.644Z",
-      "lastSuccessAt": "2026-11-26T02:58:11.644Z",
-      "lastRunStatus": "checked-6-posts",
+      "lastCheckedAt": "2026-11-26T11:57:55.368Z",
+      "lastSuccessAt": "2026-11-26T11:57:55.368Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 243,
       "latestObservedPost": {
         "id": "2125730775870087615",
@@ -118,9 +118,9 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2125763156811399526",
-      "lastCheckedAt": "2026-11-26T02:58:12.629Z",
-      "lastSuccessAt": "2026-11-26T02:58:12.629Z",
-      "lastRunStatus": "checked-2-posts",
+      "lastCheckedAt": "2026-11-26T11:57:56.381Z",
+      "lastSuccessAt": "2026-11-26T11:57:56.381Z",
+      "lastRunStatus": "checked-0-posts",
       "postsScanned": 146,
       "latestObservedPost": {
         "id": "2125763156811399526",
@@ -135,9 +135,36 @@
   "lastRunStatus": "checked-6-accounts",
   "matches": [
     {
+      "version": "6b5790d016ebf63d0312e82650f7121dca62394f9536fe0b60d437633f237fe2",
+      "id": "2125853628250599730",
+      "canonicalId": "2125853628250599730",
+      "text": "Banked reset is online",
+      "createdAt": "2026-11-26T07:26:16.000Z",
+      "url": "https://x.com/thsottiaux/status/2125853628250599730",
+      "media": [],
+      "detectedAt": "2026-11-26T11:57:52.230Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Banked reset is online",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Banked reset is online",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-26T11:57:56.384Z"
+    },
+    {
       "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
       "id": "2125784147889393806",
-      "canonicalId": "2125784147889393806",
       "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
       "createdAt": "2026-11-26T02:50:10.000Z",
       "url": "https://x.com/thsottiaux/status/2125784147889393806",
@@ -157,10 +184,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-26T02:58:12.632Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-26T02:58:12.632Z"
+      ]
     },
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
@@ -644,33 +671,6 @@
         }
       ],
       "notifiedAt": "2026-10-20T11:28:06.121Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
-      "id": "2111918768733753664",
-      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-      "createdAt": "2026-10-18T20:34:06.000Z",
-      "url": "https://x.com/thsottiaux/status/2111918768733753664",
-      "media": [],
-      "detectedAt": "2026-10-18T21:03:57.757Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "People have escaped the TL and are asking me for resets on the street now",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "People have escaped the TL and are asking me for resets on the street now",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-18T21:04:01.251Z",
       "channels": [
         "github-actions"
       ]
@@ -1660,7 +1660,9 @@
     "2125730538220638302": "eda161b5e8c0bd0c8273b8572092c5d6e3af8bf706e079634eef6d02f0845329",
     "2125730775870087615": "0404ac93586777e4341af91e84f6d81d68bf111963b4258a4624be0f56d2334c",
     "2125761283706536387": "0d47f5031b35d0551fdeee209beb5082793401a4fffd59963ef44acb3fe85ff4",
-    "2125763156811399526": "1cab805c575d47f4862557994086067930a24bed450c9957685144dfa9e7f3c0"
+    "2125763156811399526": "1cab805c575d47f4862557994086067930a24bed450c9957685144dfa9e7f3c0",
+    "2125853628250599730": "6b5790d016ebf63d0312e82650f7121dca62394f9536fe0b60d437633f237fe2",
+    "2125824585027272727": "46902ab55c1010331e3326d42e3662149fd0e7e25f2836097809f35daf720aa3"
   },
   "eventParserVersion": 5
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T02:58:12.641Z",
+  "updatedAt": "2026-11-26T11:57:56.394Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-26T02:58:12.629Z",
-    "lastSuccessAt": "2026-11-26T02:58:12.629Z",
+    "lastCheckedAt": "2026-11-26T11:57:56.381Z",
+    "lastSuccessAt": "2026-11-26T11:57:56.381Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2125784147889393806",
-    "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
-    "url": "https://x.com/thsottiaux/status/2125784147889393806",
-    "postCreatedAt": "2026-11-26T02:50:10.000Z"
+    "id": "2125853628250599730",
+    "text": "Banked reset is online",
+    "url": "https://x.com/thsottiaux/status/2125853628250599730",
+    "postCreatedAt": "2026-11-26T07:26:16.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "6b5790d016ebf63d0312e82650f7121dca62394f9536fe0b60d437633f237fe2",
+      "id": "2125853628250599730",
+      "text": "Banked reset is online",
+      "url": "https://x.com/thsottiaux/status/2125853628250599730",
+      "postCreatedAt": "2026-11-26T07:26:16.000Z",
+      "detectedAt": "2026-11-26T11:57:52.230Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Banked reset is online",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Banked reset is online",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
       "id": "2125784147889393806",
@@ -493,30 +517,6 @@
             "start": null,
             "end": null,
             "evidence": "and reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
-      "id": "2111918768733753664",
-      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-      "url": "https://x.com/thsottiaux/status/2111918768733753664",
-      "postCreatedAt": "2026-10-18T20:34:06.000Z",
-      "detectedAt": "2026-10-18T21:03:57.757Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "People have escaped the TL and are asking me for resets on the street now",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "People have escaped the TL and are asking me for resets on the street now",
             "note": "未形成明确的重置承诺或完成确认"
           }
         }
