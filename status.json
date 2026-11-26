@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T11:57:56.394Z",
+  "updatedAt": "2026-11-26T20:59:04.907Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-26T11:57:56.381Z",
-    "lastSuccessAt": "2026-11-26T11:57:56.381Z",
+    "lastCheckedAt": "2026-11-26T20:59:04.899Z",
+    "lastSuccessAt": "2026-11-26T20:59:04.899Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2125853628250599730",
-    "text": "Banked reset is online",
-    "url": "https://x.com/thsottiaux/status/2125853628250599730",
-    "postCreatedAt": "2026-11-26T07:26:16.000Z"
+    "id": "2126017271114195036",
+    "text": "GPT-6.2 for interactive lessons for history class:",
+    "url": "https://x.com/gdb/status/2126017271114195036",
+    "postCreatedAt": "2026-11-26T18:16:31.000Z"
   },
   "latest": {
     "reset": null,
