@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T13:01:35.207Z",
+  "updatedAt": "2026-11-27T21:54:05.833Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-27T13:01:35.200Z",
-    "lastSuccessAt": "2026-11-27T13:01:35.200Z",
+    "lastCheckedAt": "2026-11-27T21:54:05.821Z",
+    "lastSuccessAt": "2026-11-27T21:54:05.821Z",
     "lastRunStatus": "checked-6-accounts"
   },
   "latestObservedPost": {
-    "id": "2126017271114195036",
-    "text": "GPT-6.2 for interactive lessons for history class:",
-    "url": "https://x.com/gdb/status/2126017271114195036",
-    "postCreatedAt": "2026-11-26T18:16:31.000Z"
+    "id": "2126372241201848462",
+    "text": "Build a voice agent with GPT-Live-1.1:\n\nhttps://t.co/XD1ZJm1A1p",
+    "url": "https://x.com/OpenAIDevs/status/2126372241201848462",
+    "postCreatedAt": "2026-11-27T17:47:03.000Z"
   },
   "latest": {
     "reset": null,

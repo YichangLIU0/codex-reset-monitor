@@ -15,8 +15,8 @@
       "username": "thsottiaux",
       "userId": "1953337039510003712",
       "sinceId": "2125853628250599730",
-      "lastCheckedAt": "2026-11-27T13:01:32.530Z",
-      "lastSuccessAt": "2026-11-27T13:01:32.530Z",
+      "lastCheckedAt": "2026-11-27T21:54:00.495Z",
+      "lastSuccessAt": "2026-11-27T21:54:00.495Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 370,
       "latestObservedPost": {
@@ -32,8 +32,8 @@
       "username": "sama",
       "userId": "1605",
       "sinceId": "2125990371897557278",
-      "lastCheckedAt": "2026-11-27T13:01:32.981Z",
-      "lastSuccessAt": "2026-11-27T13:01:32.981Z",
+      "lastCheckedAt": "2026-11-27T21:54:01.425Z",
+      "lastSuccessAt": "2026-11-27T21:54:01.425Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 44,
       "latestObservedPost": {
@@ -49,8 +49,8 @@
       "username": "gdb",
       "userId": "162124540",
       "sinceId": "2126017271114195036",
-      "lastCheckedAt": "2026-11-27T13:01:33.509Z",
-      "lastSuccessAt": "2026-11-27T13:01:33.509Z",
+      "lastCheckedAt": "2026-11-27T21:54:02.401Z",
+      "lastSuccessAt": "2026-11-27T21:54:02.401Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 98,
       "latestObservedPost": {
@@ -66,8 +66,8 @@
       "username": "OpenAI",
       "userId": "4398626122",
       "sinceId": "2125635627341561995",
-      "lastCheckedAt": "2026-11-27T13:01:33.896Z",
-      "lastSuccessAt": "2026-11-27T13:01:33.896Z",
+      "lastCheckedAt": "2026-11-27T21:54:03.321Z",
+      "lastSuccessAt": "2026-11-27T21:54:03.321Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 88,
       "latestObservedPost": {
@@ -90,17 +90,17 @@
     "openaidevs": {
       "username": "OpenAIDevs",
       "userId": "1633874951508721686",
-      "sinceId": "2125955316798177578",
-      "lastCheckedAt": "2026-11-27T13:01:34.344Z",
-      "lastSuccessAt": "2026-11-27T13:01:34.344Z",
-      "lastRunStatus": "checked-0-posts",
-      "postsScanned": 244,
+      "sinceId": "2126372241201848462",
+      "lastCheckedAt": "2026-11-27T21:54:04.361Z",
+      "lastSuccessAt": "2026-11-27T21:54:04.361Z",
+      "lastRunStatus": "checked-2-posts",
+      "postsScanned": 246,
       "latestObservedPost": {
-        "id": "2125955316798177578",
-        "canonicalId": "2125955316798177578",
-        "text": "@vida994 welcome!",
-        "createdAt": "2026-11-26T14:10:20.000Z",
-        "url": "https://x.com/OpenAIDevs/status/2125955316798177578",
+        "id": "2126372241201848462",
+        "canonicalId": "2126372241201848462",
+        "text": "Build a voice agent with GPT-Live-1.1:\n\nhttps://t.co/XD1ZJm1A1p",
+        "createdAt": "2026-11-27T17:47:03.000Z",
+        "url": "https://x.com/OpenAIDevs/status/2126372241201848462",
         "media": []
       }
     },
@@ -118,8 +118,8 @@
       "username": "dkundel",
       "userId": "53388766",
       "sinceId": "2125763156811399526",
-      "lastCheckedAt": "2026-11-27T13:01:35.200Z",
-      "lastSuccessAt": "2026-11-27T13:01:35.200Z",
+      "lastCheckedAt": "2026-11-27T21:54:05.821Z",
+      "lastSuccessAt": "2026-11-27T21:54:05.821Z",
       "lastRunStatus": "checked-0-posts",
       "postsScanned": 146,
       "latestObservedPost": {
@@ -1666,7 +1666,9 @@
     "2125984053119836399": "29c205c38faa7091cb3553223989ecb91273555d24cda1977dae7cb30b823d74",
     "2125990371897557278": "8412a79837f85fee1948210bafc06f0fa0a0ab10f6a39508fdd8cfc354f224eb",
     "2126017271114195036": "5b0a7e179bcd6c694b25d5c982ab1301b87cc64254be4d6d23ca6055713df3dc",
-    "2125955316798177578": "75ab4ae997f0ef45c03114c42d1e8ae07e79a7f32b0cf20f735d6c8bdff1078f"
+    "2125955316798177578": "75ab4ae997f0ef45c03114c42d1e8ae07e79a7f32b0cf20f735d6c8bdff1078f",
+    "2126372238853112227": "dee1fe4446dbafc64bd6e1e1f561af6f63eb95a5803c2c9f0f19492e5402dd2f",
+    "2126372241201848462": "2fa6b076bbe065603693736a0077ce2e3639158b0b658d89dc730ce8d4772c21"
   },
   "eventParserVersion": 5
 }
